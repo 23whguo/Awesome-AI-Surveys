@@ -1,5 +1,10 @@
 # By year · 按年份
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](YEARS.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../README.md) · [Categories](CATEGORIES.md)
 
 | Year | Surveys |

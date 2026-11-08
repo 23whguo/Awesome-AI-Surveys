@@ -1,5 +1,10 @@
 # subjects: llm
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](subjects-llm-2.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,207 +13,207 @@
 
 Pages: [1](subjects-llm.md) · 2 · [3](subjects-llm-3.md) · [4](subjects-llm-4.md) · [5](subjects-llm-5.md)
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2025 | A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures | arXiv | [paper](<https://arxiv.org/abs/2506.19676>) | [code](<https://github.com/theshi-1128/awesome-agent-communication-security>) |
-| 2025 | A Survey of Long-Document Retrieval in the PLM and LLM Era | arXiv | [paper](<https://arxiv.org/abs/2509.07759>) | N/A |
-| 2025 | A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method &amp; Challenges | ACL | [paper](<https://aclanthology.org/2025.findings-acl.614>) | N/A |
-| 2025 | A survey of multi-agent geosimulation methodologies: from ABM to LLM | arXiv | [paper](<https://arxiv.org/abs/2507.23694>) | N/A |
-| 2025 | A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1192>) | N/A |
-| 2025 | A Survey of Personalized Large Language Models: Progress and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2502.11528>) | [code](<https://github.com/JiahongLiu21/Awesome-Personalized-Large-Language-Models>) |
-| 2025 | A Survey of Post-Training Scaling in Large Language Models | ACL | [paper](<https://aclanthology.org/2025.acl-long.140>) | N/A |
-| 2025 | A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.08049>) | N/A |
-| 2025 | A Survey of RAG-Reasoning Systems in Large Language Models | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.648>) | N/A |
-| 2025 | A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.11575>) | [code](<https://github.com/blacksnail789521/Time-Series-Reasoning-Survey>) |
-| 2025 | A Survey of Research in Large Language Models for Electronic Design Automation | arXiv | [paper](<https://arxiv.org/abs/2501.09655>) | N/A |
-| 2025 | A Survey of Scaling in Large Language Model Reasoning | arXiv | [paper](<https://arxiv.org/abs/2504.02181>) | N/A |
-| 2025 | A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers | arXiv | [paper](<https://arxiv.org/abs/2508.21148>) | N/A |
-| 2025 | A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law | arXiv | [paper](<https://arxiv.org/abs/2505.02665>) | N/A |
-| 2025 | A survey of textual cyber abuse detection using cutting-edge language models and large language models | arXiv | [paper](<https://arxiv.org/abs/2501.05443>) | N/A |
-| 2025 | A Survey of Theory of Mind in Large Language Models: Evaluations, Representations, and Safety Risks | arXiv | [paper](<https://arxiv.org/abs/2502.06470>) | N/A |
-| 2025 | A Survey of Token Compression for Efficient Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.20198>) | N/A |
-| 2025 | A Survey of Uncertainty Estimation Methods on Large Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1101>) | N/A |
-| 2025 | A Survey of Vibe Coding with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.12399>) | N/A |
-| 2025 | A Survey on (M)LLM-Based GUI Agents | arXiv | [paper](<https://arxiv.org/abs/2504.13865>) | N/A |
-| 2025 | A Survey on Agentic Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.10991>) | [code](<https://github.com/HJYao00/Awesome-Agentic-MLLMs>) |
-| 2025 | A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2502.05224>) | N/A |
-| 2025 | A Survey on Code Generation with LLM-based Agents | arXiv | [paper](<https://arxiv.org/abs/2508.00083>) | N/A |
-| 2025 | A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness | arXiv | [paper](<https://arxiv.org/abs/2510.13890>) | [code](<https://github.com/FairyFali/SLMs-Survey>) |
-| 2025 | A Survey on Data Contamination for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.14425>) | N/A |
-| 2025 | A Survey on Efficient Large Language Model Training: From Data-centric Perspectives | ACL | [paper](<https://aclanthology.org/2025.acl-long.1493>) | [code](<https://github.com/luo-junyu/Awesome-Data-Efficient-LLM>) |
-| 2025 | A Survey on Enhancing Causal Reasoning Ability of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.09326>) | N/A |
-| 2025 | A Survey on Federated Fine-tuning of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.12016>) | [code](<https://github.com/Clin0212/Awesome-Federated-LLM-Learning>) |
-| 2025 | A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics | arXiv | [paper](<https://arxiv.org/abs/2502.14333>) | N/A |
-| 2025 | A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.05496>) | N/A |
-| 2025 | A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency | arXiv | [paper](<https://arxiv.org/abs/2505.01658>) | [code](<https://github.com/sihyeong/Awesome-LLM-Inference-Engine>) |
-| 2025 | A Survey on Large Language Model Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2508.15361>) | N/A |
-| 2025 | A Survey on Large Language Models for Automated Planning | arXiv | [paper](<https://arxiv.org/abs/2502.12435>) | N/A |
-| 2025 | A Survey on Large Language Models for Mathematical Reasoning | arXiv | [paper](<https://arxiv.org/abs/2506.08446>) | N/A |
-| 2025 | A Survey on Large Language Models in Multimodal Recommender Systems | arXiv | [paper](<https://arxiv.org/abs/2505.09777>) | N/A |
-| 2025 | A Survey on Large Language Models with some Insights on their Capabilities and Limitations | arXiv | [paper](<https://arxiv.org/abs/2501.04040>) | N/A |
-| 2025 | A Survey on LLM Mid-Training | arXiv | [paper](<https://arxiv.org/abs/2510.23081>) | N/A |
-| 2025 | A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks | arXiv | [paper](<https://arxiv.org/abs/2501.10069>) | [code](<https://github.com/xinzhel/LLM-Search>) |
-| 2025 | A Survey on LLM-Assisted Clinical Trial Recruitment | arXiv | [paper](<https://arxiv.org/abs/2506.15301>) | N/A |
-| 2025 | A Survey on LLM-based News Recommender Systems | arXiv | [paper](<https://arxiv.org/abs/2502.09797>) | N/A |
-| 2025 | A Survey on LLM-powered Agents for Recommender Systems | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.620>) | N/A |
-| 2025 | A Survey on LLMs for Story Generation | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.750>) | N/A |
-| 2025 | A Survey on Mathematical Reasoning and Optimization with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.17726>) | N/A |
-| 2025 | A Survey on Model Extraction Attacks and Defenses for Large Language Models | KDD | [paper](<https://doi.org/10.1145/3711896.3736573>) | N/A |
-| 2025 | A Survey on Multi-Turn Interaction Capabilities of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.09959>) | N/A |
-| 2025 | A Survey on Open Dataset Search in the LLM Era: Retrospectives and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2509.00728>) | N/A |
-| 2025 | A Survey on Personalized Alignment—The Missing Piece for Large Language Models in Real-World Applications | ACL | [paper](<https://aclanthology.org/2025.findings-acl.277>) | N/A |
-| 2025 | A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.07070>) | N/A |
-| 2025 | A Survey on Post-training of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.06072>) | N/A |
-| 2025 | A Survey on Privacy Risks and Protection in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2505.01976>) | N/A |
-| 2025 | A Survey on Proactive Defense Strategies Against Misinformation in Large Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.933>) | N/A |
-| 2025 | A Survey on Progress in LLM Alignment from the Perspective of Reward Design | arXiv | [paper](<https://arxiv.org/abs/2505.02666>) | N/A |
-| 2025 | A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy | arXiv | [paper](<https://arxiv.org/abs/2501.09431>) | N/A |
-| 2025 | A Survey on Retrieval And Structuring Augmented Generation with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.10697>) | N/A |
-| 2025 | A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness | KDD | [paper](<https://doi.org/10.1145/3711896.3736563>) | N/A |
-| 2025 | A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well? | arXiv | [paper](<https://arxiv.org/abs/2503.24235>) | [code](<https://github.com/testtimescaling/testtimescaling.github.io>) |
-| 2025 | A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems | arXiv | [paper](<https://arxiv.org/abs/2505.16587>) | [code](<https://github.com/ftgTUGraz/LLM4ADSTest>) |
-| 2025 | A Survey on the Feedback Mechanism of LLM-based AI Agents | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1175>) | [code](<https://github.com/kevinson7515/Agents-Feedback-Mechanisms>) |
-| 2025 | A Survey on the Optimization of Large Language Model-based Agents | arXiv | [paper](<https://arxiv.org/abs/2503.12434>) | [code](<https://github.com/YoungDubbyDu/LLM-Agent-Optimization>) |
-| 2025 | A Survey on Training-free Alignment of Large Language Models | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.238>) | N/A |
-| 2025 | A Survey on Trustworthy LLM Agents: Threats and Countermeasures | KDD | [paper](<https://doi.org/10.1145/3711896.3736561>) | [code](<https://github.com/Ymm-cll/TrustAgent>) |
-| 2025 | A Survey on Unifying Large Language Models and Knowledge Graphs for Biomedicine and Healthcare | KDD | [paper](<https://doi.org/10.1145/3711896.3736556>) | N/A |
-| 2025 | A Survey on Unlearning in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.25117>) | N/A |
-| 2025 | A Systematic Literature Review of Code Hallucinations in LLMs: Characterization, Mitigation Methods, Challenges, and Future Directions for Reliable AI | arXiv | [paper](<https://arxiv.org/abs/2511.00776>) | N/A |
-| 2025 | A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.22659>) | [code](<https://github.com/hs-esslingen-it-security/Awesome-LLM4SVD>) |
-| 2025 | A Systematic Review of Poisoning Attacks Against Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.06518>) | N/A |
-| 2025 | A systematic review of research on large language models for computer programming education | arXiv | [paper](<https://arxiv.org/abs/2506.21818>) | N/A |
-| 2025 | A systematic review of trial-matching pipelines using large language models | arXiv | [paper](<https://arxiv.org/abs/2509.19327>) | N/A |
-| 2025 | A Systematic Review on the Evaluation of Large Language Models in Theory of Mind Tasks | arXiv | [paper](<https://arxiv.org/abs/2502.08796>) | N/A |
-| 2025 | A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving | arXiv | [paper](<https://arxiv.org/abs/2509.08269>) | [code](<https://github.com/ishmael233/LLM4OPT>) |
-| 2025 | A Taxonomy of Prompt Defects in LLM Systems | arXiv | [paper](<https://arxiv.org/abs/2509.14404>) | N/A |
-| 2025 | A Technical Survey of Reinforcement Learning Techniques for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.04136>) | N/A |
-| 2025 | Agentic AutoSurvey: Let LLMs Survey LLMs | arXiv | [paper](<https://arxiv.org/abs/2509.18661>) | N/A |
-| 2025 | Agentic Large Language Models, a survey | arXiv | [paper](<https://arxiv.org/abs/2503.23037>) | N/A |
-| 2025 | Agentic Software Issue Resolution with Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2512.22256>) | N/A |
-| 2025 | AIMSCheck: Leveraging LLMs for AI-Assisted Review of Modern Slavery Statements Across Jurisdictions | ACL | [paper](<https://aclanthology.org/2025.acl-long.446>) | [code](<https://github.com/mila-ai4h/ai4h_aims-au>) |
-| 2025 | Aligning Multimodal LLM with Human Preference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.14504>) | [code](<https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models>) |
-| 2025 | Attack and defense techniques in large language models: A survey and new perspectives | arXiv | [paper](<https://arxiv.org/abs/2505.00976>) | N/A |
-| 2025 | Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.29>) | N/A |
-| 2025 | Autoformalization in the Era of Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.23486>) | N/A |
-| 2025 | Backdoor threats in large language models - a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-024-4351-3>) | N/A |
-| 2025 | Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.511>) | N/A |
-| 2025 | Benchmarking Post-Training Quantization in LLMs: Comprehensive Taxonomy, Unified Evaluation, and Comparative Analysis | arXiv | [paper](<https://arxiv.org/abs/2502.13178>) | [code](<https://github.com/zjq0455/PTQ_Benchmark>) |
-| 2025 | Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs | COLING | [paper](<https://aclanthology.org/2025.coling-main.719>) | N/A |
-| 2025 | Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems | arXiv | [paper](<https://arxiv.org/abs/2502.14321>) | N/A |
-| 2025 | Bias in Large Language Models Across Clinical Applications: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.02917>) | N/A |
-| 2025 | Bias is a Math Problem, AI Bias is a Technical Problem: 10-year Literature Review of AI/LLM Bias Research Reveals Narrow &#91;Gender-Centric&#93; Conceptions of 'Bias', and Academia-Industry Gap | arXiv | [paper](<https://arxiv.org/abs/2508.11067>) | N/A |
-| 2025 | Binary Neural Networks for Large Language Model: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.19008>) | N/A |
-| 2025 | Breaking the Reasoning Barrier A Survey on LLM Complex Reasoning through the Lens of Self-Evolution | ACL | [paper](<https://aclanthology.org/2025.findings-acl.386>) | N/A |
-| 2025 | Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation | arXiv | [paper](<https://arxiv.org/abs/2504.01919>) | N/A |
-| 2025 | Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.01742>) | N/A |
-| 2025 | Can LLM Improve for Expert Forecast Combination? Evidence from the European Central Bank Survey | arXiv | [paper](<https://arxiv.org/abs/2506.23154>) | N/A |
-| 2025 | Can LLMs Be Trusted for Evaluating RAG Systems? A Survey of Methods and Datasets | arXiv | [paper](<https://arxiv.org/abs/2504.20119>) | N/A |
-| 2025 | Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ing\'enieurs du Qu\'ebec (OIQ) | arXiv | [paper](<https://arxiv.org/abs/2506.19775>) | N/A |
-| 2025 | Causal Inference with Large Language Model: A Survey | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.327>) | N/A |
-| 2025 | Causal MAS: A Survey of Large Language Model Architectures for Discovery and Effect Estimation | arXiv | [paper](<https://arxiv.org/abs/2509.00987>) | N/A |
-| 2025 | Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap | arXiv | [paper](<https://arxiv.org/abs/2501.01945>) | [code](<https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation>) |
-| 2025 | Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2507.16731>) | N/A |
-| 2025 | Comparing Uncertainty Measurement and Mitigation Methods for Large Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.18346>) | N/A |
-| 2025 | Copyright Protection for Large Language Models: A Survey of Methods, Challenges, and Trends | arXiv | [paper](<https://arxiv.org/abs/2508.11548>) | N/A |
-| 2025 | Creativity in LLM-based Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1403>) | N/A |
-| 2025 | Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens | arXiv | [paper](<https://arxiv.org/abs/2508.16982>) | N/A |
-| 2025 | DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.01257>) | N/A |
-| 2025 | DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.09956>) | N/A |
-| 2025 | Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs | arXiv | [paper](<https://arxiv.org/abs/2506.11687>) | N/A |
-| 2025 | Disambiguation in Conversational Question Answering in the Era of LLMs and Agents: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.482>) | N/A |
-| 2025 | Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.22920>) | [code](<https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey>) |
-| 2025 | Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2503.16585>) | N/A |
-| 2025 | Do Large Language Models Solve the Problems of Agent-Based Modeling? A Critical Review of Generative Social Simulations | arXiv | [paper](<https://arxiv.org/abs/2504.03274>) | N/A |
-| 2025 | Document Intelligence in the Era of Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.13366>) | N/A |
-| 2025 | Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.291>) | N/A |
-| 2025 | Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708525>) | N/A |
-| 2025 | Efficient Attention Mechanisms for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.19595>) | N/A |
-| 2025 | Efficiently Integrate Large Language Models with Visual Perception: A Survey from the Training Paradigm Perspective | arXiv | [paper](<https://arxiv.org/abs/2502.01524>) | N/A |
-| 2025 | Emergent Abilities in Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.05788>) | N/A |
-| 2025 | Empowering LLMs with Logical Reasoning: A Comprehensive Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1155>) | N/A |
-| 2025 | Empowering Multimodal LLMs with External Tools: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.10955>) | [code](<https://github.com/Lackel/Awesome-Tools-for-MLLMs>) |
-| 2025 | Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey | arXiv | [paper](<https://arxiv.org/abs/2510.01925>) | N/A |
-| 2025 | Ensemble Learning for Large Language Models in Text and Code Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.13505>) | N/A |
-| 2025 | Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2506.11111>) | [code](<https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers>) |
-| 2025 | Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps | arXiv | [paper](<https://arxiv.org/abs/2510.13430>) | N/A |
-| 2025 | Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.22458>) | N/A |
-| 2025 | Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications | arXiv | [paper](<https://arxiv.org/abs/2510.17764>) | N/A |
-| 2025 | Evaluating Prompting Strategies and Large Language Models in Systematic Literature Review Screening: Relevance and Task-Stage Classification | arXiv | [paper](<https://arxiv.org/abs/2510.16091>) | N/A |
-| 2025 | Evaluating User Experience in Conversational Recommender Systems: A Systematic Review Across Classical and LLM-Powered Approaches | arXiv | [paper](<https://arxiv.org/abs/2508.02096>) | N/A |
-| 2025 | Evaluation and Benchmarking of LLM Agents: A Survey | KDD | [paper](<https://doi.org/10.1145/3711896.3736570>) | N/A |
-| 2025 | Evaluation and Facilitation of Online Discussions in the LLM Era: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1243>) | N/A |
-| 2025 | Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey | arXiv | [paper](<https://arxiv.org/abs/2510.12178>) | N/A |
-| 2025 | Evolutionary Perspectives on the Evaluation of LLM-Based AI Agents: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2506.11102>) | N/A |
-| 2025 | Expediting data extraction using a large language model (LLM) and scoping review protocol: a methodological study within a complex scoping review | arXiv | [paper](<https://arxiv.org/abs/2507.06623>) | N/A |
-| 2025 | Explainability and Interpretability of Multilingual Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1033>) | N/A |
-| 2025 | Exploring Consciousness in LLMs: A Systematic Survey of Theories, Implementations, and Frontier Risks | arXiv | [paper](<https://arxiv.org/abs/2505.19806>) | [code](<https://github.com/OpenCausaLab/Awesome-LLM-Consciousness>) |
-| 2025 | Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2504.15622>) | N/A |
-| 2025 | Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap | arXiv | [paper](<https://arxiv.org/abs/2503.21411>) | [code](<https://github.com/tongnie/awesome-llm4tr>) |
-| 2025 | Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review | arXiv | [paper](<https://arxiv.org/abs/2504.18496>) | N/A |
-| 2025 | Factors That Support Grounded Responses in LLM Conversations: A Rapid Review | arXiv | [paper](<https://arxiv.org/abs/2511.21762>) | N/A |
-| 2025 | Fast, Slow, and Tool-augmented Thinking for LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.12265>) | N/A |
-| 2025 | From Deep Learning to LLMs: A survey of AI in Quantitative Investment | arXiv | [paper](<https://arxiv.org/abs/2503.21422>) | N/A |
-| 2025 | From Intentions to Techniques: A Comprehensive Taxonomy and Challenges in Text Watermarking for Large Language Models | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.343>) | N/A |
-| 2025 | From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine | arXiv | [paper](<https://arxiv.org/abs/2502.09242>) | N/A |
-| 2025 | From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.19678>) | N/A |
-| 2025 | From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem | arXiv | [paper](<https://arxiv.org/abs/2506.15170>) | N/A |
-| 2025 | From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2505.21935>) | N/A |
-| 2025 | From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems | arXiv | [paper](<https://arxiv.org/abs/2506.04565>) | N/A |
-| 2025 | From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins | arXiv | [paper](<https://arxiv.org/abs/2506.06359>) | N/A |
-| 2025 | Game Theory Meets Large Language Models: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1184>) | N/A |
-| 2025 | Game Theory Meets Large Language Models: A Systematic Survey with Taxonomy and New Frontiers | arXiv | [paper](<https://arxiv.org/abs/2502.09053>) | N/A |
-| 2025 | Generalizability of Large Language Model-Based Agents: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.16330>) | N/A |
-| 2025 | Generative Large Language Models for Knowledge Representation: A Systematic Review of Concept Map Generation | arXiv | [paper](<https://arxiv.org/abs/2509.14554>) | N/A |
-| 2025 | Geospatial Representation Learning: A Survey from Deep Learning to The LLM Era | arXiv | [paper](<https://arxiv.org/abs/2505.09651>) | [code](<https://github.com/CityMind-Lab/Awesome-Geospatial-Representation-Learning>) |
-| 2025 | Grounding Open-Domain Knowledge from LLMs to Real-World Reinforcement Learning Tasks: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1198>) | N/A |
-| 2025 | Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2504.20799>) | N/A |
-| 2025 | Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2508.03860>) | N/A |
-| 2025 | Harnessing Large Language Models for Disaster Management: A Survey | ACL | [paper](<https://aclanthology.org/2025.findings-acl.750>) | N/A |
-| 2025 | Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.24377>) | N/A |
-| 2025 | Highlighting Case Studies in LLM Literature Review of Interdisciplinary System Science | arXiv | [paper](<https://arxiv.org/abs/2503.16515>) | N/A |
-| 2025 | How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1200>) | N/A |
-| 2025 | Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications | arXiv | [paper](<https://arxiv.org/abs/2505.00049>) | N/A |
-| 2025 | Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems | arXiv | [paper](<https://arxiv.org/abs/2506.14096>) | N/A |
-| 2025 | Implicit Bias in LLMs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.02776>) | N/A |
-| 2025 | Implicit Reasoning in Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.02350>) | [code](<https://github.com/digailab/awesome-llm-implicit-reasoning>) |
-| 2025 | Information Security Based on LLM Approaches: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.18215>) | N/A |
-| 2025 | Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.1379>) | [code](<https://github.com/abilliyb/Knowledge_Injection_Survey_Papers>) |
-| 2025 | Integrating Large Language Models in Financial Investments and Market Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.01990>) | N/A |
-| 2025 | InteractiveSurvey: An LLM-based Personalized and Interactive Survey Paper Generation System | arXiv | [paper](<https://arxiv.org/abs/2504.08762>) | N/A |
-| 2025 | Interpretable LLMs for Credit Risk: A Systematic Review and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2506.04290>) | N/A |
-| 2025 | Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.03418>) | N/A |
-| 2025 | Knowledge Boundary of Large Language Models: A Survey | ACL | [paper](<https://aclanthology.org/2025.acl-long.256>) | N/A |
-| 2025 | KV Cache Compression for Inference Efficiency in LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.06297>) | N/A |
-| 2025 | Large Language Model Agent: A Survey on Methodology, Applications and Challenges | arXiv | [paper](<https://arxiv.org/abs/2503.21460>) | [code](<https://github.com/luo-junyu/Awesome-Agent-Papers>) |
-| 2025 | Large Language Model Agents in Finance: A Survey Bridging Research, Practice, and Real-World Deployment | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.972>) | N/A |
-| 2025 | Large Language Model for Verilog Code Generation: Literature Review and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2512.00020>) | N/A |
-| 2025 | Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708522>) | N/A |
-| 2025 | Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement | arXiv | [paper](<https://arxiv.org/abs/2505.08245>) | [code](<https://github.com/valuebyte-ai/Awesome-LLM-Psychometrics>) |
-| 2025 | Large Language Model Sourcing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.10161>) | N/A |
-| 2025 | Large Language Model-based Data Science Agent: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.02744>) | N/A |
-| 2025 | Large language model-based task planning for service robots: A review | arXiv | [paper](<https://arxiv.org/abs/2510.23357>) | N/A |
-| 2025 | Large Language Models (LLMs) for Requirements Engineering (RE): A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.11446>) | N/A |
-| 2025 | Large Language Models and Arabic Content: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.08004>) | N/A |
-| 2025 | Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.427>) | N/A |
-| 2025 | Large Language Models and Evolutionary Computation: A Critical Review of Bidirectional Interaction, Automated Algorithm Design, and Co-Adaptive Systems | arXiv | [paper](<https://arxiv.org/abs/2505.15741>) | N/A |
-| 2025 | Large Language Models and Their Applications in Roadway Safety and Mobility Enhancement: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.06301>) | N/A |
-| 2025 | Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective | arXiv | [paper](<https://arxiv.org/abs/2506.24006>) | N/A |
-| 2025 | Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.333>) | [code](<https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection>) |
-| 2025 | Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches | arXiv | [paper](<https://arxiv.org/abs/2501.03151>) | N/A |
-| 2025 | Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.83>) | N/A |
-| 2025 | Large language models for automated scholarly paper review: A survey | arXiv | [paper](<https://arxiv.org/abs/2501.10326>) | N/A |
-| 2025 | Large language models for behavioral modeling: A literature survey | arXiv | [paper](<https://arxiv.org/abs/2509.24782>) | N/A |
-| 2025 | Large Language Models for Code Generation: A Comprehensive Survey of Challenges, Techniques, Evaluation, and Applications | arXiv | [paper](<https://arxiv.org/abs/2503.01245>) | N/A |
-| 2025 | Large Language Models for Combinatorial Optimization: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.03637>) | N/A |
-| 2025 | Large Language Models for Computer-Aided Design: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.08137>) | [code](<https://github.com/lichengzhanguom/LLMs-CAD-Survey-Taxonomy>) |
-| 2025 | Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2507.02074>) | N/A |
-| 2025 | Large Language Models for EEG: A Comprehensive Survey and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2506.06353>) | N/A |
-| 2025 | Large Language Models for Healthcare Text Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.01159>) | N/A |
-| 2025 | Large Language Models for Information Retrieval: A Survey | TOIS | [paper](<https://doi.org/10.1145/3748304>) | [code](<https://github.com/ruc-nlpir/llm4ir-survey>) |
-| 2025 | Large Language Models for Knowledge Graph Embedding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.07766>) | N/A |
-| 2025 | Large Language Models for Multi-Robot Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.03814>) | N/A |
-| 2025 | Large Language Models for Next-Generation Wireless Network Management: A Survey and Tutorial | arXiv | [paper](<https://arxiv.org/abs/2509.05946>) | N/A |
-| 2025 | Large Language Models for Planning: A Comprehensive and Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2505.19683>) | N/A |
-| 2025 | Large Language Models for Power System Applications: A Comprehensive Literature Survey | arXiv | [paper](<https://arxiv.org/abs/2512.13004>) | N/A |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2024 | A Survey on Hardware Accelerators for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2401.09890>) | N/A | [83](<https://openalex.org/W4406214400>) |
+| 2024 | Efficient Training of Large Language Models on Distributed Infrastructures: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.20018>) | N/A | [82](<https://openalex.org/W4401202443>) |
+| 2025 | A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2508.05668>) | [code](<https://github.com/YunjiaXi/Awesome-Search-Agent-Papers>) | [81](<https://openalex.org/W4414990920>) ([⭐ 214](<https://github.com/YunjiaXi/Awesome-Search-Agent-Papers>)) |
+| 2024 | Large Language Models and Video Games: A Preliminary Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2403.02613>) | N/A | [81](<https://openalex.org/W4400397496>) |
+| 2024 | A Survey on Data Selection for LLM Instruction Tuning | arXiv | [paper](<https://arxiv.org/abs/2402.05123>) | N/A | [81](<https://openalex.org/W4413299510>) |
+| 2024 | A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision-Language Tasks | arXiv | [paper](<https://arxiv.org/abs/2411.06284>) | N/A | [80](<https://openalex.org/W4404401197>) |
+| 2024 | Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond | arXiv | [paper](<https://arxiv.org/abs/2410.19744>) | [code](<https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey>) | [80](<https://openalex.org/W4404313135>) ([⭐ 258](<https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey>)) |
+| 2025 | Large Language Models for Code Generation: A Comprehensive Survey of Challenges, Techniques, Evaluation, and Applications | arXiv | [paper](<https://arxiv.org/abs/2503.01245>) | N/A | [79](<https://openalex.org/W4417221685>) |
+| 2025 | From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine | arXiv | [paper](<https://arxiv.org/abs/2502.09242>) | N/A | [79](<https://openalex.org/W4413408156>) |
+| 2025 | Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap | arXiv | [paper](<https://arxiv.org/abs/2501.01945>) | [code](<https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation>) | [79](<https://openalex.org/W4406093540>) ([⭐ 294](<https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation>)) |
+| 2025 | Logical Reasoning in Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.09100>) | N/A | [78](<https://openalex.org/W4407571837>) |
+| 2025 | Large language models for automated scholarly paper review: A survey | arXiv | [paper](<https://arxiv.org/abs/2501.10326>) | N/A | [78](<https://openalex.org/W4410883332>) |
+| 2025 | Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708525>) | N/A | [78](<https://openalex.org/W4405640497>) |
+| 2024 | Large Language Models in Biomedical and Health Informatics: A Review with Bibliometric Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.16303>) | N/A | [78](<https://openalex.org/W4402538491>) |
+| 2024 | Trajectory Data Management and Mining: A Survey from Deep Learning to the LLM Era | arXiv | [paper](<https://arxiv.org/abs/2403.14151>) | [code](<https://github.com/yoshall/Awesome-Trajectory-Computing>) | [78](<https://openalex.org/W4393118513>) ([⭐ 288](<https://github.com/yoshall/Awesome-Trajectory-Computing>)) |
+| 2025 | Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.511>) | N/A | [77](<https://openalex.org/W4416036918>) |
+| 2024 | A Comprehensive Survey of Bias in LLMs: Current Landscape and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2409.16430>) | N/A | [77](<https://openalex.org/W4403789150>) |
+| 2024 | A Survey on Detection of LLMs-Generated Content | EMNLP | [paper](<https://aclanthology.org/2024.findings-emnlp.572>) | [code](<https://github.com/xianjun-yang/awesome_papers_on_llms_detection>) | [76](<https://openalex.org/W4404781930>) ([⭐ 294](<https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection>)) |
+| 2025 | A Survey on Data Contamination for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.14425>) | N/A | [75](<https://openalex.org/W4407806804>) |
+| 2024 | Puzzle Solving using Reasoning of Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2024.emnlp-main.646>) | N/A | [75](<https://openalex.org/W4404782713>) |
+| 2025 | A Survey of Vibe Coding with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.12399>) | N/A | [73](<https://openalex.org/W4415270339>) |
+| 2025 | Security Concerns for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.18889>) | N/A | [73](<https://openalex.org/W4415478691>) |
+| 2025 | Prompt Compression for Large Language Models: A Survey | NAACL | [paper](<https://aclanthology.org/2025.naacl-long.368>) | [code](<https://github.com/ZongqianLi/Prompt-Compression-Survey>) | [72](<https://openalex.org/W4411119429>) ([⭐ 36](<https://github.com/ZongqianLi/Prompt-Compression-Survey>)) |
+| 2024 | Large Language Model Enhanced Text-to-SQL Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.06011>) | N/A | [72](<https://openalex.org/W4403344290>) |
+| 2024 | What is the Role of Small Models in the LLM Era: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.06857>) | N/A | [72](<https://openalex.org/W4403048355>) |
+| 2024 | Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.05392>) | N/A | [72](<https://openalex.org/W4413175758>) |
+| 2024 | Large Language Models for Mobility Analysis in Transportation Systems: A Survey on Forecasting Tasks | arXiv | [paper](<https://arxiv.org/abs/2405.02357>) | N/A | [72](<https://openalex.org/W4414813236>) |
+| 2024 | A Survey on Large Language Model Hallucination via a Creativity Perspective | arXiv | [paper](<https://arxiv.org/abs/2402.06647>) | N/A | [70](<https://openalex.org/W4391800042>) |
+| 2025 | Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.22458>) | N/A | [69](<https://openalex.org/W7128909499>) |
+| 2025 | A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.01854>) | N/A | [68](<https://openalex.org/W4415339025>) |
+| 2025 | A Survey on Multi-Turn Interaction Capabilities of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.09959>) | N/A | [68](<https://openalex.org/W4406603970>) |
+| 2025 | A Survey on Large Language Model Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2508.15361>) | N/A | [67](<https://openalex.org/W4416050957>) |
+| 2025 | Large Language Models for Planning: A Comprehensive and Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2505.19683>) | N/A | [67](<https://openalex.org/W4414586831>) |
+| 2025 | A Survey on Privacy Risks and Protection in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2505.01976>) | N/A | [67](<https://openalex.org/W4413293038>) |
+| 2025 | Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap | arXiv | [paper](<https://arxiv.org/abs/2503.21411>) | [code](<https://github.com/tongnie/awesome-llm4tr>) | [66](<https://openalex.org/W4411443861>) ([⭐ 79](<https://github.com/tongnie/awesome-llm4tr>)) |
+| 2024 | LLMs are Also Effective Embedding Models: An In-depth Overview | arXiv | [paper](<https://arxiv.org/abs/2412.12591>) | N/A | [66](<https://openalex.org/W4405562150>) |
+| 2024 | A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice | arXiv | [paper](<https://arxiv.org/abs/2410.15326>) | N/A | [66](<https://openalex.org/W4404088575>) |
+| 2024 | AI Safety in Generative AI Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.18369>) | N/A | [66](<https://openalex.org/W4402466851>) |
+| 2026 | Claim Verification in the Age of Large Language Models: A Survey | ACL | [paper](<https://aclanthology.org/2026.acl-srw.2>) | N/A | [65](<https://openalex.org/W4402702483>) |
+| 2025 | Large Language Models (LLMs) for Requirements Engineering (RE): A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.11446>) | N/A | [65](<https://openalex.org/W4415088384>) |
+| 2025 | Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2508.03860>) | N/A | [65](<https://openalex.org/W7118132038>) |
+| 2025 | A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2502.05224>) | N/A | [65](<https://openalex.org/W4411001734>) |
+| 2025 | Large Language Models For Text Classification: Case Study And Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2501.08457>) | N/A | [65](<https://openalex.org/W4406458936>) |
+| 2024 | A Survey for Large Language Models in Biomedicine | arXiv | [paper](<https://arxiv.org/abs/2409.00133>) | N/A | [65](<https://openalex.org/W4414563742>) |
+| 2023 | How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances | EMNLP | [paper](<https://aclanthology.org/2023.emnlp-main.516>) | [code](<https://github.com/hyintell/awesome-refreshing-llms>) | [64](<https://openalex.org/W4389520806>) ([⭐ 135](<https://github.com/hyintell/awesome-refreshing-llms>)) |
+| 2025 | Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.21277>) | N/A | [63](<https://openalex.org/W4415320082>) |
+| 2025 | A Survey on the Optimization of Large Language Model-based Agents | arXiv | [paper](<https://arxiv.org/abs/2503.12434>) | [code](<https://github.com/YoungDubbyDu/LLM-Agent-Optimization>) | [63](<https://openalex.org/W7125602480>) ([⭐ 251](<https://github.com/YoungDubbyDu/Awesome-LLM-Agent-Optimization-Papers>)) |
+| 2025 | A Survey of Uncertainty Estimation Methods on Large Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1101>) | N/A | [63](<https://openalex.org/W4412887878>) |
+| 2025 | A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method &amp; Challenges | ACL | [paper](<https://aclanthology.org/2025.findings-acl.614>) | N/A | [63](<https://openalex.org/W4412888230>) |
+| 2024 | A Survey on Evaluation of Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.15769>) | N/A | [63](<https://openalex.org/W4402706006>) |
+| 2024 | A Survey on Human Preference Learning for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2406.11191>) | N/A | [63](<https://openalex.org/W4415850505>) |
+| 2025 | LLM-empowered knowledge graph construction: A survey | arXiv | [paper](<https://arxiv.org/abs/2510.20345>) | N/A | [62](<https://openalex.org/W4416245224>) |
+| 2024 | Large Language Models for Blockchain Security: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2403.14280>) | N/A | [61](<https://openalex.org/W4393118799>) |
+| 2026 | LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1811>) | [code](<https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems>) | [60](<https://openalex.org/W4415164160>) ([⭐ 242](<https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems>)) |
+| 2025 | Knowledge Boundary of Large Language Models: A Survey | ACL | [paper](<https://aclanthology.org/2025.acl-long.256>) | N/A | [60](<https://openalex.org/W4412945727>) |
+| 2024 | A Comprehensive Survey of Contamination Detection Methods in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2404.00699>) | N/A | [59](<https://openalex.org/W7166495070>) |
+| 2025 | Implicit Reasoning in Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.02350>) | [code](<https://github.com/digailab/awesome-llm-implicit-reasoning>) | [58](<https://openalex.org/W4416711623>) ([⭐ 117](<https://github.com/digailab/awesome-llm-implicit-reasoning>)) |
+| 2025 | Toward Generalizable Evaluation in the LLM Era: A Survey Beyond Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2504.18838>) | N/A | [58](<https://openalex.org/W4416888703>) |
+| 2025 | LLM Integration in Extended Reality: A Comprehensive Review of Current Trends, Challenges, and Future Perspectives | CHI | [paper](<https://doi.org/10.1145/3706598.3714224>) | N/A | [58](<https://openalex.org/W4409748580>) |
+| 2024 | A Survey on Large Language Model-based Agents for Statistics and Data Science | arXiv | [paper](<https://arxiv.org/abs/2412.14222>) | N/A | [58](<https://openalex.org/W4414205706>) |
+| 2024 | A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry | arXiv | [paper](<https://arxiv.org/abs/2404.15777>) | N/A | [57](<https://openalex.org/W4395483680>) |
+| 2025 | A Survey of Token Compression for Efficient Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.20198>) | N/A | [56](<https://openalex.org/W4417268856>) |
+| 2024 | Digital Forgetting in Large Language Models: A Survey of Unlearning Methods | arXiv | [paper](<https://arxiv.org/abs/2404.02062>) | N/A | [56](<https://openalex.org/W4406299883>) |
+| 2025 | Large Language Models for Healthcare Text Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.01159>) | N/A | [55](<https://openalex.org/W4415084322>) |
+| 2025 | A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.08049>) | N/A | [54](<https://openalex.org/W4416401424>) |
+| 2025 | Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2501.18845>) | N/A | [54](<https://openalex.org/W4417215409>) |
+| 2024 | When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2405.10255>) | [code](<https://github.com/ActiveVisionLab/Awesome-LLM-3D>) | [54](<https://openalex.org/W4397028863>) ([⭐ 2,282](<https://github.com/ActiveVisionLab/Awesome-LLM-3D>)) |
+| 2025 | Do Large Language Models Solve the Problems of Agent-Based Modeling? A Critical Review of Generative Social Simulations | arXiv | [paper](<https://arxiv.org/abs/2504.03274>) | N/A | [53](<https://openalex.org/W4415979340>) |
+| 2024 | Large Language Model Enhanced Recommender Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2412.13432>) | N/A | [53](<https://openalex.org/W4405626164>) |
+| 2024 | A Systematic Review on Prompt Engineering in Large Language Models for K-12 STEM Education | arXiv | [paper](<https://arxiv.org/abs/2410.11123>) | N/A | [53](<https://openalex.org/W4403573340>) |
+| 2024 | AI Safety Landscape for Large Language Models: Taxonomy, State-of-the-art, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2408.12935>) | N/A | [53](<https://openalex.org/W4403662649>) |
+| 2024 | A Survey on Symbolic Knowledge Distillation of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.10210>) | N/A | [53](<https://openalex.org/W4400644218>) |
+| 2024 | A Survey of AIOps for Failure Management in the Era of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2406.11213>) | N/A | [53](<https://openalex.org/W4399794944>) |
+| 2024 | A Survey of Useful LLM Evaluation | arXiv | [paper](<https://arxiv.org/abs/2406.00936>) | N/A | [53](<https://openalex.org/W4399399885>) |
+| 2025 | Autoformalization in the Era of Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.23486>) | N/A | [52](<https://openalex.org/W4416611723>) |
+| 2025 | Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges | ACL | [paper](<https://aclanthology.org/2025.acl-long.425>) | N/A | [52](<https://openalex.org/W4412945592>) |
+| 2024 | Exploring Autonomous Agents through the Lens of Large Language Models: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.04442>) | N/A | [52](<https://openalex.org/W4394708597>) |
+| 2024 | Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review | arXiv | [paper](<https://arxiv.org/abs/2402.18590>) | N/A | [52](<https://openalex.org/W7134189734>) |
+| 2025 | Empowering LLMs with Logical Reasoning: A Comprehensive Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1155>) | N/A | [51](<https://openalex.org/W4415185620>) |
+| 2025 | A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.356>) | N/A | [50](<https://openalex.org/W4416035162>) |
+| 2025 | A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions | ACL | [paper](<https://aclanthology.org/2025.findings-acl.385>) | N/A | [50](<https://openalex.org/W4412888662>) |
+| 2025 | Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.333>) | [code](<https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection>) | [50](<https://openalex.org/W4411119927>) ([⭐ 131](<https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection>)) |
+| 2025 | Towards Controllable Speech Synthesis in the Era of Large Language Models: A Systematic Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.40>) | [code](<https://github.com/imxtx/awesome-controllabe-speech-synthesis>) | [50](<https://openalex.org/W4416037241>) ([⭐ 291](<https://github.com/imxtx/awesome-controllable-speech-synthesis>)) |
+| 2024 | Multilingual Large Language Models: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2411.11072>) | [code](<https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers>) | [50](<https://openalex.org/W4404574673>) ([⭐ 35](<https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers>)) |
+| 2024 | From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems | arXiv | [paper](<https://arxiv.org/abs/2410.01066>) | N/A | [50](<https://openalex.org/W4403883262>) |
+| 2024 | Watermarking Techniques for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.00089>) | N/A | [50](<https://openalex.org/W7118168534>) |
+| 2024 | LLMs Meet Multimodal Generation and Editing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.19334>) | [code](<https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation>) | [50](<https://openalex.org/W4399198763>) ([⭐ 550](<https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation>)) |
+| 2025 | Large Language Models for Security Operations Centers: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.10858>) | N/A | [49](<https://openalex.org/W4415250047>) |
+| 2024 | From Vulnerabilities to Remediation: A Systematic Literature Review of LLMs in Code Security | arXiv | [paper](<https://arxiv.org/abs/2412.15004>) | N/A | [49](<https://openalex.org/W4405646968>) |
+| 2025 | Causal Inference with Large Language Model: A Survey | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.327>) | N/A | [48](<https://openalex.org/W4411120052>) |
+| 2025 | A Survey on Large Language Models for Mathematical Reasoning | arXiv | [paper](<https://arxiv.org/abs/2506.08446>) | N/A | [47](<https://openalex.org/W7117259628>) |
+| 2025 | Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs | COLING | [paper](<https://aclanthology.org/2025.coling-main.719>) | N/A | [47](<https://openalex.org/W4395483223>) |
+| 2024 | When Text Embedding Meets Large Language Model: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2412.09165>) | N/A | [47](<https://openalex.org/W4405354964>) |
+| 2024 | Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing | arXiv | [paper](<https://arxiv.org/abs/2409.18286>) | N/A | [47](<https://openalex.org/W4411001423>) |
+| 2024 | On Explaining Recommendations with Large Language Models: A Review | arXiv | [paper](<https://arxiv.org/abs/2411.19576>) | N/A | [46](<https://openalex.org/W4406849765>) |
+| 2024 | Undesirable Memorization in Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.02650>) | N/A | [46](<https://openalex.org/W4403884186>) |
+| 2024 | Achieving Peak Performance for Large Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2409.04833>) | N/A | [46](<https://openalex.org/W4400410487>) |
+| 2024 | Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey) | KDD | [paper](<https://doi.org/10.1145/3637528.3671467>) | N/A | [46](<https://openalex.org/W4401863475>) |
+| 2024 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning | arXiv | [paper](<https://arxiv.org/abs/2406.05804>) | [code](<https://github.com/xinzhel/LLM-Agent-Survey>) | [46](<https://openalex.org/W4399555153>) ([⭐ 519](<https://github.com/xinzhel/LLM-Agent-Survey>)) |
+| 2024 | Towards Scalable Automated Alignment of LLMs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.01252>) | N/A | [46](<https://openalex.org/W4399400979>) |
+| 2024 | A Survey of Table Reasoning with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2402.08259>) | N/A | [46](<https://openalex.org/W4406709267>) |
+| 2024 | Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/883>) | [code](<https://github.com/nyunai/faster-llm-survey>) | [46](<https://openalex.org/W4401024791>) ([⭐ 42](<https://github.com/nyunAI/Faster-LLM-Survey>)) |
+| 2025 | Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.24377>) | N/A | [45](<https://openalex.org/W4417057042>) |
+| 2025 | A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy | arXiv | [paper](<https://arxiv.org/abs/2501.09431>) | N/A | [45](<https://openalex.org/W4406548651>) |
+| 2024 | A Survey on Human-Centric LLMs | arXiv | [paper](<https://arxiv.org/abs/2411.14491>) | N/A | [45](<https://openalex.org/W4405032057>) |
+| 2025 | The Impact of LLM-Assistants on Software Developer Productivity: A Systematic Review and Mapping Study | arXiv | [paper](<https://arxiv.org/abs/2507.03156>) | N/A | [44](<https://openalex.org/W4415343831>) |
+| 2025 | A Contemporary Survey of Large Language Model Assisted Program Analysis | arXiv | [paper](<https://arxiv.org/abs/2502.18474>) | N/A | [44](<https://openalex.org/W4411001672>) |
+| 2025 | Visual Instruction Tuning towards General-Purpose Multimodal Large Language Model: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02572-7>) | N/A | [44](<https://openalex.org/W4413849607>) |
+| 2025 | Large Language Models for Computer-Aided Design: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.08137>) | [code](<https://github.com/lichengzhanguom/LLMs-CAD-Survey-Taxonomy>) | [43](<https://openalex.org/W7118786724>) ([⭐ 65](<https://github.com/lichengzhanguom/LLMs-CAD-Survey-Taxonomy>)) |
+| 2024 | Is ChatGPT Massively Used by Students Nowadays? A Survey on the Use of Large Language Models such as ChatGPT in Educational Settings | arXiv | [paper](<https://arxiv.org/abs/2412.17486>) | N/A | [43](<https://openalex.org/W4405768157>) |
+| 2024 | A Survey of Recent Backdoor Attacks and Defenses in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2406.06852>) | N/A | [43](<https://openalex.org/W7166497375>) |
+| 2025 | A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers | arXiv | [paper](<https://arxiv.org/abs/2508.21148>) | N/A | [42](<https://openalex.org/W4415987149>) |
+| 2025 | A Survey of LLM $\times$ DATA | arXiv | [paper](<https://arxiv.org/abs/2505.18458>) | N/A | [42](<https://openalex.org/W4414581331>) |
+| 2024 | LitLLMs, LLMs for Literature Review: Are we there yet? | arXiv | [paper](<https://arxiv.org/abs/2412.15249>) | N/A | [42](<https://openalex.org/W4405713902>) |
+| 2024 | A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms | arXiv | [paper](<https://arxiv.org/abs/2409.16694>) | N/A | [42](<https://openalex.org/W4403693850>) |
+| 2024 | Generative Large Language Models in Automated Fact-Checking: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.02351>) | N/A | [42](<https://openalex.org/W4400375119>) |
+| 2024 | The RL/LLM Taxonomy Tree: Reviewing Synergies Between Reinforcement Learning and Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2402.01874>) | N/A | [42](<https://openalex.org/W4391591760>) |
+| 2024 | Survey on Plagiarism Detection in Large Language Models: The Impact of ChatGPT and Gemini on Academic Integrity | arXiv | [paper](<https://arxiv.org/abs/2407.13105>) | N/A | [41](<https://openalex.org/W4406058782>) |
+| 2025 | Large Language Models for Combinatorial Optimization: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.03637>) | N/A | [40](<https://openalex.org/W4415344803>) |
+| 2025 | Multimodal Large Language Models for Medicine: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.21051>) | N/A | [40](<https://openalex.org/W4417521643>) |
+| 2026 | A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2296>) | N/A | [39](<https://openalex.org/W7155049992>) |
+| 2025 | Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle | arXiv | [paper](<https://arxiv.org/abs/2509.16679>) | N/A | [39](<https://openalex.org/W4415252596>) |
+| 2025 | A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.11575>) | [code](<https://github.com/blacksnail789521/Time-Series-Reasoning-Survey>) | [39](<https://openalex.org/W4415088660>) ([⭐ 57](<https://github.com/blacksnail789521/Time-Series-Reasoning-Survey>)) |
+| 2025 | Protein Large Language Models: A Comprehensive Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.1255>) | [code](<https://github.com/Yijia-Xiao/Protein-LLM-Survey>) | [39](<https://openalex.org/W4416110909>) ([⭐ 200](<https://github.com/Yijia-Xiao/Protein-LLM-Survey>)) |
+| 2024 | Large Language Models for Constructing and Optimizing Machine Learning Workflows: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.10478>) | N/A | [39](<https://openalex.org/W4415589124>) |
+| 2024 | A Survey of Large Language Models for Arabic Language and its Dialects | arXiv | [paper](<https://arxiv.org/abs/2410.20238>) | N/A | [39](<https://openalex.org/W4404313857>) |
+| 2024 | A Survey on the Honesty of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2409.18786>) | N/A | [39](<https://openalex.org/W4403799392>) |
+| 2024 | A critical review of methods and challenges in large language models | arXiv | [paper](<https://arxiv.org/abs/2404.11973>) | N/A | [39](<https://openalex.org/W4407048461>) |
+| 2026 | The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis | arXiv | [paper](<https://arxiv.org/abs/2602.10453>) | N/A | [38](<https://openalex.org/W7128731475>) |
+| 2025 | Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.427>) | N/A | [38](<https://openalex.org/W4411120325>) |
+| 2024 | Exploring LLMs for Malware Detection: Review, Framework Design, and Countermeasure Approaches | arXiv | [paper](<https://arxiv.org/abs/2409.07587>) | N/A | [38](<https://openalex.org/W4403659027>) |
+| 2025 | Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2507.16731>) | N/A | [37](<https://openalex.org/W4417440855>) |
+| 2025 | A Technical Survey of Reinforcement Learning Techniques for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.04136>) | N/A | [37](<https://openalex.org/W4415345686>) |
+| 2025 | A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency | arXiv | [paper](<https://arxiv.org/abs/2505.01658>) | [code](<https://github.com/sihyeong/Awesome-LLM-Inference-Engine>) | [37](<https://openalex.org/W7143288749>) ([⭐ 252](<https://github.com/sihyeong/Awesome-LLM-Inference-Engine>)) |
+| 2025 | A Survey on Personalized Alignment—The Missing Piece for Large Language Models in Real-World Applications | ACL | [paper](<https://aclanthology.org/2025.findings-acl.277>) | N/A | [37](<https://openalex.org/W4412888492>) |
+| 2025 | Game Theory Meets Large Language Models: A Systematic Survey with Taxonomy and New Frontiers | arXiv | [paper](<https://arxiv.org/abs/2502.09053>) | N/A | [37](<https://openalex.org/W4407571724>) |
+| 2025 | A Survey on Model Extraction Attacks and Defenses for Large Language Models | KDD | [paper](<https://doi.org/10.1145/3711896.3736573>) | N/A | [36](<https://openalex.org/W4412877189>) |
+| 2025 | Large Language Models for Unit Testing: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2506.15227>) | [code](<https://github.com/iSEngLab/AwesomeLLM4UT>) | [36](<https://openalex.org/W4415333602>) ([⭐ 26](<https://github.com/iSEngLab/AwesomeLLM4UT>)) |
+| 2025 | A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.05496>) | N/A | [36](<https://openalex.org/W4416527493>) |
+| 2025 | Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches | arXiv | [paper](<https://arxiv.org/abs/2501.03151>) | N/A | [36](<https://openalex.org/W4406123676>) |
+| 2025 | Large Language Models in Document Intelligence: A Comprehensive Survey, Recent Advances, Challenges, and Future Trends | TOIS | [paper](<https://doi.org/10.1145/3768156>) | N/A | [36](<https://openalex.org/W4414241920>) |
+| 2025 | Spatial Reasoning in Multimodal Large Language Models: A Survey of Tasks, Benchmarks and Methods | arXiv | [paper](<https://arxiv.org/abs/2511.15722>) | N/A | [35](<https://openalex.org/W4416549842>) |
+| 2025 | LLM-Based Data Science Agents: A Survey of Capabilities, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2510.04023>) | N/A | [35](<https://openalex.org/W4416373998>) |
+| 2025 | Efficient Attention Mechanisms for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.19595>) | N/A | [35](<https://openalex.org/W7167226711>) |
+| 2025 | Large Language Models and Their Applications in Roadway Safety and Mobility Enhancement: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.06301>) | N/A | [35](<https://openalex.org/W4412089025>) |
+| 2025 | How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1200>) | N/A | [35](<https://openalex.org/W4416529520>) |
+| 2025 | Multimodal Large Language Models for Image, Text, and Speech Data Augmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.18648>) | [code](<https://github.com/WSUAgRobotics/data-aug-multi-modal-llm>) | [35](<https://openalex.org/W4407092802>) ([⭐ 12](<https://github.com/WSUAgRobotics/data-aug-multi-modal-llm>)) |
+| 2025 | A review of faithfulness metrics for hallucination assessment in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.00269>) | N/A | [35](<https://openalex.org/W4411232405>) |
+| 2024 | Large Language Models for Human-like Autonomous Driving: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.19280>) | N/A | [35](<https://openalex.org/W4408698480>) |
+| 2024 | A Survey of Large Language Models in Cybersecurity | arXiv | [paper](<https://arxiv.org/abs/2402.16968>) | N/A | [35](<https://openalex.org/W4392430896>) |
+| 2024 | SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model | arXiv | [paper](<https://arxiv.org/abs/2401.13266>) | N/A | [35](<https://openalex.org/W4413122213>) |
+| 2025 | Mid-Training of Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.06826>) | N/A | [34](<https://openalex.org/W4415317404>) |
+| 2025 | Attack and defense techniques in large language models: A survey and new perspectives | arXiv | [paper](<https://arxiv.org/abs/2505.00976>) | N/A | [34](<https://openalex.org/W4416822368>) |
+| 2025 | Large Language Models for Knowledge Graph Embedding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.07766>) | N/A | [34](<https://openalex.org/W4412161914>) |
+| 2024 | A Survey of Sustainability in Large Language Models: Applications, Economics, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.04782>) | N/A | [34](<https://openalex.org/W4409116517>) |
+| 2024 | Large Language Model Enhanced Knowledge Representation Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.00936>) | N/A | [34](<https://openalex.org/W4409206472>) |
+| 2024 | Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective | arXiv | [paper](<https://arxiv.org/abs/2402.00262>) | N/A | [34](<https://openalex.org/W4391505394>) |
+| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | N/A | [33](<https://openalex.org/W7130824376>) |
+| 2025 | LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2510.24367>) | N/A | [33](<https://openalex.org/W7130607038>) |
+| 2025 | Taxonomy, Opportunities, and Challenges of Representation Engineering for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.19649>) | N/A | [33](<https://openalex.org/W4415313826>) |
+| 2024 | Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions | arXiv | [paper](<https://arxiv.org/abs/2408.05212>) | N/A | [33](<https://openalex.org/W7120416289>) |
+| 2024 | Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies | arXiv | [paper](<https://arxiv.org/abs/2403.03699>) | N/A | [33](<https://openalex.org/W4392576237>) |
+| 2024 | From Words to Molecules: A Survey of Large Language Models in Chemistry | arXiv | [paper](<https://arxiv.org/abs/2402.01439>) | N/A | [33](<https://openalex.org/W4391556076>) |
+| 2026 | Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models | ACL | [paper](<https://aclanthology.org/2026.findings-acl.502>) | [code](<https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey>) | [32](<https://openalex.org/W7164409677>) ([⭐ 163](<https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey>)) |
+| 2025 | A Meta-Analysis of the Persuasive Power of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2512.01431>) | N/A | [32](<https://openalex.org/W4417304849>) |
+| 2025 | Software Architecture Meets LLMs: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2505.16697>) | N/A | [32](<https://openalex.org/W4416452806>) |
+| 2025 | LLM-based event log analysis techniques: A survey | arXiv | [paper](<https://arxiv.org/abs/2502.00677>) | N/A | [32](<https://openalex.org/W4407123924>) |
+| 2025 | Harnessing Large Language Models for Disaster Management: A Survey | ACL | [paper](<https://aclanthology.org/2025.findings-acl.750>) | N/A | [32](<https://openalex.org/W4412887995>) |
+| 2025 | Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.83>) | N/A | [32](<https://openalex.org/W4416037345>) |
+| 2024 | Personalized Multimodal Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2412.02142>) | N/A | [32](<https://openalex.org/W4405035700>) |
+| 2024 | Knowledge Mechanisms in Large Language Models: A Survey and Perspective | EMNLP | [paper](<https://aclanthology.org/2024.findings-emnlp.416>) | N/A | [32](<https://openalex.org/W4403321643>) |
+| 2024 | Towards Incremental Learning in Large Language Models: A Critical Review | arXiv | [paper](<https://arxiv.org/abs/2404.18311>) | N/A | [32](<https://openalex.org/W4413932221>) |
+| 2025 | LLM/Agent-as-Data-Analyst: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.23988>) | N/A | [31](<https://openalex.org/W4415273290>) |
+| 2024 | A Survey of Large Language Model-Based Generative AI for Text-to-SQL: Benchmarks, Applications, Use Cases, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.05208>) | N/A | [31](<https://openalex.org/W4413948746>) |
+| 2024 | Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2411.18583>) | N/A | [31](<https://openalex.org/W4409047169>) |
+| 2024 | A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems | arXiv | [paper](<https://arxiv.org/abs/2401.06831>) | N/A | [31](<https://openalex.org/W4391129224>) |
+| 2024 | Fundamental Capabilities of Large Language Models and their Applications in Domain Scenarios: A Survey | ACL | [paper](<https://aclanthology.org/2024.acl-long.599>) | N/A | [31](<https://openalex.org/W4402671712>) |
+| 2025 | Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.24322>) | [code](<https://github.com/yuntaoshou/Awesome-Emotion-Reasoning>) | [30](<https://openalex.org/W4415336520>) ([⭐ 98](<https://github.com/yuntaoshou/Awesome-Emotion-Reasoning>)) |
+| 2025 | Survey of LLM Agent Communication with MCP: A Software Design Pattern Centric Review | arXiv | [paper](<https://arxiv.org/abs/2506.05364>) | N/A | [30](<https://openalex.org/W4417078044>) |
+| 2025 | Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities | arXiv | [paper](<https://arxiv.org/abs/2503.21330>) | N/A | [30](<https://openalex.org/W7164388270>) |
+| 2024 | A survey on fairness of large language models in e-commerce: progress, application, and challenge | arXiv | [paper](<https://arxiv.org/abs/2405.13025>) | N/A | [30](<https://openalex.org/W4398794885>) |
+| 2024 | A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3609877>) | N/A | [30](<https://openalex.org/W4414757965>) |
+| 2025 | A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving | arXiv | [paper](<https://arxiv.org/abs/2509.08269>) | [code](<https://github.com/ishmael233/LLM4OPT>) | [29](<https://openalex.org/W4417064418>) ([⭐ 59](<https://github.com/ishmael233/LLM4OPT>)) |
+| 2025 | A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science | arXiv | [paper](<https://arxiv.org/abs/2504.09848>) | N/A | [29](<https://openalex.org/W4415158318>) |
+| 2025 | A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.07070>) | N/A | [29](<https://openalex.org/W4417248785>) |
+| 2024 | How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey | arXiv | [paper](<https://arxiv.org/abs/2404.00938>) | N/A | [29](<https://openalex.org/W4398160853>) |
+| 2024 | LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.14558>) | N/A | [29](<https://openalex.org/W4392120907>) |
+| 2024 | Evaluating Large Language Models on Academic Literature Understanding and Review: An Empirical Study among Early-stage Scholars | CHI | [paper](<https://doi.org/10.1145/3613904.3641917>) | N/A | [29](<https://openalex.org/W4396832709>) |
+| 2025 | A Survey on Retrieval And Structuring Augmented Generation with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.10697>) | N/A | [28](<https://openalex.org/W4412875490>) |
+| 2025 | Large Language Models in Argument Mining: A Survey | arXiv | [paper](<https://arxiv.org/abs/2506.16383>) | N/A | [28](<https://openalex.org/W4416763253>) |
+| 2025 | LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2505.19240>) | [code](<https://github.com/a-kostikova/LLLMs-Survey>) | [28](<https://openalex.org/W7134182271>) ([⭐ 4](<https://github.com/a-kostikova/LLLMs-Survey>)) |
+| 2025 | Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.14520>) | N/A | [28](<https://openalex.org/W7133818764>) |
+| 2025 | Bias in Large Language Models Across Clinical Applications: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.02917>) | N/A | [28](<https://openalex.org/W4415976151>) |
+| 2025 | A Survey on Mathematical Reasoning and Optimization with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.17726>) | N/A | [28](<https://openalex.org/W7172394695>) |
+| 2025 | LLMs Working in Harmony: A Survey on the Technological Aspects of Building Effective LLM-Based Multi Agent Systems | arXiv | [paper](<https://arxiv.org/abs/2504.01963>) | N/A | [28](<https://openalex.org/W4409319509>) |
+| 2024 | Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments | arXiv | [paper](<https://arxiv.org/abs/2412.00323>) | N/A | [28](<https://openalex.org/W4410357157>) |
+| 2024 | Evolutionary Large Language Models for Hardware Security: A Comparative Survey | arXiv | [paper](<https://arxiv.org/abs/2404.16651>) | N/A | [28](<https://openalex.org/W4399487583>) |
+| 2025 | Agentic Software Issue Resolution with Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2512.22256>) | N/A | [27](<https://openalex.org/W7117808524>) |
+| 2025 | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction | arXiv | [paper](<https://arxiv.org/abs/2508.05294>) | N/A | [27](<https://openalex.org/W7135167886>) |
+| 2025 | Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications | arXiv | [paper](<https://arxiv.org/abs/2508.00669>) | N/A | [27](<https://openalex.org/W4416058466>) |
 
 Pages: [1](subjects-llm.md) · 2 · [3](subjects-llm-3.md) · [4](subjects-llm-4.md) · [5](subjects-llm-5.md)

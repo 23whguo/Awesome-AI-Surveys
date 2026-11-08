@@ -1,5 +1,10 @@
 # domains: healthcare
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](domains-healthcare-2.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,20 +13,20 @@
 
 Pages: [1](domains-healthcare.md) · 2
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2024 | When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.07834>) | N/A |
-| 2023 | An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives | EMNLP | [paper](<https://aclanthology.org/2023.emnlp-main.698>) | [code](<https://github.com/jeffreych0/mental_chatbot_survey>) |
-| 2023 | Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study | SIGIR | [paper](<https://doi.org/10.1145/3539618.3591918>) | [code](<https://github.com/joakimedin/medical-coding-reproducibility>) |
-| 2023 | BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis | SIGIR | [paper](<https://doi.org/10.1145/3539618.3591897>) | N/A |
-| 2022 | From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search | SIGIR | [paper](<https://doi.org/10.1145/3477495.3531748>) | [code](<https://github.com/ielab/sysrev-seed-collection>) |
-| 2022 | Robot-Assisted Medical Imaging: A Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2022.3162840>) | N/A |
-| 2021 | A Review of Deep Learning in Medical Imaging: Imaging Traits, Technology Trends, Case Studies With Progress Highlights, and Future Promises | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2021.3054390>) | N/A |
-| 2021 | A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.3027314>) | N/A |
-| 2021 | Deep Learning for Multigrade Brain Tumor Classification in Smart Healthcare Systems: A Prospective Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.2995800>) | N/A |
-| 2020 | Machine Learning in Mental Health: A Systematic Review of the HCI Literature to Support the Development of Effective and Implementable ML Systems | TOCHI | [paper](<https://doi.org/10.1145/3398069>) | N/A |
-| 2017 | Retrieval From and Understanding of Large-Scale Multi-modal Medical Datasets: A Review | TMM | [paper](<https://doi.org/10.1109/TMM.2017.2729400>) | N/A |
-| 2013 | Active learning-based information structure analysis of full scientific articles and two applications for biomedical literature review | Bioinformatics | [paper](<https://doi.org/10.1093/bioinformatics/btt163>) | N/A |
-| 2009 | Overview of the First Workshop on Medical Content-Based Retrieval for Clinical Decision Support at MICCAI 2009 | MICCAI | [paper](<https://doi.org/10.1007/978-3-642-11769-5_1>) | N/A |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2024 | Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.16340>) | N/A | N/A |
+| 2024 | PINNs for Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.01026>) | N/A | N/A |
+| 2024 | Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2407.16804>) | N/A | N/A |
+| 2024 | Bridging Data Gaps in Healthcare: A Scoping Review of Transfer Learning in Biomedical Data Analysis | arXiv | [paper](<https://arxiv.org/abs/2407.11034>) | N/A | N/A |
+| 2024 | A Survey on Trustworthiness in Foundation Models for Medical Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2407.15851>) | N/A | N/A |
+| 2024 | Review of Interpretable Machine Learning Models for Disease Prognosis | arXiv | [paper](<https://arxiv.org/abs/2405.11672>) | N/A | N/A |
+| 2024 | Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.01725>) | [code](<https://github.com/apple1986/Residual_Learning_For_Images>) | N/A ([⭐ 8](<https://github.com/apple1986/Residual_Learning_For_Images>)) |
+| 2024 | Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices | arXiv | [paper](<https://arxiv.org/abs/2405.01249>) | N/A | N/A |
+| 2024 | Large Language Model for Mental Health: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2403.15401>) | N/A | N/A |
+| 2024 | Medical Neural Architecture Search: Survey and Taxonomy | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/878>) | N/A | N/A |
+| 2023 | An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives | EMNLP | [paper](<https://aclanthology.org/2023.emnlp-main.698>) | [code](<https://github.com/jeffreych0/mental_chatbot_survey>) | N/A ([⭐ 5](<https://github.com/JeffreyCh0/mental_chatbot_survey>)) |
+| 2022 | From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search | SIGIR | [paper](<https://doi.org/10.1145/3477495.3531748>) | [code](<https://github.com/ielab/sysrev-seed-collection>) | N/A ([⭐ 11](<https://github.com/ielab/sysrev-seed-collection>)) |
+| 2020 | Machine Learning in Mental Health: A Systematic Review of the HCI Literature to Support the Development of Effective and Implementable ML Systems | TOCHI | [paper](<https://doi.org/10.1145/3398069>) | N/A | N/A |
 
 Pages: [1](domains-healthcare.md) · 2

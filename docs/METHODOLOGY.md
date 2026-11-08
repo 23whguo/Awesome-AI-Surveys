@@ -51,6 +51,18 @@ The [official announcement of 2025-10-31](https://blog.arxiv.org/2025/10/31/atte
 
 TechRxiv, Preprints.org, Zenodo, institutional repositories and publishers are possible future inputs. They are not represented as harvested sources in this release.
 
+## Citations, stars and display order
+
+The 引用 column follows Code and displays the OpenAlex citation count, followed by the displayed Code repository's GitHub Stars in parentheses when a GitHub repository can be identified. Each successful statistic links to its source. Missing/unmatched statistics remain N/A; a recorded zero remains 0.
+
+Citation lookup first batches source DOIs and arXiv DOI identifiers through the OpenAlex works API. A compatible title is required even when an identifier matches. Fallback title matching requires exact normalized titles, author evidence and compatible publication years. Where multiple compatible indexed editions are returned, the strongest identity match and then highest count are selected; counts are never summed because cited-by sets can overlap. Citation metrics come exclusively from OpenAlex.
+
+GitHub Stars are retrieved from the official repository API, using owner/repository parsed from the displayed Code URL. Subdirectory links refer to the containing repository; inaccessible repositories remain N/A. Repository ownership is not newly inferred from paper titles.
+
+GitHub Markdown does not execute sorting scripts, so every browsing page links between two generated views: citations descending (the default) and time descending. Chronology uses the displayed source year and, when available, the earliest supplied submission date among matched versions in that year. Records without a date follow dated records within their year; dates from other years are not substituted. Citation ties use chronology, title and ID; time ties use citations, title and ID. Unknown citation counts come last in citation views. Both views contain exactly the same catalog.
+
+Metrics have source URLs and per-response timestamps in data/metrics.json. Cached queries permit interrupted refreshes to resume. Run python scripts/metrics.py --refresh to update cached statistics before generating views. Network calls are not part of ordinary rendering or CI.
+
 ## Reproduction
 
 Python 3.10+ and its standard library are sufficient. No model API or network access is needed for generation.

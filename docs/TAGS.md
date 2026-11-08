@@ -1,5 +1,10 @@
 # Tags · 多维标签
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](TAGS.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../README.md) · [Categories](CATEGORIES.md)
 
 Tags use explicit title evidence. Missing tags do not establish absence; no incidental abstract mentions are promoted to tags.

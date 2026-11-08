@@ -1,5 +1,10 @@
 # domains: healthcare
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](domains-healthcare.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,207 +13,207 @@
 
 Pages: 1 · [2](domains-healthcare-2.md)
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2026 | A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2606.16153>) | [code](<https://github.com/andrew-pengyu/Awsome_MedSeg>) |
-| 2026 | A Data-Centric Review of Plant Disease Datasets: Taxonomy, Critical Analysis, Environmental Variability, and Implications for Precision Agriculture | arXiv | [paper](<https://arxiv.org/abs/2610.07087>) | N/A |
-| 2026 | A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education | arXiv | [paper](<https://arxiv.org/abs/2603.16204>) | N/A |
-| 2026 | A Scoping Review of LLM-as-a-Judge in Healthcare and the MedJUDGE Framework | arXiv | [paper](<https://arxiv.org/abs/2604.25933>) | N/A |
-| 2026 | AI chatbots versus human healthcare professionals: a systematic review and meta-analysis of empathy in patient care | arXiv | [paper](<https://arxiv.org/abs/2602.05628>) | N/A |
-| 2026 | AI-Powered Mental Health Chatbots in Africa: A Systematic Review and Culturally Adaptive Framework | arXiv | [paper](<https://arxiv.org/abs/2608.24890>) | N/A |
-| 2026 | Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning | arXiv | [paper](<https://arxiv.org/abs/2607.07761>) | N/A |
-| 2026 | An Underexplored Frontier: Large Language Models for Rare Disease Patient Education and Communication -- A scoping review | arXiv | [paper](<https://arxiv.org/abs/2604.14179>) | N/A |
-| 2026 | Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies | arXiv | [paper](<https://arxiv.org/abs/2608.05993>) | N/A |
-| 2026 | Clinical Document Metadata Extraction: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2601.09730>) | N/A |
-| 2026 | Deep Learning for Longitudinal Medical Imaging: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2610.08838>) | N/A |
-| 2026 | Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.21904>) | N/A |
-| 2026 | ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2604.02501>) | N/A |
-| 2026 | Edge Deep Learning in Computer Vision and Medical Diagnostics: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.06714>) | N/A |
-| 2026 | Evaluating Reliability in Machine Learning Models for Early Chronic Kidney Disease Prediction: A Systematic Review of Data Leakage and Predictor Stability | arXiv | [paper](<https://arxiv.org/abs/2607.11963>) | N/A |
-| 2026 | Evaluating Text-based Conversational Agents for Mental Health: A Systematic Review of Metrics, Methods and Usage Contexts | arXiv | [paper](<https://arxiv.org/abs/2602.17669>) | N/A |
-| 2026 | Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review | arXiv | [paper](<https://arxiv.org/abs/2606.02902>) | N/A |
-| 2026 | Improving the Clinical Generalizability of Machine Learning-Based Alzheimer's Disease Detection Across Domains and Modalities: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2611.08188>) | N/A |
-| 2026 | Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges | arXiv | [paper](<https://arxiv.org/abs/2608.18080>) | N/A |
-| 2026 | Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models | arXiv | [paper](<https://arxiv.org/abs/2608.26150>) | N/A |
-| 2026 | LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals | ACL | [paper](<https://aclanthology.org/2026.acl-long.2123>) | N/A |
-| 2026 | Looking at Radiology Report Generation through a Causal Lens: A Survey | ACL | [paper](<https://aclanthology.org/2026.acl-long.186>) | N/A |
-| 2026 | Machine Learning for Live-Birth Prediction After IVF/ICSI From Structured Clinical Data: A Systematic Review, Meta-Analysis, and Critical Appraisal | arXiv | [paper](<https://arxiv.org/abs/2611.07124>) | N/A |
-| 2026 | Medical Reasoning with Large Language Models: A Survey and MR-Bench | arXiv | [paper](<https://arxiv.org/abs/2604.08559>) | N/A |
-| 2026 | Mental Health Disorder Detection Beyond Social Media: A Systematic Review of Available Datasets | arXiv | [paper](<https://arxiv.org/abs/2607.03540>) | N/A |
-| 2026 | Quantitative Evidence Mining for Plausibility-Aware Biomedical AI: A Narrative Review and Conceptual Framework | arXiv | [paper](<https://arxiv.org/abs/2608.30393>) | N/A |
-| 2026 | Sample Size Calculations for Developing Clinical Prediction Models: Overview and pmsims R package | arXiv | [paper](<https://arxiv.org/abs/2602.23507>) | N/A |
-| 2026 | Task-Aligned Self-Supervised Learning for Medical Image Analysis: A Task-Oriented Review with Practical Design Guidelines | arXiv | [paper](<https://arxiv.org/abs/2605.23995>) | N/A |
-| 2026 | The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1210>) | [code](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>) |
-| 2026 | Toward Robust, Reproducible, and Widely Accessible Intracranial Speech Brain-Computer Interfaces: A Comprehensive Narrative Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12279>) | N/A |
-| 2026 | Towards Next-Generation Healthcare: A Survey of Medical Embodied AI for Perception, Decision-Making, and Action | arXiv | [paper](<https://arxiv.org/abs/2606.15647>) | [code](<https://github.com/VMVLab/Medical_Embodied_AI_Paper_List>) |
-| 2026 | Trust Stack for Mental Health AI: A Survey of Calibration across Human, Interaction, and AI Layers | arXiv | [paper](<https://arxiv.org/abs/2604.20166>) | N/A |
-| 2026 | Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation | arXiv | [paper](<https://arxiv.org/abs/2607.07219>) | N/A |
-| 2025 | A Comprehensive Review of Datasets for Clinical Mental Health AI Systems | arXiv | [paper](<https://arxiv.org/abs/2508.09809>) | N/A |
-| 2025 | A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2505.14715>) | N/A |
-| 2025 | A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.12774>) | N/A |
-| 2025 | A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.356>) | N/A |
-| 2025 | A Large Language Model Based Pipeline for Review of Systems Entity Recognition from Clinical Notes | arXiv | [paper](<https://arxiv.org/abs/2506.11067>) | N/A |
-| 2025 | A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2510.12444>) | N/A |
-| 2025 | A Scoping Review of Natural Language Processing in Addressing Medically Inaccurate Information: Errors, Misinformation, and Hallucination | arXiv | [paper](<https://arxiv.org/abs/2505.00008>) | N/A |
-| 2025 | A Scoping Review of Synthetic Data Generation by Language Models in Biomedical Research and Application: Data Utility and Quality Perspectives | arXiv | [paper](<https://arxiv.org/abs/2506.16594>) | N/A |
-| 2025 | A Survey of Medical Point Cloud Shape Learning: Registration, Reconstruction and Variation | arXiv | [paper](<https://arxiv.org/abs/2508.03057>) | N/A |
-| 2025 | A Survey of Pathology Foundation Model: Progress and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1193>) | [code](<https://github.com/BearCleverProud/AwesomeWSI>) |
-| 2025 | A Survey on Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluation Tasks | arXiv | [paper](<https://arxiv.org/abs/2501.15724>) | N/A |
-| 2025 | A Survey on LLM-Assisted Clinical Trial Recruitment | arXiv | [paper](<https://arxiv.org/abs/2506.15301>) | N/A |
-| 2025 | A Survey on Medical Image Compression: From Traditional to Learning-Based Approaches | arXiv | [paper](<https://arxiv.org/abs/2507.10615>) | N/A |
-| 2025 | A Survey on Unifying Large Language Models and Knowledge Graphs for Biomedicine and Healthcare | KDD | [paper](<https://doi.org/10.1145/3711896.3736556>) | N/A |
-| 2025 | A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application | arXiv | [paper](<https://arxiv.org/abs/2501.08585>) | N/A |
-| 2025 | A Systematic Review of User-Centred Evaluation of Explainable AI in Healthcare | arXiv | [paper](<https://arxiv.org/abs/2506.13904>) | N/A |
-| 2025 | A Systematic Review on the Generative AI Applications in Human Medical Genomics | arXiv | [paper](<https://arxiv.org/abs/2508.20275>) | N/A |
-| 2025 | Advancements and Challenges in Quantum Machine Learning for Medical Image Classification: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.13910>) | N/A |
-| 2025 | Advances in Medical Image Segmentation: A Comprehensive Survey with a Focus on Lumbar Spine Applications | arXiv | [paper](<https://arxiv.org/abs/2510.03318>) | N/A |
-| 2025 | AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol | arXiv | [paper](<https://arxiv.org/abs/2503.07540>) | N/A |
-| 2025 | Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review | ACL | [paper](<https://aclanthology.org/2025.acl-long.45>) | N/A |
-| 2025 | Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2504.21189>) | N/A |
-| 2025 | Artificial intelligence-enabled detection and assessment of Parkinson's disease using multimodal data: A survey | arXiv | [paper](<https://arxiv.org/abs/2502.10703>) | N/A |
-| 2025 | Bias in Large Language Models Across Clinical Applications: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.02917>) | N/A |
-| 2025 | Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications | arXiv | [paper](<https://arxiv.org/abs/2501.11632>) | N/A |
-| 2025 | Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.350>) | N/A |
-| 2025 | Challenges and proposed solutions in modeling multimodal medical data: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2505.06945>) | N/A |
-| 2025 | Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.13638>) | N/A |
-| 2025 | Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging | arXiv | [paper](<https://arxiv.org/abs/2503.16543>) | N/A |
-| 2025 | Deep Learning Approaches for Medical Imaging Under Varying Degrees of Label Availability: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.11588>) | N/A |
-| 2025 | Deep Learning in Early Alzheimer's disease's Detection: A Comprehensive Survey of Classification, Segmentation, and Feature Extraction Methods | arXiv | [paper](<https://arxiv.org/abs/2501.15293>) | N/A |
-| 2025 | DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.01257>) | N/A |
-| 2025 | Efficacy Analysis in Clinical Trials: A Comprehensive Review of Statistical and Machine Learning Approaches | arXiv | [paper](<https://arxiv.org/abs/2511.04903>) | N/A |
-| 2025 | Entangled Relations: Leveraging NLI and Meta-analysis to Enhance Biomedical Relation Extraction | NAACL | [paper](<https://aclanthology.org/2025.naacl-long.165>) | N/A |
-| 2025 | Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications | arXiv | [paper](<https://arxiv.org/abs/2510.17764>) | N/A |
-| 2025 | Evaluation of State-of-the-Art Deep Learning Techniques for Plant Disease and Pest Detection | arXiv | [paper](<https://arxiv.org/abs/2508.08317>) | N/A |
-| 2025 | Explainable AI for Clinical Outcome Prediction: A Survey of Clinician Perceptions and Preferences | arXiv | [paper](<https://arxiv.org/abs/2502.20478>) | N/A |
-| 2025 | Explainable Artificial Intelligence in Biomedical Image Analysis: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.07148>) | N/A |
-| 2025 | Exploring the Role of Mental Health Conversational Agents in Training Medical Students and Professionals: A Systematic Literature Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1069>) | N/A |
-| 2025 | Federated Learning for Large Models in Medical Imaging: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2508.20414>) | N/A |
-| 2025 | Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact | arXiv | [paper](<https://arxiv.org/abs/2502.08333>) | N/A |
-| 2025 | Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2510.16973>) | N/A |
-| 2025 | Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches | arXiv | [paper](<https://arxiv.org/abs/2506.10825>) | N/A |
-| 2025 | Generalizable and Explainable Deep Learning for Medical Image Computing: An Overview | arXiv | [paper](<https://arxiv.org/abs/2503.08420>) | N/A |
-| 2025 | Is the medical image segmentation problem solved? A survey of current developments and future directions | arXiv | [paper](<https://arxiv.org/abs/2508.20139>) | [code](<https://github.com/apple1986/medicalSegReview>) |
-| 2025 | Keeping Medical AI Healthy and Trustworthy: A Review of Detection and Correction Methods for System Degradation | arXiv | [paper](<https://arxiv.org/abs/2506.17442>) | N/A |
-| 2025 | Large Language Models for Healthcare Text Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.01159>) | N/A |
-| 2025 | Machine Learning-Based Analysis of ECG and PCG Signals for Rheumatic Heart Disease Detection: A Scoping Review (2015-2025) | arXiv | [paper](<https://arxiv.org/abs/2505.18182>) | N/A |
-| 2025 | Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2507.16876>) | N/A |
-| 2025 | Medical Applications of Graph Convolutional Networks Using Electronic Health Records: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.09781>) | N/A |
-| 2025 | Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications | arXiv | [paper](<https://arxiv.org/abs/2508.00669>) | N/A |
-| 2025 | Multi-Modal Foundation Models for Computational Pathology: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.09091>) | N/A |
-| 2025 | Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection | arXiv | [paper](<https://arxiv.org/abs/2501.09506>) | N/A |
-| 2025 | Natural Language Generation in Healthcare: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2505.04073>) | N/A |
-| 2025 | Physical foundations for trustworthy medical imaging: a review for artificial intelligence researchers | arXiv | [paper](<https://arxiv.org/abs/2505.02843>) | N/A |
-| 2025 | Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective | arXiv | [paper](<https://arxiv.org/abs/2501.03305>) | N/A |
-| 2025 | Privacy Challenges and Solutions in Retrieval-Augmented Generation-Enhanced LLMs for Healthcare Chatbots: A Review of Applications, Risks, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2511.11347>) | N/A |
-| 2025 | QA Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings | ACL | [paper](<https://aclanthology.org/2025.acl-srw.89>) | [code](<https://github.com/kentrachmat/survey-da>) |
-| 2025 | Reasoning LLMs in the Medical Domain: A Literature Survey | arXiv | [paper](<https://arxiv.org/abs/2508.19097>) | N/A |
-| 2025 | Recent Advances in Medical Imaging Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.09274>) | [code](<https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation>) |
-| 2025 | Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications | arXiv | [paper](<https://arxiv.org/abs/2505.01146>) | N/A |
-| 2025 | Retrieval-Augmented Generation in Medicine: A Scoping Review of Technical Implementations, Clinical Applications, and Ethical Considerations | arXiv | [paper](<https://arxiv.org/abs/2511.05901>) | N/A |
-| 2025 | Risks &amp; Benefits of LLMs &amp; GenAI for Platform Integrity, Healthcare Diagnostics, Financial Trust and Compliance, Cybersecurity, Privacy &amp; AI Safety: A Comprehensive Survey, Roadmap &amp; Implementation Blueprint | arXiv | [paper](<https://arxiv.org/abs/2506.12088>) | N/A |
-| 2025 | Survey of AI-Powered Approaches for Osteoporosis Diagnosis in Medical Imaging | arXiv | [paper](<https://arxiv.org/abs/2510.00061>) | N/A |
-| 2025 | Systematic Literature Review on Clinical Trial Eligibility Matching | arXiv | [paper](<https://arxiv.org/abs/2503.00863>) | N/A |
-| 2025 | Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.18378>) | [code](<https://github.com/haonenglin/Awesome-VLM-for-MIA>) |
-| 2025 | The order in speech disorder: a scoping review of state of the art machine learning methods for clinical speech classification | arXiv | [paper](<https://arxiv.org/abs/2503.04802>) | N/A |
-| 2025 | The Rise of Small Language Models in Healthcare: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.17119>) | N/A |
-| 2025 | The Transition from Centralized Machine Learning to Federated Learning for Mental Health in Education: A Survey of Current Methods and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.11714>) | N/A |
-| 2025 | Towards Human-AI-Robot Collaboration and AI-Agent based Digital Twins for Parkinson's Disease Management: Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2511.06036>) | N/A |
-| 2025 | Trustworthy Medical Question Answering: An Evaluation-Centric Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1398>) | N/A |
-| 2025 | Uncertainty Quantification for Machine Learning in Healthcare: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02874>) | N/A |
-| 2024 | A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond | arXiv | [paper](<https://arxiv.org/abs/2410.02362>) | N/A |
-| 2024 | A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry | arXiv | [paper](<https://arxiv.org/abs/2404.15777>) | N/A |
-| 2024 | A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.14496>) | N/A |
-| 2024 | A Novel Zero-Trust Machine Learning Green Architecture for Healthcare IoT Cybersecurity: Review, Analysis, and Implementation | arXiv | [paper](<https://arxiv.org/abs/2401.07368>) | N/A |
-| 2024 | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | arXiv | [paper](<https://arxiv.org/abs/2405.18387>) | N/A |
-| 2024 | A review of deep learning-based information fusion techniques for multimodal medical image classification | arXiv | [paper](<https://arxiv.org/abs/2404.15022>) | N/A |
-| 2024 | A Review on Generative AI Models for Synthetic Medical Text, Time Series, and Longitudinal Data | arXiv | [paper](<https://arxiv.org/abs/2411.12274>) | N/A |
-| 2024 | A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences | arXiv | [paper](<https://arxiv.org/abs/2412.03531>) | N/A |
-| 2024 | A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation | arXiv | [paper](<https://arxiv.org/abs/2412.19688>) | N/A |
-| 2024 | A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs) | arXiv | [paper](<https://arxiv.org/abs/2405.03066>) | N/A |
-| 2024 | A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2405.13082>) | N/A |
-| 2024 | A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data | arXiv | [paper](<https://arxiv.org/abs/2405.12833>) | N/A |
-| 2024 | A Survey of Few-Shot Learning for Biomedical Time Series | arXiv | [paper](<https://arxiv.org/abs/2405.02485>) | N/A |
-| 2024 | A Survey of Medical Vision-and-Language Applications and Their Techniques | arXiv | [paper](<https://arxiv.org/abs/2411.12195>) | [code](<https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey>) |
-| 2024 | A Survey on Domain Generalization for Medical Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2402.05035>) | [code](<https://github.com/Ziwei-Niu/DG_for_MedIA>) |
-| 2024 | A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law | arXiv | [paper](<https://arxiv.org/abs/2405.01769>) | [code](<https://github.com/czyssrs/LLM_X_papers>) |
-| 2024 | A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2406.10303>) | N/A |
-| 2024 | A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2406.03712>) | N/A |
-| 2024 | A Survey on Trustworthiness in Foundation Models for Medical Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2407.15851>) | N/A |
-| 2024 | A Systematic Review of Generalization Research in Medical Image Classification | arXiv | [paper](<https://arxiv.org/abs/2403.12167>) | N/A |
-| 2024 | A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications | arXiv | [paper](<https://arxiv.org/abs/2408.02686>) | N/A |
-| 2024 | Advancing Histopathology with Deep Learning Under Data Scarcity: A Decade in Review | arXiv | [paper](<https://arxiv.org/abs/2410.19820>) | N/A |
-| 2024 | AI for the prediction of early stages of Alzheimer's disease from neuroimaging biomarkers -- A narrative review of a growing field | arXiv | [paper](<https://arxiv.org/abs/2406.17822>) | N/A |
-| 2024 | AI-Driven Healthcare: A Review on Ensuring Fairness and Mitigating Bias | arXiv | [paper](<https://arxiv.org/abs/2407.19655>) | N/A |
-| 2024 | Applications of artificial intelligence in the analysis of histopathology images of gliomas: a review | arXiv | [paper](<https://arxiv.org/abs/2401.15022>) | N/A |
-| 2024 | Applying and Evaluating Large Language Models in Mental Health Care: A Scoping Review of Human-Assessed Generative Tasks | arXiv | [paper](<https://arxiv.org/abs/2408.11288>) | N/A |
-| 2024 | Artificial Intelligence for Infectious Disease Prediction and Prevention: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2411.10486>) | N/A |
-| 2024 | Artificial intelligence techniques in inherited retinal diseases: A review | arXiv | [paper](<https://arxiv.org/abs/2410.09105>) | N/A |
-| 2024 | Automated Radiology Report Generation: A Review of Recent Advances | arXiv | [paper](<https://arxiv.org/abs/2405.10842>) | N/A |
-| 2024 | Bias Assessment and Data Drift Detection in Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.17800>) | N/A |
-| 2024 | Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods | arXiv | [paper](<https://arxiv.org/abs/2408.03393>) | N/A |
-| 2024 | Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.05517>) | N/A |
-| 2024 | Bridging Data Gaps in Healthcare: A Scoping Review of Transfer Learning in Biomedical Data Analysis | arXiv | [paper](<https://arxiv.org/abs/2407.11034>) | N/A |
-| 2024 | Chapter 7 Review of Data-Driven Generative AI Models for Knowledge Extraction from Scientific Literature in Healthcare | arXiv | [paper](<https://arxiv.org/abs/2411.11635>) | N/A |
-| 2024 | Clinical Document Corpora -- Real Ones, Translated and Synthetic Substitutes, and Assorted Domain Proxies: A Survey of Diversity in Corpus Design, with Focus on German Text Data | arXiv | [paper](<https://arxiv.org/abs/2412.00230>) | N/A |
-| 2024 | Clinical Insights: A Comprehensive Review of Language Models in Medicine | arXiv | [paper](<https://arxiv.org/abs/2408.11735>) | N/A |
-| 2024 | Clinical translation of machine learning algorithms for seizure detection in scalp electroencephalography: systematic review | arXiv | [paper](<https://arxiv.org/abs/2404.15332>) | N/A |
-| 2024 | Continual Learning in Medical Imaging: A Survey and Practical Analysis | arXiv | [paper](<https://arxiv.org/abs/2405.13482>) | [code](<https://github.com/BioMedIA-MBZUAI/awesome-cl-in-medical>) |
-| 2024 | Deep Interactive Segmentation of Medical Images: A Systematic Review and Taxonomy | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3452629>) | N/A |
-| 2024 | Deep learning with noisy labels in medical prediction problems: a scoping review | arXiv | [paper](<https://arxiv.org/abs/2403.13111>) | N/A |
-| 2024 | Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering | arXiv | [paper](<https://arxiv.org/abs/2401.07510>) | N/A |
-| 2024 | Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.01725>) | [code](<https://github.com/apple1986/Residual_Learning_For_Images>) |
-| 2024 | Disease Outbreak Detection and Forecasting: A Review of Methods and Data Sources | arXiv | [paper](<https://arxiv.org/abs/2410.17290>) | N/A |
-| 2024 | Domain Generalization for Medical Image Analysis: A Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2024.3507831>) | N/A |
-| 2024 | Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images | arXiv | [paper](<https://arxiv.org/abs/2401.07020>) | N/A |
-| 2024 | Evaluating large language models in medical applications: a survey | arXiv | [paper](<https://arxiv.org/abs/2405.07468>) | N/A |
-| 2024 | Evaluation of Large Language Models for Summarization Tasks in the Medical Domain: A Narrative Review | arXiv | [paper](<https://arxiv.org/abs/2409.18170>) | N/A |
-| 2024 | Explainable Artificial Intelligence for Medical Applications: A Review | arXiv | [paper](<https://arxiv.org/abs/2412.01829>) | N/A |
-| 2024 | Federated Learning in Healthcare: Model Misconducts, Security, Challenges, Applications, and Future Research Directions -- A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2405.13832>) | N/A |
-| 2024 | Foundation Models for Biomedical Image Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2401.07654>) | N/A |
-| 2024 | From Model Based to Learned Regularization in Medical Image Registration: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2412.15740>) | N/A |
-| 2024 | Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.16340>) | N/A |
-| 2024 | Generative AI for Synthetic Data Across Multiple Medical Modalities: A Systematic Review of Recent Developments and Challenges | arXiv | [paper](<https://arxiv.org/abs/2407.00116>) | N/A |
-| 2024 | Generative AI-Driven Human Digital Twin in IoT-Healthcare: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2401.13699>) | N/A |
-| 2024 | Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2408.12880>) | N/A |
-| 2024 | Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2407.17844>) | N/A |
-| 2024 | Large Language Model for Mental Health: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2403.15401>) | N/A |
-| 2024 | Large Language Models for Disease Diagnosis: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2409.00097>) | N/A |
-| 2024 | Large Language Models in Biomedical and Health Informatics: A Review with Bibliometric Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.16303>) | N/A |
-| 2024 | Large language models in healthcare and medical domain: A review | arXiv | [paper](<https://arxiv.org/abs/2401.06775>) | N/A |
-| 2024 | Large Language Models in Mental Health Care: a Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2401.02984>) | N/A |
-| 2024 | Machine Learning Applications in Medical Prognostics: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2408.02344>) | N/A |
-| 2024 | Machine Learning for Healthcare-IoT Security: A Review and Risk Mitigation | arXiv | [paper](<https://arxiv.org/abs/2401.09124>) | N/A |
-| 2024 | Medical Artificial Intelligence for Early Detection of Lung Cancer: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.14769>) | [code](<https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection>) |
-| 2024 | Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges | ACL | [paper](<https://aclanthology.org/2024.findings-acl.167>) | N/A |
-| 2024 | Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges | arXiv | [paper](<https://arxiv.org/abs/2405.10630>) | N/A |
-| 2024 | Medical Image Registration and Its Application in Retinal Images: A Review | arXiv | [paper](<https://arxiv.org/abs/2403.16502>) | N/A |
-| 2024 | Medical Neural Architecture Search: Survey and Taxonomy | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/878>) | N/A |
-| 2024 | Multimodal Machine Learning in Image-Based and Clinical Biomedicine: Survey and Prospects | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02032-8>) | N/A |
-| 2024 | Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2407.16804>) | N/A |
-| 2024 | Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.22180>) | N/A |
-| 2024 | Navigating Distribution Shifts in Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.05824>) | N/A |
-| 2024 | Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications | arXiv | [paper](<https://arxiv.org/abs/2411.03782>) | N/A |
-| 2024 | Neural Radiance Fields in Medical Imaging: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.17797>) | N/A |
-| 2024 | Optimization of Convolutional Neural Network Hyperparameter for Medical Image Diagnosis using Metaheuristic Algorithms: A short Recent Review (2019-2022) | arXiv | [paper](<https://arxiv.org/abs/2412.17956>) | N/A |
-| 2024 | Out-of-distribution Detection in Medical Image Analysis: A survey | arXiv | [paper](<https://arxiv.org/abs/2404.18279>) | N/A |
-| 2024 | Physics-Inspired Generative Models in Medical Imaging: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.10856>) | N/A |
-| 2024 | PINNs for Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.01026>) | N/A |
-| 2024 | Prediction and Detection of Terminal Diseases Using Internet of Medical Things: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.00034>) | N/A |
-| 2024 | Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2412.03924>) | N/A |
-| 2024 | Promoting AI Competencies for Medical Students: A Scoping Review on Frameworks, Programs, and Tools | arXiv | [paper](<https://arxiv.org/abs/2407.18939>) | N/A |
-| 2024 | Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices | arXiv | [paper](<https://arxiv.org/abs/2405.01249>) | N/A |
-| 2024 | Rapid Review of Generative AI in Smart Medical Applications | arXiv | [paper](<https://arxiv.org/abs/2406.06627>) | N/A |
-| 2024 | Review of Interpretable Machine Learning Models for Disease Prognosis | arXiv | [paper](<https://arxiv.org/abs/2405.11672>) | N/A |
-| 2024 | Review of multimodal machine learning approaches in healthcare | arXiv | [paper](<https://arxiv.org/abs/2402.02460>) | N/A |
-| 2024 | Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain | arXiv | [paper](<https://arxiv.org/abs/2406.16143>) | N/A |
-| 2024 | Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks | arXiv | [paper](<https://arxiv.org/abs/2410.02331>) | N/A |
-| 2024 | Self-Supervised Learning for Graph-Structured Data in Healthcare Applications: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2412.05312>) | N/A |
-| 2024 | SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey | arXiv | [paper](<https://arxiv.org/abs/2410.11859>) | N/A |
-| 2024 | The Era of Foundation Models in Medical Imaging is Approaching : A Scoping Review of the Clinical Value of Large-Scale Generative AI Applications in Radiology | arXiv | [paper](<https://arxiv.org/abs/2409.12973>) | N/A |
-| 2024 | The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs) | arXiv | [paper](<https://arxiv.org/abs/2403.14473>) | N/A |
-| 2024 | The Role of Language Models in Modern Healthcare: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2409.16860>) | N/A |
-| 2024 | U-Net in Medical Image Segmentation: A Review of Its Applications Across Modalities | arXiv | [paper](<https://arxiv.org/abs/2412.02242>) | N/A |
-| 2024 | Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.12889>) | [code](<https://github.com/YichiZhang98/SAM4MIS>) |
-| 2024 | Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review | arXiv | [paper](<https://arxiv.org/abs/2403.02469>) | N/A |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2021 | A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.3027314>) | N/A | [2,868](<https://openalex.org/W2958089299>) |
+| 2021 | A Review of Deep Learning in Medical Imaging: Imaging Traits, Technology Trends, Case Studies With Progress Highlights, and Future Promises | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2021.3054390>) | N/A | [1,373](<https://openalex.org/W3074741277>) |
+| 2024 | Large language models in healthcare and medical domain: A review | arXiv | [paper](<https://arxiv.org/abs/2401.06775>) | N/A | [520](<https://openalex.org/W4401386758>) |
+| 2024 | The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs) | arXiv | [paper](<https://arxiv.org/abs/2403.14473>) | N/A | [455](<https://openalex.org/W4393119065>) |
+| 2021 | Deep Learning for Multigrade Brain Tumor Classification in Smart Healthcare Systems: A Prospective Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.2995800>) | N/A | [411](<https://openalex.org/W3040617750>) |
+| 2024 | A review of deep learning-based information fusion techniques for multimodal medical image classification | arXiv | [paper](<https://arxiv.org/abs/2404.15022>) | N/A | [321](<https://openalex.org/W4398202743>) |
+| 2024 | Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review | arXiv | [paper](<https://arxiv.org/abs/2403.02469>) | N/A | [288](<https://openalex.org/W4404509535>) |
+| 2024 | AI-Driven Healthcare: A Review on Ensuring Fairness and Mitigating Bias | arXiv | [paper](<https://arxiv.org/abs/2407.19655>) | N/A | [261](<https://openalex.org/W4410540929>) |
+| 2024 | Large Language Models in Mental Health Care: a Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2401.02984>) | N/A | [220](<https://openalex.org/W4412925667>) |
+| 2026 | Edge Deep Learning in Computer Vision and Medical Diagnostics: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.06714>) | N/A | [186](<https://openalex.org/W4406488955>) |
+| 2024 | Large Language Models for Disease Diagnosis: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2409.00097>) | N/A | [182](<https://openalex.org/W4411147644>) |
+| 2024 | Generative AI for Synthetic Data Across Multiple Medical Modalities: A Systematic Review of Recent Developments and Challenges | arXiv | [paper](<https://arxiv.org/abs/2407.00116>) | N/A | [173](<https://openalex.org/W4408031728>) |
+| 2024 | Generative AI-Driven Human Digital Twin in IoT-Healthcare: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2401.13699>) | N/A | [167](<https://openalex.org/W4400933825>) |
+| 2024 | Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications | arXiv | [paper](<https://arxiv.org/abs/2411.03782>) | N/A | [160](<https://openalex.org/W4410882873>) |
+| 2024 | Domain Generalization for Medical Image Analysis: A Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2024.3507831>) | N/A | [153](<https://openalex.org/W4405092793>) |
+| 2024 | Machine Learning for Healthcare-IoT Security: A Review and Risk Mitigation | arXiv | [paper](<https://arxiv.org/abs/2401.09124>) | N/A | [143](<https://openalex.org/W4390120226>) |
+| 2026 | A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education | arXiv | [paper](<https://arxiv.org/abs/2603.16204>) | N/A | [142](<https://openalex.org/W4410565034>) |
+| 2025 | A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2505.14715>) | N/A | [138](<https://openalex.org/W4414088687>) |
+| 2024 | A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law | arXiv | [paper](<https://arxiv.org/abs/2405.01769>) | [code](<https://github.com/czyssrs/LLM_X_papers>) | [138](<https://openalex.org/W4396788662>) ([⭐ 55](<https://github.com/czyssrs/LLM_X_papers>)) |
+| 2024 | A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications | arXiv | [paper](<https://arxiv.org/abs/2408.02686>) | N/A | [118](<https://openalex.org/W4408867784>) |
+| 2024 | Multimodal Machine Learning in Image-Based and Clinical Biomedicine: Survey and Prospects | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02032-8>) | N/A | [112](<https://openalex.org/W4395037541>) |
+| 2024 | A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2406.03712>) | N/A | [111](<https://openalex.org/W4399454054>) |
+| 2022 | Robot-Assisted Medical Imaging: A Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2022.3162840>) | N/A | [108](<https://openalex.org/W4225960034>) |
+| 2026 | AI chatbots versus human healthcare professionals: a systematic review and meta-analysis of empathy in patient care | arXiv | [paper](<https://arxiv.org/abs/2602.05628>) | N/A | [105](<https://openalex.org/W4415407986>) |
+| 2024 | Automated Radiology Report Generation: A Review of Recent Advances | arXiv | [paper](<https://arxiv.org/abs/2405.10842>) | N/A | [104](<https://openalex.org/W4398157498>) |
+| 2024 | A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs) | arXiv | [paper](<https://arxiv.org/abs/2405.03066>) | N/A | [97](<https://openalex.org/W4396738493>) |
+| 2017 | Retrieval From and Understanding of Large-Scale Multi-modal Medical Datasets: A Review | TMM | [paper](<https://doi.org/10.1109/TMM.2017.2729400>) | N/A | [90](<https://openalex.org/W2737892366>) |
+| 2023 | Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study | SIGIR | [paper](<https://doi.org/10.1145/3539618.3591918>) | [code](<https://github.com/joakimedin/medical-coding-reproducibility>) | [89](<https://openalex.org/W4366835582>) ([⭐ 101](<https://github.com/JoakimEdin/medical-coding-reproducibility>)) |
+| 2024 | Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2408.12880>) | N/A | [84](<https://openalex.org/W4404517435>) |
+| 2024 | A Systematic Review of Generalization Research in Medical Image Classification | arXiv | [paper](<https://arxiv.org/abs/2403.12167>) | N/A | [83](<https://openalex.org/W4403572798>) |
+| 2024 | Large Language Models in Biomedical and Health Informatics: A Review with Bibliometric Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.16303>) | N/A | [78](<https://openalex.org/W4402538491>) |
+| 2024 | Explainable Artificial Intelligence for Medical Applications: A Review | arXiv | [paper](<https://arxiv.org/abs/2412.01829>) | N/A | [76](<https://openalex.org/W4405674053>) |
+| 2024 | A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data | arXiv | [paper](<https://arxiv.org/abs/2405.12833>) | N/A | [65](<https://openalex.org/W4410314652>) |
+| 2025 | Generalizable and Explainable Deep Learning for Medical Image Computing: An Overview | arXiv | [paper](<https://arxiv.org/abs/2503.08420>) | N/A | [61](<https://openalex.org/W4404360535>) |
+| 2025 | The Rise of Small Language Models in Healthcare: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.17119>) | N/A | [58](<https://openalex.org/W4416374889>) |
+| 2024 | Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks | arXiv | [paper](<https://arxiv.org/abs/2410.02331>) | N/A | [57](<https://openalex.org/W4403882865>) |
+| 2024 | A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry | arXiv | [paper](<https://arxiv.org/abs/2404.15777>) | N/A | [57](<https://openalex.org/W4395483680>) |
+| 2025 | Large Language Models for Healthcare Text Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.01159>) | N/A | [55](<https://openalex.org/W4415084322>) |
+| 2024 | Federated Learning in Healthcare: Model Misconducts, Security, Challenges, Applications, and Future Research Directions -- A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2405.13832>) | N/A | [55](<https://openalex.org/W4399029736>) |
+| 2024 | Out-of-distribution Detection in Medical Image Analysis: A survey | arXiv | [paper](<https://arxiv.org/abs/2404.18279>) | N/A | [55](<https://openalex.org/W4396820464>) |
+| 2024 | A Review on Generative AI Models for Synthetic Medical Text, Time Series, and Longitudinal Data | arXiv | [paper](<https://arxiv.org/abs/2411.12274>) | N/A | [51](<https://openalex.org/W4410415527>) |
+| 2025 | A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.356>) | N/A | [50](<https://openalex.org/W4416035162>) |
+| 2024 | Clinical Insights: A Comprehensive Review of Language Models in Medicine | arXiv | [paper](<https://arxiv.org/abs/2408.11735>) | N/A | [50](<https://openalex.org/W4410203956>) |
+| 2024 | Foundation Models for Biomedical Image Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2401.07654>) | N/A | [50](<https://openalex.org/W4390962384>) |
+| 2024 | Deep Interactive Segmentation of Medical Images: A Systematic Review and Taxonomy | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3452629>) | N/A | [50](<https://openalex.org/W4402040378>) |
+| 2024 | Applications of artificial intelligence in the analysis of histopathology images of gliomas: a review | arXiv | [paper](<https://arxiv.org/abs/2401.15022>) | N/A | [49](<https://openalex.org/W4391375217>) |
+| 2024 | Deep learning with noisy labels in medical prediction problems: a scoping review | arXiv | [paper](<https://arxiv.org/abs/2403.13111>) | N/A | [48](<https://openalex.org/W4399153297>) |
+| 2024 | Promoting AI Competencies for Medical Students: A Scoping Review on Frameworks, Programs, and Tools | arXiv | [paper](<https://arxiv.org/abs/2407.18939>) | N/A | [46](<https://openalex.org/W4401200997>) |
+| 2024 | AI for the prediction of early stages of Alzheimer's disease from neuroimaging biomarkers -- A narrative review of a growing field | arXiv | [paper](<https://arxiv.org/abs/2406.17822>) | N/A | [44](<https://openalex.org/W4399617857>) |
+| 2024 | Innovative Speech-Based Deep Learning Approaches for Parkinson's Disease Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2407.17844>) | N/A | [42](<https://openalex.org/W4402221087>) |
+| 2024 | Neural Radiance Fields in Medical Imaging: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.17797>) | N/A | [42](<https://openalex.org/W4392491625>) |
+| 2024 | A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond | arXiv | [paper](<https://arxiv.org/abs/2410.02362>) | N/A | [40](<https://openalex.org/W4403882898>) |
+| 2025 | Keeping Medical AI Healthy and Trustworthy: A Review of Detection and Correction Methods for System Degradation | arXiv | [paper](<https://arxiv.org/abs/2506.17442>) | N/A | [39](<https://openalex.org/W4417201877>) |
+| 2025 | Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective | arXiv | [paper](<https://arxiv.org/abs/2501.03305>) | N/A | [39](<https://openalex.org/W4387836851>) |
+| 2025 | Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.350>) | N/A | [39](<https://openalex.org/W4412888674>) |
+| 2025 | Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact | arXiv | [paper](<https://arxiv.org/abs/2502.08333>) | N/A | [37](<https://openalex.org/W4417315064>) |
+| 2025 | A Survey on Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluation Tasks | arXiv | [paper](<https://arxiv.org/abs/2501.15724>) | N/A | [36](<https://openalex.org/W4406880911>) |
+| 2024 | Rapid Review of Generative AI in Smart Medical Applications | arXiv | [paper](<https://arxiv.org/abs/2406.06627>) | N/A | [34](<https://openalex.org/W4399597498>) |
+| 2024 | Disease Outbreak Detection and Forecasting: A Review of Methods and Data Sources | arXiv | [paper](<https://arxiv.org/abs/2410.17290>) | N/A | [31](<https://openalex.org/W4405370858>) |
+| 2024 | Medical Artificial Intelligence for Early Detection of Lung Cancer: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.14769>) | [code](<https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection>) | [31](<https://openalex.org/W4412431196>) ([⭐ 7](<https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection>)) |
+| 2025 | Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications | arXiv | [paper](<https://arxiv.org/abs/2501.11632>) | N/A | [30](<https://openalex.org/W4406735844>) |
+| 2024 | Continual Learning in Medical Imaging: A Survey and Practical Analysis | arXiv | [paper](<https://arxiv.org/abs/2405.13482>) | [code](<https://github.com/BioMedIA-MBZUAI/awesome-cl-in-medical>) | [29](<https://openalex.org/W4417456879>) ([⭐ 32](<https://github.com/BioMedIA-MBZUAI/Awesome-CL-in-Medical>)) |
+| 2025 | Bias in Large Language Models Across Clinical Applications: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.02917>) | N/A | [28](<https://openalex.org/W4415976151>) |
+| 2024 | Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2412.03924>) | N/A | [28](<https://openalex.org/W4409094341>) |
+| 2024 | A Survey of Medical Vision-and-Language Applications and Their Techniques | arXiv | [paper](<https://arxiv.org/abs/2411.12195>) | [code](<https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey>) | [28](<https://openalex.org/W4404573654>) ([⭐ 37](<https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey>)) |
+| 2025 | Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications | arXiv | [paper](<https://arxiv.org/abs/2508.00669>) | N/A | [27](<https://openalex.org/W4416058466>) |
+| 2025 | Uncertainty Quantification for Machine Learning in Healthcare: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02874>) | N/A | [27](<https://openalex.org/W4415245822>) |
+| 2025 | Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications | arXiv | [paper](<https://arxiv.org/abs/2505.01146>) | N/A | [27](<https://openalex.org/W4417313874>) |
+| 2024 | A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2405.13082>) | N/A | [26](<https://openalex.org/W4407133993>) |
+| 2024 | A Survey of Few-Shot Learning for Biomedical Time Series | arXiv | [paper](<https://arxiv.org/abs/2405.02485>) | N/A | [26](<https://openalex.org/W4404101349>) |
+| 2024 | Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering | arXiv | [paper](<https://arxiv.org/abs/2401.07510>) | N/A | [26](<https://openalex.org/W4393264365>) |
+| 2025 | Advancements and Challenges in Quantum Machine Learning for Medical Image Classification: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.13910>) | N/A | [24](<https://openalex.org/W4409683592>) |
+| 2024 | Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges | arXiv | [paper](<https://arxiv.org/abs/2405.10630>) | N/A | [24](<https://openalex.org/W4402670788>) |
+| 2024 | A Novel Zero-Trust Machine Learning Green Architecture for Healthcare IoT Cybersecurity: Review, Analysis, and Implementation | arXiv | [paper](<https://arxiv.org/abs/2401.07368>) | N/A | [24](<https://openalex.org/W4395090270>) |
+| 2024 | Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges | ACL | [paper](<https://aclanthology.org/2024.findings-acl.167>) | N/A | [24](<https://openalex.org/W4402670788>) |
+| 2013 | Active learning-based information structure analysis of full scientific articles and two applications for biomedical literature review | Bioinformatics | [paper](<https://doi.org/10.1093/bioinformatics/btt163>) | N/A | [24](<https://openalex.org/W2138250184>) |
+| 2025 | Evaluation of State-of-the-Art Deep Learning Techniques for Plant Disease and Pest Detection | arXiv | [paper](<https://arxiv.org/abs/2508.08317>) | N/A | [23](<https://openalex.org/W4412951505>) |
+| 2025 | Deep Learning in Early Alzheimer's disease's Detection: A Comprehensive Survey of Classification, Segmentation, and Feature Extraction Methods | arXiv | [paper](<https://arxiv.org/abs/2501.15293>) | N/A | [22](<https://openalex.org/W4410693256>) |
+| 2024 | Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.12889>) | [code](<https://github.com/YichiZhang98/SAM4MIS>) | [22](<https://openalex.org/W4402699081>) ([⭐ 1,128](<https://github.com/YichiZhang98/SAM4MIS>)) |
+| 2024 | Medical Image Registration and Its Application in Retinal Images: A Review | arXiv | [paper](<https://arxiv.org/abs/2403.16502>) | N/A | [22](<https://openalex.org/W4401759745>) |
+| 2024 | A Survey on Domain Generalization for Medical Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2402.05035>) | [code](<https://github.com/Ziwei-Niu/DG_for_MedIA>) | [22](<https://openalex.org/W4391670419>) ([⭐ 114](<https://github.com/Ziwei-Niu/Generalized_MedIA>)) |
+| 2024 | Physics-Inspired Generative Models in Medical Imaging: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.10856>) | N/A | [21](<https://openalex.org/W4409990682>) |
+| 2024 | A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2406.10303>) | N/A | [21](<https://openalex.org/W7127160573>) |
+| 2009 | Overview of the First Workshop on Medical Content-Based Retrieval for Clinical Decision Support at MICCAI 2009 | MICCAI | [paper](<https://doi.org/10.1007/978-3-642-11769-5_1>) | N/A | [21](<https://openalex.org/W1588607794>) |
+| 2025 | A Scoping Review of Natural Language Processing in Addressing Medically Inaccurate Information: Errors, Misinformation, and Hallucination | arXiv | [paper](<https://arxiv.org/abs/2505.00008>) | N/A | [20](<https://openalex.org/W4412560083>) |
+| 2025 | A Survey on Unifying Large Language Models and Knowledge Graphs for Biomedicine and Healthcare | KDD | [paper](<https://doi.org/10.1145/3711896.3736556>) | N/A | [20](<https://openalex.org/W4412875459>) |
+| 2025 | A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.12774>) | N/A | [19](<https://openalex.org/W4415309788>) |
+| 2025 | Recent Advances in Medical Imaging Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.09274>) | [code](<https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation>) | [19](<https://openalex.org/W4414686784>) ([⭐ 68](<https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation>)) |
+| 2025 | Retrieval-Augmented Generation in Medicine: A Scoping Review of Technical Implementations, Clinical Applications, and Ethical Considerations | arXiv | [paper](<https://arxiv.org/abs/2511.05901>) | N/A | [18](<https://openalex.org/W4416237197>) |
+| 2025 | Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging | arXiv | [paper](<https://arxiv.org/abs/2503.16543>) | N/A | [17](<https://openalex.org/W4411535114>) |
+| 2025 | The Transition from Centralized Machine Learning to Federated Learning for Mental Health in Education: A Survey of Current Methods and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.11714>) | N/A | [17](<https://openalex.org/W4406730425>) |
+| 2024 | Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.05517>) | N/A | [17](<https://openalex.org/W4399158279>) |
+| 2024 | Evaluating large language models in medical applications: a survey | arXiv | [paper](<https://arxiv.org/abs/2405.07468>) | N/A | [17](<https://openalex.org/W4396913745>) |
+| 2024 | A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.14496>) | N/A | [16](<https://openalex.org/W4403709429>) |
+| 2025 | DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.01257>) | N/A | [15](<https://openalex.org/W4414895666>) |
+| 2024 | Navigating Distribution Shifts in Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.05824>) | N/A | [15](<https://openalex.org/W4404400257>) |
+| 2024 | SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey | arXiv | [paper](<https://arxiv.org/abs/2410.11859>) | N/A | [15](<https://openalex.org/W4403577031>) |
+| 2024 | Applying and Evaluating Large Language Models in Mental Health Care: A Scoping Review of Human-Assessed Generative Tasks | arXiv | [paper](<https://arxiv.org/abs/2408.11288>) | N/A | [15](<https://openalex.org/W4403012218>) |
+| 2024 | When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.07834>) | N/A | [15](<https://openalex.org/W4392781419>) |
+| 2025 | Natural Language Generation in Healthcare: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2505.04073>) | N/A | [14](<https://openalex.org/W7128538487>) |
+| 2025 | Multi-Modal Foundation Models for Computational Pathology: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.09091>) | N/A | [14](<https://openalex.org/W4414579737>) |
+| 2024 | Prediction and Detection of Terminal Diseases Using Internet of Medical Things: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.00034>) | N/A | [14](<https://openalex.org/W4407882372>) |
+| 2025 | A Scoping Review of Synthetic Data Generation by Language Models in Biomedical Research and Application: Data Utility and Quality Perspectives | arXiv | [paper](<https://arxiv.org/abs/2506.16594>) | N/A | [13](<https://openalex.org/W4417538946>) |
+| 2025 | Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches | arXiv | [paper](<https://arxiv.org/abs/2506.10825>) | N/A | [13](<https://openalex.org/W4414559655>) |
+| 2025 | A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application | arXiv | [paper](<https://arxiv.org/abs/2501.08585>) | N/A | [13](<https://openalex.org/W4406483015>) |
+| 2025 | Privacy Challenges and Solutions in Retrieval-Augmented Generation-Enhanced LLMs for Healthcare Chatbots: A Review of Applications, Risks, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2511.11347>) | N/A | [12](<https://openalex.org/W4416378424>) |
+| 2024 | A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences | arXiv | [paper](<https://arxiv.org/abs/2412.03531>) | N/A | [12](<https://openalex.org/W4405090796>) |
+| 2024 | Clinical translation of machine learning algorithms for seizure detection in scalp electroencephalography: systematic review | arXiv | [paper](<https://arxiv.org/abs/2404.15332>) | N/A | [12](<https://openalex.org/W4395484793>) |
+| 2024 | Review of multimodal machine learning approaches in healthcare | arXiv | [paper](<https://arxiv.org/abs/2402.02460>) | N/A | [12](<https://openalex.org/W4391591086>) |
+| 2024 | Advancing Histopathology with Deep Learning Under Data Scarcity: A Decade in Review | arXiv | [paper](<https://arxiv.org/abs/2410.19820>) | N/A | [11](<https://openalex.org/W4404313480>) |
+| 2025 | Advances in Medical Image Segmentation: A Comprehensive Survey with a Focus on Lumbar Spine Applications | arXiv | [paper](<https://arxiv.org/abs/2510.03318>) | N/A | [10](<https://openalex.org/W4414873494>) |
+| 2025 | A Survey of Pathology Foundation Model: Progress and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1193>) | [code](<https://github.com/BearCleverProud/AwesomeWSI>) | [10](<https://openalex.org/W4414359130>) ([⭐ 40](<https://github.com/BearCleverProud/AwesomeWSI>)) |
+| 2024 | Bias Assessment and Data Drift Detection in Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.17800>) | N/A | [10](<https://openalex.org/W4403796283>) |
+| 2024 | Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain | arXiv | [paper](<https://arxiv.org/abs/2406.16143>) | N/A | [10](<https://openalex.org/W4400023470>) |
+| 2025 | A Systematic Review of User-Centred Evaluation of Explainable AI in Healthcare | arXiv | [paper](<https://arxiv.org/abs/2506.13904>) | N/A | [9](<https://openalex.org/W4415109412>) |
+| 2025 | Challenges and proposed solutions in modeling multimodal medical data: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2505.06945>) | N/A | [9](<https://openalex.org/W4415276199>) |
+| 2025 | Physical foundations for trustworthy medical imaging: a review for artificial intelligence researchers | arXiv | [paper](<https://arxiv.org/abs/2505.02843>) | N/A | [9](<https://openalex.org/W4413969609>) |
+| 2024 | Self-Supervised Learning for Graph-Structured Data in Healthcare Applications: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2412.05312>) | N/A | [9](<https://openalex.org/W4407882209>) |
+| 2024 | Biomedical Image Segmentation: A Systematic Literature Review of Deep Learning Based Object Detection Methods | arXiv | [paper](<https://arxiv.org/abs/2408.03393>) | N/A | [9](<https://openalex.org/W4403622966>) |
+| 2024 | Machine Learning Applications in Medical Prognostics: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2408.02344>) | N/A | [9](<https://openalex.org/W4403369883>) |
+| 2025 | A Survey of Medical Point Cloud Shape Learning: Registration, Reconstruction and Variation | arXiv | [paper](<https://arxiv.org/abs/2508.03057>) | N/A | [8](<https://openalex.org/W7126025608>) |
+| 2025 | A Survey on Medical Image Compression: From Traditional to Learning-Based Approaches | arXiv | [paper](<https://arxiv.org/abs/2507.10615>) | N/A | [8](<https://openalex.org/W4414942774>) |
+| 2024 | From Model Based to Learned Regularization in Medical Image Registration: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2412.15740>) | N/A | [8](<https://openalex.org/W4415827922>) |
+| 2024 | Artificial Intelligence for Infectious Disease Prediction and Prevention: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2411.10486>) | N/A | [8](<https://openalex.org/W4406849152>) |
+| 2024 | Artificial intelligence techniques in inherited retinal diseases: A review | arXiv | [paper](<https://arxiv.org/abs/2410.09105>) | N/A | [8](<https://openalex.org/W4411792257>) |
+| 2026 | Medical Reasoning with Large Language Models: A Survey and MR-Bench | arXiv | [paper](<https://arxiv.org/abs/2604.08559>) | N/A | [7](<https://openalex.org/W7153979526>) |
+| 2025 | A Comprehensive Review of Datasets for Clinical Mental Health AI Systems | arXiv | [paper](<https://arxiv.org/abs/2508.09809>) | N/A | [7](<https://openalex.org/W4414457926>) |
+| 2025 | Machine Learning-Based Analysis of ECG and PCG Signals for Rheumatic Heart Disease Detection: A Scoping Review (2015-2025) | arXiv | [paper](<https://arxiv.org/abs/2505.18182>) | N/A | [7](<https://openalex.org/W4414580868>) |
+| 2025 | Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review | ACL | [paper](<https://aclanthology.org/2025.acl-long.45>) | N/A | [7](<https://openalex.org/W4412886891>) |
+| 2026 | Evaluating Text-based Conversational Agents for Mental Health: A Systematic Review of Metrics, Methods and Usage Contexts | arXiv | [paper](<https://arxiv.org/abs/2602.17669>) | N/A | [6](<https://openalex.org/W7131073696>) |
+| 2025 | Federated Learning for Large Models in Medical Imaging: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2508.20414>) | N/A | [6](<https://openalex.org/W4414448420>) |
+| 2025 | A Systematic Review on the Generative AI Applications in Human Medical Genomics | arXiv | [paper](<https://arxiv.org/abs/2508.20275>) | N/A | [6](<https://openalex.org/W4414442462>) |
+| 2025 | Explainable Artificial Intelligence in Biomedical Image Analysis: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.07148>) | N/A | [6](<https://openalex.org/W4416283359>) |
+| 2024 | Evaluation of Large Language Models for Summarization Tasks in the Medical Domain: A Narrative Review | arXiv | [paper](<https://arxiv.org/abs/2409.18170>) | N/A | [6](<https://openalex.org/W4403794932>) |
+| 2026 | Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges | arXiv | [paper](<https://arxiv.org/abs/2608.18080>) | N/A | [5](<https://openalex.org/W7117753069>) |
+| 2026 | A Scoping Review of LLM-as-a-Judge in Healthcare and the MedJUDGE Framework | arXiv | [paper](<https://arxiv.org/abs/2604.25933>) | N/A | [5](<https://openalex.org/W7159002155>) |
+| 2025 | Is the medical image segmentation problem solved? A survey of current developments and future directions | arXiv | [paper](<https://arxiv.org/abs/2508.20139>) | [code](<https://github.com/apple1986/medicalSegReview>) | [5](<https://openalex.org/W4414430483>) ([⭐ 25](<https://github.com/apple1986/medicalSegReview>)) |
+| 2025 | Reasoning LLMs in the Medical Domain: A Literature Survey | arXiv | [paper](<https://arxiv.org/abs/2508.19097>) | N/A | [5](<https://openalex.org/W4416677620>) |
+| 2025 | Risks &amp; Benefits of LLMs &amp; GenAI for Platform Integrity, Healthcare Diagnostics, Financial Trust and Compliance, Cybersecurity, Privacy &amp; AI Safety: A Comprehensive Survey, Roadmap &amp; Implementation Blueprint | arXiv | [paper](<https://arxiv.org/abs/2506.12088>) | N/A | [5](<https://openalex.org/W4417266631>) |
+| 2025 | Deep Learning Approaches for Medical Imaging Under Varying Degrees of Label Availability: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.11588>) | N/A | [5](<https://openalex.org/W4416540623>) |
+| 2024 | Optimization of Convolutional Neural Network Hyperparameter for Medical Image Diagnosis using Metaheuristic Algorithms: A short Recent Review (2019-2022) | arXiv | [paper](<https://arxiv.org/abs/2412.17956>) | N/A | [5](<https://openalex.org/W4405783477>) |
+| 2024 | Empowering Medical Imaging with Artificial Intelligence: A Review of Machine Learning Approaches for the Detection, and Segmentation of COVID-19 Using Radiographic and Tomographic Images | arXiv | [paper](<https://arxiv.org/abs/2401.07020>) | N/A | [5](<https://openalex.org/W4390961630>) |
+| 2025 | Medical Applications of Graph Convolutional Networks Using Electronic Health Records: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.09781>) | N/A | [4](<https://openalex.org/W4407632298>) |
+| 2025 | Entangled Relations: Leveraging NLI and Meta-analysis to Enhance Biomedical Relation Extraction | NAACL | [paper](<https://aclanthology.org/2025.naacl-long.165>) | N/A | [4](<https://openalex.org/W4411119905>) |
+| 2024 | The Role of Language Models in Modern Healthcare: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2409.16860>) | N/A | [4](<https://openalex.org/W4403784594>) |
+| 2026 | Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning | arXiv | [paper](<https://arxiv.org/abs/2607.07761>) | N/A | [3](<https://openalex.org/W4414190075>) |
+| 2026 | Toward Robust, Reproducible, and Widely Accessible Intracranial Speech Brain-Computer Interfaces: A Comprehensive Narrative Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12279>) | N/A | [3](<https://openalex.org/W7222837109>) |
+| 2025 | Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.13638>) | N/A | [3](<https://openalex.org/W4415276846>) |
+| 2025 | Trustworthy Medical Question Answering: An Evaluation-Centric Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1398>) | N/A | [3](<https://openalex.org/W4416073431>) |
+| 2025 | Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2504.21189>) | N/A | [3](<https://openalex.org/W4417522044>) |
+| 2025 | Explainable AI for Clinical Outcome Prediction: A Survey of Clinician Perceptions and Preferences | arXiv | [paper](<https://arxiv.org/abs/2502.20478>) | N/A | [3](<https://openalex.org/W4411256778>) |
+| 2025 | Artificial intelligence-enabled detection and assessment of Parkinson's disease using multimodal data: A survey | arXiv | [paper](<https://arxiv.org/abs/2502.10703>) | N/A | [3](<https://openalex.org/W4407684004>) |
+| 2024 | A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation | arXiv | [paper](<https://arxiv.org/abs/2412.19688>) | N/A | [3](<https://openalex.org/W4405903455>) |
+| 2024 | Clinical Document Corpora -- Real Ones, Translated and Synthetic Substitutes, and Assorted Domain Proxies: A Survey of Diversity in Corpus Design, with Focus on German Text Data | arXiv | [paper](<https://arxiv.org/abs/2412.00230>) | N/A | [3](<https://openalex.org/W4410364240>) |
+| 2024 | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | arXiv | [paper](<https://arxiv.org/abs/2405.18387>) | N/A | [3](<https://openalex.org/W4296886576>) |
+| 2026 | Towards Next-Generation Healthcare: A Survey of Medical Embodied AI for Perception, Decision-Making, and Action | arXiv | [paper](<https://arxiv.org/abs/2606.15647>) | [code](<https://github.com/VMVLab/Medical_Embodied_AI_Paper_List>) | [2](<https://openalex.org/W7164884989>) ([⭐ 16](<https://github.com/VMVLab/Medical_Embodied_AI_Paper_List>)) |
+| 2025 | Towards Human-AI-Robot Collaboration and AI-Agent based Digital Twins for Parkinson's Disease Management: Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2511.06036>) | N/A | [2](<https://openalex.org/W4416157079>) |
+| 2025 | Efficacy Analysis in Clinical Trials: A Comprehensive Review of Statistical and Machine Learning Approaches | arXiv | [paper](<https://arxiv.org/abs/2511.04903>) | N/A | [2](<https://openalex.org/W4416269553>) |
+| 2025 | Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications | arXiv | [paper](<https://arxiv.org/abs/2510.17764>) | N/A | [2](<https://openalex.org/W4415966329>) |
+| 2025 | Survey of AI-Powered Approaches for Osteoporosis Diagnosis in Medical Imaging | arXiv | [paper](<https://arxiv.org/abs/2510.00061>) | N/A | [2](<https://openalex.org/W4414804246>) |
+| 2025 | Systematic Literature Review on Clinical Trial Eligibility Matching | arXiv | [paper](<https://arxiv.org/abs/2503.00863>) | N/A | [2](<https://openalex.org/W4415083486>) |
+| 2024 | The Era of Foundation Models in Medical Imaging is Approaching : A Scoping Review of the Clinical Value of Large-Scale Generative AI Applications in Radiology | arXiv | [paper](<https://arxiv.org/abs/2409.12973>) | N/A | [2](<https://openalex.org/W4403713524>) |
+| 2023 | BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis | SIGIR | [paper](<https://doi.org/10.1145/3539618.3591897>) | N/A | [2](<https://openalex.org/W4384652031>) |
+| 2026 | Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation | arXiv | [paper](<https://arxiv.org/abs/2607.07219>) | N/A | [1](<https://openalex.org/W7167841860>) |
+| 2026 | AI-Powered Mental Health Chatbots in Africa: A Systematic Review and Culturally Adaptive Framework | arXiv | [paper](<https://arxiv.org/abs/2608.24890>) | N/A | [1](<https://openalex.org/W7171643730>) |
+| 2026 | ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2604.02501>) | N/A | [1](<https://openalex.org/W7150748881>) |
+| 2026 | Sample Size Calculations for Developing Clinical Prediction Models: Overview and pmsims R package | arXiv | [paper](<https://arxiv.org/abs/2602.23507>) | N/A | [1](<https://openalex.org/W7133227365>) |
+| 2026 | Clinical Document Metadata Extraction: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2601.09730>) | N/A | [1](<https://openalex.org/W7155162547>) |
+| 2026 | Looking at Radiology Report Generation through a Causal Lens: A Survey | ACL | [paper](<https://aclanthology.org/2026.acl-long.186>) | N/A | [1](<https://openalex.org/W7117573307>) |
+| 2025 | A Survey on LLM-Assisted Clinical Trial Recruitment | arXiv | [paper](<https://arxiv.org/abs/2506.15301>) | N/A | [1](<https://openalex.org/W7138349963>) |
+| 2025 | Exploring the Role of Mental Health Conversational Agents in Training Medical Students and Professionals: A Systematic Literature Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1069>) | N/A | [1](<https://openalex.org/W4412887887>) |
+| 2025 | QA Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings | ACL | [paper](<https://aclanthology.org/2025.acl-srw.89>) | [code](<https://github.com/kentrachmat/survey-da>) | [1](<https://openalex.org/W4412889371>) ([⭐ 0](<https://github.com/kentrachmat/survey-da>)) |
+| 2024 | Chapter 7 Review of Data-Driven Generative AI Models for Knowledge Extraction from Scientific Literature in Healthcare | arXiv | [paper](<https://arxiv.org/abs/2411.11635>) | N/A | [1](<https://openalex.org/W4404571055>) |
+| 2026 | Improving the Clinical Generalizability of Machine Learning-Based Alzheimer's Disease Detection Across Domains and Modalities: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2611.08188>) | N/A | [0](<https://openalex.org/W7225433151>) |
+| 2026 | Machine Learning for Live-Birth Prediction After IVF/ICSI From Structured Clinical Data: A Systematic Review, Meta-Analysis, and Critical Appraisal | arXiv | [paper](<https://arxiv.org/abs/2611.07124>) | N/A | [0](<https://openalex.org/W7225390283>) |
+| 2026 | A Data-Centric Review of Plant Disease Datasets: Taxonomy, Critical Analysis, Environmental Variability, and Implications for Precision Agriculture | arXiv | [paper](<https://arxiv.org/abs/2610.07087>) | N/A | [0](<https://openalex.org/W7220916406>) |
+| 2026 | Deep Learning for Longitudinal Medical Imaging: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2610.08838>) | N/A | [0](<https://openalex.org/W7130824569>) |
+| 2026 | Quantitative Evidence Mining for Plausibility-Aware Biomedical AI: A Narrative Review and Conceptual Framework | arXiv | [paper](<https://arxiv.org/abs/2608.30393>) | N/A | [0](<https://openalex.org/W7204938881>) |
+| 2026 | Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies | arXiv | [paper](<https://arxiv.org/abs/2608.05993>) | N/A | [0](<https://openalex.org/W7201864596>) |
+| 2026 | Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.21904>) | N/A | [0](<https://openalex.org/W7171393229>) |
+| 2026 | Evaluating Reliability in Machine Learning Models for Early Chronic Kidney Disease Prediction: A Systematic Review of Data Leakage and Predictor Stability | arXiv | [paper](<https://arxiv.org/abs/2607.11963>) | N/A | [0](<https://openalex.org/W7165456327>) |
+| 2026 | Mental Health Disorder Detection Beyond Social Media: A Systematic Review of Available Datasets | arXiv | [paper](<https://arxiv.org/abs/2607.03540>) | N/A | [0](<https://openalex.org/W7160084880>) |
+| 2026 | Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models | arXiv | [paper](<https://arxiv.org/abs/2608.26150>) | N/A | [0](<https://openalex.org/W7163748899>) |
+| 2026 | A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2606.16153>) | [code](<https://github.com/andrew-pengyu/Awsome_MedSeg>) | [0](<https://openalex.org/W7164920974>) ([⭐ 9](<https://github.com/andrew-pengyu/Awsome_MedSeg>)) |
+| 2026 | Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review | arXiv | [paper](<https://arxiv.org/abs/2606.02902>) | N/A | [0](<https://openalex.org/W7163326740>) |
+| 2026 | Task-Aligned Self-Supervised Learning for Medical Image Analysis: A Task-Oriented Review with Practical Design Guidelines | arXiv | [paper](<https://arxiv.org/abs/2605.23995>) | N/A | [0](<https://openalex.org/W7162469370>) |
+| 2026 | Trust Stack for Mental Health AI: A Survey of Calibration across Human, Interaction, and AI Layers | arXiv | [paper](<https://arxiv.org/abs/2604.20166>) | N/A | [0](<https://openalex.org/W7155406531>) |
+| 2026 | An Underexplored Frontier: Large Language Models for Rare Disease Patient Education and Communication -- A scoping review | arXiv | [paper](<https://arxiv.org/abs/2604.14179>) | N/A | [0](<https://openalex.org/W7154681516>) |
+| 2026 | LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals | ACL | [paper](<https://aclanthology.org/2026.acl-long.2123>) | N/A | [0](<https://openalex.org/W7168895940>) |
+| 2026 | The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1210>) | [code](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>) | [0](<https://openalex.org/W7224361794>) ([⭐ 6](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>)) |
+| 2025 | A Large Language Model Based Pipeline for Review of Systems Entity Recognition from Clinical Notes | arXiv | [paper](<https://arxiv.org/abs/2506.11067>) | N/A | [0](<https://openalex.org/W4415067967>) |
+| 2025 | Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2510.16973>) | N/A | N/A |
+| 2025 | A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2510.12444>) | N/A | N/A |
+| 2025 | Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2507.16876>) | N/A | N/A |
+| 2025 | Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.18378>) | [code](<https://github.com/haonenglin/Awesome-VLM-for-MIA>) | N/A ([⭐ 35](<https://github.com/haonenglin/Awesome-VLM-for-MIA>)) |
+| 2025 | AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol | arXiv | [paper](<https://arxiv.org/abs/2503.07540>) | N/A | N/A |
+| 2025 | The order in speech disorder: a scoping review of state of the art machine learning methods for clinical speech classification | arXiv | [paper](<https://arxiv.org/abs/2503.04802>) | N/A | N/A |
+| 2025 | Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection | arXiv | [paper](<https://arxiv.org/abs/2501.09506>) | N/A | N/A |
+| 2024 | U-Net in Medical Image Segmentation: A Review of Its Applications Across Modalities | arXiv | [paper](<https://arxiv.org/abs/2412.02242>) | N/A | N/A |
+| 2024 | Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.22180>) | N/A | N/A |
 
 Pages: 1 · [2](domains-healthcare-2.md)

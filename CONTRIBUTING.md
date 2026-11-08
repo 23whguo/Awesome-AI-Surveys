@@ -42,4 +42,17 @@ python scripts/render.py
 
 Use the actual snapshot date for a new release. Original sources are read-only inputs. Do not commit tokens, local databases, source caches or PDF corpora.
 
-README files and category, paper, tag and year views are generated. Preserve Year / Title / Venue / Paper / Code tables. Previews link to complete paginated lists to keep GitHub rendering reliable.
+README files and category, paper, tag and year views are generated. Preserve Year / Title / Venue / Paper / Code / 引用 tables. Previews link to complete paginated lists to keep GitHub rendering reliable.
+
+## Refresh citation counts and GitHub Stars
+
+~~~bash
+python scripts/metrics.py --refresh
+python scripts/render.py
+python -m unittest discover -s tests -v
+python scripts/validate.py
+~~~
+
+The refresh reads OpenAlex and GitHub APIs; OPENALEX_API_KEY and GH_TOKEN/GITHUB_TOKEN are optional environment settings. Without a GitHub environment token, an already configured Git credential helper may provide one noninteractively. Tokens are never written into the repository or response caches. Follow provider quotas; unknown or failed lookups must not become zero.
+
+data/metrics.json is the published snapshot. Generated citation views use the default filenames; alternate time views have the .by-time.md suffix. Update both by running the renderer. Cite only one provider consistently, preserve identity checks, and keep missing metrics at the end of citation rankings.

@@ -1,6 +1,8 @@
 """Generate GitHub-native tables, category pages and multidimensional tag views."""
 from __future__ import annotations
 import collections
+import csv
+import datetime as dt
 import html
 import json
 from pathlib import Path
@@ -9,6 +11,20 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGE_SIZE = 200
+SORT_MODE = 'citations'
+METRICS = {}
+METRICS_UPDATED = None
+
+
+def is_sortable(path):
+    relative = path.relative_to(ROOT)
+    return (relative.parent == Path('.') and relative.name in {'README.md', 'README.zh-CN.md'} or
+            relative.parent == Path('docs') and relative.name in {'CATEGORIES.md', 'TAGS.md', 'YEARS.md'} or
+            relative.parent.as_posix() in {'docs/categories', 'docs/papers', 'docs/tags', 'docs/years'})
+
+
+def variant(path, mode):
+    return path.with_stem(path.stem + '.by-time') if mode == 'time' else path
 
 
 def read_jsonl(path):
@@ -17,6 +33,29 @@ def read_jsonl(path):
 
 
 def save(path, text):
+    if is_sortable(path):
+        if SORT_MODE == 'time':
+            def rewrite(match):
+                target = match.group(1)
+                if target.startswith(('https://', 'http://', '<https://', '<http://', '#', 'mailto:')):
+                    return match.group(0)
+                name, sep, fragment = target.partition('#')
+                destination = (path.parent/name).resolve()
+                if destination.suffix == '.md' and destination.is_relative_to(ROOT) and is_sortable(destination):
+                    name = str(Path(name).with_stem(Path(name).stem + '.by-time')).replace('\\', '/')
+                return '](' + name + (sep + fragment if sep else '') + ')'
+            text = re.sub(r'\]\(([^()\n]+)\)', rewrite, text)
+        citation_page = path.name
+        time_page = variant(path, 'time').name
+        selector = ('**排序 / Sort：** ' +
+                    ('**按引用 ↓**' if SORT_MODE == 'citations' else '[按引用 ↓](' + citation_page + ')') +
+                    ' · ' +
+                    ('**按时间 ↓**' if SORT_MODE == 'time' else '[按时间 ↓](' + time_page + ')'))
+        notes = ('引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。'
+                 '统计快照：' + (METRICS_UPDATED[:10] if METRICS_UPDATED else '尚未获取') + '。')
+        position = text.find('</h1>') + len('</h1>') if '</h1>' in text else text.find('\n')
+        text = text[:position] + '\n\n' + selector + '\n\n' + notes + '\n' + text[position:]
+        path = variant(path, SORT_MODE)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text.rstrip() + '\n', encoding='utf-8', newline='\n')
 
@@ -31,16 +70,50 @@ def link(label, url):
     return '[' + label + '](<' + url.replace('>', '%3E').replace('<', '%3C') + '>)'
 
 
-def ordered(papers):
-    return sorted(papers, key=lambda p: (-(p['year'] or 0), p['title'].casefold(), p['id']))
+def ordered(papers, mode=None):
+    mode = mode or SORT_MODE
+    def key(p):
+        count = p.get('_metrics', {}).get('citation_count')
+        citations = (count is None, -(count or 0))
+        date = source_date(p)
+        chronology = (-(p['year'] or 0), date is None, -date.toordinal() if date else 0)
+        return (chronology + citations if mode == 'time' else citations + chronology) + (p['title'].casefold(), p['id'])
+    return sorted(papers, key=key)
+
+
+def source_date(paper):
+    """Use supplied submission dates within the displayed year, without inventing dates."""
+    dates = []
+    for version in paper.get('versions', []):
+        value = version.get('source_first_submitted_at')
+        if not value:
+            continue
+        try:
+            date = dt.date.fromisoformat(value[:10])
+        except (ValueError, TypeError):
+            continue
+        if date.year == paper.get('year') and version.get('year') == paper.get('year'):
+            dates.append(date)
+    return min(dates) if dates else None
+
+
+def citation_cell(p):
+    metrics = p.get('_metrics', {})
+    count = metrics.get('citation_count')
+    result = link(format(count, ','), metrics.get('citation_source_url')) if count is not None else 'N/A'
+    if metrics.get('github_repository'):
+        stars = metrics.get('github_stars')
+        label = '⭐ ' + (format(stars, ',') if stars is not None else 'N/A')
+        result += ' (' + link(label, metrics.get('github_stars_url')) + ')'
+    return result
 
 
 def table(papers):
-    lines = ['| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |',
-             '| ---: | --- | --- | :---: | :---: |']
+    lines = ['| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |',
+             '| ---: | --- | --- | :---: | :---: | ---: |']
     for p in ordered(papers):
         lines.append('| ' + ' | '.join([str(p['year'] or 'N/A'), cell(p['title']), cell(p['venue']),
-                                          link('paper', p['paper_url']), link('code', p['code_url'])]) + ' |')
+                                          link('paper', p['paper_url']), link('code', p['code_url']), citation_cell(p)]) + ' |')
     return '\n'.join(lines)
 
 
@@ -62,6 +135,18 @@ def paginate(path, title, papers, intro=''):
 
 def render():
     papers = read_jsonl(ROOT/'data/surveys.jsonl')
+    for paper in papers:
+        paper['_metrics'] = METRICS.get(paper['id'], {})
+    if SORT_MODE == 'citations':
+        fields = ['id', 'year', 'title', 'venue', 'paper_url', 'code_url', 'citation_count',
+                  'citation_source', 'citation_source_url', 'citation_fetched_at',
+                  'github_stars', 'github_stars_url', 'github_stars_fetched_at']
+        with (ROOT/'data/surveys-with-metrics.csv').open('w', encoding='utf-8', newline='') as f:
+            out = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
+            out.writeheader()
+            for paper in ordered(papers):
+                values = {**paper, **paper['_metrics']}
+                out.writerow({field: values.get(field) for field in fields})
     manifest = json.loads((ROOT/'data/manifest.json').read_text(encoding='utf-8'))
     taxonomy = json.loads((ROOT/'data/taxonomy.json').read_text(encoding='utf-8'))
     by_category = collections.defaultdict(list)
@@ -122,13 +207,19 @@ def render():
                       '基于 PaperVault 会议期刊记录与本地 2024—2026 年 arXiv 快照构建。截至 '+manifest['as_of']+'，扫描 '+format(manifest['source_records'], ',')+' 条源记录。每篇作品只设一个主分类，多标签提供跨主题浏览。', '',
                       '条目通过元数据规则筛选，尚未逐篇进行全文及链接核验。发表渠道和年份沿用源记录；arXiv 记录不据此推断已通过同行评审。暂无法确认类型或主分类的记录保留在 [待复核队列](data/review_queue.jsonl)。', '',
                       '**浏览完整集合：** [分类目录](docs/CATEGORIES.md) · [多维标签](docs/TAGS.md) · [按年份](docs/YEARS.md) · [JSONL](data/surveys.jsonl) · [CSV](data/surveys.csv)', '',
-                      '下面每个分类展示最近年份的 6 篇条目；点击完整列表可查看该分类全部综述及二级主题。所有列表沿用参考模板的 Year / Title / Venue / Paper / Code 五列表格。', '']
+                      '下面每个分类按当前所选排序展示 6 篇条目；点击完整列表可查看该分类全部综述及二级主题。表格列为 Year / Title / Venue / Paper / Code / 引用。每个页面顶部均可切换引用数或时间排序；时间采用展示年份内的源提交日期，缺少日期时排在该年已知日期之后。未获取到的引用数排在引用榜末尾。', '']
         else:
             lines += ['**'+format(len(papers), ',')+' surveys · 17 primary categories · '+format(manifest['with_code_links'], ',')+' with repository links supplied by source metadata or abstracts.**', '',
                       'Built from PaperVault venue records and local 2024–2026 arXiv snapshots. '+format(manifest['source_records'], ',')+' source records scanned; snapshot date: **'+manifest['as_of']+'**. Each work has one primary category and multiple orthogonal tags.', '',
                       'Entries are screened from metadata, not independently audited full-text reviews. Venue labels and years follow the source records; arXiv entries do not imply peer review. Ambiguous article types and unresolved subjects remain in the [review queue](data/review_queue.jsonl).', '',
                       '**Browse every included work:** [Categories](docs/CATEGORIES.md) · [Tags](docs/TAGS.md) · [Years](docs/YEARS.md) · [JSONL](data/surveys.jsonl) · [CSV](data/surveys.csv)', '',
-                      'Each category below previews six papers from the most recent years. Follow its full-list link for all papers and subtopics. Tables follow the requested Year / Title / Venue / Paper / Code layout.', '']
+                      'Each category previews six papers in the selected order. Switch between citations (high to low) and time (newest source date first) at the top of any page. Time uses supplied submission dates within the displayed year; year-only records follow dated records in that year. Unknown counts sort last in citation views. Tables use Year / Title / Venue / Paper / Code / 引用; parenthesized stars refer to the linked GitHub repository.', '']
+        cited = sum(m.get('citation_count') is not None for m in METRICS.values())
+        starred = sum(m.get('github_stars') is not None for m in METRICS.values())
+        lines += [('**统计覆盖：** ' + format(cited, ',') + ' / ' + format(len(papers), ',') + ' 篇取得引用数；' +
+                   str(starred) + ' 篇取得 GitHub Stars。[下载含统计的 CSV](data/surveys-with-metrics.csv)。' if zh else
+                   '**Metric coverage:** citation counts for ' + format(cited, ',') + ' / ' + format(len(papers), ',') +
+                   ' papers; GitHub Stars for ' + str(starred) + ' papers. [CSV with metrics](data/surveys-with-metrics.csv).'), '']
         lines += ['## '+('分类导航' if zh else 'Contents'), '']
         for cat in taxonomy:
             label = cat['name_zh'] if zh else cat['name']
@@ -164,4 +255,11 @@ def render():
 
 
 if __name__ == '__main__':
-    render()
+    snapshot = ROOT/'data/metrics.json'
+    if snapshot.exists():
+        data = json.loads(snapshot.read_text(encoding='utf-8'))
+        METRICS = data['paper_metrics']
+        METRICS_UPDATED = data['updated_at']
+    for mode in ('citations', 'time'):
+        SORT_MODE = mode
+        render()

@@ -1,5 +1,10 @@
 # review_type: review
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](review_type-review-5.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,80 +13,80 @@
 
 Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](review_type-review-4.md) · 5
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2022 | Text Transformations in Contrastive Self-Supervised Learning: A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/757>) | N/A |
-| 2022 | UX Research on Conversational Human-AI Interaction: A Literature Review of the ACM Digital Library | CHI | [paper](<https://doi.org/10.1145/3491102.3501855>) | N/A |
-| 2022 | Vehicle Detection From UAV Imagery With Deep Learning: A Review | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2021.3080276>) | N/A |
-| 2021 | A Review of Crop Height Retrieval Using InSAR Strategies: Techniques and Challenges | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2021.3100874>) | N/A |
-| 2021 | A Review of Deep Learning in Medical Imaging: Imaging Traits, Technology Trends, Case Studies With Progress Highlights, and Future Promises | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2021.3054390>) | N/A |
-| 2021 | A Review of Deep-Learning Techniques for SAR Image Restoration | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9555039>) | N/A |
-| 2021 | A Review of Domain Adaptation without Target Labels | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2019.2945942>) | N/A |
-| 2021 | A review on deep learning in UAV remote sensing | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2021.102456>) | N/A |
-| 2021 | Advances in Video Compression System Using Deep Neural Network: A Review and Case Studies | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2021.3059994>) | N/A |
-| 2021 | ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction | NAACL | [paper](<https://aclanthology.org/2021.naacl-main.167>) | [code](<https://github.com/Meituan-Dianping/asap>) |
-| 2021 | Basic and deep learning models in remote sensing of soil organic carbon estimation: A brief review | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2021.102389>) | N/A |
-| 2021 | Building Affordance Relations for Robotic Agents - A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/590>) | N/A |
-| 2021 | Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.3015992>) | N/A |
-| 2021 | Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2021.3060483>) | N/A |
-| 2021 | Graph Learning based Recommender Systems: A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/630>) | [code](<https://github.com/shoujin88/graph-learning-based-recommender-systems-GLRS->) |
-| 2021 | Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2021.102603>) | N/A |
-| 2021 | Imbalance Problems in Object Detection: A Review | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2020.2981890>) | [code](<https://github.com/kemaloksuz/ObjectDetectionImbalance>) |
-| 2021 | Land-Use Mapping for High-Spatial Resolution Remote Sensing Image Via Deep Learning: A Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2021.3078631>) | N/A |
-| 2021 | Neural Temporal Point Processes: A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/623>) | N/A |
-| 2021 | Normalizing Flows: An Introduction and Review of Current Methods | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2020.2992934>) | N/A |
-| 2021 | Relational World Knowledge Representation in Contextual Language Models: A Review | EMNLP | [paper](<https://aclanthology.org/2021.emnlp-main.81>) | N/A |
-| 2021 | Visual Interestingness Prediction: A Benchmark Framework and Literature Review | IJCV | [paper](<https://doi.org/10.1007/s11263-021-01443-1>) | N/A |
-| 2020 | A Review of Dataset and Labeling Methods for Causality Extraction | COLING | [paper](<https://aclanthology.org/2020.coling-main.133>) | N/A |
-| 2020 | Adversarial Learning Targeting Deep Neural Network Classification: A Comprehensive Review of Defenses Against Attacks | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2020.2970615>) | N/A |
-| 2020 | Application of machine learning method in optical molecular imaging: a review | SCIS | [paper](<https://doi.org/10.1007/s11432-019-2708-1>) | N/A |
-| 2020 | Conversational Machine Comprehension: a Literature Review | COLING | [paper](<https://aclanthology.org/2020.coling-main.247>) | N/A |
-| 2020 | Deep Learning in Hyperspectral Unmixing: A Review | IGARSS | [paper](<https://doi.org/10.1109/IGARSS39084.2020.9324546>) | N/A |
-| 2020 | How Useful are Reviews for Recommendation? A Critical Review and Potential Improvements | SIGIR | [paper](<https://doi.org/10.1145/3397271.3401281>) | [code](<https://github.com/noveens/reviews4rec>) |
-| 2020 | Making the Best Use of Review Summary for Sentiment Analysis | COLING | [paper](<https://aclanthology.org/2020.coling-main.15>) | [code](<https://github.com/RingoS/sentiment-review-summary>) |
-| 2020 | Neural Style Transfer: A Review | TVCG | [paper](<https://doi.org/10.1109/TVCG.2019.2921336>) | [code](<https://github.com/ycjing/Neural-Style-Transfer-Papers>) |
-| 2020 | Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates | ACL | [paper](<https://aclanthology.org/2020.acl-main.474>) | N/A |
-| 2020 | When Gaussian Process Meets Big Data: A Review of Scalable GPs | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2019.2957109>) | N/A |
-| 2019 | A Review of Polsar Image Classification: from Polarimetry to Deep Learning | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8899902>) | N/A |
-| 2019 | Deep Learning for Single Image Super-Resolution: A Brief Review | TMM | [paper](<https://doi.org/10.1109/TMM.2019.2919431>) | N/A |
-| 2019 | Deep Learning for Video Captioning: A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2019/877>) | N/A |
-| 2019 | Deep Learning With Edge Computing: A Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2019.2921977>) | N/A |
-| 2019 | High-Resolution Remote Sensing Image Scene Understanding: A Review | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8899293>) | N/A |
-| 2019 | Mitigating Gender Bias in Natural Language Processing: Literature Review | ACL | [paper](<https://aclanthology.org/P19-1159>) | N/A |
-| 2019 | Object Detection With Deep Learning: A Review | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2018.2876865>) | N/A |
-| 2019 | Social Media-based User Embedding: A Literature Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2019/881>) | N/A |
-| 2018 | A Review of Virtual Dimensionality for Hyperspectral Imagery | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2017.2782706>) | N/A |
-| 2018 | A Review on Deep Learning Techniques Applied to Answer Selection | COLING | [paper](<https://aclanthology.org/C18-1181>) | N/A |
-| 2018 | A state-of-the-art review of machine learning techniques for fraud detection research | ICSE | [paper](<https://doi.org/10.1145/3195528.3195534>) | N/A |
-| 2018 | AGI Safety Literature Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2018/768>) | N/A |
-| 2017 | MINI-UAV borne hyperspectral remote sensing: A review | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2017.8128354>) | N/A |
-| 2017 | Retrieval From and Understanding of Large-Scale Multi-modal Medical Datasets: A Review | TMM | [paper](<https://doi.org/10.1109/TMM.2017.2729400>) | N/A |
-| 2017 | Surgical Action Retrieval for Assisting Video Review of Laparoscopic Skills | MM | [paper](<https://doi.org/10.1145/3132390.3132395>) | N/A |
-| 2016 | A Review of Relational Machine Learning for Knowledge Graphs | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2015.2483592>) | N/A |
-| 2016 | An Advanced Press Review System Combining Deep News Analysis and Machine Learning Algorithms | ACL | [paper](<https://aclanthology.org/P16-4019>) | N/A |
-| 2016 | Machine Learning in Genomic Medicine: A Review of Computational Problems and Data Sets | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2015.2494198>) | N/A |
-| 2015 | Color Sparse Representations for Image Processing: Review, Models, and Prospects | TIP | [paper](<https://doi.org/10.1109/TIP.2015.2458175>) | N/A |
-| 2015 | Review of Anderson and Anderson's Machine Ethics | AI | [paper](<https://doi.org/10.1016/j.artint.2015.08.013>) | N/A |
-| 2014 | A Comprehensive Review of Stability Analysis of Continuous-Time Recurrent Neural Networks | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2014.2317880>) | N/A |
-| 2014 | A Review of Nonlinear Hyperspectral Unmixing Methods | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2014.2320576>) | N/A |
-| 2014 | Automatic Chord Estimation from Audio: A Review of the State of the Art | TASLP | [paper](<https://doi.org/10.1109/TASLP.2013.2294580>) | N/A |
-| 2014 | CRAB 2.0: A text mining tool for supporting literature review in chemical cancer risk assessment | COLING | [paper](<https://aclanthology.org/C14-2017>) | N/A |
-| 2014 | Multiple Kernel Learning for Visual Object Recognition: A Review | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2013.212>) | N/A |
-| 2014 | On Using Information Retrieval for the Selection and Sensitivity Review of Digital Public Records | SIGIR | [paper](<https://ceur-ws.org/Vol-1225/pir2014_submission_9.pdf>) | N/A |
-| 2013 | Active learning-based information structure analysis of full scientific articles and two applications for biomedical literature review | Bioinformatics | [paper](<https://doi.org/10.1093/bioinformatics/btt163>) | N/A |
-| 2013 | Representation Learning: A Review and New Perspectives | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2013.50>) | N/A |
-| 2013 | The Promise of Reconfigurable Computing for Hyperspectral Imaging Onboard Systems: A Review and Trends | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2012.2231391>) | N/A |
-| 2012 | A review and comparison of commercially available pan-sharpening techniques for high resolution satellite image fusion | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2012.6351607>) | N/A |
-| 2012 | Multi- and hyperspectral geologic remote sensing: A review | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2011.08.002>) | N/A |
-| 2010 | A review of the textbook Graph-based Knowledge Representation | AI | [paper](<https://doi.org/10.1016/j.artint.2009.11.004>) | N/A |
-| 2010 | Remote sensing and avian influenza: A review of image processing methods for extracting key variables affecting avian influenza virus survival in water from Earth Observation satellites | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2009.09.014>) | N/A |
-| 2010 | Review of "Probabilistic graphical models" by Koller and Friedman | AI | [paper](<https://doi.org/10.1016/j.artint.2009.11.005>) | N/A |
-| 2008 | A review of the Handbook of Knowledge Representation | AI | [paper](<https://doi.org/10.1016/j.artint.2008.10.002>) | N/A |
-| 2007 | A Review of Statistical Approaches to Level Set Segmentation: Integrating Color, Texture, Motion and Shape | IJCV | [paper](<https://doi.org/10.1007/s11263-006-8711-1>) | N/A |
-| 2007 | Interactive evolutionary approaches to multiobjective spatial decision making: A synthetic review | CEUS | [paper](<https://doi.org/10.1016/j.compenvurbsys.2006.08.001>) | N/A |
-| 2006 | A Review of Atmospheric Correction Techniques for Hyperspectral Remote Sensing of Land Surfaces and Ocean Color | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2006.512>) | N/A |
-| 2006 | On-Road Vehicle Detection: A Review | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2006.104>) | N/A |
-| 2001 | On the state of the art in machine learning: A personal review | AI | [paper](<https://doi.org/10.1016/S0004-3702(01)00125-4>) | N/A |
-| 2001 | Review of Natural Language Processing in R.A. Wilson and F.C. Keil (Eds.), The MIT Encyclopedia of the Cognitive Sciences | AI | [paper](<https://doi.org/10.1016/S0004-3702(01)00096-0>) | N/A |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2022 | A Review of Point Clouds Deep Learning Fusion for Unmanned Aerial Data Systems | IGARSS | [paper](<https://doi.org/10.1109/IGARSS46834.2022.9884073>) | N/A | [0](<https://openalex.org/W4312705076>) |
+| 2008 | A review of the Handbook of Knowledge Representation | AI | [paper](<https://doi.org/10.1016/j.artint.2008.10.002>) | N/A | [0](<https://openalex.org/W116992605>) |
+| 2026 | Affordable Precision Agriculture: A Deployment-Oriented Review of Low-Cost, Low-Power Edge AI and TinyML for Resource-Constrained Farming Systems | arXiv | [paper](<https://arxiv.org/abs/2603.15085>) | N/A | N/A |
+| 2026 | A Review on Machine Learning Approaches for the Prediction of Glucose Levels and Hypogylcemia | arXiv | [paper](<https://arxiv.org/abs/2601.11615>) | N/A | N/A |
+| 2025 | The Social Gaze of LLMs: A Literature Review of Multimodal Approaches to Human Behavior Understanding | arXiv | [paper](<https://arxiv.org/abs/2510.23947>) | N/A | N/A |
+| 2025 | A short methodological review on social robot navigation benchmarking | arXiv | [paper](<https://arxiv.org/abs/2510.22448>) | N/A | N/A |
+| 2025 | A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2510.12444>) | N/A | N/A |
+| 2025 | AI-Driven anemia diagnosis: A review of advanced models and techniques | arXiv | [paper](<https://arxiv.org/abs/2510.11380>) | N/A | N/A |
+| 2025 | Representing Data in Robotic Tactile Perception -- A Review | arXiv | [paper](<https://arxiv.org/abs/2510.10804>) | N/A | N/A |
+| 2025 | Taxonomy and Trends in Reinforcement Learning for Robotics and Control Systems: A Structured Review | arXiv | [paper](<https://arxiv.org/abs/2510.21758>) | N/A | N/A |
+| 2025 | Review of Hallucination Understanding in Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2510.00034>) | N/A | N/A |
+| 2025 | Blue Stragglers and Friends: Initial Evolutionary Pathways in Close Low-Mass Binaries: Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.20531>) | N/A | N/A |
+| 2025 | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.08490>) | N/A | N/A |
+| 2025 | AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design | arXiv | [paper](<https://arxiv.org/abs/2509.04805>) | N/A | N/A |
+| 2025 | A Review of Developmental Interpretability in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2508.15841>) | N/A | N/A |
+| 2025 | Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets | arXiv | [paper](<https://arxiv.org/abs/2508.10256>) | [code](<https://github.com/nantonzhang/Awesome-Crack-Detection>) | N/A ([⭐ 94](<https://github.com/nantonzhang/Awesome-Crack-Detection>)) |
+| 2025 | Moving beyond harm. A critical review of how NLP research approaches discrimination | arXiv | [paper](<https://arxiv.org/abs/2508.04504>) | N/A | N/A |
+| 2025 | A chart review process aided by natural language processing and multi-wave adaptive sampling to expedite validation of code-based algorithms for large database studies | arXiv | [paper](<https://arxiv.org/abs/2507.22943>) | N/A | N/A |
+| 2025 | Review of Deep Learning Applications to Structural Proteomics Enabled by Cryogenic Electron Microscopy and Tomography | arXiv | [paper](<https://arxiv.org/abs/2507.19565>) | N/A | N/A |
+| 2025 | Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems | arXiv | [paper](<https://arxiv.org/abs/2507.21157>) | N/A | N/A |
+| 2025 | From Time-series Generation, Model Selection to Transfer Learning: A Comparative Review of Pixel-wise Approaches for Large-scale Crop Mapping | arXiv | [paper](<https://arxiv.org/abs/2507.12590>) | N/A | N/A |
+| 2025 | From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion | arXiv | [paper](<https://arxiv.org/abs/2507.09081>) | N/A | N/A |
+| 2025 | Content filtering methods for music recommendation: A review | arXiv | [paper](<https://arxiv.org/abs/2507.02282>) | N/A | N/A |
+| 2025 | Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.18378>) | [code](<https://github.com/haonenglin/Awesome-VLM-for-MIA>) | N/A ([⭐ 35](<https://github.com/haonenglin/Awesome-VLM-for-MIA>)) |
+| 2025 | An Interdisciplinary Review of Commonsense Reasoning and Intent Detection | arXiv | [paper](<https://arxiv.org/abs/2506.14040>) | N/A | N/A |
+| 2025 | A Review on Coarse to Fine-Grained Animal Action Recognition | arXiv | [paper](<https://arxiv.org/abs/2506.01214>) | N/A | N/A |
+| 2025 | Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.23952>) | N/A | N/A |
+| 2025 | Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.07911>) | N/A | N/A |
+| 2025 | Large Language Models and Arabic Content: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.08004>) | N/A | N/A |
+| 2025 | Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.00210>) | N/A | N/A |
+| 2025 | A Tripartite Framework for Understanding the Embodied Mind: A Comprehensive Review of Bodily Map Study | arXiv | [paper](<https://arxiv.org/abs/2504.14865>) | N/A | N/A |
+| 2025 | Machine learning enhanced atom probe tomography analysis: a snapshot review | arXiv | [paper](<https://arxiv.org/abs/2504.14378>) | N/A | N/A |
+| 2025 | Enabling Rapid Shared Human-AI Mental Model Alignment via the After-Action Review | arXiv | [paper](<https://arxiv.org/abs/2503.19607>) | N/A | N/A |
+| 2025 | International Agreements on AI Safety: Review and Recommendations for a Conditional AI Safety Treaty | arXiv | [paper](<https://arxiv.org/abs/2503.18956>) | N/A | N/A |
+| 2025 | Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.04983>) | N/A | N/A |
+| 2025 | Review of Machine Learning for Micro-Electronic Design Verification | arXiv | [paper](<https://arxiv.org/abs/2503.11687>) | N/A | N/A |
+| 2025 | Direct Speech to Speech Translation: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.04799>) | N/A | N/A |
+| 2025 | A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images | arXiv | [paper](<https://arxiv.org/abs/2502.21151>) | N/A | N/A |
+| 2025 | Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review | arXiv | [paper](<https://arxiv.org/abs/2502.14935>) | N/A | N/A |
+| 2025 | Reinforcement Learning for Ultrasound Image Analysis A Comprehensive Review of Advances and Applications | arXiv | [paper](<https://arxiv.org/abs/2502.14995>) | N/A | N/A |
+| 2025 | Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2502.14886>) | N/A | N/A |
+| 2025 | Are Representation Disentanglement and Interpretability Linked in Recommendation Models? - A Critical Review and Reproducibility Study | ECIR | [paper](<https://doi.org/10.1007/978-3-031-88717-8_4>) | [code](<https://github.com/edervishaj/disentanglement-interpretability-recsys>) | N/A ([⭐ 0](<https://github.com/edervishaj/disentanglement-interpretability-recsys>)) |
+| 2025 | Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection | arXiv | [paper](<https://arxiv.org/abs/2501.09506>) | N/A | N/A |
+| 2025 | Visualizing Uncertainty in Image Guided Surgery a Review | arXiv | [paper](<https://arxiv.org/abs/2501.06280>) | N/A | N/A |
+| 2025 | Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools | arXiv | [paper](<https://arxiv.org/abs/2501.06227>) | N/A | N/A |
+| 2025 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use, Planning (Including RAG), and Feedback Learning | COLING | [paper](<https://aclanthology.org/2025.coling-main.652>) | N/A | N/A |
+| 2024 | Review of Fruit Tree Image Segmentation | arXiv | [paper](<https://arxiv.org/abs/2412.14631>) | N/A | N/A |
+| 2024 | U-Net in Medical Image Segmentation: A Review of Its Applications Across Modalities | arXiv | [paper](<https://arxiv.org/abs/2412.02242>) | N/A | N/A |
+| 2024 | A Comprehensive Review of Current Robot- Based Pollinators in Greenhouse Farming | arXiv | [paper](<https://arxiv.org/abs/2410.23747>) | N/A | N/A |
+| 2024 | Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.22180>) | N/A | N/A |
+| 2024 | Review of wavelet-based unsupervised texture segmentation, advantage of adaptive wavelets | arXiv | [paper](<https://arxiv.org/abs/2410.19191>) | N/A | N/A |
+| 2024 | A Critical Review of Safe Reinforcement Learning Techniques in Smart Grid Applications | arXiv | [paper](<https://arxiv.org/abs/2409.16256>) | N/A | N/A |
+| 2024 | Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.16340>) | N/A | N/A |
+| 2024 | Deep Learning for Personalized Electrocardiogram Diagnosis: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.07975>) | N/A | N/A |
+| 2024 | The Role of Explainable AI in Revolutionizing Human Health Monitoring: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.07347>) | N/A | N/A |
+| 2024 | A Comprehensive Review and Taxonomy of Audio-Visual Synchronization Techniques for Realistic Speech Animation | arXiv | [paper](<https://arxiv.org/abs/2407.17430>) | N/A | N/A |
+| 2024 | A Brief Review of Quantum Machine Learning for Financial Services | arXiv | [paper](<https://arxiv.org/abs/2407.12618>) | N/A | N/A |
+| 2024 | AI-based Automatic Segmentation of Prostate on Multi-modality Images: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.06612>) | N/A | N/A |
+| 2024 | The Life Cycle of Large Language Models: A Review of Biases in Education | arXiv | [paper](<https://arxiv.org/abs/2407.11203>) | N/A | N/A |
+| 2024 | Review of Interpretable Machine Learning Models for Disease Prognosis | arXiv | [paper](<https://arxiv.org/abs/2405.11672>) | N/A | N/A |
+| 2024 | Review of Deep Representation Learning Techniques for Brain-Computer Interfaces and Recommendations | arXiv | [paper](<https://arxiv.org/abs/2405.19345>) | N/A | N/A |
+| 2024 | Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods | arXiv | [paper](<https://arxiv.org/abs/2404.05746>) | N/A | N/A |
+| 2024 | Gradient based Feature Attribution in Explainable AI: A Technical Review | arXiv | [paper](<https://arxiv.org/abs/2403.10415>) | N/A | N/A |
+| 2024 | Transformers and Language Models in Form Understanding: A Comprehensive Review of Scanned Document Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.04080>) | N/A | N/A |
+| 2024 | Data-driven Camera and Lidar Simulation Models for Autonomous Driving: A Review from Generative Models to Volume Renderers | arXiv | [paper](<https://arxiv.org/abs/2402.10079>) | N/A | N/A |
+| 2024 | A Review of Physics-Informed Machine Learning Methods with Applications to Condition Monitoring and Anomaly Detection | arXiv | [paper](<https://arxiv.org/abs/2401.11860>) | N/A | N/A |
+| 2024 | A Multivocal Literature Review on the Benefits and Limitations of Automated Machine Learning Tools | arXiv | [paper](<https://arxiv.org/abs/2401.11366>) | N/A | N/A |
+| 2024 | Advancing Video Anomaly Detection: A Concise Review and a New Dataset | NeurIPS | [paper](<https://papers.nips.cc/paper_files/paper/2024/hash/a3c5af1f56fc73eef1ba0f442739f5ca-Abstract-Datasets_and_Benchmarks_Track.html>) | N/A | N/A |
+| 2023 | Responsible AI Considerations in Text Summarization Research: A Review of Current Practices | EMNLP | [paper](<https://aclanthology.org/2023.findings-emnlp.413>) | N/A | N/A |
+| 2014 | CRAB 2.0: A text mining tool for supporting literature review in chemical cancer risk assessment | COLING | [paper](<https://aclanthology.org/C14-2017>) | N/A | N/A |
+| 2010 | A review of the textbook Graph-based Knowledge Representation | AI | [paper](<https://doi.org/10.1016/j.artint.2009.11.004>) | N/A | N/A |
+| 2010 | Review of "Probabilistic graphical models" by Koller and Friedman | AI | [paper](<https://doi.org/10.1016/j.artint.2009.11.005>) | N/A | N/A |
+| 2001 | Review of Natural Language Processing in R.A. Wilson and F.C. Keil (Eds.), The MIT Encyclopedia of the Cognitive Sciences | AI | [paper](<https://doi.org/10.1016/S0004-3702(01)00096-0>) | N/A | N/A |
 
 Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](review_type-review-4.md) · 5

@@ -1,5 +1,10 @@
 # Categories · 主分类
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](CATEGORIES.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../README.md) · [中文](../README.zh-CN.md) · [Tags](TAGS.md)
 
 One primary category per work. Cross-cutting access is provided by tag views. 每篇论文只有一个主分类，多标签提供交叉入口。

@@ -1,5 +1,10 @@
 # review_type: review
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](review_type-review-2.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,207 +13,207 @@
 
 Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md)
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2025 | AISSISTANT: Human-AI Collaborative Review and Perspective Research Workflows in Data Science | arXiv | [paper](<https://arxiv.org/abs/2509.12282>) | N/A |
-| 2025 | Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review | ACL | [paper](<https://aclanthology.org/2025.acl-long.45>) | N/A |
-| 2025 | An Extensive and Methodical Review of Smart Grids for Sustainable Energy Management-Addressing Challenges with AI, Renewable Energy Integration and Leading-edge Technologies | arXiv | [paper](<https://arxiv.org/abs/2501.14143>) | N/A |
-| 2025 | An in-depth review and analysis of mode collapse in generative adversarial networks | MLJ | [paper](<https://doi.org/10.1007/s10994-025-06772-7>) | N/A |
-| 2025 | An Interdisciplinary Review of Commonsense Reasoning and Intent Detection | arXiv | [paper](<https://arxiv.org/abs/2506.14040>) | N/A |
-| 2025 | Ancient Script Image Recognition and Processing: A Review | arXiv | [paper](<https://arxiv.org/abs/2506.19208>) | N/A |
-| 2025 | Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review | arXiv | [paper](<https://arxiv.org/abs/2501.11310>) | N/A |
-| 2025 | Applications of Entropy in Data Analysis and Machine Learning: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.02921>) | N/A |
-| 2025 | Applications of natural language processing in aviation safety: A review and qualitative analysis | arXiv | [paper](<https://arxiv.org/abs/2501.06210>) | N/A |
-| 2025 | Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2508.03317>) | N/A |
-| 2025 | Are Representation Disentanglement and Interpretability Linked in Recommendation Models? - A Critical Review and Reproducibility Study | ECIR | [paper](<https://doi.org/10.1007/978-3-031-88717-8_4>) | [code](<https://github.com/edervishaj/disentanglement-interpretability-recsys>) |
-| 2025 | Artificial Intelligence and Deep Learning Algorithms for Epigenetic Sequence Analysis: A Review for Epigeneticists and AI Experts | arXiv | [paper](<https://arxiv.org/abs/2504.03733>) | N/A |
-| 2025 | Artificial Intelligence and Generative Models for Materials Discovery -- A Review | arXiv | [paper](<https://arxiv.org/abs/2508.03278>) | N/A |
-| 2025 | Artificial intelligence in drug discovery: A comprehensive review with a case study on hyperuricemia, gout arthritis, and hyperuricemic nephropathy | arXiv | [paper](<https://arxiv.org/abs/2507.03407>) | N/A |
-| 2025 | Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.29>) | N/A |
-| 2025 | Autonomous Robotic Pruning in Orchards and Vineyards: a Review | arXiv | [paper](<https://arxiv.org/abs/2505.07318>) | N/A |
-| 2025 | Bias is a Math Problem, AI Bias is a Technical Problem: 10-year Literature Review of AI/LLM Bias Research Reveals Narrow &#91;Gender-Centric&#93; Conceptions of 'Bias', and Academia-Industry Gap | arXiv | [paper](<https://arxiv.org/abs/2508.11067>) | N/A |
-| 2025 | Blue Stragglers and Friends: Initial Evolutionary Pathways in Close Low-Mass Binaries: Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.20531>) | N/A |
-| 2025 | Building Trustworthy Multimodal AI: A Review of Fairness, Transparency, and Ethics in Vision-Language Tasks | arXiv | [paper](<https://arxiv.org/abs/2504.13199>) | N/A |
-| 2025 | Can We Trust AI Benchmarks? An Interdisciplinary Review of Current Issues in AI Evaluation | arXiv | [paper](<https://arxiv.org/abs/2502.06559>) | N/A |
-| 2025 | Challenges and Advancements in Modeling Shock Fronts with Physics-Informed Neural Networks: A Review and Benchmarking Study | arXiv | [paper](<https://arxiv.org/abs/2503.17379>) | N/A |
-| 2025 | Collaborative Perception Datasets for Autonomous Driving: A Review | arXiv | [paper](<https://arxiv.org/abs/2504.12696>) | [code](<https://github.com/frankwnb/Collaborative-Perception-Datasets-for-Autonomous-Driving>) |
-| 2025 | Color Models in Image Processing: A Review and Experimental Comparison | arXiv | [paper](<https://arxiv.org/abs/2510.00584>) | N/A |
-| 2025 | Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.07911>) | N/A |
-| 2025 | Comprehensive Review of Neural Differential Equations for Time Series Analysis | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1179>) | N/A |
-| 2025 | Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging | arXiv | [paper](<https://arxiv.org/abs/2503.16543>) | N/A |
-| 2025 | Content filtering methods for music recommendation: A review | arXiv | [paper](<https://arxiv.org/abs/2507.02282>) | N/A |
-| 2025 | Coordinating Chaos: A Structured Review of Linguistic Coordination Methodologies | ACL | [paper](<https://aclanthology.org/2025.acl-long.1216>) | N/A |
-| 2025 | Crop Pest Classification Using Deep Learning Techniques: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.01494>) | N/A |
-| 2025 | Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison | arXiv | [paper](<https://arxiv.org/abs/2502.20154>) | N/A |
-| 2025 | Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2501.16656>) | N/A |
-| 2025 | Data-Driven Review and Machine Learning Prediction of Diamond Vacancy Center Synthesis | arXiv | [paper](<https://arxiv.org/abs/2507.02808>) | N/A |
-| 2025 | Dataset creation for supervised deep learning-based analysis of microscopic images -- review of important considerations and recommendations | arXiv | [paper](<https://arxiv.org/abs/2512.04564>) | N/A |
-| 2025 | Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods, Datasets, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2505.07611>) | N/A |
-| 2025 | Deep Learning Approaches for Anti-Money Laundering on Mobile Transactions: Review, Framework, and Directions | arXiv | [paper](<https://arxiv.org/abs/2503.10058>) | N/A |
-| 2025 | Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets | arXiv | [paper](<https://arxiv.org/abs/2508.10256>) | [code](<https://github.com/nantonzhang/Awesome-Crack-Detection>) |
-| 2025 | Deep Learning in Automated Power Line Inspection: A Review | arXiv | [paper](<https://arxiv.org/abs/2502.07826>) | N/A |
-| 2025 | Deep Reinforcement Learning for Job Scheduling and Resource Management in Cloud Computing: An Algorithm-Level Review | arXiv | [paper](<https://arxiv.org/abs/2501.01007>) | N/A |
-| 2025 | Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review | arXiv | [paper](<https://arxiv.org/abs/2502.14935>) | N/A |
-| 2025 | Diffusion Model Quantization: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.05215>) | [code](<https://github.com/TaylorJocelyn/Diffusion-Model-Quantization>) |
-| 2025 | Diffusion Models for Hyperspectral Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2505.11158>) | N/A |
-| 2025 | Direct Speech to Speech Translation: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.04799>) | N/A |
-| 2025 | Do Large Language Models Solve the Problems of Agent-Based Modeling? A Critical Review of Generative Social Simulations | arXiv | [paper](<https://arxiv.org/abs/2504.03274>) | N/A |
-| 2025 | Domain Adaptation for Big Data in Agricultural Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.05972>) | N/A |
-| 2025 | E-ARMOR: Edge case Assessment and Review of Multilingual Optical Character Recognition | arXiv | [paper](<https://arxiv.org/abs/2509.03615>) | N/A |
-| 2025 | Efficacy Analysis in Clinical Trials: A Comprehensive Review of Statistical and Machine Learning Approaches | arXiv | [paper](<https://arxiv.org/abs/2511.04903>) | N/A |
-| 2025 | Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708525>) | N/A |
-| 2025 | Enabling Rapid Shared Human-AI Mental Model Alignment via the After-Action Review | arXiv | [paper](<https://arxiv.org/abs/2503.19607>) | N/A |
-| 2025 | Enhancing Air Quality Monitoring: A Brief Review of Federated Learning Advances | arXiv | [paper](<https://arxiv.org/abs/2504.02909>) | N/A |
-| 2025 | Enhancing kidney transplantation through multi-agent kidney exchange programs: A comprehensive review and optimization models | arXiv | [paper](<https://arxiv.org/abs/2502.07819>) | N/A |
-| 2025 | Explainable Artificial Intelligence for Economic Time Series: A Comprehensive Review and a Systematic Taxonomy of Methods and Concepts | arXiv | [paper](<https://arxiv.org/abs/2512.12506>) | N/A |
-| 2025 | Explainable Artificial Intelligence Techniques for Interpretation of Food Models: a Review | arXiv | [paper](<https://arxiv.org/abs/2504.10527>) | N/A |
-| 2025 | Exploring Embodied Emotional Communication: A Human-oriented Review of Mediated Social Touch | arXiv | [paper](<https://arxiv.org/abs/2502.13816>) | N/A |
-| 2025 | Exploring the evolution, progress, and future of point-of-interest recommendation over location-based social network: a comprehensive review | GeoInformatica | [paper](<https://doi.org/10.1007/s10707-024-00531-x>) | N/A |
-| 2025 | Exploring the Explainability of Time Series Clustering: A Review of Methods and Practices | WSDM | [paper](<https://doi.org/10.1145/3701551.3703479>) | N/A |
-| 2025 | Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review | arXiv | [paper](<https://arxiv.org/abs/2504.18496>) | N/A |
-| 2025 | Factors That Support Grounded Responses in LLM Conversations: A Rapid Review | arXiv | [paper](<https://arxiv.org/abs/2511.21762>) | N/A |
-| 2025 | Fast, Slow, and Tool-augmented Thinking for LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.12265>) | N/A |
-| 2025 | Federated Learning for Large Models in Medical Imaging: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2508.20414>) | N/A |
-| 2025 | Foundation Model Driven Robotics: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2507.10087>) | N/A |
-| 2025 | Foundation Models for Clean Energy Forecasting: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2507.23147>) | N/A |
-| 2025 | Foundation Models For Seismic Data Processing: An Extensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.24166>) | N/A |
-| 2025 | Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2512.00021>) | [code](<https://github.com/fiveai/FMs-for-driving-trajectories>) |
-| 2025 | Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact | arXiv | [paper](<https://arxiv.org/abs/2502.08333>) | N/A |
-| 2025 | FPGA-based Acceleration for Convolutional Neural Networks: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2505.13461>) | N/A |
-| 2025 | From 2D to 3D, Deep Learning-based Shape Reconstruction in Magnetic Resonance Imaging: A Review | arXiv | [paper](<https://arxiv.org/abs/2510.01296>) | N/A |
-| 2025 | From Camera-Based Sensing to Reasoning: A Comprehensive Review Toward Proactive Vulnerable Road User Safety | arXiv | [paper](<https://arxiv.org/abs/2510.03314>) | N/A |
-| 2025 | From Classical Machine Learning to Emerging Foundation Models: Review on Multimodal Data Integration for Cancer Research | arXiv | [paper](<https://arxiv.org/abs/2507.09028>) | N/A |
-| 2025 | From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.19678>) | N/A |
-| 2025 | From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion | arXiv | [paper](<https://arxiv.org/abs/2507.09081>) | N/A |
-| 2025 | From Time-series Generation, Model Selection to Transfer Learning: A Comparative Review of Pixel-wise Approaches for Large-scale Crop Mapping | arXiv | [paper](<https://arxiv.org/abs/2507.12590>) | N/A |
-| 2025 | From Traditional to Deep Learning Approaches in Whole Slide Image Registration: A Methodological Review | arXiv | [paper](<https://arxiv.org/abs/2502.19123>) | N/A |
-| 2025 | Fuzzy Theory in Computer Vision: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.18660>) | N/A |
-| 2025 | Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools | arXiv | [paper](<https://arxiv.org/abs/2501.06227>) | N/A |
-| 2025 | Generative AI for Autonomous Driving: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.15863>) | N/A |
-| 2025 | Generative AI for Crystal Structures: A Review | arXiv | [paper](<https://arxiv.org/abs/2509.02723>) | N/A |
-| 2025 | Generative AI for Software Project Management: Insights from a Review of Software Practitioner Literature | arXiv | [paper](<https://arxiv.org/abs/2510.10887>) | N/A |
-| 2025 | Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.00210>) | N/A |
-| 2025 | Generative Model Predictive Control in Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2511.17865>) | N/A |
-| 2025 | Generative Modeling: A Review | arXiv | [paper](<https://arxiv.org/abs/2501.05458>) | N/A |
-| 2025 | Graph Neural Networks for Source Detection: A Review and Benchmark Study | arXiv | [paper](<https://arxiv.org/abs/2512.20657>) | N/A |
-| 2025 | Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2508.03860>) | N/A |
-| 2025 | Handcrafted Local Feature Descriptor-Based Point Cloud Registration and Its Applications: A Review | TVCG | [paper](<https://doi.org/10.1109/TVCG.2025.3569894>) | N/A |
-| 2025 | Handcrafted vs. Deep Radiomics vs. Fusion vs. Deep Learning: A Comprehensive Review of Machine Learning -Based Cancer Outcome Prediction in PET and SPECT Imaging | arXiv | [paper](<https://arxiv.org/abs/2507.16065>) | N/A |
-| 2025 | Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review | arXiv | [paper](<https://arxiv.org/abs/2504.08588>) | N/A |
-| 2025 | Highlighting Case Studies in LLM Literature Review of Interdisciplinary System Science | arXiv | [paper](<https://arxiv.org/abs/2503.16515>) | N/A |
-| 2025 | Images and deep learning in human and urban infrastructure interactions pertinent to sustainable urban studies: Review and perspective | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2024.104352>) | N/A |
-| 2025 | Inclusive Review on Advances in Masked Human Face Recognition Technologies | arXiv | [paper](<https://arxiv.org/abs/2508.00841>) | N/A |
-| 2025 | Information Security Based on LLM Approaches: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.18215>) | N/A |
-| 2025 | Integrating Bayesian methods with neural network--based model predictive control: a review | arXiv | [paper](<https://arxiv.org/abs/2510.05338>) | N/A |
-| 2025 | Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2504.06843>) | N/A |
-| 2025 | Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures | arXiv | [paper](<https://arxiv.org/abs/2502.06963>) | N/A |
-| 2025 | International Agreements on AI Safety: Review and Recommendations for a Conditional AI Safety Treaty | arXiv | [paper](<https://arxiv.org/abs/2503.18956>) | N/A |
-| 2025 | Interpretable Machine Learning in Physics: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.23616>) | N/A |
-| 2025 | Keeping Medical AI Healthy and Trustworthy: A Review of Detection and Correction Methods for System Degradation | arXiv | [paper](<https://arxiv.org/abs/2506.17442>) | N/A |
-| 2025 | KV Cache Compression for Inference Efficiency in LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.06297>) | N/A |
-| 2025 | Large Language Model for Verilog Code Generation: Literature Review and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2512.00020>) | N/A |
-| 2025 | Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708522>) | N/A |
-| 2025 | Large language model-based task planning for service robots: A review | arXiv | [paper](<https://arxiv.org/abs/2510.23357>) | N/A |
-| 2025 | Large Language Models and Arabic Content: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.08004>) | N/A |
-| 2025 | Large Language Models and Evolutionary Computation: A Critical Review of Bidirectional Interaction, Automated Algorithm Design, and Co-Adaptive Systems | arXiv | [paper](<https://arxiv.org/abs/2505.15741>) | N/A |
-| 2025 | Large Language Models and Their Applications in Roadway Safety and Mobility Enhancement: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.06301>) | N/A |
-| 2025 | Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.83>) | N/A |
-| 2025 | Large Language Models For Text Classification: Case Study And Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2501.08457>) | N/A |
-| 2025 | Large-Scale AI and Foundation Models for Neuroscience: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2510.16658>) | N/A |
-| 2025 | Lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial HVAC: A review | arXiv | [paper](<https://arxiv.org/abs/2503.05022>) | N/A |
-| 2025 | Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.23952>) | N/A |
-| 2025 | Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.04983>) | N/A |
-| 2025 | Leveraging LLMs to Streamline the Review of Public Funding Applications | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-industry.143>) | N/A |
-| 2025 | Leveraging Natural Language Processing to Unravel the Mystery of Life: A Review of NLP Approaches in Genomics, Transcriptomics, and Proteomics | arXiv | [paper](<https://arxiv.org/abs/2506.02212>) | N/A |
-| 2025 | Literature Review Of Multi-Agent Debate For Problem-Solving | arXiv | [paper](<https://arxiv.org/abs/2506.00066>) | N/A |
-| 2025 | LLM Integration in Extended Reality: A Comprehensive Review of Current Trends, Challenges, and Future Perspectives | CHI | [paper](<https://doi.org/10.1145/3706598.3714224>) | N/A |
-| 2025 | LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2510.24367>) | N/A |
-| 2025 | LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3712003>) | N/A |
-| 2025 | LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases | arXiv | [paper](<https://arxiv.org/abs/2511.02203>) | N/A |
-| 2025 | Loss functions incorporating auditory spatial perception in deep learning -- a review | arXiv | [paper](<https://arxiv.org/abs/2506.19404>) | N/A |
-| 2025 | Lossy Neural Compression for Geospatial Analytics: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.01505>) | N/A |
-| 2025 | Low-Rank Adaptation for Foundation Models: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2501.00365>) | N/A |
-| 2025 | Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review | arXiv | [paper](<https://arxiv.org/abs/2503.18975>) | N/A |
-| 2025 | Machine Learning and Deep Learning Techniques used in Cybersecurity and Digital Forensics: a Review | arXiv | [paper](<https://arxiv.org/abs/2501.03250>) | N/A |
-| 2025 | Machine learning applications in archaeological practices: a review | arXiv | [paper](<https://arxiv.org/abs/2501.03840>) | N/A |
-| 2025 | Machine Learning Applications Related to Suicide in Military and Veterans: A Scoping Literature Review | arXiv | [paper](<https://arxiv.org/abs/2505.12220>) | N/A |
-| 2025 | Machine learning enhanced atom probe tomography analysis: a snapshot review | arXiv | [paper](<https://arxiv.org/abs/2504.14378>) | N/A |
-| 2025 | Machine learning for modelling unstructured grid data in computational physics: a review | arXiv | [paper](<https://arxiv.org/abs/2502.09346>) | N/A |
-| 2025 | Machine Learning for RNA Secondary Structure Prediction: a review of current methods and challenges | arXiv | [paper](<https://arxiv.org/abs/2511.02622>) | N/A |
-| 2025 | Machine Learning for Scheduling Decision Systems: A Critical Review of Architecture, Assurance, and Deployment | arXiv | [paper](<https://arxiv.org/abs/2512.22642>) | N/A |
-| 2025 | Machine Learning in Acoustics: A Review and Open-Source Repository | arXiv | [paper](<https://arxiv.org/abs/2507.04419>) | N/A |
-| 2025 | Machine Learning Methods for Small Data and Upstream Bioprocessing Applications: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.12322>) | N/A |
-| 2025 | Machine learning-based cloud resource allocation algorithms: a comprehensive comparative review | arXiv | [paper](<https://arxiv.org/abs/2511.11603>) | N/A |
-| 2025 | Mitigating Bias in Machine Learning: A Comprehensive Review and Novel Approaches | AAAI | [paper](<https://doi.org/10.1609/aaai.v39i27.35107>) | N/A |
-| 2025 | Monitoring Machine Learning Systems: A Multivocal Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.14294>) | N/A |
-| 2025 | Moving beyond harm. A critical review of how NLP research approaches discrimination | arXiv | [paper](<https://arxiv.org/abs/2508.04504>) | N/A |
-| 2025 | Multi-agent systems for chemical engineering: A review and perspective | arXiv | [paper](<https://arxiv.org/abs/2508.07880>) | N/A |
-| 2025 | Multi-Resolution SAR and Optical Remote Sensing Image Registration Methods: A Review, Datasets, and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2502.01002>) | [code](<https://github.com/betterlll/Multi-Resolution-SAR-dataset->) |
-| 2025 | Multimedia-Aware Question Answering: A Review of Retrieval and Cross-Modal Reasoning Architectures | arXiv | [paper](<https://arxiv.org/abs/2510.20193>) | N/A |
-| 2025 | Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends | arXiv | [paper](<https://arxiv.org/abs/2504.16134>) | N/A |
-| 2025 | Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1023>) | N/A |
-| 2025 | Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection | arXiv | [paper](<https://arxiv.org/abs/2501.09506>) | N/A |
-| 2025 | Natural Language Generation in Healthcare: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2505.04073>) | N/A |
-| 2025 | Natural Language Processing for Cardiology: A Narrative Review | arXiv | [paper](<https://arxiv.org/abs/2510.16708>) | N/A |
-| 2025 | Negative Dependence as a toolbox for machine learning : review and new developments | arXiv | [paper](<https://arxiv.org/abs/2502.07285>) | N/A |
-| 2025 | Object Detection with Multimodal Large Vision-Language Models: An In-depth Review | arXiv | [paper](<https://arxiv.org/abs/2508.19294>) | N/A |
-| 2025 | Offline Model-Based Optimization: Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.17286>) | N/A |
-| 2025 | Offshore Wind Turbine Tower Design and Optimization: A Review and AI-Driven Future Directions | arXiv | [paper](<https://arxiv.org/abs/2502.02594>) | N/A |
-| 2025 | Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2507.13359>) | [code](<https://github.com/zhouyang2002/OVOD-in-UVA-imagery>) |
-| 2025 | Out-of-distribution detection in 3D applications: a review | arXiv | [paper](<https://arxiv.org/abs/2507.00570>) | N/A |
-| 2025 | Overcoming Challenges of Partial Client Participation in Federated Learning : A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.02887>) | N/A |
-| 2025 | Parallel Corpora for Machine Translation in Low-resource Indic Languages: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.04797>) | N/A |
-| 2025 | Passive Acoustic Monitoring of Underwater Well Leakages with Machine Learning: A Review | arXiv | [paper](<https://arxiv.org/abs/2511.07598>) | N/A |
-| 2025 | Performance Review on LLM for solving leetcode problems | arXiv | [paper](<https://arxiv.org/abs/2502.15770>) | N/A |
-| 2025 | Physical foundations for trustworthy medical imaging: a review for artificial intelligence researchers | arXiv | [paper](<https://arxiv.org/abs/2505.02843>) | N/A |
-| 2025 | Physics-informed machine learning for building performance simulation-A review of a nascent field | arXiv | [paper](<https://arxiv.org/abs/2504.00937>) | N/A |
-| 2025 | Physics-informed machine learning for combustion: A review | arXiv | [paper](<https://arxiv.org/abs/2509.03347>) | N/A |
-| 2025 | Physics-Informed Neural Networks For Semiconductor Film Deposition: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.10983>) | N/A |
-| 2025 | Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective | arXiv | [paper](<https://arxiv.org/abs/2501.03305>) | N/A |
-| 2025 | Power Transformer Health Index and Life Span Assessment: A Comprehensive Review of Conventional and Machine Learning based Approaches | arXiv | [paper](<https://arxiv.org/abs/2504.15310>) | N/A |
-| 2025 | Privacy Challenges and Solutions in Retrieval-Augmented Generation-Enhanced LLMs for Healthcare Chatbots: A Review of Applications, Risks, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2511.11347>) | N/A |
-| 2025 | Quantum Natural Language Processing: A Comprehensive Review of Models, Methods, and Applications | arXiv | [paper](<https://arxiv.org/abs/2504.09909>) | N/A |
-| 2025 | Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.14831>) | N/A |
-| 2025 | Recent Deep Learning in Crowd Behaviour Analysis: A Brief Review | arXiv | [paper](<https://arxiv.org/abs/2505.18401>) | N/A |
-| 2025 | Recent Trends in Distant Conversational Speech Recognition: A Review of CHiME-7 and 8 DASR Challenges | arXiv | [paper](<https://arxiv.org/abs/2507.18161>) | N/A |
-| 2025 | Reinforcement Learning for Ultrasound Image Analysis A Comprehensive Review of Advances and Applications | arXiv | [paper](<https://arxiv.org/abs/2502.14995>) | N/A |
-| 2025 | Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations | arXiv | [paper](<https://arxiv.org/abs/2502.10303>) | N/A |
-| 2025 | Representing Data in Robotic Tactile Perception -- A Review | arXiv | [paper](<https://arxiv.org/abs/2510.10804>) | N/A |
-| 2025 | Reproducibility review of "Why Not Other Classes": Towards Class-Contrastive Back-Propagation Explanations | arXiv | [paper](<https://arxiv.org/abs/2501.11096>) | N/A |
-| 2025 | Rethink Rumor Detection in the Era of LLMs: A Review | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.464>) | N/A |
-| 2025 | Review and Recommendations for using Artificial Intelligence in Intracoronary Optical Coherence Tomography Analysis | arXiv | [paper](<https://arxiv.org/abs/2501.18614>) | N/A |
-| 2025 | Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration | arXiv | [paper](<https://arxiv.org/abs/2504.06943>) | N/A |
-| 2025 | Review of Deep Learning Applications to Structural Proteomics Enabled by Cryogenic Electron Microscopy and Tomography | arXiv | [paper](<https://arxiv.org/abs/2507.19565>) | N/A |
-| 2025 | Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT | arXiv | [paper](<https://arxiv.org/abs/2507.08448>) | N/A |
-| 2025 | Review of Hallucination Understanding in Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2510.00034>) | N/A |
-| 2025 | Review of Machine Learning for Micro-Electronic Design Verification | arXiv | [paper](<https://arxiv.org/abs/2503.11687>) | N/A |
-| 2025 | Review of Machine Learning for Real-Time Analysis at the Large Hadron Collider experiments ALICE, ATLAS, CMS and LHCb | arXiv | [paper](<https://arxiv.org/abs/2506.14578>) | N/A |
-| 2025 | Review of MEMS Transducers for Audio Applications | arXiv | [paper](<https://arxiv.org/abs/2512.17708>) | N/A |
-| 2025 | Review of Tools for Zero-Code LLM Based Application Development | arXiv | [paper](<https://arxiv.org/abs/2510.19747>) | N/A |
-| 2025 | Robot-assisted Transcranial Magnetic Stimulation (Robo-TMS): A Review | arXiv | [paper](<https://arxiv.org/abs/2507.04345>) | N/A |
-| 2025 | Scalable and Interpretable Contextual Bandits: A Literature Review and Retail Offer Prototype | arXiv | [paper](<https://arxiv.org/abs/2505.16918>) | N/A |
-| 2025 | Sentiment Analysis in SemEval: A Review of Sentiment Identification Approaches | arXiv | [paper](<https://arxiv.org/abs/2503.10457>) | N/A |
-| 2025 | Sentiment-Aware Recommendation Systems in E-Commerce: A Review from a Natural Language Processing Perspective | arXiv | [paper](<https://arxiv.org/abs/2505.03828>) | N/A |
-| 2025 | Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI | arXiv | [paper](<https://arxiv.org/abs/2511.06078>) | N/A |
-| 2025 | Solar and Wind Power Forecasting: A Comparative Review of LSTM, Random Forest, and XGBoost Models | arXiv | [paper](<https://arxiv.org/abs/2509.24059>) | N/A |
-| 2025 | Speech to Speech Translation with Translatotron: A State of the Art Review | arXiv | [paper](<https://arxiv.org/abs/2502.05980>) | N/A |
-| 2025 | Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2502.14886>) | N/A |
-| 2025 | System Log Parsing with Large Language Models: A Review | arXiv | [paper](<https://arxiv.org/abs/2504.04877>) | N/A |
-| 2025 | Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.18378>) | [code](<https://github.com/haonenglin/Awesome-VLM-for-MIA>) |
-| 2025 | Task Allocation in Mobile Robot Fleets: A review | arXiv | [paper](<https://arxiv.org/abs/2501.08726>) | N/A |
-| 2025 | Task-based Loss Functions in Computer Vision: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.04242>) | N/A |
-| 2025 | Taxonomy and Trends in Reinforcement Learning for Robotics and Control Systems: A Structured Review | arXiv | [paper](<https://arxiv.org/abs/2510.21758>) | N/A |
-| 2025 | The Evolution of Probabilistic Price Forecasting Techniques: A Review of the Day-Ahead, Intra-Day, and Balancing Markets | arXiv | [paper](<https://arxiv.org/abs/2511.05523>) | N/A |
-| 2025 | The Machine Learning Approach to Moment Closure Relations for Plasma: A Review | arXiv | [paper](<https://arxiv.org/abs/2511.22486>) | N/A |
-| 2025 | The Safety Challenge of World Models for Embodied AI Agents: A Review | arXiv | [paper](<https://arxiv.org/abs/2510.05865>) | N/A |
-| 2025 | The Social Gaze of LLMs: A Literature Review of Multimodal Approaches to Human Behavior Understanding | arXiv | [paper](<https://arxiv.org/abs/2510.23947>) | N/A |
-| 2025 | Time Series Embedding Methods for Classification Tasks: A Review | arXiv | [paper](<https://arxiv.org/abs/2501.13392>) | N/A |
-| 2025 | Time Series Information Visualization -- A Review of Approaches and Tools | arXiv | [paper](<https://arxiv.org/abs/2507.14920>) | N/A |
-| 2025 | Topological Data Analysis and Topological Deep Learning Beyond Persistent Homology -- A Review | arXiv | [paper](<https://arxiv.org/abs/2507.19504>) | N/A |
-| 2025 | Toward Adaptable Multi-Agent Reinforcement Learning: An Assumption-Aware Review | arXiv | [paper](<https://arxiv.org/abs/2507.10142>) | N/A |
-| 2025 | Toward Embodied AGI: A Review of Embodied AI and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2505.14235>) | N/A |
-| 2025 | Toward Few-Shot Learning in the Open World: A Review and Beyond | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3594686>) | N/A |
-| 2025 | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction | arXiv | [paper](<https://arxiv.org/abs/2508.05294>) | N/A |
-| 2025 | Towards General Urban Monitoring with Vision-Language Models: A Review, Evaluation, and a Research Agenda | arXiv | [paper](<https://arxiv.org/abs/2510.12400>) | N/A |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2024 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning | arXiv | [paper](<https://arxiv.org/abs/2406.05804>) | [code](<https://github.com/xinzhel/LLM-Agent-Survey>) | [46](<https://openalex.org/W4399555153>) ([⭐ 519](<https://github.com/xinzhel/LLM-Agent-Survey>)) |
+| 2024 | A Review of Data Mining in Personalized Education: Current Trends and Future Prospects | arXiv | [paper](<https://arxiv.org/abs/2402.17236>) | N/A | [46](<https://openalex.org/W4402780341>) |
+| 2024 | A Review on Low-Dose Emission Tomography Post-Reconstruction Denoising with Neural Network Approaches | arXiv | [paper](<https://arxiv.org/abs/2401.00232>) | N/A | [46](<https://openalex.org/W4390492132>) |
+| 2025 | A Comprehensive Review of Multi-Agent Reinforcement Learning in Video Games | arXiv | [paper](<https://arxiv.org/abs/2509.03682>) | N/A | [45](<https://openalex.org/W4412403840>) |
+| 2025 | Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2501.16656>) | N/A | [45](<https://openalex.org/W4410709520>) |
+| 2024 | Machine Learning Applications of Quantum Computing: A Review | arXiv | [paper](<https://arxiv.org/abs/2406.13262>) | N/A | [45](<https://openalex.org/W4399912630>) |
+| 2025 | Task-based Loss Functions in Computer Vision: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.04242>) | N/A | [44](<https://openalex.org/W4417062162>) |
+| 2024 | Deep Learning on 3D Semantic Segmentation: A Detailed Review | arXiv | [paper](<https://arxiv.org/abs/2411.02104>) | [code](<https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a->) | [44](<https://openalex.org/W4406471598>) ([⭐ N/A](<https://github.com/thobet/deep-learning-on-3d-semantic-segmentation-a->)) |
+| 2024 | Video Summarization Techniques: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2410.04449>) | N/A | [44](<https://openalex.org/W4404623422>) |
+| 2024 | A Review of Pseudo-Labeling for Computer Vision | arXiv | [paper](<https://arxiv.org/abs/2408.07221>) | N/A | [44](<https://openalex.org/W4402427616>) |
+| 2024 | AI for the prediction of early stages of Alzheimer's disease from neuroimaging biomarkers -- A narrative review of a growing field | arXiv | [paper](<https://arxiv.org/abs/2406.17822>) | N/A | [44](<https://openalex.org/W4399617857>) |
+| 2025 | Machine learning for modelling unstructured grid data in computational physics: a review | arXiv | [paper](<https://arxiv.org/abs/2502.09346>) | N/A | [43](<https://openalex.org/W4410397326>) |
+| 2025 | Deep Reinforcement Learning for Job Scheduling and Resource Management in Cloud Computing: An Algorithm-Level Review | arXiv | [paper](<https://arxiv.org/abs/2501.01007>) | N/A | [43](<https://openalex.org/W4406032997>) |
+| 2019 | Social Media-based User Embedding: A Literature Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2019/881>) | N/A | [43](<https://openalex.org/W2966775979>) |
+| 2024 | LitLLMs, LLMs for Literature Review: Are we there yet? | arXiv | [paper](<https://arxiv.org/abs/2412.15249>) | N/A | [42](<https://openalex.org/W4405713902>) |
+| 2024 | Review of deep learning models for crypto price prediction: implementation and evaluation | arXiv | [paper](<https://arxiv.org/abs/2405.11431>) | N/A | [42](<https://openalex.org/W7135083528>) |
+| 2024 | Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC | arXiv | [paper](<https://arxiv.org/abs/2404.01071>) | N/A | [42](<https://openalex.org/W4393736316>) |
+| 2024 | Applications and Advances of Artificial Intelligence in Music Generation:A Review | arXiv | [paper](<https://arxiv.org/abs/2409.03715>) | N/A | [41](<https://openalex.org/W4403524603>) |
+| 2024 | How do applied researchers use the Causal Forest? A methodological review of a method | arXiv | [paper](<https://arxiv.org/abs/2404.13356>) | N/A | [41](<https://openalex.org/W4407397209>) |
+| 2024 | Synthetic Data for Video Surveillance Applications of Computer Vision: A Review | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02102-x>) | N/A | [41](<https://openalex.org/W4397023171>) |
+| 2024 | Deep Learning Models for Hazard-Damaged Building Detection Using Remote Sensing Datasets: A Comprehensive Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3449097>) | N/A | [40](<https://openalex.org/W4401806689>) |
+| 2018 | A state-of-the-art review of machine learning techniques for fraud detection research | ICSE | [paper](<https://doi.org/10.1145/3195528.3195534>) | N/A | [40](<https://openalex.org/W2884168986>) |
+| 2025 | Keeping Medical AI Healthy and Trustworthy: A Review of Detection and Correction Methods for System Degradation | arXiv | [paper](<https://arxiv.org/abs/2506.17442>) | N/A | [39](<https://openalex.org/W4417201877>) |
+| 2025 | Anomaly Detection for Industrial Applications, Its Challenges, Solutions, and Future Directions: A Review | arXiv | [paper](<https://arxiv.org/abs/2501.11310>) | N/A | [39](<https://openalex.org/W7113906057>) |
+| 2025 | Plant Leaf Disease Detection and Classification Using Deep Learning: A Review and A Proposed System on Bangladesh's Perspective | arXiv | [paper](<https://arxiv.org/abs/2501.03305>) | N/A | [39](<https://openalex.org/W4387836851>) |
+| 2024 | A critical review of methods and challenges in large language models | arXiv | [paper](<https://arxiv.org/abs/2404.11973>) | N/A | [39](<https://openalex.org/W4407048461>) |
+| 2023 | Applications and prospects of artificial intelligence in covert satellite communication: a review | SCIS | [paper](<https://doi.org/10.1007/s11432-022-3566-4>) | N/A | [39](<https://openalex.org/W4316136125>) |
+| 2025 | Topological Data Analysis and Topological Deep Learning Beyond Persistent Homology -- A Review | arXiv | [paper](<https://arxiv.org/abs/2507.19504>) | N/A | [38](<https://openalex.org/W4417535890>) |
+| 2025 | Interpretable Machine Learning in Physics: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.23616>) | N/A | [38](<https://openalex.org/W4417050597>) |
+| 2024 | Exploring LLMs for Malware Detection: Review, Framework Design, and Countermeasure Approaches | arXiv | [paper](<https://arxiv.org/abs/2409.07587>) | N/A | [38](<https://openalex.org/W4403659027>) |
+| 2024 | Neuromorphic Perception and Navigation for Mobile Robots: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.06792>) | N/A | [38](<https://openalex.org/W4394606507>) |
+| 2024 | Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review | arXiv | [paper](<https://arxiv.org/abs/2403.18565>) | N/A | [38](<https://openalex.org/W4390826396>) |
+| 2025 | Artificial Intelligence and Generative Models for Materials Discovery -- A Review | arXiv | [paper](<https://arxiv.org/abs/2508.03278>) | N/A | [37](<https://openalex.org/W4413237902>) |
+| 2025 | Foundation Models for Clean Energy Forecasting: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2507.23147>) | N/A | [37](<https://openalex.org/W4415944207>) |
+| 2025 | Comprehensive Review of Neural Differential Equations for Time Series Analysis | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1179>) | N/A | [37](<https://openalex.org/W4414359302>) |
+| 2025 | Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact | arXiv | [paper](<https://arxiv.org/abs/2502.08333>) | N/A | [37](<https://openalex.org/W4417315064>) |
+| 2024 | Deep Learning Frameworks for Cognitive Radio Networks: Review and Open Research Challenges | arXiv | [paper](<https://arxiv.org/abs/2410.23949>) | N/A | [37](<https://openalex.org/W4404095724>) |
+| 2024 | Deep Learning Techniques for Hand Vein Biometrics: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2409.07128>) | N/A | [37](<https://openalex.org/W4402905626>) |
+| 2024 | Deep Learning in Earthquake Engineering: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2405.09021>) | N/A | [37](<https://openalex.org/W4414891249>) |
+| 2024 | Generative Adversarial Network Applications in Industry 4.0: A Review | IJCV | [paper](<https://doi.org/10.1007/s11263-023-01966-9>) | N/A | [37](<https://openalex.org/W4390825351>) |
+| 2022 | MReD: A Meta-Review Dataset for Structure-Controllable Text Generation | ACL | [paper](<https://aclanthology.org/2022.findings-acl.198>) | [code](<https://github.com/shen-chenhui/mred>) | [37](<https://openalex.org/W4285139476>) ([⭐ 28](<https://github.com/Shen-Chenhui/MReD>)) |
+| 2019 | High-Resolution Remote Sensing Image Scene Understanding: A Review | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8899293>) | N/A | [37](<https://openalex.org/W2988510619>) |
+| 2015 | Color Sparse Representations for Image Processing: Review, Models, and Prospects | TIP | [paper](<https://doi.org/10.1109/TIP.2015.2458175>) | N/A | [37](<https://openalex.org/W1534951689>) |
+| 2025 | A review of topological data analysis and topological deep learning in molecular sciences | arXiv | [paper](<https://arxiv.org/abs/2509.16877>) | N/A | [36](<https://openalex.org/W4416228481>) |
+| 2025 | Multi-agent systems for chemical engineering: A review and perspective | arXiv | [paper](<https://arxiv.org/abs/2508.07880>) | N/A | [36](<https://openalex.org/W7117165268>) |
+| 2025 | Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review | arXiv | [paper](<https://arxiv.org/abs/2504.08588>) | N/A | [36](<https://openalex.org/W4414915327>) |
+| 2025 | Machine learning applications in archaeological practices: a review | arXiv | [paper](<https://arxiv.org/abs/2501.03840>) | N/A | [36](<https://openalex.org/W4417268337>) |
+| 2025 | Trusting Autonomous Teammates in Human-AI Teams - A Literature Review | CHI | [paper](<https://doi.org/10.1145/3706598.3713527>) | N/A | [36](<https://openalex.org/W4409749301>) |
+| 2023 | Towards a Common Understanding of Contributing Factors for Cross-Lingual Transfer in Multilingual Language Models: A Review | ACL | [paper](<https://aclanthology.org/2023.acl-long.323>) | N/A | [36](<https://openalex.org/W4385569924>) |
+| 2025 | Large Language Models and Their Applications in Roadway Safety and Mobility Enhancement: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.06301>) | N/A | [35](<https://openalex.org/W4412089025>) |
+| 2025 | A review of faithfulness metrics for hallucination assessment in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.00269>) | N/A | [35](<https://openalex.org/W4411232405>) |
+| 2024 | SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model | arXiv | [paper](<https://arxiv.org/abs/2401.13266>) | N/A | [35](<https://openalex.org/W4413122213>) |
+| 2024 | Fine-Grained Image Recognition Methods and Their Applications in Remote Sensing Images: A Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3482348>) | N/A | [35](<https://openalex.org/W4403446585>) |
+| 2023 | A Critical Review of Inductive Logic Programming Techniques for Explainable AI | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3246980>) | N/A | [35](<https://openalex.org/W4362602165>) |
+| 2024 | Surveying the MLLM Landscape: A Meta-Review of Current Surveys | arXiv | [paper](<https://arxiv.org/abs/2409.18991>) | N/A | [34](<https://openalex.org/W4403809994>) |
+| 2024 | Exploring Bias and Prediction Metrics to Characterise the Fairness of Machine Learning for Equity-Centered Public Health Decision-Making: A Narrative Review | arXiv | [paper](<https://arxiv.org/abs/2408.13295>) | N/A | [34](<https://openalex.org/W4404848720>) |
+| 2024 | Rapid Review of Generative AI in Smart Medical Applications | arXiv | [paper](<https://arxiv.org/abs/2406.06627>) | N/A | [34](<https://openalex.org/W4399597498>) |
+| 2024 | Recent Trends in Personalized Dialogue Generation: A Review of Datasets, Methodologies, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2405.17974>) | N/A | [34](<https://openalex.org/W7131904554>) |
+| 2025 | LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2510.24367>) | N/A | [33](<https://openalex.org/W7130607038>) |
+| 2025 | Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.01364>) | N/A | [33](<https://openalex.org/W7123354967>) |
+| 2025 | Deep Learning Approaches for Anti-Money Laundering on Mobile Transactions: Review, Framework, and Directions | arXiv | [paper](<https://arxiv.org/abs/2503.10058>) | N/A | [33](<https://openalex.org/W7123351083>) |
+| 2025 | A Comprehensive Review of Few-Shot Action Recognition | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02503-6>) | N/A | [33](<https://openalex.org/W4411750547>) |
+| 2024 | Machine Learning Aided Modeling of Granular Materials: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.14767>) | N/A | [33](<https://openalex.org/W4403878456>) |
+| 2024 | FlightScope: An Experimental Comparative Review of Aircraft Detection Algorithms in Satellite Imagery | arXiv | [paper](<https://arxiv.org/abs/2404.02877>) | [code](<https://github.com/toelt-llc/FlightScope_Bench>) | [33](<https://openalex.org/W4405496175>) ([⭐ 37](<https://github.com/toelt-llc/FlightScope_Bench>)) |
+| 2024 | Neural Radiance Field-based Visual Rendering: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2404.00714>) | N/A | [33](<https://openalex.org/W7140233218>) |
+| 2024 | Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies | arXiv | [paper](<https://arxiv.org/abs/2403.03699>) | N/A | [33](<https://openalex.org/W4392576237>) |
+| 2025 | Autonomous Robotic Pruning in Orchards and Vineyards: a Review | arXiv | [paper](<https://arxiv.org/abs/2505.07318>) | N/A | [32](<https://openalex.org/W4413109683>) |
+| 2025 | Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.83>) | N/A | [32](<https://openalex.org/W4416037345>) |
+| 2024 | Deep Learning Techniques for Atmospheric Turbulence Removal: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.14587>) | N/A | [32](<https://openalex.org/W4406813583>) |
+| 2024 | A Review of Nine Physics Engines for Reinforcement Learning Research | arXiv | [paper](<https://arxiv.org/abs/2407.08590>) | N/A | [32](<https://openalex.org/W4400611974>) |
+| 2024 | A Comprehensive Review of Emerging Approaches in Machine Learning for De Novo PROTAC Design | arXiv | [paper](<https://arxiv.org/abs/2406.16681>) | N/A | [32](<https://openalex.org/W4402926321>) |
+| 2024 | A Structured Review of Literature on Uncertainty in Machine Learning &amp; Deep Learning | arXiv | [paper](<https://arxiv.org/abs/2406.00332>) | N/A | [32](<https://openalex.org/W4399355294>) |
+| 2024 | Applications of interpretable deep learning in neuroimaging: a comprehensive review | arXiv | [paper](<https://arxiv.org/abs/2406.17792>) | N/A | [32](<https://openalex.org/W4399662619>) |
+| 2024 | Vision-based 3D occupancy prediction in autonomous driving: a review and outlook | arXiv | [paper](<https://arxiv.org/abs/2405.02595>) | [code](<https://github.com/zya3d/Awesome-3D-Occupancy-Prediction>) | [32](<https://openalex.org/W4415238714>) ([⭐ 279](<https://github.com/zya3d/Awesome-3D-Occupancy-Prediction>)) |
+| 2024 | Towards Incremental Learning in Large Language Models: A Critical Review | arXiv | [paper](<https://arxiv.org/abs/2404.18311>) | N/A | [32](<https://openalex.org/W4413932221>) |
+| 2024 | Machine Learning and Transformers for Thyroid Carcinoma Diagnosis: A Review | arXiv | [paper](<https://arxiv.org/abs/2403.13843>) | N/A | [32](<https://openalex.org/W4393113071>) |
+| 2025 | Machine learning-based cloud resource allocation algorithms: a comprehensive comparative review | arXiv | [paper](<https://arxiv.org/abs/2511.11603>) | N/A | [31](<https://openalex.org/W4415373240>) |
+| 2025 | A Comprehensive Review of Agricultural Parcel and Boundary Delineation from Remote Sensing Images: Recent Progress and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2508.14558>) | N/A | [31](<https://openalex.org/W7128848440>) |
+| 2024 | A Review on the Applications of Transformer-based language models for Nucleotide Sequence Analysis | arXiv | [paper](<https://arxiv.org/abs/2412.07201>) | N/A | [31](<https://openalex.org/W4408569178>) |
+| 2024 | Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2411.18583>) | N/A | [31](<https://openalex.org/W4409047169>) |
+| 2024 | Disease Outbreak Detection and Forecasting: A Review of Methods and Data Sources | arXiv | [paper](<https://arxiv.org/abs/2410.17290>) | N/A | [31](<https://openalex.org/W4405370858>) |
+| 2024 | A Review of Scalable and Privacy-Preserving Multi-Agent Frameworks for Distributed Energy Resources | arXiv | [paper](<https://arxiv.org/abs/2409.14499>) | N/A | [31](<https://openalex.org/W4405926360>) |
+| 2024 | Vector Quantization for Recommender Systems: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2405.03110>) | N/A | [31](<https://openalex.org/W4396745098>) |
+| 2025 | Collaborative Perception Datasets for Autonomous Driving: A Review | arXiv | [paper](<https://arxiv.org/abs/2504.12696>) | [code](<https://github.com/frankwnb/Collaborative-Perception-Datasets-for-Autonomous-Driving>) | [30](<https://openalex.org/W4412164044>) ([⭐ 57](<https://github.com/frankwnb/Collaborative-Perception-Datasets-for-Autonomous-Driving>)) |
+| 2024 | Automatic Speech Recognition with BERT and CTC Transformers: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.09456>) | N/A | [30](<https://openalex.org/W4391770236>) |
+| 2024 | Sugarcane Health Monitoring With Satellite Spectroscopy and Machine Learning: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.16844>) | N/A | [30](<https://openalex.org/W4404956708>) |
+| 2023 | A Review and Collation of Graphical Perception Knowledge for Visualization Recommendation | CHI | [paper](<https://doi.org/10.1145/3544548.3581349>) | [code](<https://github.com/zehua-zeng/graphical-perception-knowledge>) | [30](<https://openalex.org/W4366583080>) ([⭐ 3](<https://github.com/Zehua-Zeng/graphical-perception-knowledge>)) |
+| 2023 | Deep Learning-Based NOMA System for Enhancement of 5G Networks: A Review | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2022.3200825>) | N/A | [30](<https://openalex.org/W4294311004>) |
+| 2025 | Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications | arXiv | [paper](<https://arxiv.org/abs/2504.16972>) | N/A | [29](<https://openalex.org/W4410835288>) |
+| 2024 | A comprehensive review of datasets and deep learning techniques for vision in Unmanned Surface Vehicles | arXiv | [paper](<https://arxiv.org/abs/2412.01461>) | N/A | [29](<https://openalex.org/W4410592747>) |
+| 2024 | Data Issues in Industrial AI System: A Meta-Review and Research Strategy | arXiv | [paper](<https://arxiv.org/abs/2406.15784>) | N/A | [29](<https://openalex.org/W4414159111>) |
+| 2024 | Predominant Aspects on Security for Quantum Machine Learning: Literature Review | arXiv | [paper](<https://arxiv.org/abs/2401.07774>) | N/A | [29](<https://openalex.org/W4406262033>) |
+| 2024 | Evaluating Large Language Models on Academic Literature Understanding and Review: An Empirical Study among Early-stage Scholars | CHI | [paper](<https://doi.org/10.1145/3613904.3641917>) | N/A | [29](<https://openalex.org/W4396832709>) |
+| 2020 | Conversational Machine Comprehension: a Literature Review | COLING | [paper](<https://aclanthology.org/2020.coling-main.247>) | N/A | [29](<https://openalex.org/W3029880367>) |
+| 2024 | Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2412.03924>) | N/A | [28](<https://openalex.org/W4409094341>) |
+| 2024 | Rod models in continuum and soft robot control: a review | arXiv | [paper](<https://arxiv.org/abs/2407.05886>) | N/A | [28](<https://openalex.org/W4400483436>) |
+| 2021 | A Review of Deep-Learning Techniques for SAR Image Restoration | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9555039>) | N/A | [28](<https://openalex.org/W3122202149>) |
+| 2010 | Remote sensing and avian influenza: A review of image processing methods for extracting key variables affecting avian influenza virus survival in water from Earth Observation satellites | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2009.09.014>) | N/A | [28](<https://openalex.org/W2065994997>) |
+| 2025 | A review of Recent Techniques for Person Re-Identification | arXiv | [paper](<https://arxiv.org/abs/2509.22690>) | N/A | [27](<https://openalex.org/W4405675242>) |
+| 2025 | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction | arXiv | [paper](<https://arxiv.org/abs/2508.05294>) | N/A | [27](<https://openalex.org/W7135167886>) |
+| 2025 | Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.24259>) | N/A | [27](<https://openalex.org/W4413385672>) |
+| 2024 | Data Set Terminology of Deep Learning in Medicine: A Historical Review and Recommendation | arXiv | [paper](<https://arxiv.org/abs/2404.19303>) | N/A | [27](<https://openalex.org/W4396600570>) |
+| 2024 | Developments in deep learning for change detection in remote sensing: A review | TGIS | [paper](<https://doi.org/10.1111/tgis.13133>) | N/A | [27](<https://openalex.org/W4390982429>) |
+| 2024 | When Multitask Learning Meets Partial Supervision: A Computer Vision Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2024.3435012>) | [code](<https://github.com/Klodivio355/MTL-CV-Review>) | [27](<https://openalex.org/W4401387266>) ([⭐ 0](<https://github.com/Klodivio355/MTL-CV-Review>)) |
+| 2025 | A review of advancements in low-light image enhancement using deep learning | arXiv | [paper](<https://arxiv.org/abs/2505.05759>) | N/A | [26](<https://openalex.org/W4412713676>) |
+| 2025 | A Comprehensive Review of Protein Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.06881>) | N/A | [26](<https://openalex.org/W4407423001>) |
+| 2025 | Time Series Embedding Methods for Classification Tasks: A Review | arXiv | [paper](<https://arxiv.org/abs/2501.13392>) | N/A | [26](<https://openalex.org/W4414845559>) |
+| 2024 | A Comprehensive Review of Knowledge Distillation in Computer Vision | arXiv | [paper](<https://arxiv.org/abs/2404.00936>) | N/A | [26](<https://openalex.org/W4393924335>) |
+| 2024 | Electrical and seismic refraction methods: fundamental concepts, current trends, and emerging machine learning prospects -- A review | arXiv | [paper](<https://arxiv.org/abs/2404.00813>) | N/A | [26](<https://openalex.org/W4412525583>) |
+| 2024 | A Review of Neuroscience-Inspired Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2403.18929>) | N/A | [26](<https://openalex.org/W4392975542>) |
+| 2024 | Research and application of Transformer based anomaly detection model: A literature review | arXiv | [paper](<https://arxiv.org/abs/2402.08975>) | N/A | [26](<https://openalex.org/W4391871247>) |
+| 2024 | Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering | arXiv | [paper](<https://arxiv.org/abs/2401.07510>) | N/A | [26](<https://openalex.org/W4393264365>) |
+| 2020 | A Review of Dataset and Labeling Methods for Causality Extraction | COLING | [paper](<https://aclanthology.org/2020.coling-main.133>) | N/A | [26](<https://openalex.org/W3115151495>) |
+| 2025 | Machine Learning Methods for Small Data and Upstream Bioprocessing Applications: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.12322>) | N/A | [25](<https://openalex.org/W4416410382>) |
+| 2025 | Domain Adaptation for Big Data in Agricultural Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.05972>) | N/A | [25](<https://openalex.org/W4416679647>) |
+| 2024 | Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review | arXiv | [paper](<https://arxiv.org/abs/2409.11864>) | N/A | [25](<https://openalex.org/W4403746419>) |
+| 2024 | Deep Models for Multi-View 3D Object Recognition: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.15224>) | N/A | [25](<https://openalex.org/W4403344044>) |
+| 2024 | Transformers-based architectures for stroke segmentation: A review | arXiv | [paper](<https://arxiv.org/abs/2403.18637>) | N/A | [25](<https://openalex.org/W4402995046>) |
+| 2024 | The active visual sensing methods for robotic welding: review, tutorial and prospect | arXiv | [paper](<https://arxiv.org/abs/2405.00685>) | N/A | [25](<https://openalex.org/W4403678692>) |
+| 2024 | Knowledge-Informed Machine Learning for Cancer Diagnosis and Prognosis: A review | arXiv | [paper](<https://arxiv.org/abs/2401.06406>) | N/A | [25](<https://openalex.org/W4405520360>) |
+| 2024 | Image-based Deep Learning for Smart Digital Twins: a Review | arXiv | [paper](<https://arxiv.org/abs/2401.02523>) | N/A | [25](<https://openalex.org/W4407883570>) |
+| 2024 | Deep-Learning-Based Semantic Segmentation for Remote Sensing: A Bibliometric Literature Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2023.3328315>) | N/A | [25](<https://openalex.org/W4388094615>) |
+| 2023 | Continuous-Time Reinforcement Learning Control: A Review of Theoretical Results, Insights on Performance, and Needs for New Designs | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3245980>) | N/A | [25](<https://openalex.org/W4322706663>) |
+| 2025 | Color Models in Image Processing: A Review and Experimental Comparison | arXiv | [paper](<https://arxiv.org/abs/2510.00584>) | N/A | [24](<https://openalex.org/W4414808501>) |
+| 2025 | Advancements and Challenges in Quantum Machine Learning for Medical Image Classification: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.13910>) | N/A | [24](<https://openalex.org/W4409683592>) |
+| 2025 | Applications of natural language processing in aviation safety: A review and qualitative analysis | arXiv | [paper](<https://arxiv.org/abs/2501.06210>) | N/A | [24](<https://openalex.org/W4407413603>) |
+| 2024 | A Novel Zero-Trust Machine Learning Green Architecture for Healthcare IoT Cybersecurity: Review, Analysis, and Implementation | arXiv | [paper](<https://arxiv.org/abs/2401.07368>) | N/A | [24](<https://openalex.org/W4395090270>) |
+| 2022 | Text Transformations in Contrastive Self-Supervised Learning: A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/757>) | N/A | [24](<https://openalex.org/W4221163898>) |
+| 2021 | A Review of Crop Height Retrieval Using InSAR Strategies: Techniques and Challenges | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2021.3100874>) | N/A | [24](<https://openalex.org/W3193012398>) |
+| 2013 | Active learning-based information structure analysis of full scientific articles and two applications for biomedical literature review | Bioinformatics | [paper](<https://doi.org/10.1093/bioinformatics/btt163>) | N/A | [24](<https://openalex.org/W2138250184>) |
+| 2023 | Review of Serial and Parallel Min-Cut/Max-Flow Algorithms for Computer Vision | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3170096>) | [code](<https://github.com/patmjen/maxflow_algorithms>) | [23](<https://openalex.org/W4226262044>) ([⭐ 53](<https://github.com/patmjen/maxflow_algorithms>)) |
+| 2025 | From Classical Machine Learning to Emerging Foundation Models: Review on Multimodal Data Integration for Cancer Research | arXiv | [paper](<https://arxiv.org/abs/2507.09028>) | N/A | [22](<https://openalex.org/W7130819561>) |
+| 2025 | Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2507.13359>) | [code](<https://github.com/zhouyang2002/OVOD-in-UVA-imagery>) | [22](<https://openalex.org/W4413246835>) ([⭐ 13](<https://github.com/zhouyang2002/OVOD-in-UVA-imagery>)) |
+| 2025 | A Review of Generative AI in Computer Science Education: Challenges and Opportunities in Accuracy, Authenticity, and Assessment | arXiv | [paper](<https://arxiv.org/abs/2507.11543>) | N/A | [22](<https://openalex.org/W4413240477>) |
+| 2024 | Accelerating process control and optimization via machine learning: A review | arXiv | [paper](<https://arxiv.org/abs/2412.18529>) | N/A | [22](<https://openalex.org/W4408318794>) |
+| 2024 | Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation | arXiv | [paper](<https://arxiv.org/abs/2411.17006>) | N/A | [22](<https://openalex.org/W4403390225>) |
+| 2024 | Synergizing Knowledge Graphs with Large Language Models: A Comprehensive Review and Future Prospects | arXiv | [paper](<https://arxiv.org/abs/2407.18470>) | N/A | [22](<https://openalex.org/W4402466885>) |
+| 2024 | A Short Review for Ontology Learning: Stride to Large Language Models Trend | arXiv | [paper](<https://arxiv.org/abs/2404.14991>) | N/A | [22](<https://openalex.org/W4395443617>) |
+| 2024 | Medical Image Registration and Its Application in Retinal Images: A Review | arXiv | [paper](<https://arxiv.org/abs/2403.16502>) | N/A | [22](<https://openalex.org/W4401759745>) |
+| 2024 | Mind Meets Robots: A Review of EEG-Based Brain-Robot Interaction Systems | arXiv | [paper](<https://arxiv.org/abs/2403.06186>) | N/A | [22](<https://openalex.org/W4408529729>) |
+| 2022 | A review on instance ranking problems in statistical learning | MLJ | [paper](<https://doi.org/10.1007/s10994-021-06122-3>) | N/A | [22](<https://openalex.org/W3215419681>) |
+| 2026 | Do People Appropriately Rely on AI-Advice? An Analytical Review of HCI Research on Human-AI Decision-Making | CHI | [paper](<https://doi.org/10.1145/3772318.3791467>) | N/A | [21](<https://openalex.org/W7153972336>) |
+| 2025 | Machine Learning in Acoustics: A Review and Open-Source Repository | arXiv | [paper](<https://arxiv.org/abs/2507.04419>) | N/A | [21](<https://openalex.org/W4414158092>) |
+| 2025 | A Review on Sound Source Localization in Robotics: Focusing on Deep Learning Methods | arXiv | [paper](<https://arxiv.org/abs/2507.01143>) | N/A | [21](<https://openalex.org/W4413655239>) |
+| 2025 | Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration | arXiv | [paper](<https://arxiv.org/abs/2504.06943>) | N/A | [21](<https://openalex.org/W4414791948>) |
+| 2025 | Enhancing kidney transplantation through multi-agent kidney exchange programs: A comprehensive review and optimization models | arXiv | [paper](<https://arxiv.org/abs/2502.07819>) | N/A | [21](<https://openalex.org/W4407569468>) |
+| 2025 | Toward Few-Shot Learning in the Open World: A Review and Beyond | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3594686>) | N/A | [21](<https://openalex.org/W4412837207>) |
+| 2024 | Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2410.20199>) | N/A | [21](<https://openalex.org/W4404313829>) |
+| 2024 | Towards Few-Shot Learning in the Open World: A Review and Beyond | arXiv | [paper](<https://arxiv.org/abs/2408.09722>) | N/A | [21](<https://openalex.org/W4412837207>) |
+| 2024 | Physics-Inspired Generative Models in Medical Imaging: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.10856>) | N/A | [21](<https://openalex.org/W4409990682>) |
+| 2024 | Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review | arXiv | [paper](<https://arxiv.org/abs/2406.03478>) | N/A | [21](<https://openalex.org/W4399448198>) |
+| 2024 | Navigating the Landscape of Large Language Models: A Comprehensive Review and Analysis of Paradigms and Fine-Tuning Strategies | arXiv | [paper](<https://arxiv.org/abs/2404.09022>) | N/A | [21](<https://openalex.org/W4394867648>) |
+| 2019 | A Review of Polsar Image Classification: from Polarimetry to Deep Learning | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8899902>) | N/A | [21](<https://openalex.org/W2989503313>) |
+| 2025 | Large Language Model for Verilog Code Generation: Literature Review and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2512.00020>) | N/A | [20](<https://openalex.org/W4416231638>) |
+| 2025 | Large language model-based task planning for service robots: A review | arXiv | [paper](<https://arxiv.org/abs/2510.23357>) | N/A | [20](<https://openalex.org/W7126223959>) |
+| 2024 | Taming Diffusion Models for Image Restoration: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.10353>) | N/A | [20](<https://openalex.org/W4411469128>) |
+| 2024 | Explainable Artificial Intelligence and Multicollinearity : A Mini Review of Current Approaches | arXiv | [paper](<https://arxiv.org/abs/2406.11524>) | N/A | [20](<https://openalex.org/W4399795230>) |
+| 2024 | Enhancing Surgical Performance in Cardiothoracic Surgery with Innovations from Computer Vision and Artificial Intelligence: A Narrative Review | arXiv | [paper](<https://arxiv.org/abs/2402.11288>) | N/A | [20](<https://openalex.org/W4391815078>) |
+| 2024 | Monitoring Waste From Uncrewed Aerial Vehicles and Satellite Imagery Using Deep Learning Techniques: A Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3488056>) | N/A | [20](<https://openalex.org/W4403919945>) |
+| 2025 | A Simple Review of EEG Foundation Models: Datasets, Advancements and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2504.20069>) | N/A | [19](<https://openalex.org/W4417167296>) |
+| 2025 | A Review of LLM-Assisted Ideation | arXiv | [paper](<https://arxiv.org/abs/2503.00946>) | N/A | [19](<https://openalex.org/W4415338871>) |
+| 2024 | A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection | arXiv | [paper](<https://arxiv.org/abs/2410.19898>) | N/A | [19](<https://openalex.org/W4408860235>) |
+| 2024 | A Review of Human-Object Interaction Detection | arXiv | [paper](<https://arxiv.org/abs/2408.10641>) | N/A | [19](<https://openalex.org/W4407467080>) |
+| 2017 | MINI-UAV borne hyperspectral remote sensing: A review | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2017.8128354>) | N/A | [19](<https://openalex.org/W2775249361>) |
+| 2025 | Foundation Model Driven Robotics: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2507.10087>) | N/A | [18](<https://openalex.org/W4414737924>) |
+| 2025 | Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT | arXiv | [paper](<https://arxiv.org/abs/2507.08448>) | N/A | [18](<https://openalex.org/W7160660504>) |
+| 2025 | Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2504.09480>) | [code](<https://github.com/better-chao/perceptual_abilities_evaluation>) | [18](<https://openalex.org/W4415157581>) ([⭐ 134](<https://github.com/better-chao/perceptual_abilities_evaluation>)) |
+| 2025 | Offline Model-Based Optimization: Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.17286>) | N/A | [18](<https://openalex.org/W4417157592>) |
+| 2024 | A Review on Deep Learning Autoencoder in the Design of Next-Generation Communication Systems | arXiv | [paper](<https://arxiv.org/abs/2412.13843>) | N/A | [18](<https://openalex.org/W4405626971>) |
+| 2024 | Autonomous Driving at Unsignalized Intersections: A Review of Decision-Making Challenges and Reinforcement Learning-Based Solutions | arXiv | [paper](<https://arxiv.org/abs/2409.13144>) | N/A | [18](<https://openalex.org/W7116718105>) |
+| 2024 | From Graphs to Qubits: A Critical Review of Quantum Graph Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2408.06524>) | N/A | [18](<https://openalex.org/W4402426928>) |
+| 2024 | Dynamic NeRF: A Review | arXiv | [paper](<https://arxiv.org/abs/2405.08609>) | N/A | [18](<https://openalex.org/W4396944942>) |
+| 2024 | Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems | arXiv | [paper](<https://arxiv.org/abs/2401.04057>) | N/A | [18](<https://openalex.org/W4390721882>) |
+| 2025 | Solar and Wind Power Forecasting: A Comparative Review of LSTM, Random Forest, and XGBoost Models | arXiv | [paper](<https://arxiv.org/abs/2509.24059>) | N/A | [17](<https://openalex.org/W4415336038>) |
+| 2025 | A Comprehensive Review of Reinforcement Learning for Autonomous Driving in the CARLA Simulator | arXiv | [paper](<https://arxiv.org/abs/2509.08221>) | N/A | [17](<https://openalex.org/W4417064464>) |
+| 2025 | Comprehensive Review of Reinforcement Learning for Medical Ultrasound Imaging | arXiv | [paper](<https://arxiv.org/abs/2503.16543>) | N/A | [17](<https://openalex.org/W4411535114>) |
+| 2025 | Lossy Neural Compression for Geospatial Analytics: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.01505>) | N/A | [17](<https://openalex.org/W4408716311>) |
+| 2024 | The Transformative Impact of AI and Deep Learning in Business: A Literature Review | arXiv | [paper](<https://arxiv.org/abs/2410.23443>) | N/A | [17](<https://openalex.org/W4404347084>) |
+| 2024 | Negative Sampling in Knowledge Graph Representation Learning: A Review | arXiv | [paper](<https://arxiv.org/abs/2402.19195>) | N/A | [17](<https://openalex.org/W4404089523>) |
+| 2024 | Review on Fault Diagnosis and Fault-Tolerant Control Scheme for Robotic Manipulators: Recent Advances in AI, Machine Learning, and Digital Twin | arXiv | [paper](<https://arxiv.org/abs/2402.02980>) | N/A | [17](<https://openalex.org/W4391621780>) |
+| 2021 | Visual Interestingness Prediction: A Benchmark Framework and Literature Review | IJCV | [paper](<https://doi.org/10.1007/s11263-021-01443-1>) | N/A | [17](<https://openalex.org/W3131834732>) |
+| 2025 | Literature Review Of Multi-Agent Debate For Problem-Solving | arXiv | [paper](<https://arxiv.org/abs/2506.00066>) | N/A | [16](<https://openalex.org/W4414888126>) |
+| 2025 | Toward Embodied AGI: A Review of Embodied AI and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2505.14235>) | N/A | [16](<https://openalex.org/W4417298638>) |
+| 2024 | Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations | arXiv | [paper](<https://arxiv.org/abs/2411.12846>) | N/A | [16](<https://openalex.org/W4408209260>) |
+| 2024 | A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks | arXiv | [paper](<https://arxiv.org/abs/2410.21006>) | N/A | [16](<https://openalex.org/W4404314721>) |
+| 2024 | The Duality of Generative AI and Reinforcement Learning in Robotics: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.16411>) | [code](<https://github.com/clmoro/Robotics-RL-FMs-Integration>) | [16](<https://openalex.org/W4416818405>) ([⭐ 86](<https://github.com/clmoro/awesome-robotics-genai-reinforcement-learning-integration>)) |
+| 2024 | Pre-Trained Language Models for Keyphrase Prediction: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.01087>) | N/A | [16](<https://openalex.org/W4399533471>) |
+| 2024 | Comprehensive Review and Empirical Evaluation of Causal Discovery Algorithms for Numerical Data | arXiv | [paper](<https://arxiv.org/abs/2407.13054>) | N/A | [16](<https://openalex.org/W4406058750>) |
+| 2024 | A Review of the Challenges with Massive Web-mined Corpora Used in Large Language Models Pre-Training | arXiv | [paper](<https://arxiv.org/abs/2407.07630>) | N/A | [16](<https://openalex.org/W4407914316>) |
+| 2024 | Integrating behavior analysis with machine learning to predict online learning performance: A scientometric review and empirical study | arXiv | [paper](<https://arxiv.org/abs/2406.11847>) | N/A | [16](<https://openalex.org/W4399836685>) |
+| 2024 | Generative Visual Compression: A Review | arXiv | [paper](<https://arxiv.org/abs/2402.02140>) | N/A | [16](<https://openalex.org/W4402916321>) |
+| 2026 | Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02663-5>) | [code](<https://github.com/abourki/sota-semantically-aware-nerfs>) | [15](<https://openalex.org/W7128028767>) ([⭐ 15](<https://github.com/abourki/SoTA-Semantically-aware-NeRFs>)) |
+| 2025 | KV Cache Compression for Inference Efficiency in LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.06297>) | N/A | [15](<https://openalex.org/W7117482383>) |
+| 2025 | A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2507.18376>) | N/A | [15](<https://openalex.org/W4416553166>) |
+| 2025 | Visual Hand Gesture Recognition with Deep Learning: A Comprehensive Review of Methods, Datasets, Challenges and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2507.04465>) | N/A | [15](<https://openalex.org/W4415346766>) |
+| 2025 | Quantum Natural Language Processing: A Comprehensive Review of Models, Methods, and Applications | arXiv | [paper](<https://arxiv.org/abs/2504.09909>) | N/A | [15](<https://openalex.org/W4415158762>) |
+| 2025 | Underwater Robotic Simulators Review for Autonomous System Development | arXiv | [paper](<https://arxiv.org/abs/2504.06245>) | N/A | [15](<https://openalex.org/W4413206550>) |
+| 2025 | A Model-Centric Review of Deep Learning for Protein Design | arXiv | [paper](<https://arxiv.org/abs/2502.19173>) | N/A | [15](<https://openalex.org/W4416043682>) |
+| 2025 | A Review on Self-Supervised Learning for Time Series Anomaly Detection: Recent Advances and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2501.15196>) | [code](<https://github.com/Aitorzan3/Awesome-Self-Supervised-Time-Series-Anomaly-Detection>) | [15](<https://openalex.org/W4414780086>) ([⭐ 20](<https://github.com/Aitorzan3/Awesome-Self-Supervised-Time-Series-Anomaly-Detection>)) |
+| 2025 | Exploring the evolution, progress, and future of point-of-interest recommendation over location-based social network: a comprehensive review | GeoInformatica | [paper](<https://doi.org/10.1007/s10707-024-00531-x>) | N/A | [15](<https://openalex.org/W4403843625>) |
 
 Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md)

@@ -1,5 +1,10 @@
 # review_type: survey
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](review_type-survey-6.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,207 +13,207 @@
 
 Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · 6 · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2025 | Out-of-Distribution Generalization in Time Series: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.13868>) | N/A |
-| 2025 | Out-of-Distribution Generalization on Graphs: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3593897>) | N/A |
-| 2025 | Overhearing LLM Agents: A Survey, Taxonomy, and Roadmap | arXiv | [paper](<https://arxiv.org/abs/2509.16325>) | N/A |
-| 2025 | Parameter-Efficient Continual Fine-Tuning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.13822>) | N/A |
-| 2025 | PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2504.14117>) | N/A |
-| 2025 | Personalized Image Generation with Deep Generative Models: A Decade Survey | arXiv | [paper](<https://arxiv.org/abs/2502.13081>) | [code](<https://github.com/csyxwei/Awesome-Personalized-Image-Generation>) |
-| 2025 | PlanGenLLMs: A Modern Survey of LLM Planning Capabilities | ACL | [paper](<https://aclanthology.org/2025.acl-long.958>) | N/A |
-| 2025 | Point Cloud Based Scene Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.12595>) | N/A |
-| 2025 | Point Cloud Compression and Objective Quality Assessment: A Survey | arXiv | [paper](<https://arxiv.org/abs/2506.22902>) | N/A |
-| 2025 | Positional Encoding in Transformer-Based Time Series Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.12370>) | N/A |
-| 2025 | Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges | ACL | [paper](<https://aclanthology.org/2025.acl-long.425>) | N/A |
-| 2025 | Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing | arXiv | [paper](<https://arxiv.org/abs/2502.07829>) | N/A |
-| 2025 | Privacy-preserving explainable AI: a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-024-4123-4>) | N/A |
-| 2025 | Privacy-Preserving Generative Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.03668>) | N/A |
-| 2025 | Privacy-Preserving Video Anomaly Detection: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3600252>) | N/A |
-| 2025 | Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.07560>) | N/A |
-| 2025 | Prompt Compression for Large Language Models: A Survey | NAACL | [paper](<https://aclanthology.org/2025.naacl-long.368>) | [code](<https://github.com/ZongqianLi/Prompt-Compression-Survey>) |
-| 2025 | Protein Large Language Models: A Comprehensive Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.1255>) | [code](<https://github.com/Yijia-Xiao/Protein-LLM-Survey>) |
-| 2025 | Pure Vision Language Action (VLA) Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.19012>) | N/A |
-| 2025 | QA Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings | ACL | [paper](<https://aclanthology.org/2025.acl-srw.89>) | [code](<https://github.com/kentrachmat/survey-da>) |
-| 2025 | Quantum Federated Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.15998>) | N/A |
-| 2025 | Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.07794>) | N/A |
-| 2025 | Reasoning based on symbolic and parametric knowledge bases: a survey | arXiv | [paper](<https://arxiv.org/abs/2501.01030>) | N/A |
-| 2025 | Reasoning LLMs in the Medical Domain: A Literature Survey | arXiv | [paper](<https://arxiv.org/abs/2508.19097>) | N/A |
-| 2025 | Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs | arXiv | [paper](<https://arxiv.org/abs/2507.02076>) | N/A |
-| 2025 | Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges | arXiv | [paper](<https://arxiv.org/abs/2506.10408>) | [code](<https://github.com/ByebyeMonica/Reasoning-Agentic-RAG>) |
-| 2025 | Reasoning Segmentation for Images and Videos: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.18816>) | N/A |
-| 2025 | Recent Advancements in Microscopy Image Enhancement using Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.15363>) | N/A |
-| 2025 | Recent Advances and Trends in Research Paper Recommender Systems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.08828>) | N/A |
-| 2025 | Recent Advances in Medical Imaging Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.09274>) | [code](<https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation>) |
-| 2025 | Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02448>) | N/A |
-| 2025 | Recent Advances in Speech Language Models: A Survey | ACL | [paper](<https://aclanthology.org/2025.acl-long.682>) | [code](<https://github.com/dreamtheater123/Awesome-SpeechLM-Survey>) |
-| 2025 | Reference-free Evaluation Metrics for Text Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.12011>) | N/A |
-| 2025 | Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.21277>) | N/A |
-| 2025 | Reinforcement Learning for Large Model: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.08189>) | [code](<https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning>) |
-| 2025 | Reinforcement Learning Foundations for Deep Research Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.06733>) | N/A |
-| 2025 | Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle | arXiv | [paper](<https://arxiv.org/abs/2509.16679>) | N/A |
-| 2025 | Representation Engineering for Large-Language Models: Survey and Research Challenges | arXiv | [paper](<https://arxiv.org/abs/2502.17601>) | N/A |
-| 2025 | Representation Potentials of Foundation Models for Multimodal Alignment: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.843>) | N/A |
-| 2025 | Restoration of contaminated data in an Intensity Mapping survey using deep neural networks | arXiv | [paper](<https://arxiv.org/abs/2506.06386>) | N/A |
-| 2025 | Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook | arXiv | [paper](<https://arxiv.org/abs/2503.18016>) | N/A |
-| 2025 | Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.14891>) | N/A |
-| 2025 | Retrieval-Augmented Code Generation: A Survey with Focus on Repository-Level Approaches | arXiv | [paper](<https://arxiv.org/abs/2510.04905>) | N/A |
-| 2025 | Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications | arXiv | [paper](<https://arxiv.org/abs/2505.01146>) | N/A |
-| 2025 | Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers | arXiv | [paper](<https://arxiv.org/abs/2506.00054>) | N/A |
-| 2025 | Reward Models in Deep Reinforcement Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1199>) | N/A |
-| 2025 | Risks &amp; Benefits of LLMs &amp; GenAI for Platform Integrity, Healthcare Diagnostics, Financial Trust and Compliance, Cybersecurity, Privacy &amp; AI Safety: A Comprehensive Survey, Roadmap &amp; Implementation Blueprint | arXiv | [paper](<https://arxiv.org/abs/2506.12088>) | N/A |
-| 2025 | RLHF: A comprehensive Survey for Cultural, Multimodal and Low Latency Alignment Methods | arXiv | [paper](<https://arxiv.org/abs/2511.03939>) | N/A |
-| 2025 | Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics | arXiv | [paper](<https://arxiv.org/abs/2505.18658>) | N/A |
-| 2025 | Runtime Safety Monitoring of Deep Neural Networks for Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2511.05982>) | N/A |
-| 2025 | Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2512.11908>) | [code](<https://github.com/jack-sherman01/Awesome-Learning4Safe-Contact-rich-tasks>) |
-| 2025 | Safety in Large Reasoning Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.185>) | N/A |
-| 2025 | Safety of Embodied Navigation: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1189>) | N/A |
-| 2025 | SAM2 for Image and Video Segmentation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2503.12781>) | N/A |
-| 2025 | SAR4SLPs: An Asynchronous Survey of Speech-Language Pathologists' Perspectives on Socially Assistive Robots | arXiv | [paper](<https://arxiv.org/abs/2504.16055>) | N/A |
-| 2025 | SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey | arXiv | [paper](<https://arxiv.org/abs/2503.09829>) | N/A |
-| 2025 | Secure and Robust Watermarking for AI-generated Images: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.02384>) | N/A |
-| 2025 | Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.19870>) | N/A |
-| 2025 | Security Concerns for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.18889>) | N/A |
-| 2025 | Self-Improvement in Multimodal Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.105>) | N/A |
-| 2025 | Self-Supervised Learning for Image Segmentation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2505.13584>) | N/A |
-| 2025 | Self-Supervised Learning for Text Recognition: A Critical Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02487-3>) | N/A |
-| 2025 | Self-Supervised Multimodal Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3429301>) | [code](<https://github.com/ys-zong/awesome-self-supervised-multimodal-learning>) |
-| 2025 | Semantic Mapping in Indoor Embodied AI -- A Survey on Advances, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.05750>) | N/A |
-| 2025 | Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2510.00783>) | N/A |
-| 2025 | Sensing, Social, and Motion Intelligence in Embodied Navigation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.15354>) | [code](<https://github.com/Franky-X/Awesome-Embodied-Navigation>) |
-| 2025 | Simulating the Real World: A Unified Survey of Multimodal Generative Models | arXiv | [paper](<https://arxiv.org/abs/2503.04641>) | N/A |
-| 2025 | Small Language Models (SLMs) Can Still Pack a Punch: A survey (updated 2026) | arXiv | [paper](<https://arxiv.org/abs/2501.05465>) | N/A |
-| 2025 | Small Language Models for Agentic Systems: A Survey of Architectures, Capabilities, and Deployment Trade offs | arXiv | [paper](<https://arxiv.org/abs/2510.03847>) | N/A |
-| 2025 | Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications | arXiv | [paper](<https://arxiv.org/abs/2503.20516>) | N/A |
-| 2025 | Small Vision-Language Models: A Survey on Compact Architectures and Techniques | arXiv | [paper](<https://arxiv.org/abs/2503.10665>) | N/A |
-| 2025 | Social Bias in Multilingual Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1416>) | N/A |
-| 2025 | Socially aware navigation for mobile robots: a survey on deep reinforcement learning approaches | arXiv | [paper](<https://arxiv.org/abs/2512.00049>) | N/A |
-| 2025 | Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents | arXiv | [paper](<https://arxiv.org/abs/2505.05283>) | N/A |
-| 2025 | SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation | USS | [paper](<https://www.usenix.org/conference/usenixsecurity25/presentation/chung-yunsung>) | N/A |
-| 2025 | Spatial Reasoning in Multimodal Large Language Models: A Survey of Tasks, Benchmarks and Methods | arXiv | [paper](<https://arxiv.org/abs/2511.15722>) | N/A |
-| 2025 | Spiking Neural Network Architecture Search: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.14235>) | N/A |
-| 2025 | Statistical Inference in Reinforcement Learning: A Selective Survey | arXiv | [paper](<https://arxiv.org/abs/2502.16195>) | N/A |
-| 2025 | Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents | arXiv | [paper](<https://arxiv.org/abs/2504.02800>) | N/A |
-| 2025 | Survey and Improvement Strategies for Gene Prioritization with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.18794>) | N/A |
-| 2025 | Survey and Tutorial of Reinforcement Learning Methods in Process Systems Engineering | arXiv | [paper](<https://arxiv.org/abs/2510.24272>) | N/A |
-| 2025 | Survey for Categorising Explainable AI Studies Using Data Analysis Task Frameworks | arXiv | [paper](<https://arxiv.org/abs/2507.10208>) | N/A |
-| 2025 | Survey of Active Learning Hyperparameters: Insights from a Large-Scale Experimental Grid | arXiv | [paper](<https://arxiv.org/abs/2506.03817>) | N/A |
-| 2025 | Survey of Adversarial Robustness in Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.13962>) | N/A |
-| 2025 | Survey of AI-Powered Approaches for Osteoporosis Diagnosis in Medical Imaging | arXiv | [paper](<https://arxiv.org/abs/2510.00061>) | N/A |
-| 2025 | Survey of Deep Learning and Physics-Based Approaches in Computational Wave Imaging | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2026.3684003>) | N/A |
-| 2025 | Survey of End-to-End Multi-Speaker Automatic Speech Recognition for Monaural Audio | arXiv | [paper](<https://arxiv.org/abs/2505.10975>) | N/A |
-| 2025 | Survey of Genetic and Differential Evolutionary Algorithm Approaches to Search Documents Based On Semantic Similarity | arXiv | [paper](<https://arxiv.org/abs/2507.11751>) | N/A |
-| 2025 | Survey of image processing settings used for mammography systems in the United Kingdom: how variable is it? | arXiv | [paper](<https://arxiv.org/abs/2501.13595>) | N/A |
-| 2025 | Survey of Large Language Models in Extended Reality: Technical Paradigms and Application Frontiers | arXiv | [paper](<https://arxiv.org/abs/2508.03014>) | N/A |
-| 2025 | Survey of LLM Agent Communication with MCP: A Software Design Pattern Centric Review | arXiv | [paper](<https://arxiv.org/abs/2506.05364>) | N/A |
-| 2025 | Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.22964>) | N/A |
-| 2025 | Survey of NLU Benchmarks Diagnosing Linguistic Phenomena: Why not Standardize Diagnostics Benchmarks? | arXiv | [paper](<https://arxiv.org/abs/2507.20419>) | N/A |
-| 2025 | Survey of Quantization Techniques for On-Device Vision-based Crack Detection | arXiv | [paper](<https://arxiv.org/abs/2502.02269>) | N/A |
-| 2025 | Survey of Specialized Large Language Model | arXiv | [paper](<https://arxiv.org/abs/2508.19667>) | N/A |
-| 2025 | Survey of Swarm Intelligence Approaches to Search Documents Based On Semantic Similarity | arXiv | [paper](<https://arxiv.org/abs/2507.11787>) | N/A |
-| 2025 | Survey of Video Diffusion Models: Foundations, Implementations, and Applications | arXiv | [paper](<https://arxiv.org/abs/2504.16081>) | [code](<https://github.com/Eyeline-Research/Survey-Video-Diffusion>) |
-| 2025 | Survey of Vision-Language-Action Models for Embodied Manipulation | arXiv | [paper](<https://arxiv.org/abs/2508.15201>) | N/A |
-| 2025 | Survey on Efficient Large Language Models: Principles, Algorithms, Applications, and Open Issues | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3628671>) | N/A |
-| 2025 | Survey on Evaluation of LLM-based Agents | arXiv | [paper](<https://arxiv.org/abs/2503.16416>) | N/A |
-| 2025 | Survey on Generalization Theory for Graph Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2503.15650>) | N/A |
-| 2025 | Survey on Methods for Detection, Classification and Location of Faults in Power Systems Using Artificial Intelligence | arXiv | [paper](<https://arxiv.org/abs/2507.10011>) | N/A |
-| 2025 | Survey on Monocular Metric Depth Estimation | arXiv | [paper](<https://arxiv.org/abs/2501.11841>) | N/A |
-| 2025 | Survey on Recent Progress of AI for Chemistry: Methods, Applications, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2502.17456>) | N/A |
-| 2025 | Survey on safe robot control via learning | arXiv | [paper](<https://arxiv.org/abs/2501.01432>) | N/A |
-| 2025 | Survey on Single-Image Reflection Removal using Deep Learning Techniques | arXiv | [paper](<https://arxiv.org/abs/2502.08836>) | N/A |
-| 2025 | Survey on the Evaluation of Generative Models in Music | arXiv | [paper](<https://arxiv.org/abs/2506.05104>) | N/A |
-| 2025 | Survey on Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2502.06851>) | N/A |
-| 2025 | Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification | arXiv | [paper](<https://arxiv.org/abs/2502.02133>) | N/A |
-| 2025 | Tabular Data Understanding with LLMs: A Survey of Recent Advances and Challenges | arXiv | [paper](<https://arxiv.org/abs/2508.00217>) | N/A |
-| 2025 | Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale | arXiv | [paper](<https://arxiv.org/abs/2502.20140>) | N/A |
-| 2025 | Test-time Scaling of LLMs: A Survey from A Subproblem Structure Perspective | arXiv | [paper](<https://arxiv.org/abs/2511.14772>) | N/A |
-| 2025 | Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2501.18845>) | N/A |
-| 2025 | Text to Image Generation and Editing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02527>) | N/A |
-| 2025 | The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design | arXiv | [paper](<https://arxiv.org/abs/2512.23189>) | N/A |
-| 2025 | The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.11840>) | N/A |
-| 2025 | The Evolutionary Pathway of Low-mass Supermassive Black Holes at Intermediate Redshift: Insights from the JADES Survey | arXiv | [paper](<https://arxiv.org/abs/2507.01293>) | N/A |
-| 2025 | The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers | CHI | [paper](<https://doi.org/10.1145/3706598.3713778>) | N/A |
-| 2025 | The Landscape of Agentic Reinforcement Learning for LLMs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.02547>) | N/A |
-| 2025 | The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives | arXiv | [paper](<https://arxiv.org/abs/2506.01737>) | N/A |
-| 2025 | The rise and potential of large language model based agents: a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-024-4222-0>) | [code](<https://github.com/woooodyy/llm-agent-paper-list>) |
-| 2025 | The Rise of Small Language Models in Healthcare: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.17119>) | N/A |
-| 2025 | The Role of Federated Learning in Improving Financial Security: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.14991>) | N/A |
-| 2025 | The State and Fate of Summarization Datasets: A Survey | NAACL | [paper](<https://aclanthology.org/2025.naacl-long.372>) | N/A |
-| 2025 | The Synergy Between Data and Multi-Modal Large Language Models: A Survey From Co-Development Perspective | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3576835>) | [code](<https://github.com/modelscope/data-juicer>) |
-| 2025 | The Transition from Centralized Machine Learning to Federated Learning for Mental Health in Education: A Survey of Current Methods and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.11714>) | N/A |
-| 2025 | Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2504.07099>) | N/A |
-| 2025 | Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI | arXiv | [paper](<https://arxiv.org/abs/2507.09702>) | N/A |
-| 2025 | Toward Generalizable Evaluation in the LLM Era: A Survey Beyond Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2504.18838>) | N/A |
-| 2025 | Toward Noise-Aware Audio Deepfake Detection: Survey, SNR-Benchmarks, and Practical Recipes | arXiv | [paper](<https://arxiv.org/abs/2512.13744>) | N/A |
-| 2025 | Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents | ACL | [paper](<https://aclanthology.org/2025.findings-acl.938>) | N/A |
-| 2025 | Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.10903>) | [code](<https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation>) |
-| 2025 | Towards Adapting Federated &amp; Quantum Machine Learning for Network Intrusion Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.21389>) | N/A |
-| 2025 | Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs | arXiv | [paper](<https://arxiv.org/abs/2507.09477>) | [code](<https://github.com/DavidZWZ/Awesome-RAG-Reasoning>) |
-| 2025 | Towards Concise and Adaptive Thinking in Large Reasoning Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.09662>) | N/A |
-| 2025 | Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1173>) | [code](<https://github.com/chenxiliu-hnu/cm2ts>) |
-| 2025 | Towards Data-Centric AI: A Comprehensive Survey of Traditional, Reinforcement, and Generative Approaches for Tabular Data Transformation | arXiv | [paper](<https://arxiv.org/abs/2501.10555>) | N/A |
-| 2025 | Towards Forceful Robotic Foundation Models: a Literature Survey | arXiv | [paper](<https://arxiv.org/abs/2504.11827>) | N/A |
-| 2025 | Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.514>) | [code](<https://github.com/b08202033/lalm-evaluation-survey>) |
-| 2025 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.09686>) | N/A |
-| 2025 | Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques | arXiv | [paper](<https://arxiv.org/abs/2506.04788>) | N/A |
-| 2025 | Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.09567>) | N/A |
-| 2025 | Towards Reliable Forgetting: A Survey on Machine Unlearning Verification | arXiv | [paper](<https://arxiv.org/abs/2506.15115>) | N/A |
-| 2025 | Towards Reverse Engineering of Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.395>) | N/A |
-| 2025 | Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks | arXiv | [paper](<https://arxiv.org/abs/2502.13175>) | N/A |
-| 2025 | Towards Trustworthy GUI Agents: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.23434>) | N/A |
-| 2025 | Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.06872>) | N/A |
-| 2025 | Trajectory generative models: a survey from unconditional and conditional perspectives | GeoInformatica | [paper](<https://doi.org/10.1007/s10707-025-00558-8>) | N/A |
-| 2025 | Trajectory Prediction Meets Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2506.03408>) | N/A |
-| 2025 | Transformer for Object Re-identification: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02284-4>) | [code](<https://github.com/mangye16/ReID-Survey>) |
-| 2025 | Transformer-based EEG Decoding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.02320>) | N/A |
-| 2025 | Transformer-based Spatial Grounding: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.12739>) | N/A |
-| 2025 | Transformers in Protein: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.20098>) | N/A |
-| 2025 | Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2502.05151>) | N/A |
-| 2025 | Tree-based Models for Vertical Federated Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.02285>) | N/A |
-| 2025 | Trustworthy AI: Safety, Bias, and Privacy -- A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.10450>) | N/A |
-| 2025 | Trustworthy Machine Learning via Memorization and the Granular Long-Tail: A Survey on Interactions, Tradeoffs, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2503.07501>) | N/A |
-| 2025 | Trustworthy Medical Question Answering: An Evaluation-Centric Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1398>) | N/A |
-| 2025 | UAVs Meet Agentic AI: A Multidomain Survey of Autonomous Aerial Intelligence and Agentic UAVs | arXiv | [paper](<https://arxiv.org/abs/2506.08045>) | N/A |
-| 2025 | Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey | KDD | [paper](<https://doi.org/10.1145/3711896.3736569>) | N/A |
-| 2025 | Uncertainty Quantification for Machine Learning in Healthcare: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02874>) | N/A |
-| 2025 | Understanding Knowledge Transferability for Transfer Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.03175>) | N/A |
-| 2025 | Underwater Image Enhancement using Generative Adversarial Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.06273>) | N/A |
-| 2025 | Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications | arXiv | [paper](<https://arxiv.org/abs/2512.18135>) | N/A |
-| 2025 | Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.09988>) | N/A |
-| 2025 | Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02167-8>) | [code](<https://github.com/valeoai/awesome-unsupervised-object-localization>) |
-| 2025 | VideoLLM Benchmarks and Evaluation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.03829>) | N/A |
-| 2025 | Vision Language Models: A Survey of 26K Papers | arXiv | [paper](<https://arxiv.org/abs/2510.09586>) | N/A |
-| 2025 | Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook | arXiv | [paper](<https://arxiv.org/abs/2505.00630>) | [code](<https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing>) |
-| 2025 | Vision Mamba: A Comprehensive Survey and Taxonomy | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3610435>) | [code](<https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy>) |
-| 2025 | Vision Transformers in Precision Agriculture: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.21706>) | N/A |
-| 2025 | Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies | arXiv | [paper](<https://arxiv.org/abs/2503.02891>) | N/A |
-| 2025 | Vision-Language Models for Edge Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.07855>) | N/A |
-| 2025 | Vision-to-Music Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.21254>) | [code](<https://github.com/wzk1015/Awesome-Vision-to-Music-Generation>) |
-| 2025 | Visual Instruction Tuning towards General-Purpose Multimodal Large Language Model: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02572-7>) | N/A |
-| 2025 | Visual question answering: from early developments to recent advances -- a survey | arXiv | [paper](<https://arxiv.org/abs/2501.03939>) | N/A |
-| 2025 | What Demands Attention in Urban Street Scenes? From Scene Understanding towards Road Safety: A Survey of Vision-driven Datasets and Studies | arXiv | [paper](<https://arxiv.org/abs/2507.06513>) | N/A |
-| 2025 | When Continue Learning Meets Multimodal Large Language Model: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.01887>) | N/A |
-| 2025 | When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs | arXiv | [paper](<https://arxiv.org/abs/2502.06390>) | [code](<https://github.com/AobtDai/VLM_Attack_Paper_List>) |
-| 2025 | When Deep Learning Meets Information Retrieval-based Bug Localization: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.00144>) | N/A |
-| 2025 | When Federated Learning Meets Quantum Computing: Survey and Research Opportunities | arXiv | [paper](<https://arxiv.org/abs/2504.08814>) | N/A |
-| 2025 | When Large Language Models Meet Speech: A Survey on Integration Approaches | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1041>) | N/A |
-| 2025 | When Meta-Learning Meets Online and Continual Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3463709>) | N/A |
-| 2025 | Who is Responsible? The Data, Models, Users or Regulations? A Comprehensive Survey on Responsible Generative AI for a Sustainable Future | arXiv | [paper](<https://arxiv.org/abs/2502.08650>) | N/A |
-| 2025 | Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1) | arXiv | [paper](<https://arxiv.org/abs/2504.03151>) | N/A |
-| 2025 | Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.00747>) | N/A |
-| 2025 | Zero-shot Quantization: A Comprehensive Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1167>) | N/A |
-| 2024 | "Forgetting" in Machine Learning and Beyond: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.20620>) | N/A |
-| 2024 | 3D Gaussian Splatting in Robotics: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.12262>) | N/A |
-| 2024 | 3D Object Detection From Images for Autonomous Driving: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3346386>) | [code](<https://github.com/xinzhuma/3dodi-survey>) |
-| 2024 | A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping | arXiv | [paper](<https://arxiv.org/abs/2406.11786>) | N/A |
-| 2024 | A Comparative Survey of Vision Transformers for Feature Extraction in Texture Analysis | arXiv | [paper](<https://arxiv.org/abs/2406.06136>) | N/A |
-| 2024 | A Complete Survey on Contemporary Methods, Emerging Paradigms and Hybrid Approaches for Few-Shot Learning | arXiv | [paper](<https://arxiv.org/abs/2402.03017>) | N/A |
-| 2024 | A Complete Survey on LLM-based AI Chatbots | arXiv | [paper](<https://arxiv.org/abs/2406.16937>) | N/A |
-| 2024 | A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities | arXiv | [paper](<https://arxiv.org/abs/2409.09678>) | N/A |
-| 2024 | A Comprehensive Survey and Classification of Evaluation Criteria for Trustworthy Artificial Intelligence | arXiv | [paper](<https://arxiv.org/abs/2410.17281>) | N/A |
-| 2024 | A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision-Language Tasks | arXiv | [paper](<https://arxiv.org/abs/2411.06284>) | N/A |
-| 2024 | A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/922>) | [code](<https://github.com/yxzhang15/PCR>) |
-| 2024 | A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models | arXiv | [paper](<https://arxiv.org/abs/2404.14955>) | N/A |
-| 2024 | A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2405.13019>) | N/A |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2024 | Harvard Undergraduate Survey on Generative AI | arXiv | [paper](<https://arxiv.org/abs/2406.00833>) | N/A | [34](<https://openalex.org/W4399399642>) |
+| 2024 | Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective | arXiv | [paper](<https://arxiv.org/abs/2402.00262>) | N/A | [34](<https://openalex.org/W4391505394>) |
+| 2024 | Model Compression Techniques in Biometrics Applications: A Survey | arXiv | [paper](<https://arxiv.org/abs/2401.10139>) | N/A | [34](<https://openalex.org/W4402082644>) |
+| 2024 | Legal Case Retrieval: A Survey of the State of the Art | ACL | [paper](<https://aclanthology.org/2024.acl-long.350>) | N/A | [34](<https://openalex.org/W4402672062>) |
+| 2024 | Unveiling the Spectrum of Data Contamination in Language Model: A Survey from Detection to Remediation | ACL | [paper](<https://aclanthology.org/2024.findings-acl.951>) | N/A | [34](<https://openalex.org/W4402670521>) |
+| 2023 | Deep Learning Approaches for Similarity Computation: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3422484>) | N/A | [34](<https://openalex.org/W4400275701>) |
+| 2020 | A Survey on Representation Learning for User Modeling | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2020/695>) | N/A | [34](<https://openalex.org/W3041535480>) |
+| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | N/A | [33](<https://openalex.org/W7130824376>) |
+| 2025 | A Survey on Agent Workflow -- Status and Future | arXiv | [paper](<https://arxiv.org/abs/2508.01186>) | N/A | [33](<https://openalex.org/W4412537083>) |
+| 2025 | The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.11840>) | N/A | [33](<https://openalex.org/W7117474416>) |
+| 2025 | Discrete Audio Tokens: More Than a Survey! | arXiv | [paper](<https://arxiv.org/abs/2506.10274>) | N/A | [33](<https://openalex.org/W4415330272>) |
+| 2025 | A Survey of Deep Learning Video Super-Resolution | arXiv | [paper](<https://arxiv.org/abs/2506.03216>) | N/A | [33](<https://openalex.org/W4397026559>) |
+| 2025 | Image Synthesis Under Limited Data: A Survey and Taxonomy | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02357-y>) | [code](<https://github.com/kobeshegu/awesome-few-shot-generation>) | [33](<https://openalex.org/W4406855871>) ([⭐ 87](<https://github.com/kobeshegu/awesome-few-shot-generation>)) |
+| 2024 | A Survey of Machine Learning-based Physical-Layer Authentication in Wireless Communications | arXiv | [paper](<https://arxiv.org/abs/2411.09906>) | N/A | [33](<https://openalex.org/W4405287287>) |
+| 2024 | A Survey on Group Fairness in Federated Learning: Challenges, Taxonomy of Solutions and Directions for Future Research | arXiv | [paper](<https://arxiv.org/abs/2410.03855>) | N/A | [33](<https://openalex.org/W7119490416>) |
+| 2024 | Conditional Image Synthesis with Diffusion Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.19365>) | [code](<https://github.com/zju-pi/Awesome-Conditional-Diffusion-Models>) | [33](<https://openalex.org/W4403853676>) ([⭐ 194](<https://github.com/zju-pi/Awesome-Conditional-Diffusion-Models>)) |
+| 2024 | Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution | arXiv | [paper](<https://arxiv.org/abs/2408.10548>) | [code](<https://github.com/lanxiang1017/Language-Modeling-on-Tabular-Data-Survey.git>) | [33](<https://openalex.org/W4403007100>) ([⭐ 34](<https://github.com/lanxiang1017/Language-Modeling-on-Tabular-Data-Survey>)) |
+| 2024 | Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions | arXiv | [paper](<https://arxiv.org/abs/2408.05212>) | N/A | [33](<https://openalex.org/W7120416289>) |
+| 2024 | Poisoning Attacks and Defenses in Recommender Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.01022>) | N/A | [33](<https://openalex.org/W4399403239>) |
+| 2024 | From Words to Molecules: A Survey of Large Language Models in Chemistry | arXiv | [paper](<https://arxiv.org/abs/2402.01439>) | N/A | [33](<https://openalex.org/W4391556076>) |
+| 2024 | Deep Learning Approaches for Network Traffic Classification in the Internet of Things (IoT): A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.00920>) | N/A | [33](<https://openalex.org/W4391555546>) |
+| 2024 | The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis | EMNLP | [paper](<https://aclanthology.org/2024.emnlp-main.795>) | [code](<https://github.com/zyxnlp/icl-interpretation-analysis-resources>) | [33](<https://openalex.org/W4404782475>) ([⭐ 14](<https://github.com/yuxianglab/ICL-Interpretation-Analysis-Resources>)) |
+| 2023 | A Survey on Dynamic Neural Networks for Natural Language Processing | EACL | [paper](<https://aclanthology.org/2023.findings-eacl.180>) | N/A | [33](<https://openalex.org/W4386566474>) |
+| 2022 | Surgical Tool Datasets for Machine Learning Research: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01640-6>) | N/A | [33](<https://openalex.org/W4285092498>) |
+| 2026 | Self-Improvements in Modern Agentic Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2607.13104>) | [code](<https://github.com/selfimproving-agent/awesome-Self-Improving-Agents>) | [32](<https://openalex.org/W7168756509>) ([⭐ 618](<https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents>)) |
+| 2026 | Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models | ACL | [paper](<https://aclanthology.org/2026.findings-acl.502>) | [code](<https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey>) | [32](<https://openalex.org/W7164409677>) ([⭐ 163](<https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey>)) |
+| 2025 | Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.07278>) | N/A | [32](<https://openalex.org/W4414817662>) |
+| 2025 | Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2504.07099>) | N/A | [32](<https://openalex.org/W4414455531>) |
+| 2025 | LLM-based event log analysis techniques: A survey | arXiv | [paper](<https://arxiv.org/abs/2502.00677>) | N/A | [32](<https://openalex.org/W4407123924>) |
+| 2025 | Harnessing Large Language Models for Disaster Management: A Survey | ACL | [paper](<https://aclanthology.org/2025.findings-acl.750>) | N/A | [32](<https://openalex.org/W4412887995>) |
+| 2025 | Visual question answering: from early developments to recent advances -- a survey | arXiv | [paper](<https://arxiv.org/abs/2501.03939>) | N/A | [32](<https://openalex.org/W4406192870>) |
+| 2025 | When Meta-Learning Meets Online and Continual Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3463709>) | N/A | [32](<https://openalex.org/W4402592979>) |
+| 2024 | Personalized Multimodal Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2412.02142>) | N/A | [32](<https://openalex.org/W4405035700>) |
+| 2024 | Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices | arXiv | [paper](<https://arxiv.org/abs/2408.09169>) | N/A | [32](<https://openalex.org/W4411113270>) |
+| 2024 | Knowledge Mechanisms in Large Language Models: A Survey and Perspective | EMNLP | [paper](<https://aclanthology.org/2024.findings-emnlp.416>) | N/A | [32](<https://openalex.org/W4403321643>) |
+| 2024 | Present and Future of AI in Renewable Energy Domain : A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2406.16965>) | N/A | [32](<https://openalex.org/W4400064530>) |
+| 2024 | A Survey of Source Code Representations for Machine Learning-Based Cybersecurity Tasks | arXiv | [paper](<https://arxiv.org/abs/2403.10646>) | N/A | [32](<https://openalex.org/W4408248601>) |
+| 2024 | Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning | arXiv | [paper](<https://arxiv.org/abs/2403.07078>) | N/A | [32](<https://openalex.org/W4389195599>) |
+| 2024 | Computational Argumentation-based Chatbots: a Survey | arXiv | [paper](<https://arxiv.org/abs/2401.03454>) | N/A | [32](<https://openalex.org/W4401316688>) |
+| 2023 | Curriculum Graph Machine Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/748>) | N/A | [32](<https://openalex.org/W4385763996>) |
+| 2023 | Rank-Based Decomposable Losses in Machine Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3296062>) | N/A | [32](<https://openalex.org/W4384519174>) |
+| 2013 | A survey about databases of children's speech | INTERSPEECH | [paper](<https://doi.org/10.21437/Interspeech.2013-561>) | N/A | [32](<https://openalex.org/W2397674163>) |
+| 2026 | A Survey of Multimodal Hallucination Evaluation and Detection | IJCV | [paper](<https://doi.org/10.1007/s11263-026-02756-9>) | N/A | [31](<https://openalex.org/W7130817414>) |
+| 2026 | Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey | TOSEM | [paper](<https://doi.org/10.1145/3748647>) | [code](<https://github.com/yueyuel/reliablelm4code>) | [31](<https://openalex.org/W4412420766>) ([⭐ 31](<https://github.com/yueyueL/ReliableLM4Code>)) |
+| 2025 | A Step Toward World Models: A Survey on Robotic Manipulation | arXiv | [paper](<https://arxiv.org/abs/2511.02097>) | N/A | [31](<https://openalex.org/W4415946585>) |
+| 2025 | A Survey on Agentic Security: Applications, Threats and Defenses | arXiv | [paper](<https://arxiv.org/abs/2510.06445>) | N/A | [31](<https://openalex.org/W4415315108>) |
+| 2025 | LLM/Agent-as-Data-Analyst: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.23988>) | N/A | [31](<https://openalex.org/W4415273290>) |
+| 2024 | A Survey of Large Language Model-Based Generative AI for Text-to-SQL: Benchmarks, Applications, Use Cases, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.05208>) | N/A | [31](<https://openalex.org/W4413948746>) |
+| 2024 | Neural-Symbolic Reasoning over Knowledge Graphs: A Survey from a Query Perspective | arXiv | [paper](<https://arxiv.org/abs/2412.10390>) | N/A | [31](<https://openalex.org/W4412073495>) |
+| 2024 | Medical Artificial Intelligence for Early Detection of Lung Cancer: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.14769>) | [code](<https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection>) | [31](<https://openalex.org/W4412431196>) ([⭐ 7](<https://github.com/CaiGuoHui123/Awesome-Lung-Cancer-Detection>)) |
+| 2024 | Deep Learning Technology for Face Forgery Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.14289>) | N/A | [31](<https://openalex.org/W4404959864>) |
+| 2024 | A Comprehensive Survey on Synthetic Infrared Image synthesis | arXiv | [paper](<https://arxiv.org/abs/2408.06868>) | N/A | [31](<https://openalex.org/W4407264156>) |
+| 2024 | A Survey on Intent-aware Recommender Systems | arXiv | [paper](<https://arxiv.org/abs/2406.16350>) | N/A | [31](<https://openalex.org/W4403464896>) |
+| 2024 | A Survey on Responsible Generative AI: What to Generate and What Not | arXiv | [paper](<https://arxiv.org/abs/2404.05783>) | N/A | [31](<https://openalex.org/W4394708737>) |
+| 2024 | Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenges | arXiv | [paper](<https://arxiv.org/abs/2402.12041>) | N/A | [31](<https://openalex.org/W4391988064>) |
+| 2024 | A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems | arXiv | [paper](<https://arxiv.org/abs/2401.06831>) | N/A | [31](<https://openalex.org/W4391129224>) |
+| 2024 | Beyond the Status Quo: A Contemporary Survey of Advances and Challenges in Audio Captioning | TASLP | [paper](<https://doi.org/10.1109/TASLP.2023.3321968>) | N/A | [31](<https://openalex.org/W4387609319>) |
+| 2024 | Fundamental Capabilities of Large Language Models and their Applications in Domain Scenarios: A Survey | ACL | [paper](<https://aclanthology.org/2024.acl-long.599>) | N/A | [31](<https://openalex.org/W4402671712>) |
+| 2026 | CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2026.3651700>) | [code](<https://github.com/jindongli-ai/survey_on_clip-powered_domain_generalization_and_adaptation>) | [30](<https://openalex.org/W7123345677>) ([⭐ 87](<https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation>)) |
+| 2026 | Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and Taxonomy | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02723-w>) | [code](<https://github.com/yxzhang15/pcr>) | [30](<https://openalex.org/W7134117188>) ([⭐ 221](<https://github.com/yxzhang15/PCR>)) |
+| 2025 | Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.24322>) | [code](<https://github.com/yuntaoshou/Awesome-Emotion-Reasoning>) | [30](<https://openalex.org/W4415336520>) ([⭐ 98](<https://github.com/yuntaoshou/Awesome-Emotion-Reasoning>)) |
+| 2025 | A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation | arXiv | [paper](<https://arxiv.org/abs/2508.09977>) | [code](<https://github.com/heshuting555/Awesome-3DGS-Applications>) | [30](<https://openalex.org/W7165187017>) ([⭐ 429](<https://github.com/heshuting555/Awesome-3DGS-Applications>)) |
+| 2025 | Agentic Satellite-Augmented Low-Altitude Economy and Terrestrial Networks: A Survey on Generative Approaches | arXiv | [paper](<https://arxiv.org/abs/2507.14633>) | N/A | [30](<https://openalex.org/W7127423913>) |
+| 2025 | Survey of LLM Agent Communication with MCP: A Software Design Pattern Centric Review | arXiv | [paper](<https://arxiv.org/abs/2506.05364>) | N/A | [30](<https://openalex.org/W4417078044>) |
+| 2025 | A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradigms | arXiv | [paper](<https://arxiv.org/abs/2504.16420>) | N/A | [30](<https://openalex.org/W4415065819>) |
+| 2025 | Diffusion Models for Molecules: A Survey of Methods and Tasks | arXiv | [paper](<https://arxiv.org/abs/2502.09511>) | [code](<https://github.com/AzureLeon1/awesome-molecular-diffusion-models>) | [30](<https://openalex.org/W4407590260>) ([⭐ 111](<https://github.com/AzureLeon1/awesome-molecular-diffusion-models>)) |
+| 2025 | Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications | arXiv | [paper](<https://arxiv.org/abs/2501.11632>) | N/A | [30](<https://openalex.org/W4406735844>) |
+| 2025 | Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.90>) | N/A | [30](<https://openalex.org/W4406033435>) |
+| 2024 | Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2412.17759>) | N/A | [30](<https://openalex.org/W7125770906>) |
+| 2024 | A survey on cutting-edge relation extraction techniques based on language models | arXiv | [paper](<https://arxiv.org/abs/2411.18157>) | N/A | [30](<https://openalex.org/W4411889305>) |
+| 2024 | Text Classification using Graph Convolutional Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2410.09399>) | N/A | [30](<https://openalex.org/W4406678260>) |
+| 2024 | Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.11564>) | N/A | [30](<https://openalex.org/W4409996147>) |
+| 2024 | A survey on fairness of large language models in e-commerce: progress, application, and challenge | arXiv | [paper](<https://arxiv.org/abs/2405.13025>) | N/A | [30](<https://openalex.org/W4398794885>) |
+| 2024 | A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3609877>) | N/A | [30](<https://openalex.org/W4414757965>) |
+| 2024 | Empirical and Experimental Perspectives on Big Data in Recommendation Systems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2402.03368>) | N/A | [30](<https://openalex.org/W4401979963>) |
+| 2024 | A Survey on Verification and Validation, Testing and Evaluations of Neurosymbolic Artificial Intelligence | arXiv | [paper](<https://arxiv.org/abs/2401.03188>) | N/A | [30](<https://openalex.org/W4390729056>) |
+| 2024 | Training and Serving System of Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2401.02643>) | N/A | [30](<https://openalex.org/W4393105094>) |
+| 2023 | Compositional Scene Representation Learning via Reconstruction: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3286184>) | N/A | [30](<https://openalex.org/W4380635116>) |
+| 2022 | Cartoon Image Processing: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01645-1>) | N/A | [30](<https://openalex.org/W4294162946>) |
+| 2025 | Human Motion Video Generation: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3594034>) | [code](<https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation>) | [29](<https://openalex.org/W4412795914>) ([⭐ 344](<https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation>)) |
+| 2025 | A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science | arXiv | [paper](<https://arxiv.org/abs/2504.09848>) | N/A | [29](<https://openalex.org/W4415158318>) |
+| 2025 | A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.07070>) | N/A | [29](<https://openalex.org/W4417248785>) |
+| 2025 | A Survey of Reinforcement Learning for Optimization in Automation | arXiv | [paper](<https://arxiv.org/abs/2502.09417>) | N/A | [29](<https://openalex.org/W4403677072>) |
+| 2025 | Diffusion Models in Recommendation Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.10548>) | N/A | [29](<https://openalex.org/W4406692391>) |
+| 2024 | Fairness and Bias Mitigation in Computer Vision: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.02464>) | N/A | [29](<https://openalex.org/W4403370433>) |
+| 2024 | Graph Neural Networks for Brain Graph Learning: A Survey | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/903>) | [code](<https://github.com/XuexiongLuoMQ/Awesome-Brain-Graph-Learning-with-GNNs>) | [29](<https://openalex.org/W4401023722>) ([⭐ 95](<https://github.com/XuexiongLuoMQ/Awesome-Brain-Graph-Learning-with-GNNs>)) |
+| 2024 | Continual Learning in Medical Imaging: A Survey and Practical Analysis | arXiv | [paper](<https://arxiv.org/abs/2405.13482>) | [code](<https://github.com/BioMedIA-MBZUAI/awesome-cl-in-medical>) | [29](<https://openalex.org/W4417456879>) ([⭐ 32](<https://github.com/BioMedIA-MBZUAI/Awesome-CL-in-Medical>)) |
+| 2024 | Deep Generative Models through the Lens of the Manifold Hypothesis: A Survey and New Connections | arXiv | [paper](<https://arxiv.org/abs/2404.02954>) | N/A | [29](<https://openalex.org/W4394029297>) |
+| 2024 | How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey | arXiv | [paper](<https://arxiv.org/abs/2404.00938>) | N/A | [29](<https://openalex.org/W4398160853>) |
+| 2024 | LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.14558>) | N/A | [29](<https://openalex.org/W4392120907>) |
+| 2024 | Supervised Algorithmic Fairness in Distribution Shifts: A Survey | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/909>) | N/A | [29](<https://openalex.org/W4401023570>) |
+| 2024 | Synergizing Machine Learning &amp; Symbolic Methods: A Survey on Hybrid Approaches to Natural Language Processing | arXiv | [paper](<https://arxiv.org/abs/2401.11972>) | N/A | [29](<https://openalex.org/W4395689476>) |
+| 2024 | A Survey on Predicting the Factuality and the Bias of News Media | ACL | [paper](<https://aclanthology.org/2024.findings-acl.944>) | N/A | [29](<https://openalex.org/W4287267849>) |
+| 2023 | Physical Adversarial Attacks for Surveillance: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3321432>) | N/A | [29](<https://openalex.org/W4387587592>) |
+| 2022 | Vision-based Intention and Trajectory Prediction in Autonomous Vehicles: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/785>) | N/A | [29](<https://openalex.org/W4281878192>) |
+| 2021 | A Survey of Hyperspectral Image Super-Resolution Technology | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9554409>) | N/A | [29](<https://openalex.org/W3206196854>) |
+| 2026 | A survey on multi-behavior sequential recommendation | SCIS | [paper](<https://doi.org/10.1007/s11432-024-4568-7>) | N/A | [28](<https://openalex.org/W4386346386>) |
+| 2025 | A Survey on Retrieval And Structuring Augmented Generation with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.10697>) | N/A | [28](<https://openalex.org/W4412875490>) |
+| 2025 | Quantum Federated Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.15998>) | N/A | [28](<https://openalex.org/W7115177649>) |
+| 2025 | Agentic Graph Neural Networks for Wireless Communications and Networking Towards Edge General Intelligence: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.08620>) | N/A | [28](<https://openalex.org/W7123360579>) |
+| 2025 | Large Language Models in Argument Mining: A Survey | arXiv | [paper](<https://arxiv.org/abs/2506.16383>) | N/A | [28](<https://openalex.org/W4416763253>) |
+| 2025 | LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2505.19240>) | [code](<https://github.com/a-kostikova/LLLMs-Survey>) | [28](<https://openalex.org/W7134182271>) ([⭐ 4](<https://github.com/a-kostikova/LLLMs-Survey>)) |
+| 2025 | Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.14520>) | N/A | [28](<https://openalex.org/W7133818764>) |
+| 2025 | A Survey on Mathematical Reasoning and Optimization with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.17726>) | N/A | [28](<https://openalex.org/W7172394695>) |
+| 2025 | LLMs Working in Harmony: A Survey on the Technological Aspects of Building Effective LLM-Based Multi Agent Systems | arXiv | [paper](<https://arxiv.org/abs/2504.01963>) | N/A | [28](<https://openalex.org/W4409319509>) |
+| 2025 | A Survey of Automatic Prompt Optimization with Instruction-focused Heuristic-based Search Algorithm | arXiv | [paper](<https://arxiv.org/abs/2502.18746>) | N/A | [28](<https://openalex.org/W4414686453>) |
+| 2024 | Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments | arXiv | [paper](<https://arxiv.org/abs/2412.00323>) | N/A | [28](<https://openalex.org/W4410357157>) |
+| 2024 | A Survey of Medical Vision-and-Language Applications and Their Techniques | arXiv | [paper](<https://arxiv.org/abs/2411.12195>) | [code](<https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey>) | [28](<https://openalex.org/W4404573654>) ([⭐ 37](<https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey>)) |
+| 2024 | Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer | arXiv | [paper](<https://arxiv.org/abs/2407.08460>) | N/A | [28](<https://openalex.org/W7118174497>) |
+| 2024 | A Comprehensive Survey on Diffusion Models and Their Applications | arXiv | [paper](<https://arxiv.org/abs/2408.10207>) | N/A | [28](<https://openalex.org/W4412075725>) |
+| 2024 | State-Space Modeling in Long Sequence Processing: A Survey on Recurrence in the Transformer Era | arXiv | [paper](<https://arxiv.org/abs/2406.09062>) | N/A | [28](<https://openalex.org/W4413825993>) |
+| 2024 | A Timely Survey on Vision Transformer for Deepfake Detection | arXiv | [paper](<https://arxiv.org/abs/2405.08463>) | N/A | [28](<https://openalex.org/W4396945593>) |
+| 2024 | Evolutionary Large Language Models for Hardware Security: A Comparative Survey | arXiv | [paper](<https://arxiv.org/abs/2404.16651>) | N/A | [28](<https://openalex.org/W4399487583>) |
+| 2024 | Neural Radiance Field in Autonomous Driving: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.13816>) | N/A | [28](<https://openalex.org/W4395065288>) |
+| 2024 | A Survey on Federated Unlearning: Challenges and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2403.02437>) | N/A | [28](<https://openalex.org/W7131893892>) |
+| 2024 | Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2403.01528>) | [code](<https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling>) | [28](<https://openalex.org/W4392537649>) ([⭐ 263](<https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling>)) |
+| 2024 | Continual Learning on Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.06330>) | N/A | [28](<https://openalex.org/W4391766672>) |
+| 2024 | A Survey on Self-Supervised Monocular Depth Estimation Based on Deep Neural Networks | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3552598>) | N/A | [28](<https://openalex.org/W4409057811>) |
+| 2023 | Cryptographic Primitives in Privacy-Preserving Machine Learning: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2023.3321803>) | N/A | [28](<https://openalex.org/W4387319330>) |
+| 2021 | A survey on deep learning-based precise boundary recovery of semantic segmentation for images and point clouds | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2021.102411>) | N/A | [28](<https://openalex.org/W3183727309>) |
+| 2021 | Explanation in Constraint Satisfaction: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/601>) | N/A | [28](<https://openalex.org/W3188037419>) |
+| 2025 | Agentic Software Issue Resolution with Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2512.22256>) | N/A | [27](<https://openalex.org/W7117808524>) |
+| 2025 | Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents | arXiv | [paper](<https://arxiv.org/abs/2505.05283>) | N/A | [27](<https://openalex.org/W4417084250>) |
+| 2025 | Uncertainty Quantification for Machine Learning in Healthcare: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02874>) | N/A | [27](<https://openalex.org/W4415245822>) |
+| 2025 | Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications | arXiv | [paper](<https://arxiv.org/abs/2505.01146>) | N/A | [27](<https://openalex.org/W4417313874>) |
+| 2025 | A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2504.21099>) | N/A | [27](<https://openalex.org/W4417522087>) |
+| 2025 | Parameter-Efficient Continual Fine-Tuning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.13822>) | N/A | [27](<https://openalex.org/W4414374254>) |
+| 2025 | Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2503.11411>) | N/A | [27](<https://openalex.org/W4417285558>) |
+| 2025 | Survey of Quantization Techniques for On-Device Vision-based Crack Detection | arXiv | [paper](<https://arxiv.org/abs/2502.02269>) | N/A | [27](<https://openalex.org/W4412962996>) |
+| 2025 | A Comprehensive Survey on Multi-modal Conversational Emotion Recognition with Deep Learning | TOIS | [paper](<https://doi.org/10.1145/3786343>) | N/A | [27](<https://openalex.org/W7116891688>) |
+| 2024 | Fine-tuning Large Language Models with Limited Data: A Survey and Practical Guide | arXiv | [paper](<https://arxiv.org/abs/2411.09539>) | N/A | [27](<https://openalex.org/W7150881103>) |
+| 2024 | A Survey on AI-driven Energy Optimisation in Terrestrial Next Generation Radio Access Networks | arXiv | [paper](<https://arxiv.org/abs/2411.02164>) | N/A | [27](<https://openalex.org/W4403510256>) |
+| 2024 | Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision | arXiv | [paper](<https://arxiv.org/abs/2411.01431>) | N/A | [27](<https://openalex.org/W4403735204>) |
+| 2024 | A Survey of AI-Generated Video Evaluation | arXiv | [paper](<https://arxiv.org/abs/2410.19884>) | N/A | [27](<https://openalex.org/W4404313781>) |
+| 2024 | A Survey on Large Language Model-empowered Autonomous Driving | arXiv | [paper](<https://arxiv.org/abs/2409.14165>) | N/A | [27](<https://openalex.org/W4413149359>) |
+| 2024 | Are We There Yet? A Brief Survey of Music Emotion Prediction Datasets, Models and Outstanding Challenges | arXiv | [paper](<https://arxiv.org/abs/2406.08809>) | N/A | [27](<https://openalex.org/W4411688597>) |
+| 2024 | A Survey of Robotic Language Grounding: Tradeoffs between Symbols and Embeddings | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/885>) | N/A | [27](<https://openalex.org/W4401023571>) |
+| 2024 | Privacy and Security Implications of Cloud-Based AI Services : A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.00896>) | N/A | [27](<https://openalex.org/W4391555515>) |
+| 2024 | Deep Learning for Low-Light Vision: A Comprehensive Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3566647>) | N/A | [27](<https://openalex.org/W4410949906>) |
+| 2023 | Anti-unification and Generalization: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/736>) | N/A | [27](<https://openalex.org/W4385764477>) |
+| 2022 | What Do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification | ACL | [paper](<https://aclanthology.org/2022.acl-srw.7>) | [code](<https://github.com/Kaleidophon/deep-significance>) | [27](<https://openalex.org/W4285308265>) ([⭐ 343](<https://github.com/Kaleidophon/deep-significance>)) |
+| 2021 | Natural Language Processing Meets Quantum Physics: A Survey and Categorization | EMNLP | [paper](<https://aclanthology.org/2021.emnlp-main.254>) | N/A | [27](<https://openalex.org/W3214241479>) |
+| 2026 | A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends | ACL | [paper](<https://aclanthology.org/2026.findings-acl.652>) | N/A | [26](<https://openalex.org/W4414699737>) |
+| 2026 | A Survey on Video Temporal Grounding With Multimodal Large Language Model | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3615586>) | [code](<https://github.com/ki-lw/Awesome-MLLMs-for-Video-Temporal-Grounding>) | [26](<https://openalex.org/W4414604029>) ([⭐ 107](<https://github.com/iLearn-Lab/TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding>)) |
+| 2025 | Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey | arXiv | [paper](<https://arxiv.org/abs/2510.12178>) | N/A | [26](<https://openalex.org/W4415269742>) |
+| 2025 | A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects | arXiv | [paper](<https://arxiv.org/abs/2506.19769>) | N/A | [26](<https://openalex.org/W4414684696>) |
+| 2025 | Creativity in LLM-based Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1403>) | N/A | [26](<https://openalex.org/W4416035654>) |
+| 2025 | Generative AI in Financial Institution: A Global Survey of Opportunities, Threats, and Regulation | arXiv | [paper](<https://arxiv.org/abs/2504.21574>) | N/A | [26](<https://openalex.org/W4417523747>) |
+| 2025 | Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1) | arXiv | [paper](<https://arxiv.org/abs/2504.03151>) | N/A | [26](<https://openalex.org/W4415976985>) |
+| 2025 | Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents | ACL | [paper](<https://aclanthology.org/2025.findings-acl.938>) | N/A | [26](<https://openalex.org/W4412887867>) |
+| 2025 | A Survey on Explainable Deep Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2502.06869>) | N/A | [26](<https://openalex.org/W4407423009>) |
+| 2024 | Recommender Systems for Good (RS4Good): Survey of Use Cases and a Call to Action for Research that Matters | arXiv | [paper](<https://arxiv.org/abs/2411.16645>) | N/A | [26](<https://openalex.org/W4411813613>) |
+| 2024 | Advancing Sustainability via Recommender Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.07658>) | N/A | [26](<https://openalex.org/W4404399555>) |
+| 2024 | Acceleration for Deep Reinforcement Learning using Parallel and Distributed Computing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.05614>) | N/A | [26](<https://openalex.org/W4404387560>) |
+| 2024 | A Survey on Automatic Credibility Assessment Using Textual Credibility Signals in the Era of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2410.21360>) | N/A | [26](<https://openalex.org/W4414654425>) |
+| 2024 | Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.13385>) | N/A | [26](<https://openalex.org/W4403882974>) |
+| 2024 | A Survey of the Self Supervised Learning Mechanisms for Vision Transformers | arXiv | [paper](<https://arxiv.org/abs/2408.17059>) | N/A | [26](<https://openalex.org/W4403713395>) |
+| 2024 | Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2409.02111>) | N/A | [26](<https://openalex.org/W4403159822>) |
+| 2024 | Exploring Vulnerabilities and Protections in Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.00240>) | N/A | [26](<https://openalex.org/W4399354961>) |
+| 2024 | A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2405.13082>) | N/A | [26](<https://openalex.org/W4407133993>) |
+| 2024 | A Survey of Few-Shot Learning for Biomedical Time Series | arXiv | [paper](<https://arxiv.org/abs/2405.02485>) | N/A | [26](<https://openalex.org/W4404101349>) |
+| 2023 | Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-023-01856-0>) | N/A | [26](<https://openalex.org/W4385632207>) |
+| 2012 | Tokenization: Returning to a Long Solved Problem — A Survey, Contrastive Experiment, Recommendations, and Toolkit — | ACL | [paper](<https://aclanthology.org/P12-2074>) | N/A | [26](<https://openalex.org/W2138181100>) |
+| 2025 | From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem | arXiv | [paper](<https://arxiv.org/abs/2506.15170>) | N/A | [25](<https://openalex.org/W4417423213>) |
+| 2025 | A Tutorial-cum-Survey on Self-Supervised Learning for Wi-Fi Sensing: Trends, Challenges, and Outlook | arXiv | [paper](<https://arxiv.org/abs/2506.12052>) | N/A | [25](<https://openalex.org/W4412030422>) |
+| 2025 | From Deep Learning to LLMs: A survey of AI in Quantitative Investment | arXiv | [paper](<https://arxiv.org/abs/2503.21422>) | N/A | [25](<https://openalex.org/W4415062592>) |
+| 2025 | A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects | arXiv | [paper](<https://arxiv.org/abs/2503.14110>) | [code](<https://github.com/USTCAGI/Awesome-Cross-Domain>) | [25](<https://openalex.org/W4410535567>) ([⭐ N/A](<https://github.com/ustcagi/awesome-cross-domain>)) |
+| 2025 | DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.09956>) | N/A | [25](<https://openalex.org/W4414900349>) |
+| 2025 | A Survey on Large Language Models for Automated Planning | arXiv | [paper](<https://arxiv.org/abs/2502.12435>) | N/A | [25](<https://openalex.org/W4407759444>) |
+| 2025 | Incomplete Graph Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.12412>) | [code](<https://github.com/cherry-a11y/Incomplete-graph-learning.git>) | [25](<https://openalex.org/W4411201795>) ([⭐ 7](<https://github.com/cherry-a11y/Incomplete-graph-learning>)) |
+| 2025 | Towards Data-Centric AI: A Comprehensive Survey of Traditional, Reinforcement, and Generative Approaches for Tabular Data Transformation | arXiv | [paper](<https://arxiv.org/abs/2501.10555>) | N/A | [25](<https://openalex.org/W7140305670>) |
+| 2025 | Underwater Image Enhancement using Generative Adversarial Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.06273>) | N/A | [25](<https://openalex.org/W4407781446>) |
+| 2025 | A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness | KDD | [paper](<https://doi.org/10.1145/3711896.3736563>) | N/A | [25](<https://openalex.org/W4412877246>) |
+| 2024 | A Survey on Time-Series Distance Measures | arXiv | [paper](<https://arxiv.org/abs/2412.20574>) | N/A | [25](<https://openalex.org/W4405956540>) |
+| 2024 | Towards a Unified View of Preference Learning for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.02795>) | N/A | [25](<https://openalex.org/W4403585643>) |
+| 2024 | Computer Vision Model Compression Techniques for Embedded Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.08250>) | [code](<https://github.com/venturusbr/cv-model-compression>) | [25](<https://openalex.org/W4400799710>) ([⭐ 8](<https://github.com/venturusbr/cv-model-compression>)) |
+| 2024 | Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective | arXiv | [paper](<https://arxiv.org/abs/2408.04638>) | N/A | [25](<https://openalex.org/W7125637838>) |
+| 2024 | Blockchain for Large Language Model Security and Safety: A Holistic Survey | arXiv | [paper](<https://arxiv.org/abs/2407.20181>) | N/A | [25](<https://openalex.org/W4406939706>) |
+| 2024 | Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.08115>) | N/A | [25](<https://openalex.org/W4399657463>) |
+| 2024 | Artificial Intelligence Approaches for Predictive Maintenance in the Steel Industry: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.12785>) | N/A | [25](<https://openalex.org/W4398230801>) |
+| 2024 | Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2401.11734>) | N/A | [25](<https://openalex.org/W4391158596>) |
+| 2023 | A Survey on Neural Data-to-Text Generation | TKDE | [paper](<https://doi.org/10.1109/TKDE.2023.3304385>) | N/A | [25](<https://openalex.org/W4385756501>) |
+| 2023 | A Survey on Out-of-Distribution Evaluation of Neural NLP Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/749>) | N/A | [25](<https://openalex.org/W4385764073>) |
+| 2023 | The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis | EMNLP | [paper](<https://aclanthology.org/2023.emnlp-main.848>) | N/A | [25](<https://openalex.org/W4389524528>) |
+| 2022 | A Survey on the Use of Computer Vision to Improve Software Engineering Tasks | TSE | [paper](<https://doi.org/10.1109/TSE.2020.3032986>) | N/A | [25](<https://openalex.org/W3093605317>) |
+| 2021 | A Survey of Machine Learning-Based Physics Event Generation | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/588>) | N/A | [25](<https://openalex.org/W3171640724>) |
+| 2008 | Bridging ontologies and folksonomies to leverage knowledge sharing on the social Web: A brief survey | ASE | [paper](<https://doi.org/10.1109/ASEW.2008.4686305>) | N/A | [25](<https://openalex.org/W2118206721>) |
+| 2025 | Cross-lingual Aspect-Based Sentiment Analysis: A Survey on Tasks, Approaches, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2508.09516>) | N/A | [24](<https://openalex.org/W4408326925>) |
+| 2025 | A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law | arXiv | [paper](<https://arxiv.org/abs/2505.02665>) | N/A | [24](<https://openalex.org/W4416095101>) |
+| 2025 | A Survey on Progress in LLM Alignment from the Perspective of Reward Design | arXiv | [paper](<https://arxiv.org/abs/2505.02666>) | N/A | [24](<https://openalex.org/W7125635685>) |
+| 2025 | How Can Time Series Analysis Benefit From Multiple Modalities? A Survey and Outlook | arXiv | [paper](<https://arxiv.org/abs/2503.11835>) | N/A | [24](<https://openalex.org/W4416415928>) |
+| 2025 | Personalized Image Generation with Deep Generative Models: A Decade Survey | arXiv | [paper](<https://arxiv.org/abs/2502.13081>) | [code](<https://github.com/csyxwei/Awesome-Personalized-Image-Generation>) | [24](<https://openalex.org/W4413822471>) ([⭐ 258](<https://github.com/csyxwei/Awesome-Personalized-Image-Generation>)) |
+| 2025 | A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02391-w>) | N/A | [24](<https://openalex.org/W4409286758>) |
+| 2025 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | arXiv | [paper](<https://arxiv.org/abs/2502.00837>) | N/A | [24](<https://openalex.org/W4407124164>) |
+| 2025 | Semantic Mapping in Indoor Embodied AI -- A Survey on Advances, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.05750>) | N/A | [24](<https://openalex.org/W4406317158>) |
+| 2025 | Artificial intelligence security and privacy: a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-025-4388-5>) | N/A | [24](<https://openalex.org/W4412046594>) |
+| 2024 | Large Language Models in Politics and Democracy: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2412.04498>) | N/A | [24](<https://openalex.org/W4405173114>) |
+| 2024 | Data Augmentation for Sequential Recommendation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.13545>) | [code](<https://github.com/KingGugu/DA-CL-4Rec>) | [24](<https://openalex.org/W4403767139>) ([⭐ 437](<https://github.com/KingGugu/DA-CL-4Rec>)) |
+| 2024 | Graph Reinforcement Learning for Power Grids: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2407.04522>) | N/A | [24](<https://openalex.org/W4400434805>) |
+| 2024 | A Survey on Data Quality Dimensions and Tools for Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2406.19614>) | [code](<https://github.com/haihua0913/awesome-dq4ml>) | [24](<https://openalex.org/W4400222618>) ([⭐ 23](<https://github.com/haihua0913/awesome-dq4ml>)) |
 
 Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · 6 · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)

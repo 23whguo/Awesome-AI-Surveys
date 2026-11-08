@@ -1,5 +1,10 @@
 # subjects: agent
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](subjects-agent-2.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,58 +13,58 @@
 
 Pages: [1](subjects-agent.md) · 2
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2025 | Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.00747>) | N/A |
-| 2025 | Would You Rely on an Eerie Agent? A Systematic Review of the Impact of the Uncanny Valley Effect on Trust in Human-Agent Interaction | arXiv | [paper](<https://arxiv.org/abs/2505.05543>) | N/A |
-| 2024 | A Comprehensive Survey of Cross-Domain Policy Transfer for Embodied Agents | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/906>) | [code](<https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents>) |
-| 2024 | A Review of Large Language Models and Autonomous Agents in Chemistry | arXiv | [paper](<https://arxiv.org/abs/2407.01603>) | [code](<https://github.com/ur-whitelab/LLMs-in-science>) |
-| 2024 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning | arXiv | [paper](<https://arxiv.org/abs/2406.05804>) | [code](<https://github.com/xinzhel/LLM-Agent-Survey>) |
-| 2024 | A Review of Scalable and Privacy-Preserving Multi-Agent Frameworks for Distributed Energy Resources | arXiv | [paper](<https://arxiv.org/abs/2409.14499>) | N/A |
-| 2024 | A Survey of Personality, Persona, and Profile in Conversational Agents and Chatbots | arXiv | [paper](<https://arxiv.org/abs/2401.00609>) | N/A |
-| 2024 | A Survey on Context-Aware Multi-Agent Systems: Techniques, Challenges and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2402.01968>) | N/A |
-| 2024 | A Survey on Large Language Model-based Agents for Statistics and Data Science | arXiv | [paper](<https://arxiv.org/abs/2412.14222>) | N/A |
-| 2024 | A Survey on Large Language Model-Based Game Agents | arXiv | [paper](<https://arxiv.org/abs/2404.02039>) | [code](<https://github.com/git-disl/awesome-LLM-game-agent-papers>) |
-| 2024 | A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios | arXiv | [paper](<https://arxiv.org/abs/2412.03920>) | N/A |
-| 2024 | A Survey on LLM-based Multi-Agent System: Recent Advances and New Frontiers in Application | arXiv | [paper](<https://arxiv.org/abs/2412.17481>) | N/A |
-| 2024 | A Survey on the Memory Mechanism of Large Language Model-based Agents | TOIS | [paper](<https://doi.org/10.1145/3748302>) | [code](<https://github.com/nuster1128/LLM_Agent_Memory_Survey>) |
-| 2024 | A systematic review of norm emergence in multi-agent systems | arXiv | [paper](<https://arxiv.org/abs/2412.10609>) | N/A |
-| 2024 | Agents in Software Engineering: Survey, Landscape, and Vision | arXiv | [paper](<https://arxiv.org/abs/2409.09030>) | [code](<https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE>) |
-| 2024 | Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.17030>) | N/A |
-| 2024 | Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective | arXiv | [paper](<https://arxiv.org/abs/2402.00262>) | N/A |
-| 2024 | Current Trends and Future Directions for Sexual Health Conversational Agents (CAs) for Youth: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2409.14226>) | N/A |
-| 2024 | Deploying Foundation Model Powered Agent Services: A Survey | arXiv | [paper](<https://arxiv.org/abs/2412.13437>) | N/A |
-| 2024 | Exploring Autonomous Agents through the Lens of Large Language Models: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.04442>) | N/A |
-| 2024 | From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future | arXiv | [paper](<https://arxiv.org/abs/2408.02479>) | N/A |
-| 2024 | Fully Decentralized Cooperative Multi-Agent Reinforcement Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2401.04934>) | N/A |
-| 2024 | GUI Agents with Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2411.04890>) | N/A |
-| 2024 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents | arXiv | [paper](<https://arxiv.org/abs/2401.00812>) | N/A |
-| 2024 | Intelligent Agents for Auction-based Federated Learning: A Survey | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/912>) | N/A |
-| 2024 | Large Language Model Agent in Financial Trading: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.06361>) | N/A |
-| 2024 | Large Language Model Based Multi-agents: A Survey of Progress and Challenges | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/890>) | [code](<https://github.com/taichengguo/llm_multiagents_survey_papers>) |
-| 2024 | Large Language Model-Based Agents for Software Engineering: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.02977>) | [code](<https://github.com/FudanSELab/Agent4SE-Paper-List>) |
-| 2024 | Large Language Model-Brained GUI Agents: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.18279>) | N/A |
-| 2024 | Large Model Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends | arXiv | [paper](<https://arxiv.org/abs/2409.14457>) | N/A |
-| 2024 | Large Multimodal Agents: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.15116>) | [code](<https://github.com/jun0wanan/awesome-large-multimodal-agents>) |
-| 2024 | Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review | arXiv | [paper](<https://arxiv.org/abs/2409.11864>) | N/A |
-| 2024 | Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2405.15777>) | [code](<https://github.com/synapsemobility/synapseBEV>) |
-| 2024 | Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.09675>) | N/A |
-| 2024 | Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas | arXiv | [paper](<https://arxiv.org/abs/2402.17270>) | N/A |
-| 2024 | Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security | arXiv | [paper](<https://arxiv.org/abs/2401.05459>) | N/A |
-| 2024 | Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2406.06041>) | N/A |
-| 2024 | Survey of Distributed Algorithms for Resource Allocation over Multi-Agent Systems | arXiv | [paper](<https://arxiv.org/abs/2401.15607>) | N/A |
-| 2024 | Swiss Cheese Model for AI Safety: A Taxonomy and Reference Architecture for Multi-Layered Guardrails of Foundation Model Based Agents | arXiv | [paper](<https://arxiv.org/abs/2408.02205>) | N/A |
-| 2024 | The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies | arXiv | [paper](<https://arxiv.org/abs/2407.19354>) | N/A |
-| 2024 | The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.11584>) | N/A |
-| 2024 | The Problem of Social Cost in Multi-Agent General Reinforcement Learning: Survey and Synthesis | arXiv | [paper](<https://arxiv.org/abs/2412.02091>) | N/A |
-| 2024 | Understanding the planning of LLM agents: A survey | arXiv | [paper](<https://arxiv.org/abs/2402.02716>) | N/A |
-| 2023 | An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives | EMNLP | [paper](<https://aclanthology.org/2023.emnlp-main.698>) | [code](<https://github.com/jeffreych0/mental_chatbot_survey>) |
-| 2023 | Creative Problem Solving in Artificially Intelligent Agents: A Survey and Framework (Extended Abstract) | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/777>) | N/A |
-| 2022 | Model-Based Diagnosis of Multi-Agent Systems: A Survey | AAAI | [paper](<https://ojs.aaai.org/index.php/AAAI/article/view/21498>) | N/A |
-| 2022 | Problem Compilation for Multi-Agent Path Finding: a Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/783>) | N/A |
-| 2021 | Building Affordance Relations for Robotic Agents - A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/590>) | N/A |
-| 2018 | Autonomous agents modelling other agents: A comprehensive survey and open problems | AI | [paper](<https://doi.org/10.1016/j.artint.2018.01.002>) | N/A |
-| 2018 | Emotion in reinforcement learning agents and robots: a survey | MLJ | [paper](<https://doi.org/10.1007/s10994-017-5666-0>) | N/A |
-| 2017 | Consensus control of stochastic multi-agent systems: a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-017-9169-4>) | N/A |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI | arXiv | [paper](<https://arxiv.org/abs/2608.02553>) | N/A | [0](<https://openalex.org/W7172435583>) |
+| 2026 | Constructing Executable Analytical Knowledge Representations for Meta-Analysis Synthesis Using an Agentic Harness | arXiv | [paper](<https://arxiv.org/abs/2608.01711>) | N/A | [0](<https://openalex.org/W7172406168>) |
+| 2026 | The Chronos Vulnerability: A Taxonomy of Temporal Persistence and Memory-Based Deception in Agentic AI | arXiv | [paper](<https://arxiv.org/abs/2607.19433>) | N/A | [0](<https://openalex.org/W7170194730>) |
+| 2026 | Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.03233>) | N/A | [0](<https://openalex.org/W7167587652>) |
+| 2026 | Archer: Towards Agentic Review for Compiler Optimizations | arXiv | [paper](<https://arxiv.org/abs/2607.01808>) | N/A | [0](<https://openalex.org/W7167270940>) |
+| 2026 | Mapping the Evaluation Frontier: An Empirical Survey of the Bias-Reliability Tradeoff Across Eleven Evaluator-Agent Conditions | arXiv | [paper](<https://arxiv.org/abs/2607.00304>) | N/A | [0](<https://openalex.org/W7167075637>) |
+| 2026 | On dynamic multi-agent pathfinding methods: review, simulations and modifications | arXiv | [paper](<https://arxiv.org/abs/2606.03735>) | N/A | [0](<https://openalex.org/W7163360492>) |
+| 2026 | Assistance to Autonomy: A Systematic Literature Review of Agentic AI across the Software Development Life Cycle | arXiv | [paper](<https://arxiv.org/abs/2605.15245>) | N/A | [0](<https://openalex.org/W7161553010>) |
+| 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A | [0](<https://openalex.org/W7159062602>) |
+| 2026 | Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems | arXiv | [paper](<https://arxiv.org/abs/2604.15078>) | N/A | [0](<https://openalex.org/W7154680839>) |
+| 2026 | Fairness in Multi-Agent Systems for Software Engineering: An SDLC-Oriented Rapid Review | arXiv | [paper](<https://arxiv.org/abs/2604.13103>) | N/A | [0](<https://openalex.org/W7169546925>) |
+| 2026 | Networking-Aware Energy Efficiency in Agentic AI Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2604.07857>) | N/A | [0](<https://openalex.org/W7153067931>) |
+| 2026 | LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28362>) | N/A | [0](<https://openalex.org/W7166642608>) |
+| 2026 | A Review on Test-Time Scaling for Agentic Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/859>) | N/A | [0](<https://openalex.org/W7213394852>) |
+| 2026 | A Survey on Value Alignment in Agentic AI Systems | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/896>) | N/A | [0](<https://openalex.org/W7213391790>) |
+| 2026 | A Systematic Literature Review of Distributed Multi-Agent Task Allocation: Core Dimensions, Their Interrelationships, and a Repository | TPDS | [paper](<https://doi.org/10.1109/TPDS.2026.3694097>) | N/A | [0](<https://openalex.org/W7161573740>) |
+| 2026 | LLM-Based Agents on the Edge: A Survey of Privacy, Scalability, Heterogeneity, and Autonomy | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/858>) | N/A | [0](<https://openalex.org/W7213434187>) |
+| 2026 | LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals | ACL | [paper](<https://aclanthology.org/2026.acl-long.2123>) | N/A | [0](<https://openalex.org/W7168895940>) |
+| 2026 | Procedural Blind Spots in Agent Evaluation: A Survey, Coverage Analysis, and New Missions for NLP | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1162>) | N/A | [0](<https://openalex.org/W7224500611>) |
+| 2026 | The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1210>) | [code](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>) | [0](<https://openalex.org/W7224361794>) ([⭐ 6](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>)) |
+| 2025 | Design Framework for Conversational Agent in Couple relationships: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2510.17119>) | N/A | [0](<https://openalex.org/W4415961874>) |
+| 2024 | The Problem of Social Cost in Multi-Agent General Reinforcement Learning: Survey and Synthesis | arXiv | [paper](<https://arxiv.org/abs/2412.02091>) | N/A | [0](<https://openalex.org/W4405037371>) |
+| 2026 | What Can Component-Replacement Evidence Establish? A Critical Scoping Review of Local Decisions in LLM Agents | arXiv | [paper](<https://arxiv.org/abs/2609.39989>) | N/A | N/A |
+| 2026 | Test-Driven Approaches to Software Engineering with Large Language Models: A Survey of Phases, Tasks, and Agent Skills | arXiv | [paper](<https://arxiv.org/abs/2609.12012>) | N/A | N/A |
+| 2026 | Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2396>) | N/A | N/A |
+| 2025 | Environment Scaling for Interactive Agentic Experience Collection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2511.09586>) | N/A | N/A |
+| 2025 | Mitigating Hallucination in Large Language Models: A Capability-Oriented Survey on RAG, Reasoning, and Agentic Systems | arXiv | [paper](<https://arxiv.org/abs/2510.24476>) | N/A | N/A |
+| 2025 | A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications | arXiv | [paper](<https://arxiv.org/abs/2510.16724>) | [code](<https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers>) | N/A ([⭐ 296](<https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers>)) |
+| 2025 | A Survey on Agentic Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.10991>) | [code](<https://github.com/HJYao00/Awesome-Agentic-MLLMs>) | N/A ([⭐ 217](<https://github.com/HJYao00/Awesome-Agentic-MLLMs>)) |
+| 2025 | A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System | arXiv | [paper](<https://arxiv.org/abs/2510.09721>) | [code](<https://github.com/lisaGuojl/LLM-Agent-SE-Survey>) | N/A ([⭐ 9](<https://github.com/lisaGuojl/LLM-Agent-SE-Survey>)) |
+| 2025 | Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.19870>) | N/A | N/A |
+| 2025 | LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios | arXiv | [paper](<https://arxiv.org/abs/2508.17692>) | N/A | N/A |
+| 2025 | AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2508.11126>) | N/A | N/A |
+| 2025 | Large Language Model-based Data Science Agent: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.02744>) | N/A | N/A |
+| 2025 | A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence | arXiv | [paper](<https://arxiv.org/abs/2507.21046>) | N/A | N/A |
+| 2025 | Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs | arXiv | [paper](<https://arxiv.org/abs/2507.09477>) | [code](<https://github.com/DavidZWZ/Awesome-RAG-Reasoning>) | N/A ([⭐ 460](<https://github.com/DavidZWZ/Awesome-RAG-Reasoning>)) |
+| 2025 | Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2506.09656>) | N/A | N/A |
+| 2025 | From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins | arXiv | [paper](<https://arxiv.org/abs/2506.06359>) | N/A | N/A |
+| 2025 | A Survey of Safe Reinforcement Learning and Constrained MDPs: A Technical Survey on Single-Agent and Multi-Agent Safety | arXiv | [paper](<https://arxiv.org/abs/2505.17342>) | N/A | N/A |
+| 2025 | Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.07911>) | N/A | N/A |
+| 2025 | Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications | arXiv | [paper](<https://arxiv.org/abs/2505.00049>) | N/A | N/A |
+| 2025 | A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2504.20464>) | N/A | N/A |
+| 2025 | Survey and Experiments on Mental Disorder Detection via Social Media: From Large Language Models and RAG to Agents | arXiv | [paper](<https://arxiv.org/abs/2504.02800>) | N/A | N/A |
+| 2025 | A Survey of Large Language Model Agents for Question Answering | arXiv | [paper](<https://arxiv.org/abs/2503.19213>) | N/A | N/A |
+| 2025 | A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval | arXiv | [paper](<https://arxiv.org/abs/2503.05659>) | [code](<https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search>) | N/A ([⭐ 129](<https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search>)) |
+| 2025 | Multi-Agent Collaboration Mechanisms: A Survey of LLMs | arXiv | [paper](<https://arxiv.org/abs/2501.06322>) | N/A | N/A |
+| 2025 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use, Planning (Including RAG), and Feedback Learning | COLING | [paper](<https://aclanthology.org/2025.coling-main.652>) | N/A | N/A |
+| 2025 | Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.683>) | [code](<https://github.com/Yaozuwu/LLM-based_Multi-agent_ADS>) | N/A ([⭐ 0](<https://github.com/Yaozuwu/LLM-based_Multi-agent_ADS>)) |
+| 2024 | Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.17030>) | N/A | N/A |
+| 2023 | An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives | EMNLP | [paper](<https://aclanthology.org/2023.emnlp-main.698>) | [code](<https://github.com/jeffreych0/mental_chatbot_survey>) | N/A ([⭐ 5](<https://github.com/JeffreyCh0/mental_chatbot_survey>)) |
+| 2022 | Model-Based Diagnosis of Multi-Agent Systems: A Survey | AAAI | [paper](<https://ojs.aaai.org/index.php/AAAI/article/view/21498>) | N/A | N/A |
 
 Pages: [1](subjects-agent.md) · 2

@@ -1,5 +1,10 @@
 # modalities: image
 
+**排序 / Sort：** **按引用 ↓** · [按时间 ↓](modalities-image.by-time.md)
+
+引用：OpenAlex；括号内 ⭐：Code 链接对应 GitHub 仓库的 Stars。N/A 表示未匹配或获取失败，不等于 0。统计快照：2026-11-08。
+
+
 [Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
 
 
@@ -8,207 +13,207 @@
 
 Pages: 1 · [2](modalities-image-2.md) · [3](modalities-image-3.md)
 
-| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
-| ---: | --- | --- | :---: | :---: |
-| 2026 | A comprehensive overview of deep learning models for object detection from videos/images | arXiv | [paper](<https://arxiv.org/abs/2601.14677>) | N/A |
-| 2026 | A Comprehensive Survey and Systematic Real-World Evaluation of Embodied Vision-and-Language Navigation | arXiv | [paper](<https://arxiv.org/abs/2607.09792>) | N/A |
-| 2026 | A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2606.16153>) | [code](<https://github.com/andrew-pengyu/Awsome_MedSeg>) |
-| 2026 | A Qualitative Review of GenAI-Based Methods for Data Generation and Augmentation in Industrial Computer Vision Applications | arXiv | [paper](<https://arxiv.org/abs/2606.14578>) | N/A |
-| 2026 | A Review of Vision-Based Vehicle Detection for UAV-Based Traffic Monitoring: Experimental Insights and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2608.07571>) | N/A |
-| 2026 | A Scoping Review of Deep Learning for Urban Visual Pollution and Proposal of a Real-Time Monitoring Framework with a Visual Pollution Index | arXiv | [paper](<https://arxiv.org/abs/2602.09446>) | N/A |
-| 2026 | A Survey of Adversarial Efficiency Degradation for Vision Transformer by Exploiting Input-adaptive Optimization | arXiv | [paper](<https://arxiv.org/abs/2608.05217>) | N/A |
-| 2026 | A Survey on Knowledge Distillation of Vision-Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.180>) | [code](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>) |
-| 2026 | A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends | ACL | [paper](<https://aclanthology.org/2026.findings-acl.652>) | N/A |
-| 2026 | Adversarial Defense in Vision-Language Models: An Overview | arXiv | [paper](<https://arxiv.org/abs/2601.12443>) | N/A |
-| 2026 | Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2606.26566>) | N/A |
-| 2026 | Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations | arXiv | [paper](<https://arxiv.org/abs/2608.12299>) | N/A |
-| 2026 | Controllable Generation With Text-to-Image Diffusion Models: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3646548>) | [code](<https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models>) |
-| 2026 | Data-Driven Vision-Language Models for Remote Sensing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.31304>) | N/A |
-| 2026 | Devling into Adversarial Transferability on Image Classification: Review, Benchmark, and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2602.23117>) | N/A |
-| 2026 | Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.21904>) | N/A |
-| 2026 | Edge Deep Learning in Computer Vision and Medical Diagnostics: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.06714>) | N/A |
-| 2026 | FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision | arXiv | [paper](<https://arxiv.org/abs/2610.37905>) | N/A |
-| 2026 | From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/871>) | [code](<https://github.com/AaronFengZY/HumanCentricToVLA-Survey>) |
-| 2026 | From White Canes to Edge AI: A Survey of Assistive Navigation Technologies for Blind and Low-Vision Individuals | arXiv | [paper](<https://arxiv.org/abs/2611.00671>) | N/A |
-| 2026 | Generative models for SAR-optical image translation: A systematic review | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2025.105009>) | N/A |
-| 2026 | Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications | arXiv | [paper](<https://arxiv.org/abs/2607.25642>) | N/A |
-| 2026 | Interaction Methods in Generative AI Image Tools: A Review of Trends and Design Opportunities Across HCI and Industry | CHI | [paper](<https://doi.org/10.1145/3772318.3790307>) | N/A |
-| 2026 | IP Protection in the Era of Visual Generative AI: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.14730>) | N/A |
-| 2026 | Multimodal Remote Sensing Image Registration: A Comprehensive Review, Challenges and Prospects | arXiv | [paper](<https://arxiv.org/abs/2610.11176>) | N/A |
-| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A |
-| 2026 | Operationalizing Fairness in Text-to-Image Models: A Survey of Bias, Fairness Audits and Mitigation Strategies | arXiv | [paper](<https://arxiv.org/abs/2604.16516>) | N/A |
-| 2026 | Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects | arXiv | [paper](<https://arxiv.org/abs/2603.20289>) | [code](<https://github.com/VisionVerse/RemoteSensing-Restoration-Survey>) |
-| 2026 | Roles of MLLMs in Visually Rich Document Retrieval for RAG: A Survey | arXiv | [paper](<https://arxiv.org/abs/2601.03262>) | N/A |
-| 2026 | Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02663-5>) | [code](<https://github.com/abourki/sota-semantically-aware-nerfs>) |
-| 2026 | Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms | arXiv | [paper](<https://arxiv.org/abs/2605.17336>) | N/A |
-| 2026 | Task-Aligned Self-Supervised Learning for Medical Image Analysis: A Task-Oriented Review with Practical Design Guidelines | arXiv | [paper](<https://arxiv.org/abs/2605.23995>) | N/A |
-| 2026 | Toward Visual Grounding: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630635>) | [code](<https://github.com/linhuixiao/Awesome-Visual-Grounding>) |
-| 2026 | Towards Efficient Large Vision-Language Models: A Comprehensive Survey on Inference Strategies | arXiv | [paper](<https://arxiv.org/abs/2603.27960>) | N/A |
-| 2026 | Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/891>) | N/A |
-| 2026 | Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation | arXiv | [paper](<https://arxiv.org/abs/2607.07219>) | N/A |
-| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A |
-| 2026 | Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines | arXiv | [paper](<https://arxiv.org/abs/2604.23001>) | N/A |
-| 2026 | Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs | arXiv | [paper](<https://arxiv.org/abs/2609.10355>) | [code](<https://github.com/momentslab/awesome-efficient-videollm>) |
-| 2025 | A Comprehensive Review of Agricultural Parcel and Boundary Delineation from Remote Sensing Images: Recent Progress and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2508.14558>) | N/A |
-| 2025 | A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2505.14715>) | N/A |
-| 2025 | A Comprehensive Survey of Data Augmentation in Visual Reinforcement Learning | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02472-w>) | [code](<https://github.com/guozheng-ma/da-in-visualrl>) |
-| 2025 | A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task | arXiv | [paper](<https://arxiv.org/abs/2504.17547>) | N/A |
-| 2025 | A Comprehensive Survey on Composed Image Retrieval | TOIS | [paper](<https://doi.org/10.1145/3767328>) | [code](<https://github.com/haokunwen/awesome-composed-image-retrieval>) |
-| 2025 | A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models | arXiv | [paper](<https://arxiv.org/abs/2502.14896>) | N/A |
-| 2025 | A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement | arXiv | [paper](<https://arxiv.org/abs/2502.05995>) | N/A |
-| 2025 | A Comprehensive Survey on Visual Concept Mining in Text-to-image Diffusion Models | arXiv | [paper](<https://arxiv.org/abs/2503.13576>) | N/A |
-| 2025 | A Review of 3D Object Detection with Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.18738>) | N/A |
-| 2025 | A review of advancements in low-light image enhancement using deep learning | arXiv | [paper](<https://arxiv.org/abs/2505.05759>) | N/A |
-| 2025 | A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images | arXiv | [paper](<https://arxiv.org/abs/2502.21151>) | N/A |
-| 2025 | A Review on Large Language Models for Visual Analytics | arXiv | [paper](<https://arxiv.org/abs/2503.15176>) | N/A |
-| 2025 | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.08490>) | N/A |
-| 2025 | A Survey of Adversarial Defenses in Vision-based Systems: Categorization, Methods and Challenges | arXiv | [paper](<https://arxiv.org/abs/2503.00384>) | N/A |
-| 2025 | A Survey of Automatic Evaluation Methods on Text, Visual and Speech Generations | arXiv | [paper](<https://arxiv.org/abs/2506.10019>) | N/A |
-| 2025 | A survey of datasets for computer vision in agriculture | arXiv | [paper](<https://arxiv.org/abs/2502.16950>) | N/A |
-| 2025 | A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.08049>) | N/A |
-| 2025 | A Survey of Representation Learning, Optimization Strategies, and Applications for Omnidirectional Vision | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02391-w>) | N/A |
-| 2025 | A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2502.14881>) | [code](<https://github.com/XuankunRong/Awesome-LVLM-Safety>) |
-| 2025 | A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges | arXiv | [paper](<https://arxiv.org/abs/2501.02189>) | N/A |
-| 2025 | A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3598132>) | [code](<https://github.com/harbinzzy/all-in-one-image-restoration-survey>) |
-| 2025 | A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond | arXiv | [paper](<https://arxiv.org/abs/2502.12048>) | N/A |
-| 2025 | A Survey on Efficient Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.09724>) | [code](<https://github.com/MPSCUMBC/Efficient-Vision-Language-Models-A-Survey>) |
-| 2025 | A Survey on Efficient Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2510.24795>) | N/A |
-| 2025 | A Survey on Facial Image Privacy Preservation in Cloud-Based Services | arXiv | [paper](<https://arxiv.org/abs/2501.08665>) | N/A |
-| 2025 | A Survey on Improving Human Robot Collaboration through Vision-and-Language Navigation | arXiv | [paper](<https://arxiv.org/abs/2512.00027>) | N/A |
-| 2025 | A Survey on Interpretability in Visual Recognition | arXiv | [paper](<https://arxiv.org/abs/2507.11099>) | N/A |
-| 2025 | A Survey on Mamba Architecture for Vision Applications | arXiv | [paper](<https://arxiv.org/abs/2502.07161>) | N/A |
-| 2025 | A Survey on Medical Image Compression: From Traditional to Learning-Based Approaches | arXiv | [paper](<https://arxiv.org/abs/2507.10615>) | N/A |
-| 2025 | A Survey on Non-Photorealistic Rendering Approaches for Point cloud Visualization | TVCG | [paper](<https://doi.org/10.1109/TVCG.2024.3402610>) | N/A |
-| 2025 | A Survey on Quality Metrics for Text-to-Image Generation | TVCG | [paper](<https://doi.org/10.1109/TVCG.2025.3585077>) | N/A |
-| 2025 | A Survey on Remote Sensing Foundation Models: From Vision to Multimodality | arXiv | [paper](<https://arxiv.org/abs/2503.22081>) | [code](<https://github.com/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models>) |
-| 2025 | A Survey on Self-supervised Contrastive Learning for Multimodal Text-Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2503.11101>) | N/A |
-| 2025 | A survey on self-supervised methods for visual representation learning | MLJ | [paper](<https://doi.org/10.1007/s10994-024-06708-7>) | N/A |
-| 2025 | A Survey on Vision-Language-Action Models for Autonomous Driving | arXiv | [paper](<https://arxiv.org/abs/2506.24044>) | [code](<https://github.com/JohnsonJiang1996/Awesome-VLA4AD>) |
-| 2025 | A Survey on Vision-Language-Action Models: An Action Tokenization Perspective | arXiv | [paper](<https://arxiv.org/abs/2507.01925>) | N/A |
-| 2025 | A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision | arXiv | [paper](<https://arxiv.org/abs/2501.05147>) | N/A |
-| 2025 | A Systematic Review of Open Datasets Used in Text-to-Image (T2I) Gen AI Model Safety | arXiv | [paper](<https://arxiv.org/abs/2503.00020>) | N/A |
-| 2025 | Accessibility and Social Inclusivity: A Literature Review of Music Technology for Blind and Low Vision People | arXiv | [paper](<https://arxiv.org/abs/2508.00929>) | N/A |
-| 2025 | Adapting Vision-Language Models Without Labels: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.05547>) | [code](<https://github.com/tim-learn/Awesome-LabelFree-VLMs>) |
-| 2025 | Advancements and Challenges in Quantum Machine Learning for Medical Image Classification: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.13910>) | N/A |
-| 2025 | Advances in Medical Image Segmentation: A Comprehensive Survey with a Focus on Lumbar Spine Applications | arXiv | [paper](<https://arxiv.org/abs/2510.03318>) | N/A |
-| 2025 | Advancing Earth Observation: A Survey on AI-Powered Image Processing in Satellites | arXiv | [paper](<https://arxiv.org/abs/2501.12030>) | N/A |
-| 2025 | Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2505.23248>) | N/A |
-| 2025 | Ancient Script Image Recognition and Processing: A Review | arXiv | [paper](<https://arxiv.org/abs/2506.19208>) | N/A |
-| 2025 | Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation | arXiv | [paper](<https://arxiv.org/abs/2506.05399>) | N/A |
-| 2025 | Augmented Vision-Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.22933>) | N/A |
-| 2025 | Automatic Intermodal Loading Unit Identification using Computer Vision: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2509.17707>) | N/A |
-| 2025 | Backdoor Attacks and Defenses in Computer Vision Domain: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.07504>) | N/A |
-| 2025 | Beyond Vulnerabilities: A Survey of Adversarial Attacks as Both Threats and Defenses in Computer Vision Systems | arXiv | [paper](<https://arxiv.org/abs/2508.01845>) | N/A |
-| 2025 | Building Trustworthy Multimodal AI: A Review of Fairness, Transparency, and Ethics in Vision-Language Tasks | arXiv | [paper](<https://arxiv.org/abs/2504.13199>) | N/A |
-| 2025 | Can VLMs Actually See and Read? A Survey on Modality Collapse in Vision-Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1256>) | N/A |
-| 2025 | Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.350>) | N/A |
-| 2025 | Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.13638>) | N/A |
-| 2025 | Color Models in Image Processing: A Review and Experimental Comparison | arXiv | [paper](<https://arxiv.org/abs/2510.00584>) | N/A |
-| 2025 | Conditional Diffusion Models for CT Image Synthesis from CBCT: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2509.17790>) | N/A |
-| 2025 | Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison | arXiv | [paper](<https://arxiv.org/abs/2502.20154>) | N/A |
-| 2025 | Dataset creation for supervised deep learning-based analysis of microscopic images -- review of important considerations and recommendations | arXiv | [paper](<https://arxiv.org/abs/2512.04564>) | N/A |
-| 2025 | Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods, Datasets, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2505.07611>) | N/A |
-| 2025 | Deep Learning in Dental Image Analysis: A Systematic Review of Datasets, Methodologies, and Emerging Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.20634>) | N/A |
-| 2025 | Deep Learning Reforms Image Matching: A Survey and Outlook | arXiv | [paper](<https://arxiv.org/abs/2506.04619>) | [code](<https://github.com/ZizhuoLi/awesome-image-matching-survey>) |
-| 2025 | Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.16161>) | [code](<https://github.com/wlydlut/UHD-Image-Restoration-Survey>) |
-| 2025 | Denoising, segmentation and volumetric rendering of optical coherence tomography angiography (OCTA) image using deep learning techniques: a review | arXiv | [paper](<https://arxiv.org/abs/2502.14935>) | N/A |
-| 2025 | Diffusion Model-Based Image Editing: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3541625>) | [code](<https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods>) |
-| 2025 | Diffusion Models for Hyperspectral Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2505.11158>) | N/A |
-| 2025 | Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02570-9>) | [code](<https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing>) |
-| 2025 | Diffusion Models in Low-Level Vision: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3545047>) | [code](<https://github.com/chunminghe/awesome-diffusion-models-in-low-level-vision>) |
-| 2025 | Domain Adaptation for Big Data in Agricultural Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.05972>) | N/A |
-| 2025 | Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708525>) | N/A |
-| 2025 | Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2510.17111>) | N/A |
-| 2025 | Efficiently Integrate Large Language Models with Visual Perception: A Survey from the Training Paradigm Perspective | arXiv | [paper](<https://arxiv.org/abs/2502.01524>) | N/A |
-| 2025 | Event Camera Guided Visual Media Restoration &amp; 3D Reconstruction: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.09971>) | N/A |
-| 2025 | Evolutionary Map of the Universe: A pilot survey to detect high Galactic latitude pulsars in variance images with ASKAP | arXiv | [paper](<https://arxiv.org/abs/2511.10886>) | N/A |
-| 2025 | Explainability for Vision Foundation Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.12203>) | N/A |
-| 2025 | Explainable Artificial Intelligence in Biomedical Image Analysis: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.07148>) | N/A |
-| 2025 | Foundation Models Defining a New Era in Vision: A Survey and Outlook | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3506283>) | N/A |
-| 2025 | Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2510.16973>) | N/A |
-| 2025 | From Pixels to Images: A Structural Survey of Deep Learning Paradigms in Remote Sensing Image Semantic Segmentation | arXiv | [paper](<https://arxiv.org/abs/2505.15147>) | [code](<https://github.com/quanweiliu/RSISS>) |
-| 2025 | From Traditional to Deep Learning Approaches in Whole Slide Image Registration: A Methodological Review | arXiv | [paper](<https://arxiv.org/abs/2502.19123>) | N/A |
-| 2025 | Fuzzy Theory in Computer Vision: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.18660>) | N/A |
-| 2025 | Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches | arXiv | [paper](<https://arxiv.org/abs/2506.10825>) | N/A |
-| 2025 | Generalizable and Explainable Deep Learning for Medical Image Computing: An Overview | arXiv | [paper](<https://arxiv.org/abs/2503.08420>) | N/A |
-| 2025 | Generalizing vision-language models to novel domains: A comprehensive survey | arXiv | [paper](<https://arxiv.org/abs/2506.18504>) | N/A |
-| 2025 | Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools | arXiv | [paper](<https://arxiv.org/abs/2501.06227>) | N/A |
-| 2025 | Generative Physical AI in Vision: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.10928>) | N/A |
-| 2025 | Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review | arXiv | [paper](<https://arxiv.org/abs/2504.08588>) | N/A |
-| 2025 | Harnessing Vision Models for Time Series Analysis: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1178>) | [code](<https://github.com/d2i-group/awesome-vision-time-series>) |
-| 2025 | Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review | CHI | [paper](<https://doi.org/10.1145/3706598.3713438>) | N/A |
-| 2025 | Image Editing with Diffusion Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.13226>) | N/A |
-| 2025 | Image Recognition with Online Lightweight Vision Transformer: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.03113>) | [code](<https://github.com/ajxklo/Lightweight-VIT>) |
-| 2025 | Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems | arXiv | [paper](<https://arxiv.org/abs/2506.14096>) | N/A |
-| 2025 | Image Segmentation with transformers: An Overview, Challenges and Future | arXiv | [paper](<https://arxiv.org/abs/2501.09372>) | N/A |
-| 2025 | Image Synthesis Under Limited Data: A Survey and Taxonomy | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02357-y>) | [code](<https://github.com/kobeshegu/awesome-few-shot-generation>) |
-| 2025 | Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.10671>) | N/A |
-| 2025 | Images and deep learning in human and urban infrastructure interactions pertinent to sustainable urban studies: Review and perspective | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2024.104352>) | N/A |
-| 2025 | Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models | arXiv | [paper](<https://arxiv.org/abs/2506.11521>) | N/A |
-| 2025 | Is the medical image segmentation problem solved? A survey of current developments and future directions | arXiv | [paper](<https://arxiv.org/abs/2508.20139>) | [code](<https://github.com/apple1986/medicalSegReview>) |
-| 2025 | Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.90>) | N/A |
-| 2025 | Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.13073>) | [code](<https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation>) |
-| 2025 | LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2510.24367>) | N/A |
-| 2025 | LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3712003>) | N/A |
-| 2025 | Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2507.16876>) | N/A |
-| 2025 | Multi Camera Connected Vision System with Multi View Analytics: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.09731>) | N/A |
-| 2025 | Multi-Resolution SAR and Optical Remote Sensing Image Registration Methods: A Review, Datasets, and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2502.01002>) | [code](<https://github.com/betterlll/Multi-Resolution-SAR-dataset->) |
-| 2025 | Multilingual Vision-Language Models, A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.22123>) | N/A |
-| 2025 | Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision | arXiv | [paper](<https://arxiv.org/abs/2504.02477>) | [code](<https://github.com/Xiaofeng-Han-Res/MF-RV>) |
-| 2025 | Multimodal Large Language Models for Image, Text, and Speech Data Augmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.18648>) | [code](<https://github.com/WSUAgRobotics/data-aug-multi-modal-llm>) |
-| 2025 | Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1023>) | N/A |
-| 2025 | Natural Language Generation from Visual Events: State-of-the-Art and Key Open Questions | arXiv | [paper](<https://arxiv.org/abs/2502.13034>) | N/A |
-| 2025 | Object Detection with Multimodal Large Vision-Language Models: An In-depth Review | arXiv | [paper](<https://arxiv.org/abs/2508.19294>) | N/A |
-| 2025 | Open-Vocabulary Object Detection in UAV Imagery: A Review and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2507.13359>) | [code](<https://github.com/zhouyang2002/OVOD-in-UVA-imagery>) |
-| 2025 | PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2504.14117>) | N/A |
-| 2025 | Personalized Image Generation with Deep Generative Models: A Decade Survey | arXiv | [paper](<https://arxiv.org/abs/2502.13081>) | [code](<https://github.com/csyxwei/Awesome-Personalized-Image-Generation>) |
-| 2025 | Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing | arXiv | [paper](<https://arxiv.org/abs/2502.07829>) | N/A |
-| 2025 | Pure Vision Language Action (VLA) Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.19012>) | N/A |
-| 2025 | Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies | arXiv | [paper](<https://arxiv.org/abs/2508.10523>) | N/A |
-| 2025 | Reasoning Segmentation for Images and Videos: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.18816>) | N/A |
-| 2025 | Recent Advancements in Microscopy Image Enhancement using Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.15363>) | N/A |
-| 2025 | Reinforcement Learning for Ultrasound Image Analysis A Comprehensive Review of Advances and Applications | arXiv | [paper](<https://arxiv.org/abs/2502.14995>) | N/A |
-| 2025 | Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook | arXiv | [paper](<https://arxiv.org/abs/2503.18016>) | N/A |
-| 2025 | Review of Hallucination Understanding in Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2510.00034>) | N/A |
-| 2025 | SAM2 for Image and Video Segmentation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2503.12781>) | N/A |
-| 2025 | Secure and Robust Watermarking for AI-generated Images: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.02384>) | N/A |
-| 2025 | Self-Supervised Learning for Image Segmentation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2505.13584>) | N/A |
-| 2025 | Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2510.00783>) | N/A |
-| 2025 | Small Vision-Language Models: A Survey on Compact Architectures and Techniques | arXiv | [paper](<https://arxiv.org/abs/2503.10665>) | N/A |
-| 2025 | SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation | USS | [paper](<https://www.usenix.org/conference/usenixsecurity25/presentation/chung-yunsung>) | N/A |
-| 2025 | State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications | arXiv | [paper](<https://arxiv.org/abs/2501.07855>) | N/A |
-| 2025 | Survey of image processing settings used for mammography systems in the United Kingdom: how variable is it? | arXiv | [paper](<https://arxiv.org/abs/2501.13595>) | N/A |
-| 2025 | Survey of Quantization Techniques for On-Device Vision-based Crack Detection | arXiv | [paper](<https://arxiv.org/abs/2502.02269>) | N/A |
-| 2025 | Survey of Vision-Language-Action Models for Embodied Manipulation | arXiv | [paper](<https://arxiv.org/abs/2508.15201>) | N/A |
-| 2025 | Survey on Single-Image Reflection Removal using Deep Learning Techniques | arXiv | [paper](<https://arxiv.org/abs/2502.08836>) | N/A |
-| 2025 | Survey on Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2502.06851>) | N/A |
-| 2025 | Synthetic CT image generation from CBCT: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.13972>) | N/A |
-| 2025 | Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective | arXiv | [paper](<https://arxiv.org/abs/2504.04631>) | N/A |
-| 2025 | Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.18378>) | [code](<https://github.com/haonenglin/Awesome-VLM-for-MIA>) |
-| 2025 | Task-based Loss Functions in Computer Vision: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.04242>) | N/A |
-| 2025 | Text to Image Generation and Editing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02527>) | N/A |
-| 2025 | Time Series Information Visualization -- A Review of Approaches and Tools | arXiv | [paper](<https://arxiv.org/abs/2507.14920>) | N/A |
-| 2025 | Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI | arXiv | [paper](<https://arxiv.org/abs/2507.09702>) | N/A |
-| 2025 | Towards General Urban Monitoring with Vision-Language Models: A Review, Evaluation, and a Research Agenda | arXiv | [paper](<https://arxiv.org/abs/2510.12400>) | N/A |
-| 2025 | Underwater Image Enhancement using Generative Adversarial Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.06273>) | N/A |
-| 2025 | Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review | arXiv | [paper](<https://arxiv.org/abs/2502.08667>) | N/A |
-| 2025 | Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications | arXiv | [paper](<https://arxiv.org/abs/2504.16972>) | N/A |
-| 2025 | Vision Language Action Models in Robotic Manipulation: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.10672>) | N/A |
-| 2025 | Vision Language Models: A Survey of 26K Papers | arXiv | [paper](<https://arxiv.org/abs/2510.09586>) | N/A |
-| 2025 | Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook | arXiv | [paper](<https://arxiv.org/abs/2505.00630>) | [code](<https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing>) |
-| 2025 | Vision Mamba: A Comprehensive Survey and Taxonomy | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3610435>) | [code](<https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy>) |
-| 2025 | Vision Transformers in Precision Agriculture: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.21706>) | N/A |
-| 2025 | Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies | arXiv | [paper](<https://arxiv.org/abs/2503.02891>) | N/A |
-| 2025 | Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2504.09480>) | [code](<https://github.com/better-chao/perceptual_abilities_evaluation>) |
-| 2025 | Vision-Language Models for Edge Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.07855>) | N/A |
-| 2025 | Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications | arXiv | [paper](<https://arxiv.org/abs/2510.07077>) | N/A |
-| 2025 | Vision-to-Music Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.21254>) | [code](<https://github.com/wzk1015/Awesome-Vision-to-Music-Generation>) |
-| 2025 | Visual Hand Gesture Recognition with Deep Learning: A Comprehensive Review of Methods, Datasets, Challenges and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2507.04465>) | N/A |
-| 2025 | Visual Instruction Tuning towards General-Purpose Multimodal Large Language Model: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02572-7>) | N/A |
-| 2025 | Visual question answering: from early developments to recent advances -- a survey | arXiv | [paper](<https://arxiv.org/abs/2501.03939>) | N/A |
-| 2025 | Visualizing Uncertainty in Image Guided Surgery a Review | arXiv | [paper](<https://arxiv.org/abs/2501.06280>) | N/A |
-| 2025 | Watermarking for AI Content Detection: A Review on Text, Visual, and Audio Modalities | arXiv | [paper](<https://arxiv.org/abs/2504.03765>) | N/A |
-| 2025 | What Demands Attention in Urban Street Scenes? From Scene Understanding towards Road Safety: A Survey of Vision-driven Datasets and Studies | arXiv | [paper](<https://arxiv.org/abs/2507.06513>) | N/A |
-| 2024 | 3D Object Detection From Images for Autonomous Driving: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3346386>) | [code](<https://github.com/xinzhuma/3dodi-survey>) |
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
+| ---: | --- | --- | :---: | :---: | ---: |
+| 2023 | A Survey on Vision Transformer | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3152247>) | N/A | [5,066](<https://openalex.org/W3187418919>) |
+| 2022 | Image Segmentation Using Deep Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2021.3059968>) | N/A | [4,106](<https://openalex.org/W2999607073>) |
+| 2023 | Diffusion Models in Vision: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3261988>) | N/A | [2,167](<https://openalex.org/W4360884927>) |
+| 2021 | Self-Supervised Visual Feature Learning With Deep Neural Networks: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2020.2992393>) | N/A | [2,128](<https://openalex.org/W3023371261>) |
+| 2021 | Deep Learning for Image Super-Resolution: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2020.2982166>) | [code](<https://github.com/ptkin/Awesome-Super-Resolution>) | [2,113](<https://openalex.org/W3013529009>) ([⭐ 386](<https://github.com/ptkin/Awesome-Super-Resolution>)) |
+| 2002 | Vision for Mobile Robot Navigation: A Survey | TPAMI | [paper](<https://doi.org/10.1109/34.982903>) | N/A | [1,376](<https://openalex.org/W2150839555>) |
+| 2009 | Head Pose Estimation in Computer Vision: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2008.106>) | N/A | [1,333](<https://openalex.org/W2149382413>) |
+| 2024 | Vision-Language Models for Vision Tasks: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3369699>) | [code](<https://github.com/jingyi0000/vlm_survey>) | [1,249](<https://openalex.org/W4392172801>) ([⭐ 3,132](<https://github.com/jingyi0000/VLM_survey>)) |
+| 2020 | Support Vector Machine Versus Random Forest for Remote Sensing Image Classification: A Meta-Analysis and Systematic Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2020.3026724>) | N/A | [1,209](<https://openalex.org/W3088162569>) |
+| 2019 | Deep Learning for Single Image Super-Resolution: A Brief Review | TMM | [paper](<https://doi.org/10.1109/TMM.2019.2919431>) | N/A | [1,202](<https://openalex.org/W2887695188>) |
+| 2021 | Image Matching from Handcrafted to Deep Features: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-020-01359-2>) | N/A | [1,036](<https://openalex.org/W3047057232>) |
+| 2022 | Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2021.3055564>) | [code](<https://github.com/FLHonker/Awesome-Knowledge-Distillation>) | [965](<https://openalex.org/W3015735225>) ([⭐ 2,694](<https://github.com/FLHonker/Awesome-Knowledge-Distillation>)) |
+| 2023 | Class-Incremental Learning: Survey and Performance Evaluation on Image Classification | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3213473>) | [code](<https://github.com/mmasana/FACIL>) | [939](<https://openalex.org/W3163939464>) ([⭐ 570](<https://github.com/mmasana/FACIL>)) |
+| 2015 | Transfer Learning for Visual Categorization: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2014.2330900>) | N/A | [923](<https://openalex.org/W2163345210>) |
+| 2024 | Software Testing With Large Language Models: Survey, Landscape, and Vision | TSE | [paper](<https://doi.org/10.1109/TSE.2024.3368208>) | N/A | [821](<https://openalex.org/W4391974543>) |
+| 2023 | A Survey of Visual Transformers | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2022.3227717>) | [code](<https://github.com/liuyang-ict/awesome-visual-transformers>) | [652](<https://openalex.org/W4226512186>) ([⭐ 279](<https://github.com/liuyang-ict/awesome-visual-transformers>)) |
+| 2019 | Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers | TVCG | [paper](<https://doi.org/10.1109/TVCG.2018.2843369>) | N/A | [616](<https://openalex.org/W2784769278>) |
+| 2024 | A Survey on Hallucination in Large Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2402.00253>) | N/A | [603](<https://openalex.org/W4391505377>) |
+| 2025 | Foundation Models Defining a New Era in Vision: A Survey and Outlook | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3506283>) | N/A | [523](<https://openalex.org/W4406208390>) |
+| 2022 | Hyperspectral Image Classification - Traditional to Deep Models: A Survey for Future Prospects | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2021.3133021>) | N/A | [478](<https://openalex.org/W3122028341>) |
+| 2018 | Deep Learning in Microscopy Image Analysis: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2017.2766168>) | N/A | [472](<https://openalex.org/W2768673271>) |
+| 2021 | Image-Based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2019.2954885>) | N/A | [459](<https://openalex.org/W2990026901>) |
+| 2022 | Deep Image Deblurring: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01633-5>) | N/A | [436](<https://openalex.org/W4226453196>) |
+| 2025 | LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3712003>) | N/A | [426](<https://openalex.org/W4406325768>) |
+| 2024 | A Survey on Vision-Language-Action Models for Embodied AI | arXiv | [paper](<https://arxiv.org/abs/2405.14093>) | [code](<https://github.com/yueen-ma/Awesome-VLA>) | [376](<https://openalex.org/W4398796510>) ([⭐ 690](<https://github.com/yueen-ma/Awesome-VLA>)) |
+| 2022 | A Review of Single-Source Deep Unsupervised Visual Domain Adaptation | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.3028503>) | [code](<https://github.com/zhaoxin94/awesome-domain-adaptation>) | [361](<https://openalex.org/W3094277917>) ([⭐ 5,463](<https://github.com/zhaoxin94/awesome-domain-adaptation>)) |
+| 2021 | An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation | TASLP | [paper](<https://doi.org/10.1109/TASLP.2021.3066303>) | [code](<https://github.com/danmic/av-se>) | [342](<https://openalex.org/W3081461879>) ([⭐ 223](<https://github.com/danmic/av-se>)) |
+| 2024 | A review of deep learning-based information fusion techniques for multimodal medical image classification | arXiv | [paper](<https://arxiv.org/abs/2404.15022>) | N/A | [321](<https://openalex.org/W4398202743>) |
+| 2022 | A Survey of Vision-Language Pre-Trained Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/762>) | N/A | [313](<https://openalex.org/W4225683910>) |
+| 2024 | Transformer-Based Visual Segmentation: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3434373>) | [code](<https://github.com/lxtgh/awesome-segmenation-with-transformer>) | [305](<https://openalex.org/W4401070841>) ([⭐ 753](<https://github.com/lxtGH/Awesome-Segmentation-With-Transformer>)) |
+| 2022 | Explainability of Deep Vision-Based Autonomous Driving Systems: Review and Challenges | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01657-x>) | N/A | [296](<https://openalex.org/W4290375100>) |
+| 2024 | Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review | arXiv | [paper](<https://arxiv.org/abs/2403.02469>) | N/A | [288](<https://openalex.org/W4404509535>) |
+| 2014 | Multiple Kernel Learning for Visual Object Recognition: A Review | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2013.212>) | N/A | [274](<https://openalex.org/W2112019442>) |
+| 2025 | Diffusion Model-Based Image Editing: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3541625>) | [code](<https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods>) | [263](<https://openalex.org/W4407450948>) ([⭐ 714](<https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods>)) |
+| 2024 | A Survey on Visual Mamba | arXiv | [paper](<https://arxiv.org/abs/2404.15956>) | N/A | [261](<https://openalex.org/W4400238700>) |
+| 2024 | Semi-Supervised and Unsupervised Deep Visual Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3201576>) | N/A | [257](<https://openalex.org/W4293057377>) |
+| 2022 | Domain Adaptation in Remote Sensing Image Classification: A Survey | JSTARS | [paper](<https://doi.org/10.1109/jstars.2022.3220875>) | N/A | [240](<https://openalex.org/W4312954132>) |
+| 2025 | Vision Mamba: A Comprehensive Survey and Taxonomy | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3610435>) | [code](<https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy>) | [236](<https://openalex.org/W4414404693>) ([⭐ 102](<https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy>)) |
+| 2023 | Towards Natural Language Interfaces for Data Visualization: A Survey | TVCG | [paper](<https://doi.org/10.1109/TVCG.2022.3148007>) | N/A | [234](<https://openalex.org/W3198767185>) |
+| 2025 | Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02570-9>) | [code](<https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing>) | [219](<https://openalex.org/W4413794661>) ([⭐ 955](<https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing>)) |
+| 2023 | Blind Image Super-Resolution: A Survey and Beyond | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3203009>) | N/A | [215](<https://openalex.org/W3180712890>) |
+| 2022 | Deep Learning-Based Multi-Focus Image Fusion: A Survey and a Comparative Study | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2021.3078906>) | N/A | [213](<https://openalex.org/W3162209674>) |
+| 2023 | Visual Object Tracking With Discriminative Filters and Siamese Networks: A Survey and Outlook | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3212594>) | N/A | [201](<https://openalex.org/W4304481542>) |
+| 2022 | Vehicle Detection From UAV Imagery With Deep Learning: A Review | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2021.3080276>) | N/A | [201](<https://openalex.org/W3164012963>) |
+| 2024 | A Survey on Efficient Vision Transformers: Algorithms, Techniques, and Performance Benchmarking | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3392941>) | N/A | [199](<https://openalex.org/W4395113676>) |
+| 2024 | A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3445463>) | N/A | [198](<https://openalex.org/W4401692204>) |
+| 2025 | A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges | arXiv | [paper](<https://arxiv.org/abs/2501.02189>) | N/A | [195](<https://openalex.org/W4406133928>) |
+| 2024 | Deep-Learning-Based Semantic Segmentation of Remote Sensing Images: A Survey | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2023.3335891>) | N/A | [195](<https://openalex.org/W4389104786>) |
+| 2024 | Vision Foundation Models in Remote Sensing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.03464>) | N/A | [192](<https://openalex.org/W4408222802>) |
+| 2026 | Edge Deep Learning in Computer Vision and Medical Diagnostics: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.06714>) | N/A | [186](<https://openalex.org/W4406488955>) |
+| 2022 | A Survey on Long-Tailed Visual Recognition | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01622-8>) | N/A | [179](<https://openalex.org/W4281492582>) |
+| 2014 | An Overview of Background Modeling for Detection of Targets and Anomalies in Hyperspectral Remotely Sensed Imagery | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2014.2315772>) | N/A | [171](<https://openalex.org/W1971358070>) |
+| 2022 | Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions | ACL | [paper](<https://aclanthology.org/2022.acl-long.524>) | [code](<https://github.com/eric-ai-lab/awesome-vision-language-navigation>) | [169](<https://openalex.org/W4221167437>) ([⭐ 611](<https://github.com/UCSB-AI/awesome-vision-language-navigation>)) |
+| 2024 | Generative AI for Visualization: State of the Art and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2404.18144>) | N/A | [168](<https://openalex.org/W4396851234>) |
+| 2022 | On the Synergies Between Machine Learning and Binocular Stereo for Depth Estimation From Images: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2021.3070917>) | N/A | [167](<https://openalex.org/W3146873565>) |
+| 2024 | 3D Object Detection From Images for Autonomous Driving: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3346386>) | [code](<https://github.com/xinzhuma/3dodi-survey>) | [164](<https://openalex.org/W4213402071>) ([⭐ 148](<https://github.com/xinzhuma/3dodi-survey>)) |
+| 2024 | Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2404.07214>) | N/A | [163](<https://openalex.org/W4393857491>) |
+| 2024 | Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey and Benchmark | arXiv | [paper](<https://arxiv.org/abs/2402.02242>) | [code](<https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning>) | [163](<https://openalex.org/W7163131497>) ([⭐ 589](<https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning>)) |
+| 2021 | Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2021.102603>) | N/A | [163](<https://openalex.org/W3213631637>) |
+| 2024 | A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3592935>) | [code](<https://github.com/liudaizong/awesome-lvlm-attack>) | [157](<https://openalex.org/W4413277723>) ([⭐ 584](<https://github.com/liudaizong/Awesome-LVLM-Attack>)) |
+| 2023 | A Survey on Label-Efficient Deep Image Segmentation: Bridging the Gap Between Weak Supervision and Dense Prediction | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3246102>) | N/A | [154](<https://openalex.org/W4321194933>) |
+| 2024 | Domain Generalization for Medical Image Analysis: A Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2024.3507831>) | N/A | [153](<https://openalex.org/W4405092793>) |
+| 2024 | Diffusion Models, Image Super-Resolution, and Everything: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3476671>) | N/A | [151](<https://openalex.org/W4403863649>) |
+| 2022 | Image-text Retrieval: A Survey on Recent Research and Development | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/759>) | N/A | [150](<https://openalex.org/W4225166070>) |
+| 2024 | Physical Adversarial Attack Meets Computer Vision: A Decade Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3430860>) | [code](<https://github.com/weihui1308/paa>) | [146](<https://openalex.org/W4400772240>) ([⭐ 100](<https://github.com/weihui1308/PAA>)) |
+| 2025 | Diffusion Models in Low-Level Vision: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3545047>) | [code](<https://github.com/chunminghe/awesome-diffusion-models-in-low-level-vision>) | [139](<https://openalex.org/W4407900684>) ([⭐ 561](<https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision>)) |
+| 2025 | A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2505.14715>) | N/A | [138](<https://openalex.org/W4414088687>) |
+| 2024 | Visual Mamba: A Survey and New Outlooks | arXiv | [paper](<https://arxiv.org/abs/2404.18861>) | [code](<https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models>) | [138](<https://openalex.org/W4396821255>) ([⭐ 751](<https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models>)) |
+| 2024 | Deep Learning for Satellite Image Time Series Analysis: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.03936>) | N/A | [135](<https://openalex.org/W4394591746>) |
+| 2025 | Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications | arXiv | [paper](<https://arxiv.org/abs/2510.07077>) | N/A | [132](<https://openalex.org/W4414198610>) |
+| 2024 | A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models | EMNLP | [paper](<https://aclanthology.org/2024.findings-emnlp.685>) | N/A | [129](<https://openalex.org/W4404792833>) |
+| 2024 | A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models | arXiv | [paper](<https://arxiv.org/abs/2404.14955>) | N/A | [124](<https://openalex.org/W4410494796>) |
+| 2025 | A Survey on Vision-Language-Action Models: An Action Tokenization Perspective | arXiv | [paper](<https://arxiv.org/abs/2507.01925>) | N/A | [123](<https://openalex.org/W4417042701>) |
+| 2024 | Conventional to Deep Ensemble Methods for Hyperspectral Image Classification: A Comprehensive Survey | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3353551>) | N/A | [120](<https://openalex.org/W4390817508>) |
+| 2021 | Representing Numbers in NLP: a Survey and a Vision | NAACL | [paper](<https://aclanthology.org/2021.naacl-main.53>) | N/A | [118](<https://openalex.org/W3138296101>) |
+| 2018 | A Review of Virtual Dimensionality for Hyperspectral Imagery | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2017.2782706>) | N/A | [117](<https://openalex.org/W2791725003>) |
+| 2024 | A Review of Optical and SAR Image Deep Feature Fusion in Semantic Segmentation | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3424831>) | N/A | [115](<https://openalex.org/W4400448116>) |
+| 2024 | Deep Learning for Computer Vision based Activity Recognition and Fall Detection of the Elderly: a Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2401.11790>) | N/A | [114](<https://openalex.org/W4400421894>) |
+| 2026 | Controllable Generation With Text-to-Image Diffusion Models: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3646548>) | [code](<https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models>) | [113](<https://openalex.org/W4417508717>) ([⭐ 1,111](<https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models>)) |
+| 2024 | Multimodal Machine Learning in Image-Based and Clinical Biomedicine: Survey and Prospects | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02032-8>) | N/A | [112](<https://openalex.org/W4395037541>) |
+| 2024 | JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2407.01599>) | N/A | [109](<https://openalex.org/W4400373547>) |
+| 2023 | Deep Learning for Visual Localization and Mapping: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3309809>) | N/A | [106](<https://openalex.org/W4386973845>) |
+| 2025 | Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision | arXiv | [paper](<https://arxiv.org/abs/2504.02477>) | [code](<https://github.com/Xiaofeng-Han-Res/MF-RV>) | [105](<https://openalex.org/W4413788337>) ([⭐ 44](<https://github.com/Xiaofeng-Han-Res/MF-RV>)) |
+| 2024 | Deep Learning-Based Image and Video Inpainting: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-023-01977-6>) | N/A | [104](<https://openalex.org/W4391035760>) |
+| 2024 | Hyperbolic Deep Learning in Computer Vision: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02043-5>) | N/A | [102](<https://openalex.org/W4393182987>) |
+| 2018 | Survey of recent progress in semantic image segmentation with CNNs | SCIS | [paper](<https://doi.org/10.1007/s11432-017-9189-6>) | N/A | [99](<https://openalex.org/W2621285511>) |
+| 2021 | Land-Use Mapping for High-Spatial Resolution Remote Sensing Image Via Deep Learning: A Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2021.3078631>) | N/A | [98](<https://openalex.org/W3159993994>) |
+| 2012 | A review and comparison of commercially available pan-sharpening techniques for high resolution satellite image fusion | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2012.6351607>) | N/A | [97](<https://openalex.org/W2084382156>) |
+| 2024 | Advances in Diffusion Models for Image Data Augmentation: A Review of Methods, Models, Evaluation Metrics and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2407.04103>) | N/A | [96](<https://openalex.org/W4406938298>) |
+| 2025 | A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3598132>) | [code](<https://github.com/harbinzzy/all-in-one-image-restoration-survey>) | [95](<https://openalex.org/W4413114136>) ([⭐ 616](<https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey>)) |
+| 2024 | Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation | arXiv | [paper](<https://arxiv.org/abs/2404.01030>) | N/A | [95](<https://openalex.org/W4393924367>) |
+| 2024 | Harnessing Large Vision and Language Models in Agriculture: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.19679>) | N/A | [94](<https://openalex.org/W4413902174>) |
+| 2025 | Vision-Language Models for Edge Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.07855>) | N/A | [89](<https://openalex.org/W4411232024>) |
+| 2024 | Visual Prompting in Multimodal Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.15310>) | N/A | [86](<https://openalex.org/W4403785789>) |
+| 2025 | Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies | arXiv | [paper](<https://arxiv.org/abs/2503.02891>) | N/A | [85](<https://openalex.org/W4410431342>) |
+| 2024 | Agents in Software Engineering: Survey, Landscape, and Vision | arXiv | [paper](<https://arxiv.org/abs/2409.09030>) | [code](<https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE>) | [84](<https://openalex.org/W4413033636>) ([⭐ 113](<https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE>)) |
+| 2024 | Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2406.19675>) | N/A | [84](<https://openalex.org/W4400222682>) |
+| 2024 | Deep Learning for Visual Speech Analysis: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3376710>) | N/A | [84](<https://openalex.org/W4392780157>) |
+| 2024 | Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.17558>) | N/A | [83](<https://openalex.org/W4407049645>) |
+| 2024 | A Systematic Review of Generalization Research in Medical Image Classification | arXiv | [paper](<https://arxiv.org/abs/2403.12167>) | N/A | [83](<https://openalex.org/W4403572798>) |
+| 2021 | A Survey on Superpixel Segmentation as a Preprocessing Step in Hyperspectral Image Analysis | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2021.3076005>) | N/A | [83](<https://openalex.org/W3157079672>) |
+| 2026 | Toward Visual Grounding: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630635>) | [code](<https://github.com/linhuixiao/Awesome-Visual-Grounding>) | [80](<https://openalex.org/W4416011362>) ([⭐ 332](<https://github.com/linhuixiao/Awesome-Visual-Grounding>)) |
+| 2024 | A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision-Language Tasks | arXiv | [paper](<https://arxiv.org/abs/2411.06284>) | N/A | [80](<https://openalex.org/W4404401197>) |
+| 2025 | Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708525>) | N/A | [78](<https://openalex.org/W4405640497>) |
+| 2024 | A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning | arXiv | [paper](<https://arxiv.org/abs/2405.19684>) | [code](<https://github.com/YuZhao1999/UIE>) | [76](<https://openalex.org/W7143377352>) ([⭐ 123](<https://github.com/YuZhao1999/UIE>)) |
+| 2024 | Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.01636>) | N/A | [75](<https://openalex.org/W4402635672>) |
+| 2024 | A review of deep learning techniques for detecting animals in aerial and satellite images | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2024.103732>) | N/A | [74](<https://openalex.org/W4392436373>) |
+| 2025 | A Survey on Vision-Language-Action Models for Autonomous Driving | arXiv | [paper](<https://arxiv.org/abs/2506.24044>) | [code](<https://github.com/JohnsonJiang1996/Awesome-VLA4AD>) | [73](<https://openalex.org/W7131081286>) ([⭐ 631](<https://github.com/JohnsonJiang1996/Awesome-VLA4AD>)) |
+| 2023 | DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization | TVCG | [paper](<https://doi.org/10.1109/TVCG.2022.3167896>) | N/A | [71](<https://openalex.org/W4224006294>) |
+| 2024 | Autoregressive Models in Vision: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.05902>) | [code](<https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey>) | [70](<https://openalex.org/W4404400417>) ([⭐ 805](<https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey>)) |
+| 2024 | Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2407.07035>) | N/A | [70](<https://openalex.org/W4400519138>) |
+| 2022 | Remote sensing image fusion on 3D scenarios: A review of applications for agriculture and forestry | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2022.102856>) | N/A | [70](<https://openalex.org/W4283210243>) |
+| 2024 | Generative AI in Industrial Machine Vision -- A Review | arXiv | [paper](<https://arxiv.org/abs/2408.10775>) | N/A | [66](<https://openalex.org/W4409369615>) |
+| 2023 | Image Feature Information Extraction for Interest Point Detection: A Comprehensive Review | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3201185>) | N/A | [66](<https://openalex.org/W3170373133>) |
+| 2023 | Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3400824>) | N/A | [65](<https://openalex.org/W4396886508>) |
+| 2024 | Image Segmentation in Foundation Model Era: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.12957>) | [code](<https://github.com/stanley-313/ImageSegFM-Survey>) | [64](<https://openalex.org/W4402699251>) ([⭐ 80](<https://github.com/stanley-313/ImageSegFM-Survey>)) |
+| 2024 | A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models | arXiv | [paper](<https://arxiv.org/abs/2406.14555>) | [code](<https://github.com/xinchengshuai/Awesome-Image-Editing>) | [63](<https://openalex.org/W4399913035>) ([⭐ 472](<https://github.com/FudanCVL/Awesome-Image-Editing>)) |
+| 2025 | Object Detection with Multimodal Large Vision-Language Models: An In-depth Review | arXiv | [paper](<https://arxiv.org/abs/2508.19294>) | N/A | [61](<https://openalex.org/W4412791139>) |
+| 2025 | Generalizable and Explainable Deep Learning for Medical Image Computing: An Overview | arXiv | [paper](<https://arxiv.org/abs/2503.08420>) | N/A | [61](<https://openalex.org/W4404360535>) |
+| 2025 | A survey on self-supervised methods for visual representation learning | MLJ | [paper](<https://doi.org/10.1007/s10994-024-06708-7>) | N/A | [61](<https://openalex.org/W4408126702>) |
+| 2025 | A Comprehensive Survey of Data Augmentation in Visual Reinforcement Learning | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02472-w>) | [code](<https://github.com/guozheng-ma/da-in-visualrl>) | [59](<https://openalex.org/W4412687571>) ([⭐ 81](<https://github.com/Guozheng-Ma/DA-in-visualRL>)) |
+| 2023 | A Survey of Automated Data Augmentation for Image Classification: Learning to Compose, Mix, and Generate | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3282258>) | N/A | [59](<https://openalex.org/W4381598199>) |
+| 2024 | A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Image Anomaly Detection | arXiv | [paper](<https://arxiv.org/abs/2410.21982>) | [code](<https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD>) | [58](<https://openalex.org/W4409195436>) ([⭐ 126](<https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD>)) |
+| 2024 | A Review of Multi-Modal Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2404.01322>) | N/A | [58](<https://openalex.org/W4393924542>) |
+| 2025 | Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook | arXiv | [paper](<https://arxiv.org/abs/2505.00630>) | [code](<https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing>) | [57](<https://openalex.org/W7128909480>) ([⭐ 105](<https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing>)) |
+| 2024 | Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks | arXiv | [paper](<https://arxiv.org/abs/2410.02331>) | N/A | [57](<https://openalex.org/W4403882865>) |
+| 2025 | Pure Vision Language Action (VLA) Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.19012>) | N/A | [56](<https://openalex.org/W4414787250>) |
+| 2024 | Vision-Based Multi-Future Trajectory Prediction: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3550350>) | N/A | [56](<https://openalex.org/W4408780032>) |
+| 2025 | A Survey on Quality Metrics for Text-to-Image Generation | TVCG | [paper](<https://doi.org/10.1109/TVCG.2025.3585077>) | N/A | [55](<https://openalex.org/W4411867278>) |
+| 2024 | Out-of-distribution Detection in Medical Image Analysis: A survey | arXiv | [paper](<https://arxiv.org/abs/2404.18279>) | N/A | [55](<https://openalex.org/W4396820464>) |
+| 2024 | Visual Analytics for Machine Learning: A Data Perspective Survey | TVCG | [paper](<https://doi.org/10.1109/TVCG.2024.3357065>) | N/A | [55](<https://openalex.org/W4391128914>) |
+| 2025 | A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.08049>) | N/A | [54](<https://openalex.org/W4416401424>) |
+| 2025 | Vision Transformers in Precision Agriculture: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.21706>) | N/A | [54](<https://openalex.org/W7115016258>) |
+| 2024 | A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships | arXiv | [paper](<https://arxiv.org/abs/2408.15178>) | N/A | [54](<https://openalex.org/W4402705238>) |
+| 2023 | A survey on hyperspectral image restoration: from the view of low-rank tensor approximation | SCIS | [paper](<https://doi.org/10.1007/s11432-022-3609-4>) | N/A | [52](<https://openalex.org/W4362582380>) |
+| 2024 | Remote Sensing SpatioTemporal Vision-Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2412.02573>) | [code](<https://github.com/Chen-Yang-Liu/Awesome-RS-SpatioTemporal-VLMs>) | [51](<https://openalex.org/W4414153662>) ([⭐ 228](<https://github.com/Chen-Yang-Liu/Awesome-RS-SpatioTemporal-VLMs>)) |
+| 2024 | Comprehensive Survey of Model Compression and Speed up for Vision Transformers | arXiv | [paper](<https://arxiv.org/abs/2404.10407>) | N/A | [51](<https://openalex.org/W4400366382>) |
+| 2025 | Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2505.23248>) | N/A | [50](<https://openalex.org/W4415630232>) |
+| 2024 | Foundation Models for Biomedical Image Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2401.07654>) | N/A | [50](<https://openalex.org/W4390962384>) |
+| 2024 | Deep Interactive Segmentation of Medical Images: A Systematic Review and Taxonomy | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3452629>) | N/A | [50](<https://openalex.org/W4402040378>) |
+| 2024 | Applications of artificial intelligence in the analysis of histopathology images of gliomas: a review | arXiv | [paper](<https://arxiv.org/abs/2401.15022>) | N/A | [49](<https://openalex.org/W4391375217>) |
+| 2024 | Deep Learning based Visually Rich Document Content Understanding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.01287>) | N/A | [46](<https://openalex.org/W7128808378>) |
+| 2024 | A Survey on Text-Guided 3-D Visual Grounding: Elements, Recent Advances, and Future Directions | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3584895>) | [code](<https://github.com/liudaizong/awesome-3d-visual-grounding>) | [46](<https://openalex.org/W4412623461>) ([⭐ 287](<https://github.com/liudaizong/Awesome-3D-Visual-Grounding>)) |
+| 2022 | Remote Sensing Image Interpretation With Semantic Graph-Based Methods: A Survey | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2022.3176612>) | N/A | [46](<https://openalex.org/W4285156110>) |
+| 2025 | Task-based Loss Functions in Computer Vision: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.04242>) | N/A | [44](<https://openalex.org/W4417062162>) |
+| 2025 | A Survey on Remote Sensing Foundation Models: From Vision to Multimodality | arXiv | [paper](<https://arxiv.org/abs/2503.22081>) | [code](<https://github.com/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models>) | [44](<https://openalex.org/W4416421129>) ([⭐ 78](<https://github.com/IRIP-BUAA/A-Survey-on-Remote-Sensing-Foundation-Models-From-Vision-to-Multimodality>)) |
+| 2025 | Harnessing Vision Models for Time Series Analysis: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1178>) | [code](<https://github.com/d2i-group/awesome-vision-time-series>) | [44](<https://openalex.org/W4414359716>) ([⭐ 90](<https://github.com/D2I-Group/awesome-vision-time-series>)) |
+| 2025 | Explainability for Vision Foundation Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.12203>) | N/A | [44](<https://openalex.org/W4409387871>) |
+| 2025 | Visual Instruction Tuning towards General-Purpose Multimodal Large Language Model: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02572-7>) | N/A | [44](<https://openalex.org/W4413849607>) |
+| 2024 | A Review of Pseudo-Labeling for Computer Vision | arXiv | [paper](<https://arxiv.org/abs/2408.07221>) | N/A | [44](<https://openalex.org/W4402427616>) |
+| 2024 | A Comparative Survey of Vision Transformers for Feature Extraction in Texture Analysis | arXiv | [paper](<https://arxiv.org/abs/2406.06136>) | N/A | [44](<https://openalex.org/W4414013392>) |
+| 2025 | A Survey on Efficient Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.09724>) | [code](<https://github.com/MPSCUMBC/Efficient-Vision-Language-Models-A-Survey>) | [43](<https://openalex.org/W4412378716>) ([⭐ N/A](<https://github.com/mpscumbc/efficient-vision-language-models-a-survey>)) |
+| 2024 | Mamba in Vision: A Comprehensive Survey of Techniques and Applications | arXiv | [paper](<https://arxiv.org/abs/2410.03105>) | [code](<https://github.com/maklachur/Mamba-in-Computer-Vision>) | [43](<https://openalex.org/W4403885673>) ([⭐ 144](<https://github.com/maklachur/Mamba-in-Computer-Vision>)) |
+| 2024 | Towards Vision-Language Geo-Foundation Model: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.09385>) | [code](<https://github.com/zytx121/Awesome-VLGFM>) | [43](<https://openalex.org/W7214780492>) ([⭐ 182](<https://github.com/zytx121/Awesome-VLGFM>)) |
+| 2021 | A Comprehensive Survey on Image Dehazing Based on Deep Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/604>) | N/A | [43](<https://openalex.org/W3167186256>) |
+| 2024 | Synthetic Data for Video Surveillance Applications of Computer Vision: A Review | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02102-x>) | N/A | [41](<https://openalex.org/W4397023171>) |
+| 2024 | A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond | arXiv | [paper](<https://arxiv.org/abs/2410.02362>) | N/A | [40](<https://openalex.org/W4403882898>) |
+| 2025 | A Comprehensive Survey on Composed Image Retrieval | TOIS | [paper](<https://doi.org/10.1145/3767328>) | [code](<https://github.com/haokunwen/awesome-composed-image-retrieval>) | [39](<https://openalex.org/W4414243647>) ([⭐ 386](<https://github.com/iLearn-Lab/TOIS25-Awesome-Composed-Image-Retrieval>)) |
+| 2025 | Generative Physical AI in Vision: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.10928>) | N/A | [39](<https://openalex.org/W4406733556>) |
+| 2025 | Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.350>) | N/A | [39](<https://openalex.org/W4412888674>) |
+| 2024 | Adversarial Attacks and Defenses on Text-to-Image Diffusion Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.15861>) | [code](<https://github.com/datar001/Awesome-AD-on-T2IDM>) | [39](<https://openalex.org/W4402643129>) ([⭐ 105](<https://github.com/datar001/Awesome-AD-on-T2IDM>)) |
+| 2023 | A Survey on Masked Autoencoder for Visual Self-supervised Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/762>) | N/A | [39](<https://openalex.org/W4385764089>) |
+| 2024 | Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review | arXiv | [paper](<https://arxiv.org/abs/2403.18565>) | N/A | [38](<https://openalex.org/W4390826396>) |
+| 2023 | Survey on leveraging pre-trained generative adversarial networks for image editing and restoration | SCIS | [paper](<https://doi.org/10.1007/s11432-022-3679-0>) | [code](<https://github.com/csmliu/pretrained-GANs>) | [38](<https://openalex.org/W4365450082>) ([⭐ 17](<https://github.com/csmliu/pretrained-GANs>)) |
+| 2024 | Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.21794>) | [code](<https://github.com/AtsuMiyai/Awesome-OOD-VLM>) | [37](<https://openalex.org/W4402733597>) ([⭐ 103](<https://github.com/AtsuMiyai/Awesome-OOD-VLM>)) |
+| 2019 | High-Resolution Remote Sensing Image Scene Understanding: A Review | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8899293>) | N/A | [37](<https://openalex.org/W2988510619>) |
+| 2015 | Color Sparse Representations for Image Processing: Review, Models, and Prospects | TIP | [paper](<https://doi.org/10.1109/TIP.2015.2458175>) | N/A | [37](<https://openalex.org/W1534951689>) |
+| 2025 | Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review | arXiv | [paper](<https://arxiv.org/abs/2504.08588>) | N/A | [36](<https://openalex.org/W4414915327>) |
+| 2025 | Multimodal Large Language Models for Image, Text, and Speech Data Augmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.18648>) | [code](<https://github.com/WSUAgRobotics/data-aug-multi-modal-llm>) | [35](<https://openalex.org/W4407092802>) ([⭐ 12](<https://github.com/WSUAgRobotics/data-aug-multi-modal-llm>)) |
+| 2024 | Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.23687>) | N/A | [35](<https://openalex.org/W4411095650>) |
+| 2024 | Fine-Grained Image Recognition Methods and Their Applications in Remote Sensing Images: A Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3482348>) | N/A | [35](<https://openalex.org/W4403446585>) |
+| 2025 | Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation | arXiv | [paper](<https://arxiv.org/abs/2506.05399>) | N/A | [34](<https://openalex.org/W4410958471>) |
+| 2025 | LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2510.24367>) | N/A | [33](<https://openalex.org/W7130607038>) |
+| 2025 | Image Synthesis Under Limited Data: A Survey and Taxonomy | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02357-y>) | [code](<https://github.com/kobeshegu/awesome-few-shot-generation>) | [33](<https://openalex.org/W4406855871>) ([⭐ 87](<https://github.com/kobeshegu/awesome-few-shot-generation>)) |
+| 2024 | Conditional Image Synthesis with Diffusion Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.19365>) | [code](<https://github.com/zju-pi/Awesome-Conditional-Diffusion-Models>) | [33](<https://openalex.org/W4403853676>) ([⭐ 194](<https://github.com/zju-pi/Awesome-Conditional-Diffusion-Models>)) |
+| 2024 | FlightScope: An Experimental Comparative Review of Aircraft Detection Algorithms in Satellite Imagery | arXiv | [paper](<https://arxiv.org/abs/2404.02877>) | [code](<https://github.com/toelt-llc/FlightScope_Bench>) | [33](<https://openalex.org/W4405496175>) ([⭐ 37](<https://github.com/toelt-llc/FlightScope_Bench>)) |
+| 2024 | Neural Radiance Field-based Visual Rendering: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2404.00714>) | N/A | [33](<https://openalex.org/W7140233218>) |
+| 2025 | Visual question answering: from early developments to recent advances -- a survey | arXiv | [paper](<https://arxiv.org/abs/2501.03939>) | N/A | [32](<https://openalex.org/W4406192870>) |
+| 2024 | Vision-based 3D occupancy prediction in autonomous driving: a review and outlook | arXiv | [paper](<https://arxiv.org/abs/2405.02595>) | [code](<https://github.com/zya3d/Awesome-3D-Occupancy-Prediction>) | [32](<https://openalex.org/W4415238714>) ([⭐ 279](<https://github.com/zya3d/Awesome-3D-Occupancy-Prediction>)) |
+| 2025 | A Comprehensive Review of Agricultural Parcel and Boundary Delineation from Remote Sensing Images: Recent Progress and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2508.14558>) | N/A | [31](<https://openalex.org/W7128848440>) |
+| 2024 | A Comprehensive Survey on Synthetic Infrared Image synthesis | arXiv | [paper](<https://arxiv.org/abs/2408.06868>) | N/A | [31](<https://openalex.org/W4407264156>) |
+| 2024 | Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenges | arXiv | [paper](<https://arxiv.org/abs/2402.12041>) | N/A | [31](<https://openalex.org/W4391988064>) |
+| 2025 | Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2510.17111>) | N/A | [30](<https://openalex.org/W4416057686>) |
+| 2025 | Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.90>) | N/A | [30](<https://openalex.org/W4406033435>) |
+| 2024 | Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.11564>) | N/A | [30](<https://openalex.org/W4409996147>) |
+| 2023 | A Review and Collation of Graphical Perception Knowledge for Visualization Recommendation | CHI | [paper](<https://doi.org/10.1145/3544548.3581349>) | [code](<https://github.com/zehua-zeng/graphical-perception-knowledge>) | [30](<https://openalex.org/W4366583080>) ([⭐ 3](<https://github.com/Zehua-Zeng/graphical-perception-knowledge>)) |
+| 2022 | Cartoon Image Processing: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01645-1>) | N/A | [30](<https://openalex.org/W4294162946>) |
+| 2025 | Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications | arXiv | [paper](<https://arxiv.org/abs/2504.16972>) | N/A | [29](<https://openalex.org/W4410835288>) |
+| 2024 | A comprehensive review of datasets and deep learning techniques for vision in Unmanned Surface Vehicles | arXiv | [paper](<https://arxiv.org/abs/2412.01461>) | N/A | [29](<https://openalex.org/W4410592747>) |
+| 2024 | Fairness and Bias Mitigation in Computer Vision: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.02464>) | N/A | [29](<https://openalex.org/W4403370433>) |
+| 2022 | Vision-based Intention and Trajectory Prediction in Autonomous Vehicles: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/785>) | N/A | [29](<https://openalex.org/W4281878192>) |
+| 2021 | A Survey of Hyperspectral Image Super-Resolution Technology | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9554409>) | N/A | [29](<https://openalex.org/W3206196854>) |
+| 2024 | Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2412.03924>) | N/A | [28](<https://openalex.org/W4409094341>) |
+| 2024 | A Survey of Medical Vision-and-Language Applications and Their Techniques | arXiv | [paper](<https://arxiv.org/abs/2411.12195>) | [code](<https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey>) | [28](<https://openalex.org/W4404573654>) ([⭐ 37](<https://github.com/YtongXie/Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey>)) |
+| 2024 | A Timely Survey on Vision Transformer for Deepfake Detection | arXiv | [paper](<https://arxiv.org/abs/2405.08463>) | N/A | [28](<https://openalex.org/W4396945593>) |
+| 2021 | A Review of Deep-Learning Techniques for SAR Image Restoration | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9555039>) | N/A | [28](<https://openalex.org/W3122202149>) |
+| 2021 | A survey on deep learning-based precise boundary recovery of semantic segmentation for images and point clouds | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2021.102411>) | N/A | [28](<https://openalex.org/W3183727309>) |
+| 2010 | Remote sensing and avian influenza: A review of image processing methods for extracting key variables affecting avian influenza virus survival in water from Earth Observation satellites | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2009.09.014>) | N/A | [28](<https://openalex.org/W2065994997>) |
+| 2025 | Survey of Quantization Techniques for On-Device Vision-based Crack Detection | arXiv | [paper](<https://arxiv.org/abs/2502.02269>) | N/A | [27](<https://openalex.org/W4412962996>) |
+| 2024 | Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision | arXiv | [paper](<https://arxiv.org/abs/2411.01431>) | N/A | [27](<https://openalex.org/W4403735204>) |
 
 Pages: 1 · [2](modalities-image-2.md) · [3](modalities-image-3.md)
