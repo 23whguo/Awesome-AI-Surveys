@@ -9,7 +9,7 @@
 
 [Efficient AI & Machine Learning Systems](../categories/16-systems.md)
 
-**8 surveys · Page 1/1**
+**11 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -21,3 +21,6 @@
 | 2024 | Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding | arXiv | [paper](<https://arxiv.org/abs/2411.13157>) | N/A | [11](<https://openalex.org/W4404648869>) |
 | 2026 | Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1916>) | N/A | [10](<https://openalex.org/W4415159602>) |
 | 2024 | The CAP Principle for LLM Serving: A Survey of Long-Context Large Language Model Serving | arXiv | [paper](<https://arxiv.org/abs/2405.11299>) | N/A | [6](<https://openalex.org/W4398191894>) |
+| 2026 | From Draft-Then-Verify to Systems Co-Design: A Survey of Speculative Decoding for Autoregressive Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0746.v1>) | N/A | N/A |
+| 2026 | A Comparative Survey of Inference Acceleration for DLLMs against AR-LLMs: No Free Lunch | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0776.v1>) | [code](<https://github.com/haoyun-jiang/DLLM-AccelEval>) | N/A ([⭐ 10](<https://github.com/haoyun-jiang/DLLM-AccelEval>)) |
+| 2026 | Speculative Decoding for Multimodal Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2344.v2>) | [code](<https://github.com/zyfzs0/Multimodal-Models-Speculative-Decoding-Survey>) | N/A ([⭐ 22](<https://github.com/zyfzs0/Multimodal-Models-Speculative-Decoding-Survey>)) |

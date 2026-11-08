@@ -9,13 +9,16 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.by-time.md)
 
-**28 surveys · Page 1/1**
+**31 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1404.v1>) | N/A | N/A |
 | 2026 | Recent Developments in Transformer Inference Deployment on FPGA Platforms: A Survey | arXiv | [paper](<https://arxiv.org/abs/2609.01212>) | N/A | [2](<https://openalex.org/W7161142939>) |
 | 2026 | Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation | arXiv | [paper](<https://arxiv.org/abs/2604.10098>) | [code](<https://github.com/ZunhaiSu/Awesome-Attention-Sink>) | [14](<https://openalex.org/W7154299917>) ([⭐ 144](<https://github.com/ZunhaiSu/Awesome-Attention-Sink>)) |
+| 2026 | What Makes a Transformer Solve the TSP? A Component-Wise Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0484.v1>) | N/A | N/A |
 | 2026 | The Rise of Sparse Mixture-of-Experts: A Survey from Algorithmic Foundations to Decentralized Architectures and Vertical Domain Applications | arXiv | [paper](<https://arxiv.org/abs/2602.08019>) | N/A | [2](<https://openalex.org/W4417422768>) |
+| 2026 | A Survey of Linear Attention: Algorithm, Theory, Application, and Infrastructure | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177032877.70562626/v1>) | [code](<https://github.com/btzyd/Awesome-Linear-Attention-Survey>) | N/A ([⭐ 15](<https://github.com/btzyd/Awesome-Linear-Attention-Survey>)) |
 | 2026 | The Grammar of Transformers: A Systematic Review of Interpretability Research on Syntactic Knowledge in Language Models | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1679>) | N/A | [5](<https://openalex.org/W7126110420>) |
 | 2025 | Efficient Attention Mechanisms for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.19595>) | N/A | [35](<https://openalex.org/W7167226711>) |
 | 2025 | Foundation Models and Transformers for Anomaly Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.15905>) | N/A | [23](<https://openalex.org/W4412507263>) |

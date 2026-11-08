@@ -9,7 +9,7 @@
 
 
 
-**15 surveys · Page 1/1**
+**17 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -23,8 +23,10 @@
 | 2024 | A Survey on Federated Unlearning: Challenges and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2403.02437>) | N/A | [28](<https://openalex.org/W7131893892>) |
 | 2025 | Towards Reliable Forgetting: A Survey on Machine Unlearning Verification | arXiv | [paper](<https://arxiv.org/abs/2506.15115>) | N/A | [22](<https://openalex.org/W7161235948>) |
 | 2024 | Machine Unlearning for Traditional Models and Large Language Models: A Short Survey | arXiv | [paper](<https://arxiv.org/abs/2404.01206>) | N/A | [19](<https://openalex.org/W4393905542>) |
-| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | LLM Unlearning for Cyber Defense: A Survey on Methods, Challenges, and Emerging Threats | arXiv | [paper](<https://arxiv.org/abs/2607.16227>) | N/A | [0](<https://openalex.org/W7169903971>) |
+| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2024 | Review of Digital Asset Development with Graph Neural Network Unlearning | arXiv | [paper](<https://arxiv.org/abs/2409.18455>) | N/A | [0](<https://openalex.org/W4403809346>) |
+| 2026 | Machine Unlearning in Large Language Models: A Survey of Challenges and Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0114.v1>) | N/A | N/A |
+| 2026 | A Survey on Federated Unlearning: Lifecycle, Taxonomy, and Insights | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004227.77961306/v1>) | N/A | N/A |
 | 2025 | A Survey on Unlearning in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.25117>) | N/A | N/A |
 | 2025 | Generative Model Unlearning: A Survey through Target Events, Unlearning Operators, and Evaluation Protocols | arXiv | [paper](<https://arxiv.org/abs/2507.19894>) | [code](<https://github.com/caxLee/GenMU-Survey>) | N/A ([⭐ N/A](<https://github.com/caxlee/genmu-survey>)) |

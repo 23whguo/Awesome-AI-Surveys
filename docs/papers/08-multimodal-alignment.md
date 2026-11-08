@@ -9,7 +9,7 @@
 
 [Multimodal Learning & Models](../categories/08-multimodal.md)
 
-**19 surveys · Page 1/1**
+**21 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -32,3 +32,5 @@
 | 2025 | A Survey on Cross-Modal Interaction Between Music and Multimodal Data | arXiv | [paper](<https://arxiv.org/abs/2504.12796>) | N/A | [4](<https://openalex.org/W4417090351>) |
 | 2026 | Multimodal Information Fusion for Chart Understanding: A Survey of MLLMs -- Evolution, Limitations, and Cognitive Enhancement | arXiv | [paper](<https://arxiv.org/abs/2602.10138>) | N/A | [1](<https://openalex.org/W7202290923>) |
 | 2026 | Tackling Multimodal Learning Challenges with Mixture-of-Expert: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/900>) | N/A | [1](<https://openalex.org/W7162653424>) |
+| 2026 | From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings | arXiv | [paper](<https://arxiv.org/abs/2611.00172>) | [code](<https://github.com/codefuse-ai/Awesome-Omnimodal-Embeddings>) | N/A ([⭐ 22](<https://github.com/codefuse-ai/Awesome-Omnimodal-Embeddings>)) |
+| 2026 | From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176704030.08713592/v3>) | [code](<https://github.com/pwang322/Efficient-Multimodal-Learning-Survey>) | N/A ([⭐ 25](<https://github.com/pwang322/Efficient-Multimodal-Learning-Survey>)) |

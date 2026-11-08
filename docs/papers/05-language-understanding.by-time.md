@@ -9,15 +9,21 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.by-time.md)
 
-**121 surveys · Page 1/1**
+**127 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Survey of Automatic Humor Detection: From Theoretical Foundations to Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1390.v1>) | N/A | N/A |
+| 2026 | Reliability in Emotion Classification, Sentiment Analysis, and AI-Generated Text Detection: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2665.v1>) | N/A | N/A |
 | 2026 | A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models | arXiv | [paper](<https://arxiv.org/abs/2606.25380>) | N/A | [0](<https://openalex.org/W7165905721>) |
 | 2026 | AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps | arXiv | [paper](<https://arxiv.org/abs/2606.06563>) | N/A | [3](<https://openalex.org/W7163918413>) |
 | 2026 | BhashaSutra: A Task-Centric Unified Survey of Indian NLP Datasets, Corpora, and Resources | ACL | [paper](<https://aclanthology.org/2026.acl-long.551>) | N/A | [2](<https://openalex.org/W7166874302>) |
 | 2026 | Multilingual Hate Speech Detection and Counterspeech Generation: A Comprehensive Survey and Practical Guide | arXiv | [paper](<https://arxiv.org/abs/2603.19279>) | N/A | [5](<https://openalex.org/W7140130835>) |
+| 2026 | Documenting Concordance: A Scoping Review of NLP and Text Mining in Oncology EHR Narratives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0751.v1>) | N/A | [0](<https://openalex.org/W7128644379>) |
 | 2026 | NLP-Based Review for Toxic Comment Detection Tailored to the Chinese Cyberspace | arXiv | [paper](<https://arxiv.org/abs/2601.14721>) | N/A | [2](<https://openalex.org/W7125414490>) |
+| 2026 | Cross-Lingual Transfer Learning in Large Language Models: Multilingual Representations and Low-Resource Adaptation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176799777.79169627/v1>) | N/A | N/A |
+| 2026 | Neural Machine Translation and Multilingual NLP: A Survey of Methods, Architectures, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0244.v1>) | N/A | [1](<https://openalex.org/W7118471204>) |
+| 2026 | An Overview of Recent Advances in Natural Language Processing for Information Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.2126.v1>) | N/A | [9](<https://openalex.org/W7125527579>) |
 | 2026 | NLP for Social Good: A Survey and Outlook of Challenges, Opportunities and Responsible Deployment | EACL | [paper](<https://aclanthology.org/2026.eacl-long.238>) | N/A | [6](<https://openalex.org/W4416048247>) |
 | 2026 | A Comprehensive Survey on Linguistic Steganography: Methods, Countermeasures, Evaluation, and Challenges | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1058>) | N/A | [2](<https://openalex.org/W7115721096>) |
 | 2026 | A Survey of Toxicity Mitigation Strategies for Multilingual Language Models | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1780>) | N/A | [0](<https://openalex.org/W7166819979>) |

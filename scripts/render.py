@@ -148,6 +148,12 @@ def render():
                 values = {**paper, **paper['_metrics']}
                 out.writerow({field: values.get(field) for field in fields})
     manifest = json.loads((ROOT/'data/manifest.json').read_text(encoding='utf-8'))
+    expansion_path = ROOT/'data/expansion-2026.json'
+    expansion = json.loads(expansion_path.read_text(encoding='utf-8')) if expansion_path.exists() else None
+    harvest_path = ROOT/'data/harvest-2026.json'
+    harvest = json.loads(harvest_path.read_text(encoding='utf-8')) if harvest_path.exists() else {}
+    zero_tech_months = [p['from'][:7] for p in harvest.get('sources',{}).get('techrxiv',{}).get('partitions',[])
+                        if p.get('expected_records') == 0]
     taxonomy = json.loads((ROOT/'data/taxonomy.json').read_text(encoding='utf-8'))
     by_category = collections.defaultdict(list)
     for p in papers: by_category[p['primary_category']].append(p)
@@ -220,6 +226,18 @@ def render():
                    str(starred) + ' 篇取得 GitHub Stars。[下载含统计的 CSV](data/surveys-with-metrics.csv)。' if zh else
                    '**Metric coverage:** citation counts for ' + format(cited, ',') + ' / ' + format(len(papers), ',') +
                    ' papers; GitHub Stars for ' + str(starred) + ' papers. [CSV with metrics](data/surveys-with-metrics.csv).'), '']
+        if expansion:
+            lines += [('**2026 年补漏：** 本轮新增 ' + str(expansion['net_added']) + ' 篇；接入 TechRxiv、Preprints.org 和 HF Daily Papers。'
+                       '[调查与覆盖报告](docs/EXPANSION_2026.md) · [完整发现索引](data/discovery-index/manifest.json) · [' +
+                       str(expansion['pending_unique_candidates']) + ' 组待复核候选](docs/EXTERNAL_PENDING_2026.md)。公开接口遍历完成不构成平台全量保证。' if zh else
+                       '**2026 expansion:** ' + str(expansion['net_added']) + ' added surveys from TechRxiv, Preprints.org and HF Daily Papers. '
+                       '[Coverage report](docs/EXPANSION_2026.md) · [Full discovery index](data/discovery-index/manifest.json) · [' +
+                       str(expansion['pending_unique_candidates']) + ' pending candidate groups](docs/EXTERNAL_PENDING_2026.md). API enumeration does not establish exhaustive platform coverage.'), '']
+            if zero_tech_months:
+                lines += [('**覆盖提示：** TechRxiv 登记查询在 '+ '、'.join(zero_tech_months) +
+                           ' 返回零条，不能据此认定这些月份没有论文。HF Daily Papers 是 arXiv 精选索引。' if zh else
+                           '**Coverage warning:** TechRxiv registry queries returned zero records for '+', '.join(zero_tech_months)+
+                           '; this does not establish that no papers were published. HF Daily Papers is a selected arXiv index.'), '']
         lines += ['## '+('分类导航' if zh else 'Contents'), '']
         for cat in taxonomy:
             label = cat['name_zh'] if zh else cat['name']
@@ -234,6 +252,7 @@ def render():
         lines += ['## '+('数据来源与方法' if zh else 'Sources & methodology'), '',
                   '- [PaperVault](https://github.com/youngfish42/PaperVault) / [Hugging Face dataset](https://huggingface.co/datasets/youngfish42/PaperVault): conference and journal metadata.',
                   '- Local arXiv 2024 / 2025 / 2026 CSV-derived snapshots: identifiers, titles, abstracts and category metadata used for screening; original raw files are not uploaded.',
+                  '- 2026 external metadata: TechRxiv / Preprints.org via Crossref with a DataCite check; Hugging Face Daily Papers via its official date/month API. [Coverage, limitations and audit files](docs/EXPANSION_2026.md).',
                   '- [Methodology, limitations and arXiv policy](docs/METHODOLOGY.md) · [Source manifest and checksums](data/manifest.json) · [Data schema](docs/DATA_SCHEMA.md).', '',
                   '## '+('维护与贡献' if zh else 'Maintenance & contributions'), '',
                   'See [CONTRIBUTING.md](CONTRIBUTING.md) for additions, corrections, screening overrides and offline rebuild commands. Generated views share one canonical JSONL catalog; edit source data or editorial overrides, then regenerate.', '',
@@ -245,7 +264,7 @@ def render():
               '| Metric | Count |', '| --- | ---: |']
     for key in ['source_records','screened_in_source_records','merged_duplicate_records','unresolved_classification_works','unique_surveys','cross_source_works','review_queue_records','with_code_links']:
         report.append('| '+key+' | '+str(manifest[key])+' |')
-    report += ['', '## Sources', '', '| Source | Records | Title candidates | Included source records | Pending type review | Excluded |', '| --- | ---: | ---: | ---: | ---: | ---: |']
+    report += ['', '## Sources', '', '| Source | Records | Review candidates | Included source records | Pending type review | Excluded |', '| --- | ---: | ---: | ---: | ---: | ---: |']
     for s in manifest['sources']:
         c=s['counts']; report.append('| '+s['id']+' | '+' | '.join(str(c.get(k,0)) for k in ['records','title_candidates','include','review','exclude'])+' |')
     report += ['', 'Counts of source records and counts of unique works differ. Cross-source duplicates are collapsed only when normalized titles, author evidence and compatible years agree. Pending rows are not counted as included surveys.', '',

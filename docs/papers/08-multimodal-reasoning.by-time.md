@@ -9,10 +9,12 @@
 
 [Multimodal Learning & Models](../categories/08-multimodal.by-time.md)
 
-**9 surveys · Page 1/1**
+**11 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Multimodal Reasoning, Agentic Systems, and Embedding Models: A Survey of Recent Advances | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0215.v1>) | N/A | N/A |
+| 2026 | Reasoning for Generation, Generation for Reasoning: A Survey of Unified Multimodal Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0138.v1>) | N/A | N/A |
 | 2026 | Toward Visual Grounding: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630635>) | [code](<https://github.com/linhuixiao/Awesome-Visual-Grounding>) | [80](<https://openalex.org/W4416011362>) ([⭐ 332](<https://github.com/linhuixiao/Awesome-Visual-Grounding>)) |
 | 2026 | Towards Unified Multimodal Large Language Models: A survey | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1853>) | N/A | [0](<https://openalex.org/W7166838875>) |
 | 2025 | Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1) | arXiv | [paper](<https://arxiv.org/abs/2504.03151>) | N/A | [26](<https://openalex.org/W4415976985>) |

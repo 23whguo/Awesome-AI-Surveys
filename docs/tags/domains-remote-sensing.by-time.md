@@ -9,17 +9,27 @@
 
 
 
-**103 surveys · Page 1/1**
+**113 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Data-Driven Vision-Language Models for Remote Sensing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.31304>) | N/A | [2](<https://openalex.org/W7164007915>) |
 | 2026 | The Gap Is in the Geometry: A Convergent Meta-Analysis of Multi-Facet Aerial and Remote Sensing Video Understanding | arXiv | [paper](<https://arxiv.org/abs/2610.19102>) | N/A | [0](<https://openalex.org/W7221914767>) |
+| 2026 | From 3D Scene Understanding to Hazard Forecasting: A Critical Review of Remote Sensing–Driven Emergency Digital Twins | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0926.v1>) | N/A | N/A |
 | 2026 | Multimodal Remote Sensing Image Registration: A Comprehensive Review, Challenges and Prospects | arXiv | [paper](<https://arxiv.org/abs/2610.11176>) | N/A | [0](<https://openalex.org/W7168837750>) |
+| 2026 | Earth Observation Foundation Models (EO-FMs): A Review of the Conditions for Transferable and Trustworthy Geospatial Representations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1563.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Agentic AI for Geospatial Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v2>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>) | [2](<https://openalex.org/W7202255257>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
+| 2026 | Adaptive Neural Networks for Remote Sensing Imagery: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0448.v1>) | N/A | N/A |
+| 2026 | Geospatial Artificial Intelligence in Precision Agriculture: A Systematic Review of Applications, Multimodal Data Integration, and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0386.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Coastal Resilience and Environmental Sustainability: A Review of Remote Sensing and Geospatial Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0260.v1>) | N/A | N/A |
+| 2026 | Advances in Multi-Scale Remote Sensing and Machine Learning for Canopy-to-Root Phenotyping of Drought Adaptation in Sorghum: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1083.v1>) | N/A | N/A |
 | 2026 | Learning-Based Spectrum Cartography in Low Earth Orbit Satellite Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2605.10359>) | N/A | [0](<https://openalex.org/W7160909113>) |
 | 2026 | Survey on Disaster Management Datasets for Remote Sensing Based Emergency Applications | arXiv | [paper](<https://arxiv.org/abs/2605.08196>) | N/A | [0](<https://openalex.org/W7160902364>) |
+| 2026 | From NDVI to Neural Networks: A Systematic Review of Satellite Remote Sensing Methods for Monitoring Vegetation Responses to Climate Change (2000–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1906.v2>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2395.v1>) | N/A | N/A |
 | 2026 | Survey on Remote Sensing Scene Classification: From Traditional Methods to Large Generative AI Models | arXiv | [paper](<https://arxiv.org/abs/2603.26751>) | N/A | [3](<https://openalex.org/W7140281874>) |
 | 2026 | Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects | arXiv | [paper](<https://arxiv.org/abs/2603.20289>) | [code](<https://github.com/VisionVerse/RemoteSensing-Restoration-Survey>) | [12](<https://openalex.org/W7138866539>) ([⭐ 242](<https://github.com/VisionVerse/RemoteSensing-Restoration-Survey>)) |
+| 2026 | UAV-Based Remote Sensing and Artificial Intelligence for Climate-Smart Agriculture: A Systematic Review of Technologies, Analytics, and Applications in Smallholder Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0355.v1>) | N/A | N/A |
 | 2026 | A High-Level Survey of Optical Remote Sensing | arXiv | [paper](<https://arxiv.org/abs/2602.17397>) | N/A | [0](<https://openalex.org/W7130726648>) |
 | 2026 | Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems | arXiv | [paper](<https://arxiv.org/abs/2601.01891>) | N/A | [10](<https://openalex.org/W7118283856>) |
 | 2025 | Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.22964>) | N/A | N/A |

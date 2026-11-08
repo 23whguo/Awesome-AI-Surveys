@@ -9,11 +9,15 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**30 surveys · Page 1/1**
+**34 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Comprehensive Survey of Federated Model Evolution in Open Environments | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0652.v1>) | N/A | N/A |
+| 2026 | Poisoning Attacks in Federated Learning: An Accountability-Oriented Survey with Centralized Learning as Baseline | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1674.v1>) | N/A | N/A |
 | 2026 | A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations | arXiv | [paper](<https://arxiv.org/abs/2604.24468>) | N/A | [1](<https://openalex.org/W7156964661>) |
+| 2026 | Federated Learning for Ophthalmic Imaging: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203265.53959182/v1>) | N/A | N/A |
+| 2026 | Federated Learning: A Survey of Core Challenges, Current Methods, and Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0271.v1>) | N/A | [15](<https://openalex.org/W7133255133>) |
 | 2025 | Federated Learning Survey: A Multi-Level Taxonomy of Aggregation Techniques, Experimental Insights, and Future Frontiers | arXiv | [paper](<https://arxiv.org/abs/2511.22616>) | N/A | [54](<https://openalex.org/W4400729590>) |
 | 2025 | Foundational Models and Federated Learning: Survey, Taxonomy, Challenges and Practical Insights | arXiv | [paper](<https://arxiv.org/abs/2509.05142>) | N/A | [12](<https://openalex.org/W4412150104>) |
 | 2025 | Quantum Federated Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.15998>) | N/A | [28](<https://openalex.org/W7115177649>) |

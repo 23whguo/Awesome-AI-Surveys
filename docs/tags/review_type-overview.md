@@ -9,7 +9,9 @@
 
 
 
-**110 surveys · Page 1/1**
+**299 surveys · Page 1/2**
+
+Pages: 1 · [2](review_type-overview-2.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -59,6 +61,7 @@
 | 2009 | Overview of the First Workshop on Medical Content-Based Retrieval for Clinical Decision Support at MICCAI 2009 | MICCAI | [paper](<https://doi.org/10.1007/978-3-642-11769-5_1>) | N/A | [21](<https://openalex.org/W1588607794>) |
 | 2025 | An overview of condensation phenomenon in deep learning | arXiv | [paper](<https://arxiv.org/abs/2504.09484>) | N/A | [20](<https://openalex.org/W4415157562>) |
 | 2024 | Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview | arXiv | [paper](<https://arxiv.org/abs/2403.19916>) | N/A | [18](<https://openalex.org/W4393238320>) |
+| 2026 | Organs-on-Chips in Drug Development: Engineering Foundations, Artificial Intelligence, and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0931.v1>) | N/A | [16](<https://openalex.org/W7134956925>) |
 | 2024 | Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human | arXiv | [paper](<https://arxiv.org/abs/2401.02620>) | N/A | [15](<https://openalex.org/W4390689983>) |
 | 2024 | Natural Language Generation for Visualizations: State of the Art, Challenges and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2409.19747>) | N/A | [13](<https://openalex.org/W4403896196>) |
 | 2025 | Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.01742>) | N/A | [12](<https://openalex.org/W4416083047>) |
@@ -70,6 +73,7 @@
 | 2025 | Agentic AI Systems in Electrical Power Systems Engineering: Current State-of-the-Art and Challenges | arXiv | [paper](<https://arxiv.org/abs/2511.14478>) | N/A | [11](<https://openalex.org/W4417210803>) |
 | 2024 | Spectropolarimetric Inversion in Four Dimensions with Deep Learning (SPIn4D): I. Overview, Magnetohydrodynamic Modeling, and Stokes Profile Synthesis | arXiv | [paper](<https://arxiv.org/abs/2407.20309>) | N/A | [11](<https://openalex.org/W4404701120>) |
 | 2021 | State of the Art of User Simulation Approaches for Conversational Information Retrieval | SIGIR | [paper](<https://ceur-ws.org/Vol-2911/paper5.pdf>) | N/A | [10](<https://openalex.org/W4221163114>) |
+| 2026 | An Overview of Recent Advances in Natural Language Processing for Information Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.2126.v1>) | N/A | [9](<https://openalex.org/W7125527579>) |
 | 2025 | Toward Goal-Oriented Communication in Multi-Agent Systems: An overview | arXiv | [paper](<https://arxiv.org/abs/2508.07720>) | N/A | [9](<https://openalex.org/W4416242768>) |
 | 2024 | A Brief Overview of Optimization-Based Algorithms for MRI Reconstruction Using Deep Learning | arXiv | [paper](<https://arxiv.org/abs/2406.02626>) | N/A | [9](<https://openalex.org/W4399425469>) |
 | 2024 | An Overview of Machine Learning-Enabled Optimization for Reconfigurable Intelligent Surfaces-Aided 6G Networks: From Reinforcement Learning to Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2405.17439>) | N/A | [9](<https://openalex.org/W4399151170>) |
@@ -81,12 +85,16 @@
 | 2024 | Robust Query Optimization in the Era of Machine Learning: State-of-the-Art and Future Directions | ICDE | [paper](<https://doi.org/10.1109/ICDE60146.2024.00408>) | N/A | [6](<https://openalex.org/W4400909774>) |
 | 2025 | LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions | arXiv | [paper](<https://arxiv.org/abs/2507.10620>) | N/A | [5](<https://openalex.org/W4415147919>) |
 | 2024 | Robustness and Exploration of Variational and Machine Learning Approaches to Inverse Problems: An Overview | arXiv | [paper](<https://arxiv.org/abs/2402.12072>) | N/A | [5](<https://openalex.org/W4401433760>) |
+| 2026 | From Prediction to Synthesis: Generative AI Architectures and Digital Twins for the Future of Vaccines and Immuno-Oncology | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2335.v1>) | N/A | [4](<https://openalex.org/W7127047419>) |
 | 2025 | Arabic Chatbot Technologies in Education: An Overview | arXiv | [paper](<https://arxiv.org/abs/2509.04066>) | N/A | [4](<https://openalex.org/W4409324412>) |
 | 2024 | State-of-the-art Advances of Deep-learning Linguistic Steganalysis Research | arXiv | [paper](<https://arxiv.org/abs/2409.01780>) | N/A | [4](<https://openalex.org/W4406459973>) |
 | 2024 | Vertex Cover of Networks and Its Related Optimization Problems: An Overview | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3495836>) | N/A | [4](<https://openalex.org/W4405022882>) |
 | 2026 | Managing Diabetic Retinopathy with Deep Learning: A Data Centric Overview | arXiv | [paper](<https://arxiv.org/abs/2604.02448>) | N/A | [3](<https://openalex.org/W7171372268>) |
 | 2026 | Natural Language Interfaces for Spatial and Temporal Databases: A Comprehensive Overview of Methods, Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.23375>) | N/A | [3](<https://openalex.org/W7155206520>) |
 | 2026 | Synthetic Data Generation for Brain-Computer Interfaces: Overview, Benchmarking, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12296>) | [code](<https://github.com/wzwvv/DG4BCI>) | [3](<https://openalex.org/W7137229372>) ([⭐ 11](<https://github.com/wzwvv/DG4BCI>)) |
+| 2026 | Healthcare Providers' Perspectives on Generative Artificial Intelligence (GenAI) Adoption, Adaptation, Assimilation, and Use in the United States | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1298.v1>) | N/A | [3](<https://openalex.org/W7138992613>) |
+| 2026 | Machine Learning for Outdoor Thermal Comfort Assessment and Optimization: Methods, Applications and Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0159.v1>) | N/A | [3](<https://openalex.org/W7134042519>) |
+| 2026 | AI–Driven Design of Miniproteins as Potential Allosteric Modulators | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1184.v1>) | N/A | [3](<https://openalex.org/W7137179880>) |
 | 2025 | Image Segmentation with transformers: An Overview, Challenges and Future | arXiv | [paper](<https://arxiv.org/abs/2501.09372>) | N/A | [3](<https://openalex.org/W4406548537>) |
 | 2024 | An Overview of the Burer-Monteiro Method for Certifiable Robot Perception | arXiv | [paper](<https://arxiv.org/abs/2410.00117>) | N/A | [3](<https://openalex.org/W4403818406>) |
 | 2024 | Spatio-Temporal Graphical Counterfactuals: An Overview | arXiv | [paper](<https://arxiv.org/abs/2407.01875>) | N/A | [3](<https://openalex.org/W4400373853>) |
@@ -94,11 +102,16 @@
 | 2024 | Overview of Dialogue Robot Competition 2023 | arXiv | [paper](<https://arxiv.org/abs/2401.03547>) | N/A | [3](<https://openalex.org/W4390722508>) |
 | 2019 | Detection of Methane and Heavy Hydrocarbon Gases in the Infrared Range Using Hyperspectral Airborne Remote Sensing: an Overview | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8900556>) | N/A | [3](<https://openalex.org/W2986098632>) |
 | 2012 | Overview of large scale optimization for discriminative training in speech recognition | ICASSP | [paper](<https://doi.org/10.1109/ICASSP.2012.6289100>) | N/A | [3](<https://openalex.org/W2097530511>) |
+| 2026 | Artificial Intelligence and Oral Cancer Diagnosis: Current Evidence, Critical Limitations, and the Basic Science Priorities Essential for Improving Diagnostic Accuracy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1934.v1>) | N/A | [2](<https://openalex.org/W7133235467>) |
+| 2026 | Application of Machine Learning and Data Science in Heavy Metal Remediation: Advances, Challenges, and Future Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1893.v1>) | N/A | [2](<https://openalex.org/W7131884603>) |
+| 2026 | Deep Learning Architectures for Multi-Omics Data Integration: Bridging Biomarker Discovery and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1884.v1>) | N/A | [2](<https://openalex.org/W7125712164>) |
 | 2025 | An overview of neural architectures for self-supervised audio representation learning from masked spectrograms | arXiv | [paper](<https://arxiv.org/abs/2509.18691>) | N/A | [2](<https://openalex.org/W4416258447>) |
 | 2024 | Synergizing Machine Learning with ACOPF: A Comprehensive Overview | arXiv | [paper](<https://arxiv.org/abs/2406.10428>) | N/A | [2](<https://openalex.org/W4399794203>) |
 | 2004 | Robust speech recognition over packet networks: an overview | INTERSPEECH | [paper](<https://doi.org/10.21437/Interspeech.2004-255>) | N/A | [2](<https://openalex.org/W1504923964>) |
+| 2026 | Artificial Intelligence and Academic Honesty: Challenges in the Digital Classroom | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.2041.v1>) | N/A | [1](<https://openalex.org/W7133190960>) |
 | 2026 | Sample Size Calculations for Developing Clinical Prediction Models: Overview and pmsims R package | arXiv | [paper](<https://arxiv.org/abs/2602.23507>) | N/A | [1](<https://openalex.org/W7133227365>) |
 | 2026 | Responsible AI for General-Purpose Systems: Overview, Challenges, and A Path Forward | arXiv | [paper](<https://arxiv.org/abs/2601.13122>) | N/A | [1](<https://openalex.org/W7125114437>) |
+| 2026 | Genetics and AI-Driven Sportomics: Empowering Parents and Coaches in Guiding Athletic Performance Enhancement | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0529.v1>) | N/A | [1](<https://openalex.org/W7119530770>) |
 | 2025 | Natural Language Generation from Visual Events: State-of-the-Art and Key Open Questions | arXiv | [paper](<https://arxiv.org/abs/2502.13034>) | N/A | [1](<https://openalex.org/W4407760028>) |
 | 2024 | PubTrend: General Overview of Artificial Intelligence for Colorectal cancer diagnosis from 2010-2022 | arXiv | [paper](<https://arxiv.org/abs/2407.06223>) | N/A | [1](<https://openalex.org/W4400518582>) |
 | 2026 | Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems | arXiv | [paper](<https://arxiv.org/abs/2611.08461>) | N/A | [0](<https://openalex.org/W7225422230>) |
@@ -107,19 +120,100 @@
 | 2026 | Semantics of Subterfuge: Benchmarking Legal Deception Detection Against General-domain State-of-the-Art | arXiv | [paper](<https://arxiv.org/abs/2607.29066>) | N/A | [0](<https://openalex.org/W7172250072>) |
 | 2026 | Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2607.00604>) | N/A | [0](<https://openalex.org/W7167053759>) |
 | 2026 | Explainable AI for Next-Generation Wireless Physical Layer: Basics, State-of-the-Art, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2606.24424>) | N/A | [0](<https://openalex.org/W7165733380>) |
+| 2026 | Biologically Anchored Digital Biomarkers and Artificial Intelligence for Precision Autism Medicine | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.2021.v1>) | N/A | [0](<https://openalex.org/W7133204124>) |
+| 2026 | Targeting p53 Dysfunction in Hepatocellular Carcinoma: Translational Barriers and Opportunities for AI-Driven Precision Medicine | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1888.v1>) | N/A | [0](<https://openalex.org/W7131883768>) |
+| 2026 | The Application of AI in Drug Discovery and Early Development: Impact and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2255.v1>) | N/A | [0](<https://openalex.org/W7126065751>) |
 | 2026 | A comprehensive overview of deep learning models for object detection from videos/images | arXiv | [paper](<https://arxiv.org/abs/2601.14677>) | N/A | [0](<https://openalex.org/W7125390985>) |
 | 2026 | Conversational AI for Social Good (CAI4SG): An Overview of Emerging Trends, Applications, and Challenges | AAAI | [paper](<https://doi.org/10.1609/aaai.v40i48.42131>) | N/A | [0](<https://openalex.org/W7139057689>) |
 | 2026 | Adversarial Defense in Vision-Language Models: An Overview | arXiv | [paper](<https://arxiv.org/abs/2601.12443>) | N/A | [0](<https://openalex.org/W7125259256>) |
+| 2026 | Machine Learning Applications in Sensor-Based Infrastructure Monitoring | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0594.v1>) | N/A | [0](<https://openalex.org/W7119480008>) |
 | 2025 | Improving the State of the Art for Training Human-AI Teams: Technical Report #5 -- Individual Differences and Team Qualities to Measure in a Human-AI Teaming Testbed | arXiv | [paper](<https://arxiv.org/abs/2507.18878>) | N/A | [0](<https://openalex.org/W4417262899>) |
 | 2025 | Operational Change Detection for Geographical Information: Overview and Challenges | arXiv | [paper](<https://arxiv.org/abs/2503.14109>) | N/A | [0](<https://openalex.org/W7157113371>) |
 | 2024 | Overview of the Main Activities of Hyperhealth Project - Results of Hyperspectral Prisma Data Exploitation | IGARSS | [paper](<https://doi.org/10.1109/IGARSS53475.2024.10641467>) | N/A | [0](<https://openalex.org/W4402261167>) |
 | 2021 | An Overview of the Contributions of Jose Manuel Bioucas-Dias to Remote Sensing Image Processing | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9554718>) | N/A | [0](<https://openalex.org/W3206509027>) |
-| 2025 | Neuro-Symbolic AI for Cybersecurity: State of the Art, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2509.06921>) | N/A | N/A |
-| 2025 | Overview of the NTCIR-18 Automatic Evaluation of LLMs (AEOLLM) Task | arXiv | [paper](<https://arxiv.org/abs/2503.13038>) | N/A | N/A |
-| 2025 | State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications | arXiv | [paper](<https://arxiv.org/abs/2501.07855>) | N/A | N/A |
-| 2024 | Towards A Structured Overview of Use Cases for Natural Language Processing in the Legal Domain: A German Perspective | arXiv | [paper](<https://arxiv.org/abs/2404.18759>) | N/A | N/A |
-| 2024 | An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization | arXiv | [paper](<https://arxiv.org/abs/2404.07771>) | N/A | N/A |
-| 2024 | Intelligent Condition Monitoring of Industrial Plants: An Overview of Methodologies and Uncertainty Management Strategies | arXiv | [paper](<https://arxiv.org/abs/2401.10266>) | N/A | N/A |
-| 2017 | Recommender systems for e-governance in smart cities: state of the art and research opportunities | RECSYS | [paper](<https://doi.org/10.1145/3127325.3128331>) | N/A | N/A |
-| 2015 | Music Retrieval and Recommendation: A Tutorial Overview | SIGIR | [paper](<https://doi.org/10.1145/2766462.2767880>) | N/A | N/A |
-| 2012 | Peer-to-Peer Information Retrieval: An Overview | TOIS | [paper](<https://doi.org/10.1145/2180868.2180871>) | N/A | N/A |
+| 2026 | Transfer Learning for Quality Optimization in Laser and Electron Beam Powder Bed Fusion (PBF-LB/EB) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0449.v1>) | N/A | N/A |
+| 2026 | Deep Learning Approaches for Financial Time Series Change Detection: Algorithms and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0295.v1>) | N/A | N/A |
+| 2026 | Integrating Imaging and Clinical Information With Artificial Intelligence When Data Are Missing or Uncertain | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0417.v1>) | N/A | N/A |
+| 2026 | When, Where, and How Experience Becomes Structure: Mechanisms for Recursive Self-Improvement in LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0261.v1>) | N/A | N/A |
+| 2026 | Modernising Humanity, Endangering Life: Artificial Intelligence, Nuclear Technology and Converging Pathways to the Next Mass Extinction | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0119.v1>) | N/A | N/A |
+| 2026 | Quantum Machine Learning for Anomaly Detection: Algorithms, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2472.v1>) | N/A | N/A |
+| 2026 | Bridging AI-Assisted Cancer Screening and Public Health Surveillance: Evidence and Challenges in the Philippines (2020–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2250.v1>) | N/A | N/A |
+| 2026 | EEG Biomarkers for Neurodegenerative Diseases: Machine Learning Applications and Clinical Trial Insights | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2249.v1>) | N/A | N/A |
+| 2026 | A Systematic View on AI-Based Code Generation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1999.v1>) | N/A | N/A |
+| 2026 | Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use | arXiv | [paper](<https://arxiv.org/abs/2610.30108>) | [code](<https://github.com/showlab/Awesome-Multimodal-Embodied-Agent>) | N/A ([⭐ 289](<https://github.com/showlab/Awesome-Multimodal-Embodied-Agent>)) |
+| 2026 | Artificial Intelligence and Machine Learning in Composite Manufacturing: Recent Advances, Emerging Trends, Digital Twins, and Future Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1865.v1>) | N/A | N/A |
+| 2026 | Open Boxing of AI Systems: Activation-Based Interpretability for AI Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1867.v1>) | N/A | N/A |
+| 2026 | AI-Enabled Leadership and Digital Governance in African Sport Organizations: Lessons for Institutional Transformation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1513.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Machine Learning in Stem Cell Bioprocessing: From Monitoring to Autonomous Manufacturing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1488.v1>) | N/A | N/A |
+| 2026 | Raman Spectroscopy, Machine Learning and Pancreatic Tumors | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1317.v1>) | N/A | N/A |
+| 2026 | Agentic Embodied AI for Human–Robot Collaboration: Architectures, Technologies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1213.v1>) | N/A | N/A |
+| 2026 | AI-Driven One Health Surveillance for Zoonotic Risk Mitigation: Insights from TBE and CCHF | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1021.v1>) | N/A | N/A |
+| 2026 | Dissecting Deception in Large Language Models: Mechanisms, Behaviours, and Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0808.v1>) | N/A | N/A |
+| 2026 | An Overview of Knowledge-Based System: History, Advances and Challenges in the Era of Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0633.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning in the Software Development Lifecycle: Methods, Applications, and Reward Design | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0764.v1>) | N/A | N/A |
+| 2026 | Towards In-Parameter Memory Augmentation for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2610.08630>) | [code](<https://github.com/HKUST-KnowComp/Awesome-In-Parameter-Memory>) | N/A ([⭐ 8](<https://github.com/HKUST-KnowComp/Awesome-In-Parameter-Memory>)) |
+| 2026 | Pretrained on Animals, Deployed on Plants: Why RNA Foundation Models Have Not Decoded Plant Regulation or Genome Editing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0255.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Health Time Series: Physiological Signals, Clinical Records, and Epidemic Dynamics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0067.v1>) | N/A | N/A |
+| 2026 | Integrating Artificial Intelligence into Multi-Hazard Early Warning Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2356.v1>) | N/A | N/A |
+| 2026 | Harness-Aware Evaluation of LLM Agents: Systems, Benchmarks, and Protocols | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2140.v1>) | N/A | N/A |
+| 2026 | Microscopy and Image Processing Techniques Using Artificial Intelligence for the Analysis of the Impact of Corrosion in Pipelines in the Oil and Gas Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2196.v1>) | N/A | N/A |
+| 2026 | Atomic-Level Design and Circular Recycling of Lithium-Ion Battery Materials: Advances in Regeneration, Upcycling, and AI-Driven Technologies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2062.v1>) | N/A | N/A |
+| 2026 | Predicting Root Colonization by Plant Growth-Promoting Rhizobacteria: Opportunities and Limits of Deep Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2061.v1>) | N/A | N/A |
+| 2026 | AI-Driven Digital Forensics: Capabilities, Limitations, and Research Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1806.v1>) | N/A | N/A |
+| 2026 | Application of Large Language Models for Design and Monitoring Geotechnical Infrastructure in the Crosshairs of Climate Change Induced Extreme Weather Events | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1809.v1>) | N/A | N/A |
+| 2026 | Large Language Models in Medical Decision Making from Clinical Answers to Living Evidence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1821.v2>) | N/A | N/A |
+| 2026 | How Can Artificial Intelligence Accelerate the In Silico Screening of Metal-Organic Frameworks? | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1707.v1>) | N/A | N/A |
+| 2026 | Securing Local-Area Networks in AI Supercomputing Data Centers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1533.v1>) | N/A | N/A |
+| 2026 | Revolutionizing Vaccine Distribution and Surveillance in Cameroon Through Artificial Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1505.v1>) | N/A | N/A |
+| 2026 | Deepfake Detection Beyond Benchmark Accuracy: Generalization, Robustness, and Reproducibility | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1394.v1>) | N/A | N/A |
+| 2026 | Recent Advancements in Electronic Nose Systems and AI-Driven Diagnostics for Cancer Volatilomics: Current Status and Clinical Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1158.v1>) | N/A | N/A |
+| 2026 | Beyond Static AI: Continual Learning Approaches for Long-Term Adaptation of Medical Imaging Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1301.v2>) | N/A | N/A |
+| 2026 | Organizing Intelligence Over Time: Human–AI Collaboration as Joint Cognitive Development | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1092.v1>) | N/A | N/A |
+| 2026 | Beyond Visual Generation: Frontiers, Challenges, and Future Directions in Agentic Visual Creation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0682.v1>) | [code](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>) | N/A ([⭐ 21](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>)) |
+| 2026 | Artificial Intelligence in Preclinical Orofacial Pain Research: From Experimental Phenotyping to Multimodal Mechanistic Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0555.v1>) | N/A | N/A |
+| 2026 | RAG in Self-Regulated Personalised Learning in Digital Education | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0598.v1>) | N/A | N/A |
+| 2026 | World Models: Predictive State, Generative Simulation, and Decision-Making Across Artificial Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0639.v1>) | N/A | N/A |
+| 2026 | Large Language Models in Oncology: A Paradigm Shift from Discriminative Pattern Recognition to Generative Clinical Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0010.v1>) | N/A | N/A |
+| 2026 | Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2608.28122>) | [code](<https://github.com/GeminiLight/awesome-agentic-artifact-creation>) | N/A ([⭐ 29](<https://github.com/GeminiLight/awesome-agentic-artifact-creation>)) |
+| 2026 | Designing High-Entropy Alloys: From Physical Metallurgy to Machine Learning Enabled Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1952.v1>) | N/A | N/A |
+| 2026 | Navigating the Eukaryotic Paradox: Cross-Kingdom Insights for AI-Driven Clinical Repurposing Strategies Against Antifungal Resistance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1880.v1>) | N/A | N/A |
+| 2026 | AI-Driven Predictive Modelling for Food Shelf-Life Estimation and Spoilage Detection: Progress, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1652.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Automated Recognition of Hepatocystic Anatomy During Laparoscopic Cholecystectomy: Current Evidence, Clinical Readiness, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1241.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence–Guided Extracellular Vesicle Platforms for Diagnosis and Treatment of Chronic Kidney Disease: Current Evidence and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1140.v1>) | N/A | N/A |
+| 2026 | The Landscape of Single-Cell Foundation Models: Design Principles, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1166.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Multi-Omics Integration in the Precision Management of Pulmonary Hypertension: From Early Diagnosis to Therapeutic Stratification | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0986.v1>) | N/A | N/A |
+| 2026 | Fuzzing AI Systems: Foundations, Techniques, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0874.v1>) | N/A | N/A |
+| 2026 | AI-Driven CRISPR Design: Methods, Tools, Applications and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0824.v1>) | N/A | N/A |
+| 2026 | Light-Assisted Computer Vision for Non-Destructive Assessment of Meat Quality: Intramuscular Fat and Freshness Estimation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0519.v1>) | N/A | N/A |
+| 2026 | Putting the I in AML: Artificial Intelligence and Machine Learning in Acute Myeloid Leukemia | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0252.v1>) | N/A | N/A |
+| 2026 | Self-Evolving Coding Agents | arXiv | [paper](<https://arxiv.org/abs/2608.03392>) | [code](<https://github.com/zhouhao1024/Awesome-Self-Evolving-Coding-Agents>) | N/A ([⭐ 152](<https://github.com/iSEngLab/Awesome-Self-Evolving-Coding-Agents>)) |
+| 2026 | Smart Textiles for Circular Wearable Systems: Architecture, Energy Harvesting, AI Integration, and Manufacturing Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0196.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Mineral Exploration: Methods, Foundation Models, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2303.v1>) | N/A | N/A |
+| 2026 | Memory for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2607.25380>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Radiology: Why Retrospective Performance Does Not Ensure Clinical Utility | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1803.v1>) | N/A | N/A |
+| 2026 | The Evolution of Deep Learning: From Perceptrons to Generative Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1764.v1>) | N/A | N/A |
+| 2026 | AI-Enabled Digital Twins in Healthcare: Epistemic Foundations, Principles, Progress, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1469.v1>) | N/A | N/A |
+| 2026 | Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2607.19011>) | N/A | N/A |
+| 2026 | AI-Driven Cell-Fate Prediction in Microscopy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1414.v1>) | N/A | N/A |
+| 2026 | Adversarial Learning in the Quantum Era: Attack Surfaces Evolution from Traditional ML to Agentic AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1256.v1>) | N/A | N/A |
+| 2026 | Continual Learning in Medical Imaging: Methods, Foundation Models, Challenges, and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1301.v1>) | N/A | N/A |
+| 2026 | AI-Driven Approaches for the Detection, Classification, and Surveillance of Viral Pathogens: Current Advances, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1157.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Liver Transplantation: Clinical Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1048.v1>) | N/A | N/A |
+| 2026 | Defense Against Adversarial Attacks: Foundations, Strategies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1022.v1>) | N/A | N/A |
+| 2026 | Neuroproteomics and Artificial Intelligence in Neurological Disorders: Current Advances in Biomarker Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0683.v1>) | N/A | N/A |
+| 2026 | Toward Clinically Translatable Nanorobots for Cancer: Advances in Design Principles, Navigation Control, AI-Enabled Autonomy, and Post-Treatment Removal Strategies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0432.v1>) | N/A | N/A |
+| 2026 | Global Impacts of Artificial General Intelligence and Artificial Superintelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0329.v1>) | N/A | N/A |
+| 2026 | The Ferrofluidic Liquid Metal Revolution: Breaking the 10 kW/cm 2 Thermal Wall with Electromagnetically Actuated Jet Impingement for AI Chips and EV Inverters | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0256.v1>) | N/A | N/A |
+| 2026 | Beyond the Black Box – A New Vector for Explainable AI Through Comparative Analysis of Logical Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2162.v1>) | N/A | N/A |
+| 2026 | The Use of Artificial Intelligence (AI) for the Early Detection of Postoperative Complications in Cardiothoracic Surgery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1960.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Predicting Colloidal Stability and Aggregation Risk in Biopharmaceutical Formulations: Current Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1717.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Across the Medical Education Continuum: Institutional, Learning, and Readiness and Safety Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1599.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Obstetrics: Current Trends and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1633.v1>) | N/A | N/A |
+| 2026 | Continual Test-Time Adaptation in Computer Vision: Methods, Benchmarks, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1578.v2>) | [code](<https://github.com/sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation>) | N/A ([⭐ 26](<https://github.com/sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation>)) |
+| 2026 | Artificial Intelligence in Biosensor Systems for Healthcare: From Molecular Recognition to Machine Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1459.v1>) | N/A | N/A |
+| 2026 | What Matters: Datasets or Robust Frameworks in Modern Robot Learning? | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1149.v1>) | N/A | N/A |
+| 2026 | Not Just One Agent: LLM-Based Multi-Agent Systems for Medicine from Answer Generation to Accountable Workflow Orchestration | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0640.v2>) | N/A | N/A |
+| 2026 | Prospects for AI Design Strategies in Developing High-Performance Additive Manufactured Components Using High-Entropy Alloy Powder Blends and Pre-Alloyed Powders: An Overview | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0714.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Nanopharmaceutical Development: From Predictive Design to Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0518.v1>) | N/A | N/A |
+
+Pages: 1 · [2](review_type-overview-2.md)

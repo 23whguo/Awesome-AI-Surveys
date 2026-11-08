@@ -9,10 +9,14 @@
 
 [Data & Data-Centric AI](../categories/03-data.by-time.md)
 
-**18 surveys · Page 1/1**
+**22 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Synthetic Data in a Data-Intensive World: A Literature Review to Address an Application-Driven Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0152.v1>) | N/A | N/A |
+| 2026 | Metadata-Based Methods to Generate Synthetic Health Data: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1328.v1>) | N/A | N/A |
+| 2026 | A Survey on Data Generation for Time Series: Taxonomy, Review and Prospects | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0725.v1>) | N/A | N/A |
+| 2026 | Synthetic Data Beyond Generative Models: A Comprehensive Survey of How, Why, and Where | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948131.18075248/v1>) | N/A | N/A |
 | 2025 | A Comprehensive Survey of Synthetic Tabular Data Generation | arXiv | [paper](<https://arxiv.org/abs/2504.16506>) | N/A | [53](<https://openalex.org/W4415065917>) |
 | 2025 | Data Augmentation of Time-Series Data in Human Movement Biomechanics: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2504.03334>) | N/A | [30](<https://openalex.org/W4411866203>) |
 | 2025 | Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2503.11411>) | N/A | [27](<https://openalex.org/W4417285558>) |

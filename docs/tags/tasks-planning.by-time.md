@@ -9,11 +9,16 @@
 
 
 
-**18 surveys · Page 1/1**
+**23 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Review of Ship Path Planning for Autonomous Navigation: From Model-Driven Methods to Deep Reinforcement Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1541.v1>) | N/A | N/A |
 | 2026 | GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1815>) | N/A | [0](<https://openalex.org/W7166883585>) |
+| 2026 | Optimisation Techniques for Multi‐Robot Path Planning: A Review of Collision Avoidance and Performance Metrics in Connectivity, Efficiency and Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0316.v1>) | N/A | N/A |
+| 2026 | Hybrid Reconstruction in Head and Neck Surgery: Integration of Virtual Planning, Navigation, and Robotic Microsurgery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1247.v1>) | N/A | N/A |
+| 2026 | Explainable and Safe Learning-Based Autonomous Driving: A Survey from Modular to End-to-End Planning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177084714.46890967/v1>) | N/A | N/A |
+| 2026 | A Survey on Thinking in Visual Generation: Reasoning, Planning, and Cognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964121.13450493/v1>) | N/A | N/A |
 | 2025 | Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2512.00021>) | [code](<https://github.com/fiveai/FMs-for-driving-trajectories>) | [2](<https://openalex.org/W4416931993>) ([⭐ 52](<https://github.com/fiveai/FMs-for-driving-trajectories>)) |
 | 2025 | Integrating Legal and Logical Specifications in Perception, Prediction, and Planning for Automated Driving: A Survey of Methods | arXiv | [paper](<https://arxiv.org/abs/2510.25386>) | N/A | [1](<https://openalex.org/W4416184313>) |
 | 2025 | Large language model-based task planning for service robots: A review | arXiv | [paper](<https://arxiv.org/abs/2510.23357>) | N/A | [20](<https://openalex.org/W7126223959>) |

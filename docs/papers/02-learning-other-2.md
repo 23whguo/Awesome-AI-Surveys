@@ -9,7 +9,7 @@
 
 [Learning Theory & Methods](../categories/02-learning.md)
 
-**295 surveys · Page 2/2**
+**333 surveys · Page 2/2**
 
 Pages: [1](02-learning-other.md) · 2
 
@@ -21,6 +21,7 @@ Pages: [1](02-learning-other.md) · 2
 | 2025 | Survey of Deep Learning and Physics-Based Approaches in Computational Wave Imaging | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2026.3684003>) | N/A | [7](<https://openalex.org/W7155494485>) |
 | 2024 | Challenges, Methods, Data -- a Survey of Machine Learning in Water Distribution Networks | arXiv | [paper](<https://arxiv.org/abs/2410.12461>) | N/A | [7](<https://openalex.org/W4402798882>) |
 | 2024 | An Investigation into the Performances of the State-of-the-art Machine Learning Approaches for Various Cyber-attack Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.17045>) | N/A | [7](<https://openalex.org/W4392270780>) |
+| 2026 | Lightweight Deep Learning Models for Face Mask Detection in Real-Time Edge Environments: A Review and Future Research Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0505.v1>) | N/A | [6](<https://openalex.org/W7154466628>) |
 | 2025 | From 2D to 3D, Deep Learning-based Shape Reconstruction in Magnetic Resonance Imaging: A Review | arXiv | [paper](<https://arxiv.org/abs/2510.01296>) | N/A | [6](<https://openalex.org/W4414815231>) |
 | 2025 | Machine Learning Applications Related to Suicide in Military and Veterans: A Scoping Literature Review | arXiv | [paper](<https://arxiv.org/abs/2505.12220>) | N/A | [6](<https://openalex.org/W4410334808>) |
 | 2025 | A Survey of Machine Learning Models and Datasets for the Multi-label Classification of Textual Hate Speech in English | arXiv | [paper](<https://arxiv.org/abs/2504.08609>) | N/A | [6](<https://openalex.org/W4414829273>) |
@@ -51,6 +52,9 @@ Pages: [1](02-learning-other.md) · 2
 | 2025 | Negative Dependence as a toolbox for machine learning : review and new developments | arXiv | [paper](<https://arxiv.org/abs/2502.07285>) | N/A | [3](<https://openalex.org/W4407424287>) |
 | 2024 | Detecting Student Disengagement in Online Classes Using Deep Learning: A Review | arXiv | [paper](<https://arxiv.org/abs/2411.10464>) | N/A | [3](<https://openalex.org/W4404569816>) |
 | 2026 | From Simulation to Deep Learning: Survey on Network Performance Modeling Approaches | arXiv | [paper](<https://arxiv.org/abs/2603.28394>) | N/A | [2](<https://openalex.org/W7140284560>) |
+| 2026 | A Review for Domain Adapted Continual Deep Learning Remaining Useful Life Estimation for Bearing Fault Prognosis Under Evolving Data Distributions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0102.v1>) | N/A | [2](<https://openalex.org/W7151957088>) |
+| 2026 | Application of Machine Learning and Data Science in Heavy Metal Remediation: Advances, Challenges, and Future Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1893.v1>) | N/A | [2](<https://openalex.org/W7131884603>) |
+| 2026 | Artificial Intelligence and Machine Learning in Pharmacovigilance: A Systematic Review of Models for Drug Safety in Polypharmacy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0477.v1>) | N/A | [2](<https://openalex.org/W7128365332>) |
 | 2025 | A Systematic Literature Review of Machine Learning Techniques for Observational Constraints in Cosmology | arXiv | [paper](<https://arxiv.org/abs/2510.09876>) | N/A | [2](<https://openalex.org/W4415008391>) |
 | 2025 | Machine Learning in Near-Field Communication for 6G: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.16723>) | N/A | [2](<https://openalex.org/W4414744666>) |
 | 2025 | 200,000+ Deep Learning-inferred Periods of Stellar Variability from the All-Sky Automated Survey for Supernovae | arXiv | [paper](<https://arxiv.org/abs/2509.14423>) | N/A | [2](<https://openalex.org/W4417081042>) |
@@ -70,6 +74,7 @@ Pages: [1](02-learning-other.md) · 2
 | 2026 | A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Work | arXiv | [paper](<https://arxiv.org/abs/2604.06363>) | N/A | [1](<https://openalex.org/W7148588649>) |
 | 2026 | Advanced Machine Learning and Deep Learning Techniques for Enhanced Cattle Identification and Detection: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2606.15655>) | N/A | [1](<https://openalex.org/W7160697656>) |
 | 2026 | A Scoping Review of Deep Learning for Urban Visual Pollution and Proposal of a Real-Time Monitoring Framework with a Visual Pollution Index | arXiv | [paper](<https://arxiv.org/abs/2602.09446>) | N/A | [1](<https://openalex.org/W7128631594>) |
+| 2026 | Application of Machine Learning Techniques for Prediction of Soil Water Characteristics Curve: A State of the Art Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0792.v1>) | N/A | [1](<https://openalex.org/W7128504723>) |
 | 2025 | A Survey On Secure Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2505.15124>) | N/A | [1](<https://openalex.org/W4415328514>) |
 | 2024 | Trends, Challenges, and Future Directions in Deep Learning for Glaucoma: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2411.05876>) | N/A | [1](<https://openalex.org/W4404390554>) |
 | 2024 | Modified least squares method and a review of its applications in machine learning and fractional differential/integral equations | arXiv | [paper](<https://arxiv.org/abs/2405.00382>) | N/A | [1](<https://openalex.org/W7127596348>) |
@@ -87,11 +92,44 @@ Pages: [1](02-learning-other.md) · 2
 | 2026 | Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective | arXiv | [paper](<https://arxiv.org/abs/2604.22462>) | N/A | [0](<https://openalex.org/W7166709451>) |
 | 2026 | Results of the analysis of a survey for young scientists on training quality in HEP instrumentation software and machine learning | arXiv | [paper](<https://arxiv.org/abs/2603.16293>) | N/A | [0](<https://openalex.org/W7138912366>) |
 | 2026 | Chalcogen Impurity Barriers in 2D Systems via Semi-Empirical/Machine Learning Modeling: A Survey over 4000 Materials | arXiv | [paper](<https://arxiv.org/abs/2602.22978>) | N/A | [0](<https://openalex.org/W7169760853>) |
+| 2026 | From Mendelian Inheritance to Machine Learning: The Evolution of Genetic Improvement in Rabbits: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0013.v1>) | N/A | [0](<https://openalex.org/W7127411164>) |
+| 2026 | Machine Learning Applications in Sensor-Based Infrastructure Monitoring | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0594.v1>) | N/A | [0](<https://openalex.org/W7119480008>) |
 | 2025 | A Review of Statistical and Machine Learning Approaches for Coral Bleaching Assessment | arXiv | [paper](<https://arxiv.org/abs/2511.12234>) | N/A | [0](<https://openalex.org/W4416354419>) |
 | 2025 | Data-Driven Review and Machine Learning Prediction of Diamond Vacancy Center Synthesis | arXiv | [paper](<https://arxiv.org/abs/2507.02808>) | N/A | [0](<https://openalex.org/W7124288795>) |
 | 2025 | Survey of Active Learning Hyperparameters: Insights from a Large-Scale Experimental Grid | arXiv | [paper](<https://arxiv.org/abs/2506.03817>) | N/A | [0](<https://openalex.org/W7140116172>) |
 | 2025 | Recent Deep Learning in Crowd Behaviour Analysis: A Brief Review | arXiv | [paper](<https://arxiv.org/abs/2505.18401>) | N/A | [0](<https://openalex.org/W7117976690>) |
 | 2024 | Meta-Analysis of Rain Nowcasting Using Machine Learning and Non-Machine Learning Models | IGARSS | [paper](<https://doi.org/10.1109/IGARSS53475.2024.10642675>) | N/A | [0](<https://openalex.org/W4402261876>) |
+| 2026 | Machine Learning for the Design of Foundations on Rock Masses: A Critical Review of Data, Validation and Evidence Gaps | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2356.v1>) | N/A | N/A |
+| 2026 | Sustainability Objectives in Polymer Machine Learning: A Critical Review of Integration, Reliability, and Evidence Gaps | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2359.v1>) | N/A | N/A |
+| 2026 | Machine Learning Meets Blockchain: A Domain-Oriented Review of Integration Mechanisms, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2187.v1>) | N/A | N/A |
+| 2026 | Raman Spectroscopy, Machine Learning and Pancreatic Tumors | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1317.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Childhood Obesity Risk Prediction: A Critical Review of Design and Validation Practices, with a Translational Framework for Peruvian Schoolchildren | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0292.v1>) | N/A | N/A |
+| 2026 | AT(N)-Anchored Multimodal Deep Learning for Alzheimer’s Staging: A Taxonomy and Continuous Burden Index for Low-Resource Settings | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2240.v1>) | N/A | N/A |
+| 2026 | Predicting Root Colonization by Plant Growth-Promoting Rhizobacteria: Opportunities and Limits of Deep Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2061.v1>) | N/A | N/A |
+| 2026 | Machine Learning and Postoperative Pain: A 2026 Critical Narrative Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1948.v1>) | N/A | N/A |
+| 2026 | Designing High-Entropy Alloys: From Physical Metallurgy to Machine Learning Enabled Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1952.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Predicting Delayed Graft Function and Graft Survival After Kidney Transplantation: A Systematic Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1335.v1>) | N/A | N/A |
+| 2026 | Talking Face Generation in Socio-Technical Systems: A Systematic Review of Deep Learning Architectures, Deployment Contexts, and Governance Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1135.v1>) | N/A | N/A |
+| 2026 | A Review of the Anatomical Basis of Facial Aging and Deep Learning-Based Recognition Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0843.v1>) | N/A | N/A |
+| 2026 | Putting the I in AML: Artificial Intelligence and Machine Learning in Acute Myeloid Leukemia | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0252.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Tabular Anomaly Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1125.v1>) | N/A | N/A |
+| 2026 | Machine Learning-Based Kubernetes Autoscaling: A Comprehensive Review of HPA, VPA, Cluster Autoscaler, and KEDA Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0944.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Predicting Colloidal Stability and Aggregation Risk in Biopharmaceutical Formulations: Current Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1717.v1>) | N/A | N/A |
+| 2026 | A Critical Review of Recent Advances in Deep Learning and Machine Learning Models for Cognitive Load Assessment Using Eye-Tracking Technology | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1188.v1>) | N/A | N/A |
+| 2026 | Kubernetes Autoscaling: A Comprehensive Review on Machine Learning Techniques | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1094.v1>) | N/A | N/A |
+| 2026 | Application of Machine Learning Methodologies in Unmanned Aerial Vehicles: A Survey and Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0455.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Heatwave Prediction: A Global Scoping Review of Environmental Predictors and Modelling Practices | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1485.v1>) | N/A | N/A |
+| 2026 | Image-Based Air Quality Estimation with Deep Learning: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2212.v1>) | N/A | N/A |
+| 2026 | PZT-Based Guided Wave Structural Health Monitoring: A Review of Signal Processing, Machine Learning, and Hybrid Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1930.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Machine Learning Approaches for ECG-Based Detection of Dysglycemia and Their Translational Readiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1806.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Automatic Modulation Classification: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0446.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Machine Learning for Economic Crisis Prediction and Early Warning: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2380.v1>) | N/A | N/A |
+| 2026 | Genotype × Environment Interaction Analysis in Plant Breeding: Integrating Contemporary Machine Learning Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1584.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Automated Intracranial Hemorrhage Detection in CT Imaging: A Narrative Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1484.v1>) | N/A | N/A |
+| 2026 | Cavitation Monitoring in Rotating Hydraulic Machines Using Machine Learning - A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1027.v1>) | N/A | N/A |
+| 2026 | Continual Anomaly Detection: A Comprehensive Survey and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1931.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Review on Graph-Based Anomaly Detection: Approaches for Intrusion Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1466.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Predicting Cardiac Procedure Outcomes: a Scoping Review of Recent Advance | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176800927.72032896/v1>) | N/A | N/A |
 | 2025 | Observational constraints on the origin of the elements. X. Combining NLTE and machine learning for chemical diagnostics of 4 million stars in the 4MIDABLE-HR survey | arXiv | [paper](<https://arxiv.org/abs/2512.15888>) | N/A | N/A |
 | 2025 | Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets | arXiv | [paper](<https://arxiv.org/abs/2508.10256>) | [code](<https://github.com/nantonzhang/Awesome-Crack-Detection>) | N/A ([⭐ 94](<https://github.com/nantonzhang/Awesome-Crack-Detection>)) |
 | 2025 | A Comparative Survey of PyTorch vs TensorFlow for Deep Learning: Usability, Performance, and Deployment Trade-offs | arXiv | [paper](<https://arxiv.org/abs/2508.04035>) | N/A | N/A |

@@ -9,7 +9,7 @@
 
 
 
-**240 surveys · Page 1/2**
+**301 surveys · Page 1/2**
 
 Pages: 1 · [2](tasks-evaluation-2.md)
 
@@ -180,6 +180,9 @@ Pages: 1 · [2](tasks-evaluation-2.md)
 | 2026 | Toward Robust, Reproducible, and Widely Accessible Intracranial Speech Brain-Computer Interfaces: A Comprehensive Narrative Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12279>) | N/A | [3](<https://openalex.org/W7222837109>) |
 | 2026 | Benchmarking Federated Learning in Edge Computing Environments: A Systematic Review and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2603.08735>) | N/A | [3](<https://openalex.org/W7133323550>) |
 | 2026 | A Survey of Code Review Benchmarks and Evaluation Practices in Pre-LLM and LLM Era | arXiv | [paper](<https://arxiv.org/abs/2602.13377>) | N/A | [3](<https://openalex.org/W7129701496>) |
+| 2026 | Vision–Language Foundation Models and Multimodal Large Language Models: A Comprehensive Survey of Architectures, Benchmarks, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0467.v1>) | N/A | [3](<https://openalex.org/W7128545496>) |
+| 2026 | Machine Learning for Outdoor Thermal Comfort Assessment and Optimization: Methods, Applications and Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0159.v1>) | N/A | [3](<https://openalex.org/W7134042519>) |
+| 2026 | Temporal Adversarial Attacks on Time Series and Reinforcement Learning Systems: A Systematic Survey, Taxonomy, and Benchmarking Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0598.v1>) | N/A | [3](<https://openalex.org/W7119479467>) |
 | 2025 | Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.13638>) | N/A | [3](<https://openalex.org/W4415276846>) |
 | 2025 | Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI | arXiv | [paper](<https://arxiv.org/abs/2507.09702>) | N/A | [3](<https://openalex.org/W4416799654>) |
 | 2025 | Trustworthy Medical Question Answering: An Evaluation-Centric Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1398>) | N/A | [3](<https://openalex.org/W4416073431>) |
@@ -212,8 +215,5 @@ Pages: 1 · [2](tasks-evaluation-2.md)
 | 2026 | Overview of the NTCIR-19 Automatic Evaluation of LLMs 2 (AEOLLM-2) Task | arXiv | [paper](<https://arxiv.org/abs/2610.11598>) | N/A | [0](<https://openalex.org/W7221136966>) |
 | 2026 | Machine learning for journal entry testing: A type-aware evaluation of anomaly detectors under a review budget | arXiv | [paper](<https://arxiv.org/abs/2610.06133>) | N/A | [0](<https://openalex.org/W7220746434>) |
 | 2026 | Breaking the Illusion of Review Reliability under Static Evaluation: SCOPE Fuzzing for LLM-based Scientific Reviewers | arXiv | [paper](<https://arxiv.org/abs/2609.37097>) | N/A | [0](<https://openalex.org/W7214919881>) |
-| 2026 | Data Processing for Offline Evaluation in Recommender Systems: a Survey | arXiv | [paper](<https://arxiv.org/abs/2609.31696>) | N/A | [0](<https://openalex.org/W7214796331>) |
-| 2026 | Benchmarking Dexterity of Multifingered Robot Hands: A Review and Perspective | arXiv | [paper](<https://arxiv.org/abs/2609.05585>) | N/A | [0](<https://openalex.org/W7212060226>) |
-| 2026 | From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance | arXiv | [paper](<https://arxiv.org/abs/2609.04286>) | N/A | [0](<https://openalex.org/W7211894716>) |
 
 Pages: 1 · [2](tasks-evaluation-2.md)

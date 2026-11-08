@@ -9,7 +9,7 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.md)
 
-**14 surveys · Page 1/1**
+**15 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -27,3 +27,4 @@
 | 2024 | Deep Learning-based Approaches for State Space Models: A Selective Review | arXiv | [paper](<https://arxiv.org/abs/2412.11211>) | N/A | [7](<https://openalex.org/W4405469890>) |
 | 2024 | Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning | arXiv | [paper](<https://arxiv.org/abs/2412.18322>) | N/A | [4](<https://openalex.org/W4405783984>) |
 | 2025 | A Survey of Recursive and Recurrent Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2510.17867>) | N/A | [1](<https://openalex.org/W4416054656>) |
+| 2026 | LSTM vs. Transformer Models in Power Forecasting: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0624.v1>) | N/A | N/A |

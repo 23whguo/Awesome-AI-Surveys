@@ -9,7 +9,7 @@
 
 [Efficient AI & Machine Learning Systems](../categories/16-systems.md)
 
-**5 surveys · Page 1/1**
+**6 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -18,3 +18,4 @@
 | 2023 | A Comprehensive Survey on Distributed Training of Graph Neural Networks | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2023.3337442>) | N/A | [70](<https://openalex.org/W4389495241>) |
 | 2024 | Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2404.06114>) | N/A | [35](<https://openalex.org/W4394709322>) |
 | 2022 | Survey on Efficient Training of Large Neural Networks | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/769>) | N/A | [12](<https://openalex.org/W4223990029>) |
+| 2026 | Label Augmentation in Machine Learning: Data-Efficient Training, Semi-Supervised Learning, and Model Generalization | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784495.51275250/v1>) | N/A | N/A |

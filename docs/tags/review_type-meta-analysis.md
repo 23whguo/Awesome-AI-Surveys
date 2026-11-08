@@ -9,7 +9,7 @@
 
 
 
-**53 surveys · Page 1/1**
+**63 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -58,6 +58,16 @@
 | 2026 | LLAMA LIMA: A Living Meta-Analysis on the Effects of Generative AI on Learning Mathematics | arXiv | [paper](<https://arxiv.org/abs/2601.18685>) | N/A | [0](<https://openalex.org/W7125778508>) |
 | 2025 | WMAP: An R Package for Causal Meta-Analysis by Integrating Multiple Observational Studies | arXiv | [paper](<https://arxiv.org/abs/2501.01041>) | N/A | [0](<https://openalex.org/W4406032973>) |
 | 2024 | Meta-Analysis of Rain Nowcasting Using Machine Learning and Non-Machine Learning Models | IGARSS | [paper](<https://doi.org/10.1109/IGARSS53475.2024.10642675>) | N/A | [0](<https://openalex.org/W4402261876>) |
+| 2026 | Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1404.v1>) | N/A | N/A |
+| 2026 | Wind Power Forecasting Architectures in Complex Terrain and Coastal Environments: A Systematic Review and Meta-Analysis of Comparative Performance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0967.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Predicting Delayed Graft Function and Graft Survival After Kidney Transplantation: A Systematic Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1335.v1>) | N/A | N/A |
+| 2026 | Preoperative Assessment of HER2 Status in Gastric Cancer Using Radiomics and Machine Learning: A Systematic Review and Diagnostic Accuracy Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0828.v1>) | N/A | N/A |
+| 2026 | Generative AI Acceptance in Higher Education: A Meta-Analysis and Meta-Analytic Structural Equation Model of the 2026 PLS-SEM Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2015.v1>) | N/A | N/A |
+| 2026 | AI/ML-Integrated Nutritional and Metabolic Multi-Omics in Cancer: A Systematic Review, Meta-Analysis, and Proposed Translational Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2006.v1>) | N/A | N/A |
+| 2026 | Robotic-Assisted, Video-Assisted, and Open Sleeve Lobectomy After Neoadjuvant Therapy for Non-Small Cell Lung Cancer: A Systematic Review and Network Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0957.v1>) | N/A | N/A |
+| 2026 | Generative AI in Cybersecurity: A Systematic Literature Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0324.v1>) | N/A | N/A |
+| 2026 | Evaluating the Predictive Accuracy of Deep Learning Algorithms for Postoperative Mortality in Cardiac Surgery: A Systematic Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2465.v1>) | N/A | N/A |
+| 2026 | Precision-Guided Surgery for Hilar Cholangiocarcinoma: A Network Meta-Analysis of Robotic, Laparoscopic, and Open Resection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2463.v1>) | N/A | N/A |
 | 2025 | Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2510.16973>) | N/A | N/A |
 | 2025 | A Meta-Analysis of LLM Effects on Students across Qualification, Socialisation, and Subjectification | arXiv | [paper](<https://arxiv.org/abs/2509.22725>) | N/A | N/A |
 | 2025 | A meta-analysis on the performance of machine-learning based language models for sentiment analysis | arXiv | [paper](<https://arxiv.org/abs/2509.09728>) | N/A | N/A |

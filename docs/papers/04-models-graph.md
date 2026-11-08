@@ -9,7 +9,7 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.md)
 
-**25 surveys · Page 1/1**
+**26 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -38,3 +38,4 @@
 | 2024 | Review of blockchain application with Graph Neural Networks, Graph Convolutional Networks and Convolutional Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2410.00875>) | N/A | [10](<https://openalex.org/W4404333909>) |
 | 2024 | A Survey on Structure-Preserving Graph Transformers | arXiv | [paper](<https://arxiv.org/abs/2401.16176>) | N/A | [9](<https://openalex.org/W4391376854>) |
 | 2025 | Graph Neural Networks for Source Detection: A Review and Benchmark Study | arXiv | [paper](<https://arxiv.org/abs/2512.20657>) | N/A | [2](<https://openalex.org/W7117298457>) |
+| 2026 | Graph Neural Networks for Spatial Transcriptomics: A Review of Graph Design and Downstream Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2240.v1>) | N/A | N/A |

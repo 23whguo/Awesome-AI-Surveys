@@ -9,12 +9,50 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**295 surveys · Page 2/2**
+**333 surveys · Page 2/2**
 
 Pages: [1](02-learning-other.by-time.md) · 2
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2024 | A Comprehensive Review of Emerging Approaches in Machine Learning for De Novo PROTAC Design | arXiv | [paper](<https://arxiv.org/abs/2406.16681>) | N/A | [32](<https://openalex.org/W4402926321>) |
+| 2024 | Machine Learning Applications of Quantum Computing: A Review | arXiv | [paper](<https://arxiv.org/abs/2406.13262>) | N/A | [45](<https://openalex.org/W4399912630>) |
+| 2024 | Synergizing Machine Learning with ACOPF: A Comprehensive Overview | arXiv | [paper](<https://arxiv.org/abs/2406.10428>) | N/A | [2](<https://openalex.org/W4399794203>) |
+| 2024 | A Comprehensive Survey on Machine Learning Driven Material Defect Detection | arXiv | [paper](<https://arxiv.org/abs/2406.07880>) | N/A | [67](<https://openalex.org/W4409653166>) |
+| 2024 | Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.08115>) | N/A | [25](<https://openalex.org/W4399657463>) |
+| 2024 | Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting | arXiv | [paper](<https://arxiv.org/abs/2406.04867>) | N/A | [6](<https://openalex.org/W4399510920>) |
+| 2024 | Memorization in deep learning: A survey | arXiv | [paper](<https://arxiv.org/abs/2406.03880>) | N/A | [43](<https://openalex.org/W4414385814>) |
+| 2024 | A Structured Review of Literature on Uncertainty in Machine Learning &amp; Deep Learning | arXiv | [paper](<https://arxiv.org/abs/2406.00332>) | N/A | [32](<https://openalex.org/W4399355294>) |
+| 2024 | Applications of interpretable deep learning in neuroimaging: a comprehensive review | arXiv | [paper](<https://arxiv.org/abs/2406.17792>) | N/A | [32](<https://openalex.org/W4399662619>) |
+| 2024 | Video Anomaly Detection in 10 Years: A Survey and Outlook | arXiv | [paper](<https://arxiv.org/abs/2405.19387>) | N/A | [78](<https://openalex.org/W4414447489>) |
+| 2024 | Machine learning in business process management: A systematic literature review | arXiv | [paper](<https://arxiv.org/abs/2405.16396>) | N/A | [103](<https://openalex.org/W4398220997>) |
+| 2024 | Animal Behavior Analysis Methods Using Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.14002>) | N/A | [76](<https://openalex.org/W4410740802>) |
+| 2024 | Review of deep learning models for crypto price prediction: implementation and evaluation | arXiv | [paper](<https://arxiv.org/abs/2405.11431>) | N/A | [42](<https://openalex.org/W7135083528>) |
+| 2024 | Deep Learning in Earthquake Engineering: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2405.09021>) | N/A | [37](<https://openalex.org/W4414891249>) |
+| 2024 | Sensing technologies and machine learning methods for emotion recognition in autism: Systematic review | arXiv | [paper](<https://arxiv.org/abs/2407.04712>) | N/A | [34](<https://openalex.org/W4396607602>) |
+| 2024 | A review on machine learning for arterial extraction and quantitative assessment on invasive coronary angiograms | arXiv | [paper](<https://arxiv.org/abs/2405.08474>) | N/A | [4](<https://openalex.org/W4402692892>) |
+| 2024 | Searches for the BSM scenarios at the LHC using decision tree based machine learning algorithms: A comparative study and review of Random Forest, Adaboost, XGboost and LightGBM frameworks | arXiv | [paper](<https://arxiv.org/abs/2405.06040>) | N/A | [93](<https://openalex.org/W4402861781>) |
+| 2024 | A snapshot review on soft-materials assembly design utilizing machine learning methods | arXiv | [paper](<https://arxiv.org/abs/2405.03805>) | N/A | [6](<https://openalex.org/W4396609200>) |
+| 2024 | Machine Learning in Short-Reach Optical Systems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2405.09557>) | N/A | [19](<https://openalex.org/W4400235716>) |
+| 2024 | A Survey on Deep Active Learning: Recent Advances and New Frontiers | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3396463>) | N/A | [175](<https://openalex.org/W4398250170>) |
+| 2024 | Modified least squares method and a review of its applications in machine learning and fractional differential/integral equations | arXiv | [paper](<https://arxiv.org/abs/2405.00382>) | N/A | [1](<https://openalex.org/W7127596348>) |
+| 2024 | A Survey of Deep Learning Based Software Refactoring | arXiv | [paper](<https://arxiv.org/abs/2404.19226>) | N/A | [18](<https://openalex.org/W4396600468>) |
+| 2024 | Fast MRI Reconstruction Using Deep Learning-based Compressed Sensing: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2405.00241>) | [code](<https://github.com/mosaf/Awesome-DL-based-CS-MRI>) | N/A ([⭐ 115](<https://github.com/mosaf/Awesome-DL-based-CS-MRI>)) |
+| 2024 | Deep Learning for Accelerated and Robust MRI Reconstruction: a Review | arXiv | [paper](<https://arxiv.org/abs/2404.15692>) | N/A | [162](<https://openalex.org/W4400918887>) |
+| 2024 | Machine Learning Applied to the Detection of Mycotoxin in Food: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.15387>) | N/A | [61](<https://openalex.org/W4399582892>) |
+| 2024 | A survey of air combat behavior modeling using machine learning | arXiv | [paper](<https://arxiv.org/abs/2404.13954>) | N/A | N/A |
+| 2024 | I/O in Machine Learning Applications on HPC Systems: A 360-degree Survey | arXiv | [paper](<https://arxiv.org/abs/2404.10386>) | N/A | [20](<https://openalex.org/W4408232726>) |
+| 2024 | Field-Programmable Gate Array Architecture for Deep Learning: Survey &amp; Future Directions | arXiv | [paper](<https://arxiv.org/abs/2404.10076>) | N/A | [38](<https://openalex.org/W4415707388>) |
+| 2024 | An inclusive review on deep learning techniques and their scope in handwriting recognition | arXiv | [paper](<https://arxiv.org/abs/2404.08011>) | N/A | [5](<https://openalex.org/W4410783765>) |
+| 2024 | Lightweight Deep Learning for Resource-Constrained Environments: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.07236>) | N/A | [318](<https://openalex.org/W4396827044>) |
+| 2024 | Machine Learning and Data Analysis Using Posets: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.03082>) | N/A | N/A |
+| 2024 | Electrical and seismic refraction methods: fundamental concepts, current trends, and emerging machine learning prospects -- A review | arXiv | [paper](<https://arxiv.org/abs/2404.00813>) | N/A | [26](<https://openalex.org/W4412525583>) |
+| 2024 | Integrating behavior analysis with machine learning to predict online learning performance: A scientometric review and empirical study | arXiv | [paper](<https://arxiv.org/abs/2406.11847>) | N/A | [16](<https://openalex.org/W4399836685>) |
+| 2024 | Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review | arXiv | [paper](<https://arxiv.org/abs/2403.18565>) | N/A | [38](<https://openalex.org/W4390826396>) |
+| 2024 | A Survey on State-of-the-art Deep Learning Applications and Challenges | arXiv | [paper](<https://arxiv.org/abs/2403.17561>) | N/A | [102](<https://openalex.org/W4412474694>) |
+| 2024 | State of the art applications of deep learning within tracking and detecting marine debris: A survey | arXiv | [paper](<https://arxiv.org/abs/2403.18067>) | N/A | [9](<https://openalex.org/W4393299825>) |
+| 2024 | A Survey of Machine Learning for Estimating Workload: Considering Unknown Tasks | arXiv | [paper](<https://arxiv.org/abs/2403.13318>) | N/A | [2](<https://openalex.org/W7203875226>) |
+| 2024 | Geometric Constraints in Deep Learning Frameworks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2403.12431>) | N/A | [5](<https://openalex.org/W4409336177>) |
 | 2024 | Automated data processing and feature engineering for deep learning and big data applications: a survey | arXiv | [paper](<https://arxiv.org/abs/2403.11395>) | N/A | [221](<https://openalex.org/W4390667445>) |
 | 2024 | A Short Survey on Importance Weighting for Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2403.10175>) | N/A | [16](<https://openalex.org/W4392930061>) |
 | 2024 | When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.07834>) | N/A | [15](<https://openalex.org/W4392781419>) |

@@ -9,9 +9,9 @@
 
 
 
-**369 surveys · Page 2/2**
+**441 surveys · Page 2/3**
 
-Pages: [1](tasks-generation.md) · 2
+Pages: [1](tasks-generation.md) · 2 · [3](tasks-generation-3.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -57,6 +57,7 @@ Pages: [1](tasks-generation.md) · 2
 | 2024 | A Survey of Data Synthesis Approaches | arXiv | [paper](<https://arxiv.org/abs/2407.03672>) | N/A | [10](<https://openalex.org/W4400433945>) |
 | 2024 | A Survey of Transformer Enabled Time Series Synthesis | arXiv | [paper](<https://arxiv.org/abs/2406.02322>) | N/A | [10](<https://openalex.org/W4406417749>) |
 | 2026 | Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.26169>) | N/A | [9](<https://openalex.org/W4408852068>) |
+| 2026 | Generative AI to Foster Computational Thinking in Initial Teacher Education: A Thematic Literature Review and Model | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1017.v1>) | N/A | [9](<https://openalex.org/W7154054932>) |
 | 2025 | Generative AI for Software Project Management: Insights from a Review of Software Practitioner Literature | arXiv | [paper](<https://arxiv.org/abs/2510.10887>) | N/A | [9](<https://openalex.org/W4415124229>) |
 | 2025 | Aesthetic Experience and Educational Value in Co-creating Art with Generative AI: Evidence from a Survey of Young Learners | arXiv | [paper](<https://arxiv.org/abs/2509.10576>) | N/A | [9](<https://openalex.org/W4415090446>) |
 | 2024 | How Could Generative AI Support Compliance with the EU AI Act? A Review for Safe Automated Driving Perception | arXiv | [paper](<https://arxiv.org/abs/2408.17222>) | N/A | [9](<https://openalex.org/W4408793724>) |
@@ -92,6 +93,7 @@ Pages: [1](tasks-generation.md) · 2
 | 2024 | Gender Bias Evaluation in Text-to-image Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.11358>) | N/A | [5](<https://openalex.org/W4405426004>) |
 | 2024 | Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives | arXiv | [paper](<https://arxiv.org/abs/2406.06475>) | N/A | [5](<https://openalex.org/W4399554424>) |
 | 2026 | Towards Secure Retrieval-Augmented Generation: A Comprehensive Review of Threats, Defenses and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2603.21654>) | N/A | [4](<https://openalex.org/W7140221703>) |
+| 2026 | From Prediction to Synthesis: Generative AI Architectures and Digital Twins for the Future of Vaccines and Immuno-Oncology | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2335.v1>) | N/A | [4](<https://openalex.org/W7127047419>) |
 | 2025 | Generative Model Predictive Control in Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2511.17865>) | N/A | [4](<https://openalex.org/W7158825654>) |
 | 2025 | ARISE: Agentic Rubric-Guided Iterative Survey Engine for Automated Scholarly Paper Generation | arXiv | [paper](<https://arxiv.org/abs/2511.17689>) | [code](<https://github.com/ziwang11112/ARISE>) | [4](<https://openalex.org/W7106713569>) ([⭐ 6](<https://github.com/ziwang11112/ARISE>)) |
 | 2025 | Conditional Diffusion Models for CT Image Synthesis from CBCT: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2509.17790>) | N/A | [4](<https://openalex.org/W4415255187>) |
@@ -104,6 +106,7 @@ Pages: [1](tasks-generation.md) · 2
 | 2026 | Survey on Remote Sensing Scene Classification: From Traditional Methods to Large Generative AI Models | arXiv | [paper](<https://arxiv.org/abs/2603.26751>) | N/A | [3](<https://openalex.org/W7140281874>) |
 | 2026 | Synthetic Data Generation for Brain-Computer Interfaces: Overview, Benchmarking, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12296>) | [code](<https://github.com/wzwvv/DG4BCI>) | [3](<https://openalex.org/W7137229372>) ([⭐ 11](<https://github.com/wzwvv/DG4BCI>)) |
 | 2026 | LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review | arXiv | [paper](<https://arxiv.org/abs/2604.16321>) | N/A | [3](<https://openalex.org/W7155104881>) |
+| 2026 | Healthcare Providers' Perspectives on Generative Artificial Intelligence (GenAI) Adoption, Adaptation, Assimilation, and Use in the United States | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1298.v1>) | N/A | [3](<https://openalex.org/W7138992613>) |
 | 2026 | Interaction Methods in Generative AI Image Tools: A Review of Trends and Design Opportunities Across HCI and Industry | CHI | [paper](<https://doi.org/10.1145/3772318.3790307>) | N/A | [3](<https://openalex.org/W7141655515>) |
 | 2025 | Advancements in Chinese font generation since deep learning era: A survey | arXiv | [paper](<https://arxiv.org/abs/2508.06900>) | N/A | [3](<https://openalex.org/W4416210068>) |
 | 2025 | Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects | arXiv | [paper](<https://arxiv.org/abs/2506.16893>) | N/A | [3](<https://openalex.org/W4417539389>) |
@@ -123,11 +126,11 @@ Pages: [1](tasks-generation.md) · 2
 | 2024 | The Era of Foundation Models in Medical Imaging is Approaching : A Scoping Review of the Clinical Value of Large-Scale Generative AI Applications in Radiology | arXiv | [paper](<https://arxiv.org/abs/2409.12973>) | N/A | [2](<https://openalex.org/W4403713524>) |
 | 2026 | IP Protection in the Era of Visual Generative AI: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.14730>) | N/A | [1](<https://openalex.org/W7203690993>) |
 | 2026 | Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2607.01305>) | N/A | [1](<https://openalex.org/W7167265271>) |
-| 2026 | Generative AI and Digital Ecosystem Resilience: A Proactive Lifecycle-Based Survey | arXiv | [paper](<https://arxiv.org/abs/2606.00136>) | N/A | [1](<https://openalex.org/W7163543149>) |
 | 2026 | Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review | arXiv | [paper](<https://arxiv.org/abs/2605.21903>) | N/A | [1](<https://openalex.org/W7162070289>) |
 | 2026 | 3D Generation for Embodied AI and Robotic Simulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2604.26509>) | N/A | [1](<https://openalex.org/W7158681643>) |
 | 2026 | A systematic review of generative AI usage for IT project management | arXiv | [paper](<https://arxiv.org/abs/2604.21958>) | N/A | [1](<https://openalex.org/W7156037011>) |
 | 2026 | Energy-Efficient Code Generation Using Large Language Models: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2603.00989>) | N/A | [1](<https://openalex.org/W7133294268>) |
+| 2026 | Generative AI and Digital Ecosystem Resilience: A Proactive Lifecycle-Based Survey | arXiv | [paper](<https://arxiv.org/abs/2606.00136>) | N/A | [1](<https://openalex.org/W7163543149>) |
 | 2026 | Constraining Generative Models: A Survey from the Constraint Programming Perspective | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/864>) | N/A | [1](<https://openalex.org/W7213412384>) |
 | 2026 | Looking at Radiology Report Generation through a Causal Lens: A Survey | ACL | [paper](<https://aclanthology.org/2026.acl-long.186>) | N/A | [1](<https://openalex.org/W7117573307>) |
 | 2026 | Test-Time Scaling in Multimodal Foundation Models: A Comprehensive Survey of Generation and Reasoning | ACL | [paper](<https://aclanthology.org/2026.findings-acl.383>) | N/A | [1](<https://openalex.org/W7166816453>) |
@@ -150,6 +153,8 @@ Pages: [1](tasks-generation.md) · 2
 | 2026 | Comprehensive Review of Advances and Challenges in Next Generation Wireless Networks: From Novel Hardware Technologies to Learning Based Resource Allocation in 6G | arXiv | [paper](<https://arxiv.org/abs/2605.08951>) | N/A | [0](<https://openalex.org/W7160948615>) |
 | 2026 | Electroencephalography and Electromyography as a Non-Invasive Biomarker of Neural Regeneration: A Review of Central and Peripheral Nervous System Injury and Regeneration | arXiv | [paper](<https://arxiv.org/abs/2605.01767>) | N/A | [0](<https://openalex.org/W7160256484>) |
 | 2026 | Is it Cake or is it AI? A Systematic Review of Human Uncertainty in Distinguishing Generative Artificial Intelligence Content | arXiv | [paper](<https://arxiv.org/abs/2604.03437>) | N/A | [0](<https://openalex.org/W7151479837>) |
+| 2026 | Critical Review of Neural Network Generations and Models Design | Preprints.org | [paper](<https://doi.org/10.20944/preprints202309.1149.v3>) | N/A | [0](<https://openalex.org/W7140043031>) |
+| 2026 | Next-Generation Liver Surgery: Integrating Artificial Intelligence, Robotics, and Nanotechnology, A Narrative Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1961.v1>) | N/A | [0](<https://openalex.org/W7125968310>) |
 | 2026 | LLAMA LIMA: A Living Meta-Analysis on the Effects of Generative AI on Learning Mathematics | arXiv | [paper](<https://arxiv.org/abs/2601.18685>) | N/A | [0](<https://openalex.org/W7125778508>) |
 | 2026 | A Systematic Review of Analogy Generation and Evaluation: Methods, Metrics, and Challenges | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.463>) | N/A | [0](<https://openalex.org/W7224516224>) |
 | 2025 | A Review on Domain Adaption and Generative Adversarial Networks(GANs) | arXiv | [paper](<https://arxiv.org/abs/2510.12075>) | N/A | [0](<https://openalex.org/W4415261835>) |
@@ -157,32 +162,58 @@ Pages: [1](tasks-generation.md) · 2
 | 2025 | Data-Driven Review and Machine Learning Prediction of Diamond Vacancy Center Synthesis | arXiv | [paper](<https://arxiv.org/abs/2507.02808>) | N/A | [0](<https://openalex.org/W7124288795>) |
 | 2024 | The Problem of Social Cost in Multi-Agent General Reinforcement Learning: Survey and Synthesis | arXiv | [paper](<https://arxiv.org/abs/2412.02091>) | N/A | [0](<https://openalex.org/W4405037371>) |
 | 2024 | Unlocking Fair Use in the Generative AI Supply Chain: A Systematized Literature Review | arXiv | [paper](<https://arxiv.org/abs/2408.00613>) | N/A | [0](<https://openalex.org/W4401307488>) |
-| 2025 | A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2510.12444>) | N/A | N/A |
-| 2025 | Large Language Models for Next-Generation Wireless Network Management: A Survey and Tutorial | arXiv | [paper](<https://arxiv.org/abs/2509.05946>) | N/A | N/A |
-| 2025 | Generative Model Unlearning: A Survey through Target Events, Unlearning Operators, and Evaluation Protocols | arXiv | [paper](<https://arxiv.org/abs/2507.19894>) | [code](<https://github.com/caxLee/GenMU-Survey>) | N/A ([⭐ N/A](<https://github.com/caxlee/genmu-survey>)) |
-| 2025 | Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems | arXiv | [paper](<https://arxiv.org/abs/2507.21157>) | N/A | N/A |
-| 2025 | From Time-series Generation, Model Selection to Transfer Learning: A Comparative Review of Pixel-wise Approaches for Large-scale Crop Mapping | arXiv | [paper](<https://arxiv.org/abs/2507.12590>) | N/A | N/A |
-| 2025 | SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation | USS | [paper](<https://www.usenix.org/conference/usenixsecurity25/presentation/chung-yunsung>) | N/A | N/A |
-| 2025 | A Comprehensive Survey on Network Traffic Synthesis: From Statistical Models to Deep Learning | arXiv | [paper](<https://arxiv.org/abs/2507.01976>) | N/A | N/A |
-| 2025 | Fashion Industry in the Age of Generative Artificial Intelligence and Metaverse: A systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.17141>) | N/A | N/A |
-| 2025 | Generative AI and Creativity: A Systematic Literature Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2505.17241>) | N/A | N/A |
-| 2025 | Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.00210>) | N/A | N/A |
-| 2025 | Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2504.19056>) | [code](<https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey>) | N/A ([⭐ 82](<https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey>)) |
-| 2025 | Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.14891>) | N/A | N/A |
-| 2025 | Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook | arXiv | [paper](<https://arxiv.org/abs/2503.18016>) | N/A | N/A |
-| 2025 | A Survey on Knowledge-Oriented Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2503.10677>) | N/A | N/A |
-| 2025 | Generative AI in Transportation Planning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.07158>) | N/A | N/A |
-| 2025 | A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval | arXiv | [paper](<https://arxiv.org/abs/2503.05659>) | [code](<https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search>) | N/A ([⭐ 129](<https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search>)) |
-| 2025 | A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2503.05954>) | N/A | N/A |
-| 2025 | A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images | arXiv | [paper](<https://arxiv.org/abs/2502.21151>) | N/A | N/A |
-| 2025 | Privacy-Preserving Generative Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.03668>) | N/A | N/A |
-| 2025 | A Survey of Generative Information Extraction | COLING | [paper](<https://aclanthology.org/2025.coling-main.324>) | N/A | N/A |
-| 2024 | A survey of probabilistic generative frameworks for molecular simulations | arXiv | [paper](<https://arxiv.org/abs/2411.09388>) | N/A | N/A |
-| 2024 | Generative AI and Agency in Education: A Critical Scoping Review and Thematic Analysis | arXiv | [paper](<https://arxiv.org/abs/2411.00631>) | N/A | N/A |
-| 2024 | Survey of User Interface Design and Interaction Techniques in Generative AI Applications | arXiv | [paper](<https://arxiv.org/abs/2410.22370>) | N/A | N/A |
-| 2024 | Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations | arXiv | [paper](<https://arxiv.org/abs/2408.04380>) | N/A | N/A |
-| 2024 | Next-Generation Database Interfaces: A Survey of LLM-Based Text-to-SQL | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3609486>) | [code](<https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL>) | N/A ([⭐ 1,380](<https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL>)) |
-| 2024 | An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization | arXiv | [paper](<https://arxiv.org/abs/2404.07771>) | N/A | N/A |
-| 2024 | Data-driven Camera and Lidar Simulation Models for Autonomous Driving: A Review from Generative Models to Volume Renderers | arXiv | [paper](<https://arxiv.org/abs/2402.10079>) | N/A | N/A |
+| 2026 | Generative AI and Cognitive Processes in Education: A Narrative Review and Conceptual Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0452.v1>) | N/A | N/A |
+| 2026 | Reasoning for Generation, Generation for Reasoning: A Survey of Unified Multimodal Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0138.v1>) | N/A | N/A |
+| 2026 | A Tutorial on Generative Models for Music Audio | arXiv | [paper](<https://arxiv.org/abs/2610.38252>) | N/A | N/A |
+| 2026 | Creative Assignments and Who Gets Left Behind: A Systematic Review of Inclusion Readiness in Generative AI Teaching Practices in Business and Technology Higher Education | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2780.v1>) | N/A | N/A |
+| 2026 | Visual Generative AI for Extended Reality: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2630.v1>) | N/A | N/A |
+| 2026 | From Generative AI Capability to Business Value: A Critical Review of Verification Complements and Value Capture | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2554.v1>) | N/A | N/A |
+| 2026 | From Plan Generation to Reliable Execution: An Architecture-Centric Survey of Embodied Long-Horizon LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2483.v1>) | N/A | N/A |
+| 2026 | Large Video Generative Models: A Systematic Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2442.v1>) | N/A | N/A |
+| 2026 | EEG Biomarkers for Neurodegenerative Diseases: Machine Learning Applications and Clinical Trial Insights | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2249.v1>) | N/A | N/A |
+| 2026 | A Systematic View on AI-Based Code Generation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1999.v1>) | N/A | N/A |
+| 2026 | Towards Next-Generation Architectures of Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1532.v1>) | N/A | N/A |
+| 2026 | Agentic AIGC: A Survey of Visual Generation Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0173.v2>) | N/A | N/A |
+| 2026 | Generative AI in Construction Safety: A Systematic Literature Review of Methods, Evidence, Deployment Gaps, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1503.v1>) | N/A | N/A |
+| 2026 | Assessment in the Age of Generative AI: Academic Integrity, Authentic Learning and Assessment Design in Tanzanian Universities — A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1376.v1>) | N/A | N/A |
+| 2026 | Neural Question Generation: A Survey of Techniques, Question Types, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0399.v1>) | N/A | N/A |
+| 2026 | Atomic-Level Design and Circular Recycling of Lithium-Ion Battery Materials: Advances in Regeneration, Upcycling, and AI-Driven Technologies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2062.v1>) | N/A | N/A |
+| 2026 | Beyond Utility Evaluation for LLM-Based and Generative Recommender Systems: A Focused Survey of Offline Protocols | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1653.v1>) | N/A | N/A |
+| 2026 | Generative AI-Based Virtual Hand Skin Tone and Nail Art Color Harmony: An Integrative Review Toward Personalized Nail Color Selection Guidelines | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1667.v1>) | N/A | N/A |
+| 2026 | Generative Recommendation in Dynamic Catalogs: A Survey of Item Admission, Semantic ID Evolution, and Model Adaptation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1676.v1>) | N/A | N/A |
+| 2026 | Scaling Interactive Learning Resources for LLM Agents: A Survey of Environment and Task Synthesis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1648.v1>) | N/A | N/A |
+| 2026 | Beyond Visual Generation: Frontiers, Challenges, and Future Directions in Agentic Visual Creation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0682.v1>) | [code](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>) | N/A ([⭐ 21](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>)) |
+| 2026 | World Models: Predictive State, Generative Simulation, and Decision-Making Across Artificial Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0639.v1>) | N/A | N/A |
+| 2026 | Agentic Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0173.v1>) | N/A | N/A |
+| 2026 | Large Language Models in Oncology: A Paradigm Shift from Discriminative Pattern Recognition to Generative Clinical Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0010.v1>) | N/A | N/A |
+| 2026 | Generative Artificial Intelligence in Health Economics and Outcomes Research: A Critical Review and a Capability–Governance Framework for Health Technology Assessment in Low- and Middle-Income Countries | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1987.v1>) | N/A | N/A |
+| 2026 | Deepfakes in the Foundation-Model Era: A Survey of Forensics, Generation and Distribution Across Social Media Lifecycle | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1870.v1>) | N/A | N/A |
+| 2026 | Structure-Aware Synthetic Data Generation for Imbalanced Biological Machine Learning: A Review of Clustering-Guided Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1908.v1>) | N/A | N/A |
+| 2026 | Talking Face Generation in Socio-Technical Systems: A Systematic Review of Deep Learning Architectures, Deployment Contexts, and Governance Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1135.v1>) | N/A | N/A |
+| 2026 | Foundation-Model-Assisted Reward Design for Reinforcement Learning: A Review of Reward Program Synthesis, Multimodal Feedback, and Trustworthiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0779.v1>) | N/A | N/A |
+| 2026 | GAN-Based Brain MRI-to-CT Image Synthesis: A Comparative Review of Cross-Modality Translation Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2088.v1>) | N/A | N/A |
+| 2026 | Agentic Generative Systems: A Survey on Autonomous Multimodal Content Creation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1997.v1>) | [code](<https://github.com/xxlbigbrother/Awesome-Agentic-Generative-Systems>) | N/A ([⭐ 13](<https://github.com/xxlbigbrother/Awesome-Agentic-Generative-Systems>)) |
+| 2026 | Generative AI Acceptance in Higher Education: A Meta-Analysis and Meta-Analytic Structural Equation Model of the 2026 PLS-SEM Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2015.v1>) | N/A | N/A |
+| 2026 | The Evolution of Deep Learning: From Perceptrons to Generative Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1764.v1>) | N/A | N/A |
+| 2026 | Time-Dependent Graph Generation: A Survey of Discrete-Time and Continuous-Time Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1019.v1>) | N/A | N/A |
+| 2026 | From Predict to Generate: A Cross-Layer Survey of Generative AI for IC Design and Manufacturing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0874.v1>) | N/A | N/A |
+| 2026 | Generative AI in Industrial and Manufacturing Contexts: A Systematic Review of Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0119.v1>) | N/A | N/A |
+| 2026 | Generative AI and Diffusion Models in Geophysics: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2101.v1>) | N/A | N/A |
+| 2026 | A Review of Small Language Models for Code and Domain-Specific Language Artifact Generation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1095.v2>) | N/A | N/A |
+| 2026 | Consistency in Diffusion-Based Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0870.v1>) | N/A | N/A |
+| 2026 | Not Just One Agent: LLM-Based Multi-Agent Systems for Medicine from Answer Generation to Accountable Workflow Orchestration | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0640.v2>) | N/A | N/A |
+| 2026 | A Systematic Literature Review on Generative AI in Software Engineering: Code Generation and Refactoring | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1638.v1>) | N/A | N/A |
+| 2026 | The Role of Generative Artificial Intelligence for Scientific Writing: A Scoping Review of Empirical Evidence (2023-2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1200.v1>) | N/A | N/A |
+| 2026 | Evaluating the Efficacy of Generative AI in Agricultural Extension Services for Smallholder Farmers: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0864.v1>) | N/A | N/A |
+| 2026 | Generative AI, Cognitive Offloading, and Learner Agency in Higher Education: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0881.v1>) | N/A | N/A |
+| 2026 | A Modular Survey for Semantic ID-Based Generative Recommendation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0619.v1>) | [code](<https://github.com/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox>) | N/A ([⭐ 52](<https://github.com/hupeiyu21/GenRec>)) |
+| 2026 | A Survey on Data Generation for Time Series: Taxonomy, Review and Prospects | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0725.v1>) | N/A | N/A |
+| 2026 | The Role of Generative Large Language Models in Enhancing Student Engagement in Higher Education: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0717.v1>) | N/A | N/A |
+| 2026 | Next-Generation Smart Campus Dining: A Survey of Real-Time Resource Allocation, LLM-Driven Menu Optimization, and Access Control Paradigms | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0379.v1>) | N/A | N/A |
+| 2026 | Generative AI in Cybersecurity: A Systematic Literature Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0324.v1>) | N/A | N/A |
+| 2026 | Generative Artificial Intelligence in the Energy Transition: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1432.v1>) | N/A | N/A |
+| 2026 | A Survey of (Deep RAG) Deep Retrieval Augmented Generation and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272838.89432844/v1>) | N/A | N/A |
+| 2026 | Metformin for Age-Related Macular Degeneration: Moving Beyond Observational Studies to Causal Inference Through Target Trial Emulation and Advanced Analytics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0202.v1>) | N/A | N/A |
+| 2026 | From Screening to Generative Design: Advances in ML- Assisted MOFs for Carbon Capture | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1903.v1>) | N/A | N/A |
 
-Pages: [1](tasks-generation.md) · 2
+Pages: [1](tasks-generation.md) · 2 · [3](tasks-generation-3.md)

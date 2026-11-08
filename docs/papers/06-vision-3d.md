@@ -9,7 +9,7 @@
 
 [Computer Vision](../categories/06-vision.md)
 
-**56 surveys · Page 1/1**
+**63 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -65,7 +65,14 @@
 | 2024 | Towards Multi-Modal Animal Pose Estimation: A Survey and In-Depth Analysis | arXiv | [paper](<https://arxiv.org/abs/2410.09312>) | [code](<https://github.com/ChennyDeng/MM-APE>) | [4](<https://openalex.org/W4403564567>) ([⭐ 36](<https://github.com/ChennyDeng/MM-APE>)) |
 | 2025 | Deep Learning For Point Cloud Denoising: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.11932>) | N/A | [3](<https://openalex.org/W4414459779>) |
 | 2026 | A Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation | arXiv | [paper](<https://arxiv.org/abs/2605.17131>) | N/A | [1](<https://openalex.org/W7161236486>) |
+| 2026 | Targeting p53 Dysfunction in Hepatocellular Carcinoma: Translational Barriers and Opportunities for AI-Driven Precision Medicine | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1888.v1>) | N/A | [0](<https://openalex.org/W7131883768>) |
 | 2022 | A Review of Point Clouds Deep Learning Fusion for Unmanned Aerial Data Systems | IGARSS | [paper](<https://doi.org/10.1109/IGARSS46834.2022.9884073>) | N/A | [0](<https://openalex.org/W4312705076>) |
+| 2026 | A Comprehensive Survey of 4D Gaussian Splatting for Dynamic Scene Reconstruction | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0150.v1>) | N/A | N/A |
+| 2026 | An Architectural Review of the 3D Gaussian Splatting Rendering Pipeline | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1894.v1>) | N/A | N/A |
+| 2026 | WiFi-Based 3D Reconstruction: A Survey with Insights from Vision-Based Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2267.v1>) | N/A | N/A |
+| 2026 | 3D Gaussian Splatting Rasterization: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0776.v1>) | [code](<https://github.com/3DAgentWorld/Advanced3DGS>) | N/A ([⭐ 28](<https://github.com/3DAgentWorld/Advanced3DGS>)) |
+| 2026 | Unraveling Noise in 3D Point Clouds: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177281447.78646347/v1>) | N/A | N/A |
+| 2026 | A Survey on Pose-Free Neural Radiance Fields and 3D Gaussian Splatting | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948383.37482954/v1>) | N/A | N/A |
 | 2025 | A Survey of Deep Learning-based Point Cloud Denoising | arXiv | [paper](<https://arxiv.org/abs/2508.17011>) | N/A | N/A |
 | 2025 | Point Cloud Based Scene Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.12595>) | N/A | N/A |
 | 2024 | Deep Learning for 3D Point Cloud Enhancement: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.00857>) | N/A | N/A |

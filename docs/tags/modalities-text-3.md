@@ -9,9 +9,9 @@
 
 
 
-**1180 surveys · Page 3/6**
+**1353 surveys · Page 3/7**
 
-Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · 3 · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md)
+Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · 3 · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md) · [7](modalities-text-7.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -85,7 +85,7 @@ Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · 3 · [4](modaliti
 | 2024 | Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation | arXiv | [paper](<https://arxiv.org/abs/2406.14644>) | N/A | [34](<https://openalex.org/W4402670521>) |
 | 2024 | Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective | arXiv | [paper](<https://arxiv.org/abs/2402.00262>) | N/A | [34](<https://openalex.org/W4391505394>) |
 | 2024 | Unveiling the Spectrum of Data Contamination in Language Model: A Survey from Detection to Remediation | ACL | [paper](<https://aclanthology.org/2024.findings-acl.951>) | N/A | [34](<https://openalex.org/W4402670521>) |
-| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | N/A | [33](<https://openalex.org/W7130824376>) |
+| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | [code](<https://github.com/ymoslem/awesome-llm-routing-cascading>) | [33](<https://openalex.org/W7130824376>) ([⭐ 4](<https://github.com/ymoslem/awesome-llm-routing-cascading>)) |
 | 2025 | LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2510.24367>) | N/A | [33](<https://openalex.org/W7130607038>) |
 | 2025 | Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.04531>) | N/A | [33](<https://openalex.org/W4416014152>) |
 | 2025 | Taxonomy, Opportunities, and Challenges of Representation Engineering for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.19649>) | N/A | [33](<https://openalex.org/W4415313826>) |
@@ -216,4 +216,4 @@ Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · 3 · [4](modaliti
 | 2025 | A Survey on Unifying Large Language Models and Knowledge Graphs for Biomedicine and Healthcare | KDD | [paper](<https://doi.org/10.1145/3711896.3736556>) | N/A | [20](<https://openalex.org/W4412875459>) |
 | 2024 | A Survey of Query Optimization in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2412.17558>) | N/A | [20](<https://openalex.org/W4405768197>) |
 
-Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · 3 · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md)
+Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · 3 · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md) · [7](modalities-text-7.md)

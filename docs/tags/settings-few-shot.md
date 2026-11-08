@@ -9,7 +9,7 @@
 
 
 
-**15 surveys · Page 1/1**
+**16 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,3 +28,4 @@
 | 2025 | Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning | arXiv | [paper](<https://arxiv.org/abs/2502.08181>) | N/A | [4](<https://openalex.org/W4407570037>) |
 | 2025 | Leveraging LLMs for Title and Abstract Screening for Systematic Review: A Cost-Effective Dynamic Few-Shot Learning Approach | arXiv | [paper](<https://arxiv.org/abs/2512.11261>) | N/A | [2](<https://openalex.org/W7167700814>) |
 | 2025 | A Comprehensive Survey of Challenges and Opportunities of Few-Shot Learning Across Multiple Domains | arXiv | [paper](<https://arxiv.org/abs/2504.04017>) | N/A | [2](<https://openalex.org/W4416125017>) |
+| 2026 | Meta-Learning and Few-Shot Learning: A Comprehensive Survey of Algorithms, Theory, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784520.02393968/v1>) | N/A | N/A |

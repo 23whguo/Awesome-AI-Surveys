@@ -9,7 +9,7 @@
 
 
 
-**856 surveys · Page 2/5**
+**999 surveys · Page 2/5**
 
 Pages: [1](subjects-llm.md) · 2 · [3](subjects-llm-3.md) · [4](subjects-llm-4.md) · [5](subjects-llm-5.md)
 
@@ -172,7 +172,7 @@ Pages: [1](subjects-llm.md) · 2 · [3](subjects-llm-3.md) · [4](subjects-llm-4
 | 2024 | A Survey of Sustainability in Large Language Models: Applications, Economics, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.04782>) | N/A | [34](<https://openalex.org/W4409116517>) |
 | 2024 | Large Language Model Enhanced Knowledge Representation Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.00936>) | N/A | [34](<https://openalex.org/W4409206472>) |
 | 2024 | Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective | arXiv | [paper](<https://arxiv.org/abs/2402.00262>) | N/A | [34](<https://openalex.org/W4391505394>) |
-| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | N/A | [33](<https://openalex.org/W7130824376>) |
+| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | [code](<https://github.com/ymoslem/awesome-llm-routing-cascading>) | [33](<https://openalex.org/W7130824376>) ([⭐ 4](<https://github.com/ymoslem/awesome-llm-routing-cascading>)) |
 | 2025 | LLM-as-a-Judge for Software Engineering: Literature Review, Vision, and the Road Ahead | arXiv | [paper](<https://arxiv.org/abs/2510.24367>) | N/A | [33](<https://openalex.org/W7130607038>) |
 | 2025 | Taxonomy, Opportunities, and Challenges of Representation Engineering for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.19649>) | N/A | [33](<https://openalex.org/W4415313826>) |
 | 2024 | Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions | arXiv | [paper](<https://arxiv.org/abs/2408.05212>) | N/A | [33](<https://openalex.org/W7120416289>) |

@@ -9,13 +9,23 @@
 
 
 
-**30 surveys · Page 1/1**
+**40 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Alignment in Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1245.v3>) | N/A | N/A |
 | 2026 | A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration | arXiv | [paper](<https://arxiv.org/abs/2610.09891>) | N/A | [0](<https://openalex.org/W7221021311>) |
 | 2026 | AI Alignment through a Game-theoretic Lens: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2607>) | N/A | [0](<https://openalex.org/W7204787062>) |
+| 2026 | Large Language Model Alignment with Complex Feedback: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0674.v1>) | N/A | N/A |
 | 2026 | LLM Safety Alignment in Low-Resource Languages: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2608.14626>) | N/A | [1](<https://openalex.org/W7203670031>) |
+| 2026 | When LLMs Take Action: A Survey on the Safety and Alignment of Language-Conditioned Embodied Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0061.v1>) | N/A | N/A |
+| 2026 | Towards Pluralistic Alignment of LLMs: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1876.v1>) | N/A | N/A |
+| 2026 | Video Generation Models: A Survey of Post-Training and Alignment | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220111.17351887/v1>) | [code](<https://github.com/CyL97/Awesome-Video-Generation-Post-Training>) | N/A ([⭐ 215](<https://github.com/people-robots/Awesome-Video-Generation-Post-Training>)) |
+| 2026 | Personalized Alignment in the Era of LLMs: A Review of Methodologies, Datasets, Evaluation, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177083699.99572896/v1>) | N/A | N/A |
+| 2026 | Privacy-Preserving LLM Preference Alignment: A Systematic Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978434.43544529/v1>) | N/A | N/A |
+| 2026 | A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945895.52184668/v1>) | N/A | N/A |
+| 2026 | Large Language Models: A Survey of Architectures, Training Paradigms, and Alignment Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1138.v1>) | N/A | N/A |
+| 2026 | Instruction Tuning for Large Language Models: RLHF, Supervised Fine-Tuning, and Alignment Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.43758400/v1>) | N/A | N/A |
 | 2026 | Multimodal Alignment and Fusion: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02667-1>) | N/A | [261](<https://openalex.org/W7128060476>) |
 | 2026 | Survey on LLM Safety: Attacks, Defenses, Alignment, Metrics, and Guardrails | MLJ | [paper](<https://doi.org/10.1007/s10994-026-07060-8>) | N/A | [11](<https://openalex.org/W7161761904>) |
 | 2026 | A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning | ACL | [paper](<https://aclanthology.org/2026.acl-long.1961>) | N/A | [2](<https://openalex.org/W7166797353>) |

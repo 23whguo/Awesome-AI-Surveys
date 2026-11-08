@@ -9,7 +9,9 @@
 
 
 
-**178 surveys · Page 1/1**
+**224 surveys · Page 1/2**
+
+Pages: 1 · [2](tasks-safety-2.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -149,6 +151,8 @@
 | 2024 | Countering Backdoor Attacks in Image Recognition: A Survey and Evaluation of Mitigation Strategies | arXiv | [paper](<https://arxiv.org/abs/2411.11200>) | N/A | [4](<https://openalex.org/W4404570680>) |
 | 2026 | Safety in Self-Evolving Agents: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.00093>) | N/A | [3](<https://openalex.org/W7212183339>) |
 | 2026 | Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications | arXiv | [paper](<https://arxiv.org/abs/2605.26133>) | N/A | [3](<https://openalex.org/W4411814271>) |
+| 2026 | Responsive Architecture and Fire Safety: A Comparative Review of Regulatory Regimes in the USA, Asia, and the EU/UK, with Implications for Poland in the Context of BIM/DT/AI/IoT | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1202.v1>) | N/A | [3](<https://openalex.org/W7153973767>) |
+| 2026 | Temporal Adversarial Attacks on Time Series and Reinforcement Learning Systems: A Systematic Survey, Taxonomy, and Benchmarking Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0598.v1>) | N/A | [3](<https://openalex.org/W7119479467>) |
 | 2026 | Rethinking Reasoning: A Survey on Reasoning-based Backdoors in LLMs | ACL | [paper](<https://aclanthology.org/2026.findings-acl.863>) | N/A | [3](<https://openalex.org/W4416398204>) |
 | 2025 | Runtime Safety Monitoring of Deep Neural Networks for Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2511.05982>) | N/A | [3](<https://openalex.org/W7125939786>) |
 | 2025 | Generative Adversarial Networks with Limited Data: A Survey and Benchmarking | arXiv | [paper](<https://arxiv.org/abs/2504.05456>) | N/A | [3](<https://openalex.org/W4416119113>) |
@@ -157,6 +161,8 @@
 | 2024 | Smart Driver Monitoring Robotic System to Enhance Road Safety : A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2401.15762>) | N/A | [3](<https://openalex.org/W4391376419>) |
 | 2026 | A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security | arXiv | [paper](<https://arxiv.org/abs/2608.29596>) | N/A | [2](<https://openalex.org/W7204908635>) |
 | 2026 | Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security | arXiv | [paper](<https://arxiv.org/abs/2604.08180>) | N/A | [2](<https://openalex.org/W7153343777>) |
+| 2026 | A Survey on the Unique Security of Autonomous and Collaborative LLM Agents: Threats, Defenses, and Futures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1655.v3>) | [code](<https://github.com/sunyinggang/LLM-Agent-Security-Survey>) | [2](<https://openalex.org/W7134907807>) ([⭐ 21](<https://github.com/sunyinggang/LLM-Agent-Security-Survey>)) |
+| 2026 | Artificial Intelligence and Machine Learning in Pharmacovigilance: A Systematic Review of Models for Drug Safety in Polypharmacy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0477.v1>) | N/A | [2](<https://openalex.org/W7128365332>) |
 | 2026 | Safety of Large Language Models Beyond English: A Systematic Literature Review of Risks, Biases, and Safeguards | EACL | [paper](<https://aclanthology.org/2026.eacl-long.44>) | N/A | [2](<https://openalex.org/W7140105078>) |
 | 2024 | New Emerged Security and Privacy of Pre-trained Model: a Survey and Outlook | arXiv | [paper](<https://arxiv.org/abs/2411.07691>) | N/A | [2](<https://openalex.org/W4404405938>) |
 | 2026 | Machine Learning for Specialized QKD Aspects: A Survey of Adaptive Protocols, Free-Space Links, 6G Integration, and Steerability-Aware Security | arXiv | [paper](<https://arxiv.org/abs/2608.08280>) | N/A | [1](<https://openalex.org/W7202178278>) |
@@ -181,13 +187,33 @@
 | 2025 | A Review on Domain Adaption and Generative Adversarial Networks(GANs) | arXiv | [paper](<https://arxiv.org/abs/2510.12075>) | N/A | [0](<https://openalex.org/W4415261835>) |
 | 2025 | Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper | arXiv | [paper](<https://arxiv.org/abs/2505.04265>) | N/A | [0](<https://openalex.org/W4416013066>) |
 | 2024 | A Survey on Adversarial Machine Learning for Code Data: Realistic Threats, Countermeasures, and Interpretations | arXiv | [paper](<https://arxiv.org/abs/2411.07597>) | N/A | [0](<https://openalex.org/W4404405920>) |
-| 2025 | Neuro-Symbolic AI for Cybersecurity: State of the Art, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2509.06921>) | N/A | N/A |
-| 2025 | Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems | arXiv | [paper](<https://arxiv.org/abs/2507.21157>) | N/A | N/A |
-| 2025 | Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.17352>) | N/A | N/A |
-| 2025 | Large Language Models in the IoT Ecosystem -- A Survey on Security Challenges and Applications | arXiv | [paper](<https://arxiv.org/abs/2505.17586>) | N/A | N/A |
-| 2025 | A Survey of Safe Reinforcement Learning and Constrained MDPs: A Technical Survey on Single-Agent and Multi-Agent Safety | arXiv | [paper](<https://arxiv.org/abs/2505.17342>) | N/A | N/A |
-| 2025 | International Agreements on AI Safety: Review and Recommendations for a Conditional AI Safety Treaty | arXiv | [paper](<https://arxiv.org/abs/2503.18956>) | N/A | N/A |
-| 2025 | Survey of Adversarial Robustness in Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.13962>) | N/A | N/A |
-| 2025 | A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2502.14881>) | [code](<https://github.com/XuankunRong/Awesome-LVLM-Safety>) | N/A ([⭐ 223](<https://github.com/XuankunRong/Awesome-LVLM-Safety>)) |
-| 2025 | Adversarial Attacks Against Automated Fact-Checking: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1171>) | N/A | N/A |
-| 2024 | A Survey of AI-Related Cyber Security Risks and Countermeasures in Mobility-as-a-Service | arXiv | [paper](<https://arxiv.org/abs/2411.05681>) | N/A | N/A |
+| 2026 | Towards Human-Centered Safety in Vision-Language-Action Robot Control: A Survey and Outlook | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2762.v1>) | N/A | N/A |
+| 2026 | Jailbreak Attacks and Defenses on Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2308.v1>) | N/A | N/A |
+| 2026 | Large Language Models for Cybersecurity: A Survey of Data, Training, Models, Agent Systems, Evaluation, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2235.v1>) | N/A | N/A |
+| 2026 | From Perception Errors to Unsafe Actions: A Survey of Behavioral Safety in MLLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1997.v1>) | N/A | N/A |
+| 2026 | Open Boxing of AI Systems: Activation-Based Interpretability for AI Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1867.v1>) | N/A | N/A |
+| 2026 | Generative AI in Construction Safety: A Systematic Literature Review of Methods, Evidence, Deployment Gaps, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1503.v1>) | N/A | N/A |
+| 2026 | A Survey of Security in Real-World Agents: From Digital Agents to Embodied AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1303.v1>) | N/A | N/A |
+| 2026 | Evaluating Security Claims in LLM Systems: A Survey of Adversarial Attacks and Defenses | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1007.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Vehicular Networks: A Comprehensive Review of Security Challenges and Defenses | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2569.v1>) | N/A | N/A |
+| 2026 | Comparative Review of Provenance and Attribution Architectures for AI-Generated Multimedia Under Adversarial and Operational Stress Conditions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2476.v1>) | N/A | N/A |
+| 2026 | Pandora’s Toolbox: A Survey of Generalist Agent Security from the Lifecycle Perspective | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2066.v1>) | N/A | N/A |
+| 2026 | LLM-Based Agents for Cybersecurity: A Systematic Review of Architectures, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1600.v1>) | N/A | N/A |
+| 2026 | Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle | arXiv | [paper](<https://arxiv.org/abs/2608.04314>) | N/A | N/A |
+| 2026 | Adversarial Learning in the Quantum Era: Attack Surfaces Evolution from Traditional ML to Agentic AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1256.v1>) | N/A | N/A |
+| 2026 | Defense Against Adversarial Attacks: Foundations, Strategies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1022.v1>) | N/A | N/A |
+| 2026 | Cognitive Hacking and the Evolution of Semantic Attacks: Psychological Mechanisms, AI-Driven Tools, and Countermeasures in Contemporary Information Security: A Comprehensive Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0338.v1>) | N/A | N/A |
+| 2026 | When LLMs Take Action: A Survey on the Safety and Alignment of Language-Conditioned Embodied Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0061.v1>) | N/A | N/A |
+| 2026 | Digital Twins and Artificial Intelligence for HAZOP Enhancement in Process Safety: A Critical Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1902.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Across the Medical Education Continuum: Institutional, Learning, and Readiness and Safety Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1599.v1>) | N/A | N/A |
+| 2026 | From AI Strategy to Executable Controls: A PRISMA-Guided Review of AI Governance for Cybersecurity Efficiency in Azerbaijan | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0428.v1>) | N/A | N/A |
+| 2026 | Agentic AI and Large Language Models for Autonomous IoT Cybersecurity: A Systematic Survey, Taxonomy, and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0142.v1>) | [code](<https://github.com/vnageshwaran-de/agentic-iot-security>) | N/A ([⭐ 1](<https://github.com/vnageshwaran-de/agentic-iot-security>)) |
+| 2026 | Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms | arXiv | [paper](<https://arxiv.org/abs/2604.23775>) | [code](<https://github.com/LiQiiiii/Awesome-VLA-Safety>) | N/A ([⭐ 153](<https://github.com/LiQiiiii/Awesome-VLA-Safety>)) |
+| 2026 | Artificial Intelligence Methods for Unmanned Aerial Vehicles Cybersecurity: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1384.v1>) | N/A | N/A |
+| 2026 | Safety, Hallucination, and Failure Modes in Agentic Health AI: A State-of-the-Art Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1409.v1>) | N/A | N/A |
+| 2026 | Optimisation Techniques for Multi‐Robot Path Planning: A Review of Collision Avoidance and Performance Metrics in Connectivity, Efficiency and Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0316.v1>) | N/A | N/A |
+| 2026 | Generative AI in Cybersecurity: A Systematic Literature Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0324.v1>) | N/A | N/A |
+| 2026 | Jailbreak Attacks and Defenses in Large Language Models: A Beginner-Friendly Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0092.v1>) | N/A | N/A |
+| 2026 | Sensing Deepfake Detection: A Survey of Detection Architectures, Adversarial Challenges, and Critical Applications in Political, Educational, and Military Domains | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1662.v1>) | N/A | N/A |
+
+Pages: 1 · [2](tasks-safety-2.md)

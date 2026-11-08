@@ -9,19 +9,27 @@
 
 
 
-**156 surveys · Page 1/1**
+**179 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Autonomous Space Systems via Reinforcement Learning: Review, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0488.v1>) | N/A | N/A |
 | 2026 | From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs | arXiv | [paper](<https://arxiv.org/abs/2611.03152>) | N/A | [0](<https://openalex.org/W7225161127>) |
 | 2026 | Reinforcement Learning in High-Energy Physics: A Survey from Accelerator Control to Theory Exploration | arXiv | [paper](<https://arxiv.org/abs/2611.02049>) | N/A | [0](<https://openalex.org/W7225143295>) |
+| 2026 | Training–Rollout Mismatch in Low-Precision LLM Reinforcement Learning: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2922.v1>) | N/A | N/A |
 | 2026 | Reinforcement learning for hardware acceleration and system-level optimization on FPGA and integrated-circuit platforms: A survey | arXiv | [paper](<https://arxiv.org/abs/2610.28699>) | N/A | [4](<https://openalex.org/W7164511522>) |
 | 2026 | A Survey of Flow Matching in Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2610.16275>) | N/A | [0](<https://openalex.org/W7221784393>) |
+| 2026 | Reinforcement Learning in the Software Development Lifecycle: Methods, Applications, and Reward Design | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0764.v1>) | N/A | N/A |
 | 2026 | A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration | arXiv | [paper](<https://arxiv.org/abs/2610.09891>) | N/A | [0](<https://openalex.org/W7221021311>) |
+| 2026 | Reinforcement Learning in Recommender Systems for Personalized Financial Decision Support: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0315.v1>) | N/A | N/A |
 | 2026 | Optimal Transport Meets Reinforcement Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.01413>) | N/A | [0](<https://openalex.org/W7216320167>) |
 | 2026 | Reinforcement Learning and Operational Research: A Review of Methodological Integration and Research Directions | arXiv | [paper](<https://arxiv.org/abs/2609.24750>) | N/A | [0](<https://openalex.org/W7214019923>) |
+| 2026 | Adaptive Public Transit Scheduling via Reinforcement Learning: A Survey of Techniques, Challenges, and Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0014.v1>) | N/A | N/A |
 | 2026 | A Survey on Rubric-guided Reinforcement Learning for Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1599>) | N/A | [5](<https://openalex.org/W7204815970>) |
 | 2026 | Deep Reinforcement Learning for 6G AI-RAN: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2608.14877>) | N/A | [0](<https://openalex.org/W7203716794>) |
+| 2026 | Foundation-Model-Assisted Reward Design for Reinforcement Learning: A Review of Reward Program Synthesis, Multimodal Feedback, and Trustworthiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0779.v1>) | N/A | N/A |
+| 2026 | A Review of Ship Path Planning for Autonomous Navigation: From Model-Driven Methods to Deep Reinforcement Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1541.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning Without Mathematics: An Intuitive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0373.v1>) | N/A | N/A |
 | 2026 | In-Context Reinforcement Learning under Non-Stationarity: A Survey | arXiv | [paper](<https://arxiv.org/abs/2607.11906>) | N/A | [1](<https://openalex.org/W7168343243>) |
 | 2026 | Reinforcement Learning for Software Vulnerability Analysis: A Systematic Review with Emphasis on C/C++ Source Code and Static Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28403>) | N/A | [0](<https://openalex.org/W7166729288>) |
 | 2026 | Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review | arXiv | [paper](<https://arxiv.org/abs/2606.02902>) | N/A | [0](<https://openalex.org/W7163326740>) |
@@ -30,11 +38,26 @@
 | 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A | [0](<https://openalex.org/W7159062602>) |
 | 2026 | A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems | arXiv | [paper](<https://arxiv.org/abs/2604.21030>) | N/A | [3](<https://openalex.org/W7155552815>) |
 | 2026 | A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions | ACL | [paper](<https://aclanthology.org/2026.acl-long.1045>) | N/A | [0](<https://openalex.org/W7166817977>) |
+| 2026 | Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2605.02913>) | N/A | N/A |
 | 2026 | A Survey of Reinforcement Learning For Economics | arXiv | [paper](<https://arxiv.org/abs/2603.08956>) | N/A | [2](<https://openalex.org/W7134972066>) |
+| 2026 | Reinforcement Learning Paradigms in Autonomous Driving: A Perspective of Driving Tasks and Design Choices | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177273700.07234611/v1>) | N/A | N/A |
+| 2026 | Large Language Models for Reinforcement Learning: A Survey of Intervention Operators and Optimization Effects | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0229.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning in Generative Multimodal AI: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220347.74660208/v1>) | [code](<https://github.com/hu-zijing/Awesome-Multimodal-RL>) | N/A ([⭐ 11](<https://github.com/hu-zijing/Awesome-Multimodal-RL>)) |
+| 2026 | Integrating Large Language Models with Reinforcement Learning: A Survey of LLM-RL Synergistic Recommendation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155631.17855475/v1>) | N/A | N/A |
 | 2026 | A brief review of evolutionary game dynamics in the reinforcement learning paradigm | arXiv | [paper](<https://arxiv.org/abs/2602.04150>) | N/A | [5](<https://openalex.org/W7134886431>) |
 | 2026 | Reinforcement Learning for Control Systems with Time Delays: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2602.00399>) | N/A | [7](<https://openalex.org/W7164140793>) |
+| 2026 | Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972131.13438500/v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Reinforcement Learning for Dynamic Risk Assessment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2192.v1>) | N/A | [0](<https://openalex.org/W7125918953>) |
+| 2026 | Affective Reinforcement Learning: A Taxonomy and Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945767.76702380/v1>) | N/A | N/A |
+| 2026 | A Brief Survey of Deep Reinforcement Learning Algorithms for Autonomous Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1653.v1>) | N/A | [0](<https://openalex.org/W7125488159>) |
 | 2026 | Reinforcement Learning in the Real World: A Survey of Statistical Challenges and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2601.15353>) | N/A | [6](<https://openalex.org/W7125512736>) |
+| 2026 | Reinforcement Learning Based Optimal Control: A Survey on Adaptive Dynamic Programming in Robotics | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176858022.29887326/v1>) | N/A | N/A |
+| 2026 | Addressing GNN Limitations via Deep Reinforcement Learning: Principles, Patterns, and Design Insights | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827256.69159826/v1>) | N/A | N/A |
+| 2026 | Preference-based Reinforcement Learning for Robotics: Advancements and Open Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176834725.58415944/v1>) | N/A | N/A |
+| 2026 | Temporal Adversarial Attacks on Time Series and Reinforcement Learning Systems: A Systematic Survey, Taxonomy, and Benchmarking Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0598.v1>) | N/A | [3](<https://openalex.org/W7119479467>) |
 | 2026 | Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art | arXiv | [paper](<https://arxiv.org/abs/2601.05152>) | N/A | [2](<https://openalex.org/W7120243862>) |
+| 2026 | Instruction Tuning for Large Language Models: RLHF, Supervised Fine-Tuning, and Alignment Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.43758400/v1>) | N/A | N/A |
+| 2026 | A Brief Tutorial on Reinforcement Learning: From MDP to DDPG | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0420.v1>) | N/A | N/A |
 | 2026 | Transfer Reinforcement Learning for Resource Allocation in Mobile Edge Computing Systems: A Survey | TSC | [paper](<https://doi.org/10.1109/TSC.2026.3658306>) | N/A | [2](<https://openalex.org/W7125958077>) |
 | 2026 | Adaptive Reward Design in Reinforcement Learning: A Taxonomy and Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/863>) | N/A | [0](<https://openalex.org/W7213405780>) |
 | 2025 | A Survey of Freshness-Aware Wireless Networking with Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2512.21412>) | N/A | [0](<https://openalex.org/W7117571358>) |

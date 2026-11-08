@@ -9,7 +9,7 @@
 
 [Data & Data-Centric AI](../categories/03-data.md)
 
-**18 surveys · Page 1/1**
+**22 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -29,5 +29,9 @@
 | 2025 | Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2503.11411>) | N/A | [27](<https://openalex.org/W4417285558>) |
 | 2024 | Data Augmentation for Sequential Recommendation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.13545>) | [code](<https://github.com/KingGugu/DA-CL-4Rec>) | [24](<https://openalex.org/W4403767139>) ([⭐ 437](<https://github.com/KingGugu/DA-CL-4Rec>)) |
 | 2024 | A Survey of Data Synthesis Approaches | arXiv | [paper](<https://arxiv.org/abs/2407.03672>) | N/A | [10](<https://openalex.org/W4400433945>) |
+| 2026 | Synthetic Data in a Data-Intensive World: A Literature Review to Address an Application-Driven Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0152.v1>) | N/A | N/A |
+| 2026 | Metadata-Based Methods to Generate Synthetic Health Data: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1328.v1>) | N/A | N/A |
+| 2026 | A Survey on Data Generation for Time Series: Taxonomy, Review and Prospects | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0725.v1>) | N/A | N/A |
+| 2026 | Synthetic Data Beyond Generative Models: A Comprehensive Survey of How, Why, and Where | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948131.18075248/v1>) | N/A | N/A |
 | 2025 | A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2503.05954>) | N/A | N/A |
 | 2024 | A survey of synthetic data augmentation methods in computer vision | arXiv | [paper](<https://arxiv.org/abs/2403.10075>) | N/A | N/A |

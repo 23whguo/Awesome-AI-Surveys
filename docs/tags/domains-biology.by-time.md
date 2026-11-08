@@ -9,13 +9,30 @@
 
 
 
-**30 surveys · Page 1/1**
+**47 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Structure-Aware Synthetic Data Generation for Imbalanced Biological Machine Learning: A Review of Clustering-Guided Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1908.v1>) | N/A | N/A |
+| 2026 | Computational Forecasting of Influenza Virus Evolution: An Integrative Review of Genomic Surveillance, Antigenic Prediction, and Outbreak Risk | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1419.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Biosensor Systems for Healthcare: From Molecular Recognition to Machine Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1459.v1>) | N/A | N/A |
+| 2026 | Biologically Informed Graph Contrastive Learning for Microbiome Data Analysis: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0621.v1>) | N/A | N/A |
+| 2026 | Drug Discovery in the Era of Artificial Intelligence: From Target Identification to Clinical Trials | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0091.v1>) | N/A | N/A |
 | 2026 | Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review | arXiv | [paper](<https://arxiv.org/abs/2606.02902>) | N/A | [0](<https://openalex.org/W7163326740>) |
+| 2026 | Machine Learning and Deep Learning Frameworks for Human–Virus Protein–Protein Interaction Prediction: Emerging Architectures, Methods, Benchmarks, and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.2116.v1>) | N/A | N/A |
+| 2026 | Phage Bioinformatics Tools: A Review of Computational Approaches for Bacteriophage Research | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1740.v1>) | N/A | N/A |
 | 2026 | Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics | arXiv | [paper](<https://arxiv.org/abs/2604.25244>) | N/A | [2](<https://openalex.org/W7157574397>) |
 | 2026 | A Systematic Survey and Benchmark of Deep Learning for Molecular Property Prediction in the Foundation Model Era | arXiv | [paper](<https://arxiv.org/abs/2604.16586>) | [code](<https://github.com/Zongru-Li/Survey-and-Benchmarks-of-DL-for-Molecular-Property-Prediction-in-the-Foundation-Model-Era>) | [9](<https://openalex.org/W7160538684>) ([⭐ 15](<https://github.com/Zongru-Li/Survey-and-Benchmarks-of-DL-for-Molecular-Property-Prediction-in-the-Foundation-Model-Era>)) |
+| 2026 | Improving the Precision of Etiological Diagnosis in Bacterial Infections Using Molecular Technologies: A Comparative Analysis of Platforms, AI Integration, and Point-of-Care Deployment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1262.v1>) | N/A | N/A |
+| 2026 | Integrating Envirotyping and Phenomics for AI-Enabled Multi-Environment Genomic Prediction in Crop Breeding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0950.v1>) | N/A | N/A |
+| 2026 | Unannotated Genes in Genomics: Challenges, Opportunities, and AI Solutions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0792.v1>) | N/A | N/A |
+| 2026 | Toward an Integrative Physiology of Strength: Molecular Mechanisms, Motor Intention, and AI-Driven Training Optimization | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0567.v1>) | N/A | N/A |
+| 2026 | Epigenomic Biomarker Discovery from Biomedical Literature: AI and Text Mining Toward Health Monitoring Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0029.v1>) | N/A | N/A |
+| 2026 | Role of Artificial Intelligence in Modern Drug Discovery: A Literature Overview | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1558.v1>) | N/A | N/A |
+| 2026 | Biomarkers for Post-Traumatic Epilepsy: Advances in Imaging, Molecular Signatures, and AI-Assisted Prediction | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1212.v1>) | N/A | N/A |
+| 2026 | Biologically Anchored Digital Biomarkers and Artificial Intelligence for Precision Autism Medicine | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.2021.v1>) | N/A | [0](<https://openalex.org/W7133204124>) |
+| 2026 | The Application of AI in Drug Discovery and Early Development: Impact and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2255.v1>) | N/A | [0](<https://openalex.org/W7126065751>) |
+| 2026 | AI–Driven Design of Miniproteins as Potential Allosteric Modulators | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1184.v1>) | N/A | [3](<https://openalex.org/W7137179880>) |
 | 2026 | A Survey of Large Language Models for Text-Guided Molecular Discovery: From Molecule Generation to Optimization | ACL | [paper](<https://aclanthology.org/2026.acl-long.2026>) | [code](<https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery>) | [18](<https://openalex.org/W4416447684>) ([⭐ 29](<https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery>)) |
 | 2025 | Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances | arXiv | [paper](<https://arxiv.org/abs/2511.03354>) | N/A | [6](<https://openalex.org/W4416019593>) |
 | 2025 | A review of topological data analysis and topological deep learning in molecular sciences | arXiv | [paper](<https://arxiv.org/abs/2509.16877>) | N/A | [36](<https://openalex.org/W4416228481>) |

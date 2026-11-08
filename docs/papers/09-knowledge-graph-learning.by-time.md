@@ -9,15 +9,20 @@
 
 [Knowledge, Graph Learning & Symbolic Reasoning](../categories/09-knowledge.by-time.md)
 
-**33 surveys · Page 1/1**
+**38 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Dynamic Graphs and Large Language Models: A Survey of Mutual Enhancement | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1895.v1>) | [code](<https://github.com/iliyasbektas/llm-dynamic-graph-survey>) | N/A ([⭐ 1](<https://github.com/iliyasbektas/llm-dynamic-graph-survey>)) |
 | 2026 | Dynamic Heterogeneous Graph Representation Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/881>) | N/A | [0](<https://openalex.org/W7211876650>) |
+| 2026 | Time-Dependent Graph Generation: A Survey of Discrete-Time and Continuous-Time Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1019.v1>) | N/A | N/A |
 | 2026 | A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2607.16198>) | N/A | [3](<https://openalex.org/W7160048546>) |
+| 2026 | A Survey of Unifying Large Language Models with Graph Learning: Concepts, Methods, and Recent Advancements for Text-attributed Graph | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272839.92930143/v1>) | N/A | N/A |
+| 2026 | Test-Time Adaptation for Graph Learning: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/866>) | [code](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>) | [0](<https://openalex.org/W7213429993>) ([⭐ 16](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>)) |
+| 2026 | Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176800867.72049627/v1>) | N/A | N/A |
+| 2026 | Algorithmic and Learning-based Approaches to Subgraph Matching and Counting: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176739510.09317820/v1>) | N/A | N/A |
 | 2026 | Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches | arXiv | [paper](<https://arxiv.org/abs/2601.00304>) | N/A | [0](<https://openalex.org/W7118755285>) |
 | 2026 | A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.135>) | N/A | [3](<https://openalex.org/W4407123927>) |
-| 2026 | Test-Time Adaptation for Graph Learning: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/866>) | [code](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>) | [0](<https://openalex.org/W7213429993>) ([⭐ 16](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>)) |
 | 2025 | A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2509.06609>) | N/A | [8](<https://openalex.org/W7131616990>) |
 | 2025 | A Survey of Link Prediction in N-ary Knowledge Graphs | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1451>) | [code](<https://github.com/jiyaowei/lp_nkgs>) | [10](<https://openalex.org/W4416035581>) ([⭐ 8](<https://github.com/JiyaoWei/LP_NKGs>)) |
 | 2025 | A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1166>) | N/A | [11](<https://openalex.org/W4414359242>) |

@@ -9,13 +9,16 @@
 
 
 
-**22 surveys · Page 1/1**
+**25 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems | arXiv | [paper](<https://arxiv.org/abs/2611.08461>) | N/A | [0](<https://openalex.org/W7225422230>) |
+| 2026 | Efficient On-Policy Distillation for Language Models: A Survey of Costs, Trade-Offs, and Evaluation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2702.v1>) | N/A | N/A |
+| 2026 | One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation | arXiv | [paper](<https://arxiv.org/abs/2608.25936>) | N/A | N/A |
 | 2026 | A Formula-Driven Survey and Research Agenda for On-Policy Distillation | arXiv | [paper](<https://arxiv.org/abs/2606.22793>) | N/A | [5](<https://openalex.org/W7165634569>) |
 | 2026 | A Survey of On-Policy Distillation for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2604.00626>) | N/A | [190](<https://openalex.org/W7148454362>) |
+| 2026 | Knowledge Distillation for Large Language Models: Model Compression, Efficiency, and Transfer Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.47778906/v1>) | N/A | N/A |
 | 2026 | Knowledge distillation method for spatio-temporal tasks: a survey | GeoInformatica | [paper](<https://doi.org/10.1007/s10707-025-00563-x>) | N/A | [1](<https://openalex.org/W7116842382>) |
 | 2026 | A Survey on Knowledge Distillation of Vision-Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.180>) | [code](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>) | [0](<https://openalex.org/W7224499228>) ([⭐ 121](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>)) |
 | 2025 | Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2508.03317>) | N/A | [3](<https://openalex.org/W4417123890>) |

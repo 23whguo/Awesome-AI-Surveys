@@ -9,15 +9,38 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.by-time.md)
 
-**52 surveys · Page 1/1**
+**75 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | The ALMA-QUARKS Survey. IV. Core Mass Function and Evolutionary Trends in Core Formation Efficiency and Chemistry | arXiv | [paper](<https://arxiv.org/abs/2610.20738>) | N/A | [0](<https://openalex.org/W7222629348>) |
+| 2026 | Atomic-Level Design and Circular Recycling of Lithium-Ion Battery Materials: Advances in Regeneration, Upcycling, and AI-Driven Technologies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2062.v1>) | N/A | N/A |
+| 2026 | How Can Artificial Intelligence Accelerate the In Silico Screening of Metal-Organic Frameworks? | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1707.v1>) | N/A | N/A |
+| 2026 | Structure-Aware Synthetic Data Generation for Imbalanced Biological Machine Learning: A Review of Clustering-Guided Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1908.v1>) | N/A | N/A |
+| 2026 | Multiphysics, Machine Learning, and Physics Informed Approaches to Fault Reactivation During Geological CO₂ Storage: A Critical Review and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0987.v1>) | N/A | N/A |
+| 2026 | AI-Driven CRISPR Design: Methods, Tools, Applications and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0824.v1>) | N/A | N/A |
 | 2026 | Physics-Informed Machine Learning in Prognostics and Health Management: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2608.10047>) | N/A | [1](<https://openalex.org/W7172437325>) |
+| 2026 | AI-Driven Cell-Fate Prediction in Microscopy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1414.v1>) | N/A | N/A |
+| 2026 | Computational Forecasting of Influenza Virus Evolution: An Integrative Review of Genomic Surveillance, Antigenic Prediction, and Outbreak Risk | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1419.v1>) | N/A | N/A |
+| 2026 | AI for Science: A Systematic Survey of Architectures, Autonomy, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0102.v1>) | N/A | N/A |
 | 2026 | A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology | arXiv | [paper](<https://arxiv.org/abs/2607.00178>) | N/A | [1](<https://openalex.org/W7167042043>) |
+| 2026 | Prospects for AI Design Strategies in Developing High-Performance Additive Manufactured Components Using High-Entropy Alloy Powder Blends and Pre-Alloyed Powders: An Overview | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0714.v1>) | N/A | N/A |
+| 2026 | Biologically Informed Graph Contrastive Learning for Microbiome Data Analysis: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0621.v1>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning Frameworks for Human–Virus Protein–Protein Interaction Prediction: Emerging Architectures, Methods, Benchmarks, and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.2116.v1>) | N/A | N/A |
+| 2026 | Phage Bioinformatics Tools: A Review of Computational Approaches for Bacteriophage Research | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1740.v1>) | N/A | N/A |
 | 2026 | Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review | arXiv | [paper](<https://arxiv.org/abs/2605.21903>) | N/A | [1](<https://openalex.org/W7162070289>) |
 | 2026 | A Systematic Survey and Benchmark of Deep Learning for Molecular Property Prediction in the Foundation Model Era | arXiv | [paper](<https://arxiv.org/abs/2604.16586>) | [code](<https://github.com/Zongru-Li/Survey-and-Benchmarks-of-DL-for-Molecular-Property-Prediction-in-the-Foundation-Model-Era>) | [9](<https://openalex.org/W7160538684>) ([⭐ 15](<https://github.com/Zongru-Li/Survey-and-Benchmarks-of-DL-for-Molecular-Property-Prediction-in-the-Foundation-Model-Era>)) |
+| 2026 | Unannotated Genes in Genomics: Challenges, Opportunities, and AI Solutions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0792.v1>) | N/A | N/A |
+| 2026 | Advancements in Physics-Informed Neural Networks for Solving Maxwell’s Equations: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0679.v1>) | N/A | N/A |
+| 2026 | Toward an Integrative Physiology of Strength: Molecular Mechanisms, Motor Intention, and AI-Driven Training Optimization | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0567.v1>) | N/A | N/A |
+| 2026 | Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial | arXiv | [paper](<https://arxiv.org/abs/2604.01328>) | N/A | N/A |
+| 2026 | Biomarkers for Post-Traumatic Epilepsy: Advances in Imaging, Molecular Signatures, and AI-Assisted Prediction | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1212.v1>) | N/A | N/A |
+| 2026 | Biologically Anchored Digital Biomarkers and Artificial Intelligence for Precision Autism Medicine | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.2021.v1>) | N/A | [0](<https://openalex.org/W7133204124>) |
+| 2026 | A Comprehensive Survey of Multimodal LLMs for Scientific Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1847.v1>) | N/A | [0](<https://openalex.org/W7131894700>) |
+| 2026 | From Screening to Generative Design: Advances in ML- Assisted MOFs for Carbon Capture | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1903.v1>) | N/A | N/A |
+| 2026 | Collaborative and Autonomous AI for Science and Innovation: Practices, Challenges, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155935.57684125/v1>) | [code](<https://github.com/TJUNLP-xxy/Awesome-AI-Science-and-Innovation>) | N/A ([⭐ 11](<https://github.com/TJUNLP-xxy/Awesome-AI-Science-and-Innovation>)) |
+| 2026 | Foundation Models for Scientific Discovery: A Survey of Modalities, Architectures, and Pre-training Paradigms | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177042078.81811026/v1>) | N/A | N/A |
+| 2026 | AI–Driven Design of Miniproteins as Potential Allosteric Modulators | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1184.v1>) | N/A | [3](<https://openalex.org/W7137179880>) |
 | 2026 | A Survey of Large Language Models for Text-Guided Molecular Discovery: From Molecule Generation to Optimization | ACL | [paper](<https://aclanthology.org/2026.acl-long.2026>) | [code](<https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery>) | [18](<https://openalex.org/W4416447684>) ([⭐ 29](<https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery>)) |
 | 2026 | How Far Are AI Scientists from Changing the World? A Survey of Autonomous Scientific Discovery | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1285>) | N/A | N/A |
 | 2025 | Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances | arXiv | [paper](<https://arxiv.org/abs/2511.03354>) | N/A | [6](<https://openalex.org/W4416019593>) |

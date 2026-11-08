@@ -9,7 +9,7 @@
 
 
 
-**45 surveys · Page 1/1**
+**52 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -55,6 +55,13 @@
 | 2025 | Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2512.00021>) | [code](<https://github.com/fiveai/FMs-for-driving-trajectories>) | [2](<https://openalex.org/W4416931993>) ([⭐ 52](<https://github.com/fiveai/FMs-for-driving-trajectories>)) |
 | 2026 | A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms | arXiv | [paper](<https://arxiv.org/abs/2603.11093>) | N/A | [1](<https://openalex.org/W7135195193>) |
 | 2026 | A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving | arXiv | [paper](<https://arxiv.org/abs/2602.15904>) | N/A | [0](<https://openalex.org/W7171835864>) |
+| 2026 | Sensor Fusion and Perception for Autonomous Driving: A Critical Review of Modalities, AI Models, Algorithms, and Industry Configurations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0908.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning Paradigms in Autonomous Driving: A Perspective of Driving Tasks and Design Choices | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177273700.07234611/v1>) | N/A | N/A |
+| 2026 | A Survey of Robust Autonomous Driving: Interaction Modeling, Uncertainty Handling and Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177205001.16989017/v1>) | N/A | N/A |
+| 2026 | Beyond Perception: A Survey and Future Directions of VLM-based Autonomous Driving Datasets | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203266.67901185/v1>) | N/A | N/A |
+| 2026 | A Survey of LLMs for Autonomous Driving | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177130702.26072919/v1>) | N/A | N/A |
+| 2026 | Explainable and Safe Learning-Based Autonomous Driving: A Survey from Modular to End-to-End Planning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177084714.46890967/v1>) | N/A | N/A |
+| 2026 | Lane Change Prediction in Autonomous Driving: A Statistical Survey on Intention and Trajectory Forecasting | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176761699.98887344/v1>) | N/A | N/A |
 | 2025 | Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.683>) | [code](<https://github.com/Yaozuwu/LLM-based_Multi-agent_ADS>) | N/A ([⭐ 0](<https://github.com/Yaozuwu/LLM-based_Multi-agent_ADS>)) |
 | 2024 | A Survey on Federated Learning in Intelligent Transportation Systems | arXiv | [paper](<https://arxiv.org/abs/2403.07444>) | N/A | N/A |
 | 2024 | Data-driven Camera and Lidar Simulation Models for Autonomous Driving: A Review from Generative Models to Volume Renderers | arXiv | [paper](<https://arxiv.org/abs/2402.10079>) | N/A | N/A |

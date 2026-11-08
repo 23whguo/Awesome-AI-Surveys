@@ -9,7 +9,7 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**10 surveys · Page 1/1**
+**11 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -21,5 +21,6 @@
 | 2024 | Shortcut Learning in In-Context Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.02018>) | N/A | [22](<https://openalex.org/W4404353350>) |
 | 2025 | A Survey to Recent Progress Towards Understanding In-Context Learning | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.408>) | N/A | [19](<https://openalex.org/W4411119963>) |
 | 2026 | From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2610.21165>) | N/A | [0](<https://openalex.org/W7222470937>) |
+| 2026 | The AI Hippocampus: How Far are We From Human Memory? | arXiv | [paper](<https://arxiv.org/abs/2601.09113>) | [code](<https://github.com/bigai-nlco/LLM-Memory-Survey>) | N/A ([⭐ 42](<https://github.com/bigai-nlco/Awesome-AI-Memory>)) |
 | 2025 | A Comprehensive Survey on Long Context Language Modeling | arXiv | [paper](<https://arxiv.org/abs/2503.17407>) | [code](<https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling>) | N/A ([⭐ 258](<https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling>)) |
 | 2024 | The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey | arXiv | [paper](<https://arxiv.org/abs/2401.07872>) | N/A | N/A |

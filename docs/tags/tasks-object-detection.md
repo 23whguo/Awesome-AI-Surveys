@@ -9,7 +9,7 @@
 
 
 
-**36 surveys · Page 1/1**
+**37 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -47,5 +47,6 @@
 | 2025 | Architectural Insights into Knowledge Distillation for Object Detection: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2508.03317>) | N/A | [3](<https://openalex.org/W4417123890>) |
 | 2024 | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | arXiv | [paper](<https://arxiv.org/abs/2405.18387>) | N/A | [3](<https://openalex.org/W4296886576>) |
 | 2026 | A comprehensive overview of deep learning models for object detection from videos/images | arXiv | [paper](<https://arxiv.org/abs/2601.14677>) | N/A | [0](<https://openalex.org/W7125390985>) |
+| 2026 | Object Detection in Computer Vision: A Comprehensive Review of Algorithms, Datasets, and Evaluation Techniques | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2288.v1>) | N/A | N/A |
 | 2025 | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.08490>) | N/A | N/A |
 | 2024 | Self-Supervised Learning for Real-World Object Detection: a Survey | arXiv | [paper](<https://arxiv.org/abs/2410.07442>) | N/A | N/A |

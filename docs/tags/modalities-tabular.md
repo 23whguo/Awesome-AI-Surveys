@@ -9,7 +9,7 @@
 
 
 
-**14 surveys · Page 1/1**
+**17 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -26,4 +26,7 @@
 | 2025 | Tabular Data Understanding with LLMs: A Survey of Recent Advances and Challenges | arXiv | [paper](<https://arxiv.org/abs/2508.00217>) | N/A | [16](<https://openalex.org/W4416548475>) |
 | 2025 | Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2506.15506>) | N/A | [5](<https://openalex.org/W4415334116>) |
 | 2026 | Tabular Foundation Models for Credit Risk Prediction: A Dedicated Review and Empirical Comparison | arXiv | [paper](<https://arxiv.org/abs/2605.18147>) | N/A | [4](<https://openalex.org/W7161719155>) |
+| 2026 | A Comprehensive Survey of Tabular Anomaly Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1125.v1>) | N/A | N/A |
+| 2026 | A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1532.v1>) | N/A | N/A |
+| 2026 | Explainable Artificial Intelligence for Tabular Data in Healthcare: A Systematic Review of Methods, Evaluation, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0322.v1>) | N/A | N/A |
 | 2025 | A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2503.05954>) | N/A | N/A |

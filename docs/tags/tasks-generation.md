@@ -9,9 +9,9 @@
 
 
 
-**369 surveys · Page 1/2**
+**441 surveys · Page 1/3**
 
-Pages: 1 · [2](tasks-generation-2.md)
+Pages: 1 · [2](tasks-generation-2.md) · [3](tasks-generation-3.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -216,4 +216,4 @@ Pages: 1 · [2](tasks-generation-2.md)
 | 2025 | Mixture of Experts for Decentralized Generative AI and Reinforcement Learning in Wireless Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.19660>) | N/A | [15](<https://openalex.org/W4417130747>) |
 | 2025 | Vision-to-Music Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.21254>) | [code](<https://github.com/wzk1015/Awesome-Vision-to-Music-Generation>) | [15](<https://openalex.org/W4415062261>) ([⭐ 126](<https://github.com/wzk1015/Awesome-Vision-to-Music-Generation>)) |
 
-Pages: 1 · [2](tasks-generation-2.md)
+Pages: 1 · [2](tasks-generation-2.md) · [3](tasks-generation-3.md)

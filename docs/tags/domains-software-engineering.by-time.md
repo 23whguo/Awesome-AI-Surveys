@@ -9,14 +9,18 @@
 
 
 
-**51 surveys · Page 1/1**
+**55 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Systematic View on AI-Based Code Generation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1999.v1>) | N/A | N/A |
+| 2026 | Design Problems, Decisions, and Evidence in Agentic Software Engineering: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2404.v1>) | N/A | N/A |
 | 2026 | Test-Driven Approaches to Software Engineering with Large Language Models: A Survey of Phases, Tasks, and Agent Skills | arXiv | [paper](<https://arxiv.org/abs/2609.12012>) | N/A | N/A |
 | 2026 | Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda | arXiv | [paper](<https://arxiv.org/abs/2608.21107>) | N/A | [0](<https://openalex.org/W7204096532>) |
+| 2026 | Foundation-Model-Assisted Reward Design for Reinforcement Learning: A Review of Reward Program Synthesis, Multimodal Feedback, and Trustworthiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0779.v1>) | N/A | N/A |
 | 2026 | Generative AI use in Statistical Research: A Literature Review and Code Generation Case Study | arXiv | [paper](<https://arxiv.org/abs/2608.11121>) | N/A | [0](<https://openalex.org/W7202416390>) |
 | 2026 | Large Language Models for Software Engineering Diagrams: A Systematic Review of UML and ER modelling | arXiv | [paper](<https://arxiv.org/abs/2607.26100>) | N/A | [0](<https://openalex.org/W7171820009>) |
+| 2026 | A Systematic Literature Review on Generative AI in Software Engineering: Code Generation and Refactoring | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1638.v1>) | N/A | N/A |
 | 2026 | LLM-Assisted Empirical Software Engineering: Systematic Literature Review and Research Agenda | arXiv | [paper](<https://arxiv.org/abs/2604.26192>) | N/A | [3](<https://openalex.org/W7158894149>) |
 | 2026 | Fairness in Multi-Agent Systems for Software Engineering: An SDLC-Oriented Rapid Review | arXiv | [paper](<https://arxiv.org/abs/2604.13103>) | N/A | [0](<https://openalex.org/W7169546925>) |
 | 2026 | Machine Learning Models for the Early Detection of Burnout in Software Engineering: a Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2603.23063>) | N/A | [0](<https://openalex.org/W7140302873>) |

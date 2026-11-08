@@ -9,7 +9,7 @@
 
 [Learning Theory & Methods](../categories/02-learning.md)
 
-**21 surveys · Page 1/1**
+**22 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -34,3 +34,4 @@
 | 2024 | Deep video representation learning: a survey | arXiv | [paper](<https://arxiv.org/abs/2405.06574>) | N/A | [8](<https://openalex.org/W4389953010>) |
 | 2026 | A Systematic Survey on Event Camera Representation Learning | arXiv | [paper](<https://arxiv.org/abs/2606.23078>) | N/A | [4](<https://openalex.org/W7165678992>) |
 | 2024 | A survey on Graph Deep Representation Learning for Facial Expression Recognition | arXiv | [paper](<https://arxiv.org/abs/2411.08472>) | N/A | [2](<https://openalex.org/W4407129207>) |
+| 2026 | A Survey on Behavioral Data Representation Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945766.69882506/v1>) | N/A | N/A |

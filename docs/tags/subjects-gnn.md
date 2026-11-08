@@ -9,7 +9,7 @@
 
 
 
-**55 surveys · Page 1/1**
+**57 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -66,5 +66,7 @@
 | 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A | [0](<https://openalex.org/W7162203912>) |
 | 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A | [0](<https://openalex.org/W7159062602>) |
 | 2024 | Review of Digital Asset Development with Graph Neural Network Unlearning | arXiv | [paper](<https://arxiv.org/abs/2409.18455>) | N/A | [0](<https://openalex.org/W4403809346>) |
+| 2026 | Graph Neural Networks for Spatial Transcriptomics: A Review of Graph Design and Downstream Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2240.v1>) | N/A | N/A |
+| 2026 | Addressing GNN Limitations via Deep Reinforcement Learning: Principles, Patterns, and Design Insights | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827256.69159826/v1>) | N/A | N/A |
 | 2025 | Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey | arXiv | [paper](<https://arxiv.org/abs/2506.17234>) | N/A | N/A |
 | 2022 | A Survey of Automatic Text Summarization Using Graph Neural Networks | COLING | [paper](<https://aclanthology.org/2022.coling-1.536>) | N/A | N/A |

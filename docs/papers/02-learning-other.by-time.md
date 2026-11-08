@@ -9,44 +9,82 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**295 surveys · Page 1/2**
+**333 surveys · Page 1/2**
 
 Pages: 1 · [2](02-learning-other-2.by-time.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems | arXiv | [paper](<https://arxiv.org/abs/2611.08461>) | N/A | [0](<https://openalex.org/W7225422230>) |
+| 2026 | Machine Learning for the Design of Foundations on Rock Masses: A Critical Review of Data, Validation and Evidence Gaps | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2356.v1>) | N/A | N/A |
+| 2026 | Sustainability Objectives in Polymer Machine Learning: A Critical Review of Integration, Reliability, and Evidence Gaps | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2359.v1>) | N/A | N/A |
+| 2026 | Machine Learning Meets Blockchain: A Domain-Oriented Review of Integration Mechanisms, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2187.v1>) | N/A | N/A |
+| 2026 | Raman Spectroscopy, Machine Learning and Pancreatic Tumors | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1317.v1>) | N/A | N/A |
 | 2026 | Comparing GenAI to Machine Learning and Manual Review for eDiscovery | arXiv | [paper](<https://arxiv.org/abs/2610.16925>) | N/A | [1](<https://openalex.org/W7221810776>) |
 | 2026 | Machine Learning Models Trained on a Longitudinal Survey Dataset Poorly Predict Hundreds of Life Outcomes | arXiv | [paper](<https://arxiv.org/abs/2610.17115>) | N/A | [0](<https://openalex.org/W7221770680>) |
+| 2026 | Machine Learning for Childhood Obesity Risk Prediction: A Critical Review of Design and Validation Practices, with a Translational Framework for Peruvian Schoolchildren | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0292.v1>) | N/A | N/A |
 | 2026 | An overview of machine learning-enhanced iterative methods for systems of linear and nonlinear equations | arXiv | [paper](<https://arxiv.org/abs/2610.07211>) | N/A | [0](<https://openalex.org/W7220976659>) |
 | 2026 | Deep Learning for Anomaly Detection in Railway Systems: A Structured Survey | arXiv | [paper](<https://arxiv.org/abs/2610.00363>) | N/A | [0](<https://openalex.org/W7171666116>) |
 | 2026 | Deep Learning Latency Attacks and Defenses: A Cross-Domain Survey of Availability Threats | arXiv | [paper](<https://arxiv.org/abs/2609.36732>) | [code](<https://github.com/guzonghua/awesome-latency-attacks>) | [1](<https://openalex.org/W7170618031>) ([⭐ 1](<https://github.com/guzonghua/awesome-latency-attacks>)) |
+| 2026 | AT(N)-Anchored Multimodal Deep Learning for Alzheimer’s Staging: A Taxonomy and Continuous Burden Index for Low-Resource Settings | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2240.v1>) | N/A | N/A |
+| 2026 | Predicting Root Colonization by Plant Growth-Promoting Rhizobacteria: Opportunities and Limits of Deep Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2061.v1>) | N/A | N/A |
+| 2026 | Machine Learning and Postoperative Pain: A 2026 Critical Narrative Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1948.v1>) | N/A | N/A |
 | 2026 | RISC-V and machine learning: a survey | arXiv | [paper](<https://arxiv.org/abs/2609.20677>) | N/A | [0](<https://openalex.org/W7161634339>) |
 | 2026 | Systematic Literature Review of Machine Learning Models and Applications for Text Recognition | arXiv | [paper](<https://arxiv.org/abs/2608.26500>) | N/A | [22](<https://openalex.org/W4414871478>) |
 | 2026 | Optimal Transport for Network Comparison: A Unified Review with New Spectral Bounds and Machine Learning Applications | arXiv | [paper](<https://arxiv.org/abs/2608.27500>) | N/A | [0](<https://openalex.org/W7204759694>) |
+| 2026 | Designing High-Entropy Alloys: From Physical Metallurgy to Machine Learning Enabled Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1952.v1>) | N/A | N/A |
 | 2026 | Multi-Modal Anomaly Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.24937>) | N/A | [0](<https://openalex.org/W7204438162>) |
+| 2026 | Machine Learning for Predicting Delayed Graft Function and Graft Survival After Kidney Transplantation: A Systematic Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1335.v1>) | N/A | N/A |
+| 2026 | Talking Face Generation in Socio-Technical Systems: A Systematic Review of Deep Learning Architectures, Deployment Contexts, and Governance Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1135.v1>) | N/A | N/A |
+| 2026 | A Review of the Anatomical Basis of Facial Aging and Deep Learning-Based Recognition Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0843.v1>) | N/A | N/A |
 | 2026 | Machine Learning for Specialized QKD Aspects: A Survey of Adaptive Protocols, Free-Space Links, 6G Integration, and Steerability-Aware Security | arXiv | [paper](<https://arxiv.org/abs/2608.08280>) | N/A | [1](<https://openalex.org/W7202178278>) |
 | 2026 | Machine learning for sample-based quantum diagonalization: a review of generative configuration recovery and the classical-simulability frontier | arXiv | [paper](<https://arxiv.org/abs/2608.05314>) | N/A | [3](<https://openalex.org/W7201831904>) |
+| 2026 | Putting the I in AML: Artificial Intelligence and Machine Learning in Acute Myeloid Leukemia | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0252.v1>) | N/A | N/A |
 | 2026 | Deep Learning-based Filtering for Video Coding: A Survey on Architectures, Algorithms, and Complexity Analysis | arXiv | [paper](<https://arxiv.org/abs/2607.16319>) | N/A | [0](<https://openalex.org/W7167832464>) |
 | 2026 | Lipschitz Continuity in Deep Learning: A Systematic Review of Theoretical Foundations, Estimation Methods, Regularization Approaches, and Certifiable Robustness | arXiv | [paper](<https://arxiv.org/abs/2607.16329>) | N/A | [0](<https://openalex.org/W7169826772>) |
+| 2026 | A Comprehensive Survey of Tabular Anomaly Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1125.v1>) | N/A | N/A |
+| 2026 | Machine Learning-Based Kubernetes Autoscaling: A Comprehensive Review of HPA, VPA, Cluster Autoscaler, and KEDA Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0944.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Predicting Colloidal Stability and Aggregation Risk in Biopharmaceutical Formulations: Current Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1717.v1>) | N/A | N/A |
 | 2026 | A Formula-Driven Survey and Research Agenda for On-Policy Distillation | arXiv | [paper](<https://arxiv.org/abs/2606.22793>) | N/A | [5](<https://openalex.org/W7165634569>) |
 | 2026 | Review of Machine Learning Models for Solar Energetic Particle Prediction | arXiv | [paper](<https://arxiv.org/abs/2606.19539>) | N/A | [4](<https://openalex.org/W7165400731>) |
+| 2026 | A Critical Review of Recent Advances in Deep Learning and Machine Learning Models for Cognitive Load Assessment Using Eye-Tracking Technology | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1188.v1>) | N/A | N/A |
+| 2026 | Kubernetes Autoscaling: A Comprehensive Review on Machine Learning Techniques | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1094.v1>) | N/A | N/A |
 | 2026 | Facial Expression Recognition in the Deep Learning Era: A Systematic Multi-Criteria Review of Methods, Models, Datasets, Performance, Challenges, and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2606.08612>) | N/A | [0](<https://openalex.org/W7163995275>) |
+| 2026 | Application of Machine Learning Methodologies in Unmanned Aerial Vehicles: A Survey and Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0455.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Heatwave Prediction: A Global Scoping Review of Environmental Predictors and Modelling Practices | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1485.v1>) | N/A | N/A |
 | 2026 | Open datasets and machine learning for two-phase heat transfer: a review following a spatial-temporal taxonomy | arXiv | [paper](<https://arxiv.org/abs/2605.23037>) | N/A | [0](<https://openalex.org/W7203646882>) |
 | 2026 | A review of imbalance price forecasting in Europe: algorithms, metrics and the way forward | arXiv | [paper](<https://arxiv.org/abs/2605.17054>) | N/A | [1](<https://openalex.org/W7167917828>) |
 | 2026 | Machine Learning Approaches to Point Defects in Non-Metallic Materials: A Review of Methods | arXiv | [paper](<https://arxiv.org/abs/2605.16611>) | N/A | [1](<https://openalex.org/W7161284306>) |
 | 2026 | Survey-aware Machine Learning: A Guideline for Valid Population Health Inference based on Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2605.08963>) | N/A | [1](<https://openalex.org/W7160907321>) |
+| 2026 | Image-Based Air Quality Estimation with Deep Learning: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2212.v1>) | N/A | N/A |
+| 2026 | PZT-Based Guided Wave Structural Health Monitoring: A Review of Signal Processing, Machine Learning, and Hybrid Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1930.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Machine Learning Approaches for ECG-Based Detection of Dysglycemia and Their Translational Readiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1806.v1>) | N/A | N/A |
 | 2026 | Machine Learning for Multi-messenger Probes of New Physics and Cosmology: A Review and Perspective | arXiv | [paper](<https://arxiv.org/abs/2604.22462>) | N/A | [0](<https://openalex.org/W7166709451>) |
 | 2026 | A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Work | arXiv | [paper](<https://arxiv.org/abs/2604.06363>) | N/A | [1](<https://openalex.org/W7148588649>) |
+| 2026 | Deep Learning for Automatic Modulation Classification: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0446.v1>) | N/A | N/A |
 | 2026 | Advanced Machine Learning and Deep Learning Techniques for Enhanced Cattle Identification and Detection: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2606.15655>) | N/A | [1](<https://openalex.org/W7160697656>) |
 | 2026 | A Survey of On-Policy Distillation for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2604.00626>) | N/A | [190](<https://openalex.org/W7148454362>) |
 | 2026 | From Simulation to Deep Learning: Survey on Network Performance Modeling Approaches | arXiv | [paper](<https://arxiv.org/abs/2603.28394>) | N/A | [2](<https://openalex.org/W7140284560>) |
+| 2026 | Artificial Intelligence and Machine Learning for Economic Crisis Prediction and Early Warning: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2380.v1>) | N/A | N/A |
+| 2026 | Genotype × Environment Interaction Analysis in Plant Breeding: Integrating Contemporary Machine Learning Approaches | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1584.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Automated Intracranial Hemorrhage Detection in CT Imaging: A Narrative Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1484.v1>) | N/A | N/A |
 | 2026 | Results of the analysis of a survey for young scientists on training quality in HEP instrumentation software and machine learning | arXiv | [paper](<https://arxiv.org/abs/2603.16293>) | N/A | [0](<https://openalex.org/W7138912366>) |
+| 2026 | Cavitation Monitoring in Rotating Hydraulic Machines Using Machine Learning - A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1027.v1>) | N/A | N/A |
+| 2026 | A Review for Domain Adapted Continual Deep Learning Remaining Useful Life Estimation for Bearing Fault Prognosis Under Evolving Data Distributions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0102.v1>) | N/A | [2](<https://openalex.org/W7151957088>) |
 | 2026 | Deep learning-based astronomical multimodal data fusion: A comprehensive review | arXiv | [paper](<https://arxiv.org/abs/2603.00699>) | N/A | [8](<https://openalex.org/W7117369618>) |
+| 2026 | Application of Machine Learning and Data Science in Heavy Metal Remediation: Advances, Challenges, and Future Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1893.v1>) | N/A | [2](<https://openalex.org/W7131884603>) |
 | 2026 | Quantum Deep Learning: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2603.06644>) | N/A | [5](<https://openalex.org/W7134811391>) |
 | 2026 | Chalcogen Impurity Barriers in 2D Systems via Semi-Empirical/Machine Learning Modeling: A Survey over 4000 Materials | arXiv | [paper](<https://arxiv.org/abs/2602.22978>) | N/A | [0](<https://openalex.org/W7169760853>) |
 | 2026 | Deep Learning for Electricity Price Forecasting: A Review of Day-Ahead, Intraday, and Balancing Electricity Markets | arXiv | [paper](<https://arxiv.org/abs/2602.10071>) | N/A | [7](<https://openalex.org/W7167933388>) |
 | 2026 | A Scoping Review of Deep Learning for Urban Visual Pollution and Proposal of a Real-Time Monitoring Framework with a Visual Pollution Index | arXiv | [paper](<https://arxiv.org/abs/2602.09446>) | N/A | [1](<https://openalex.org/W7128631594>) |
+| 2026 | Application of Machine Learning Techniques for Prediction of Soil Water Characteristics Curve: A State of the Art Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0792.v1>) | N/A | [1](<https://openalex.org/W7128504723>) |
+| 2026 | Artificial Intelligence and Machine Learning in Pharmacovigilance: A Systematic Review of Models for Drug Safety in Polypharmacy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0477.v1>) | N/A | [2](<https://openalex.org/W7128365332>) |
+| 2026 | From Mendelian Inheritance to Machine Learning: The Evolution of Genetic Improvement in Rabbits: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0013.v1>) | N/A | [0](<https://openalex.org/W7127411164>) |
+| 2026 | Continual Anomaly Detection: A Comprehensive Survey and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1931.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Review on Graph-Based Anomaly Detection: Approaches for Intrusion Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1466.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Predicting Cardiac Procedure Outcomes: a Scoping Review of Recent Advance | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176800927.72032896/v1>) | N/A | N/A |
+| 2026 | Machine Learning Applications in Sensor-Based Infrastructure Monitoring | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0594.v1>) | N/A | [0](<https://openalex.org/W7119480008>) |
+| 2026 | Lightweight Deep Learning Models for Face Mask Detection in Real-Time Edge Environments: A Review and Future Research Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0505.v1>) | N/A | [6](<https://openalex.org/W7154466628>) |
 | 2026 | A Survey on Active Feature Acquisition Strategies | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/860>) | N/A | [19](<https://openalex.org/W4407690153>) |
 | 2026 | A Survey of Deep Learning for Geometry Problem Solving | ACL | [paper](<https://aclanthology.org/2026.acl-long.1829>) | [code](<https://github.com/majianz/dl4gps>) | [7](<https://openalex.org/W7166832905>) ([⭐ 35](<https://github.com/majianz/dl4gps>)) |
 | 2025 | Machine Learning for Scheduling Decision Systems: A Critical Review of Architecture, Assurance, and Deployment | arXiv | [paper](<https://arxiv.org/abs/2512.22642>) | N/A | [4](<https://openalex.org/W7117691484>) |
@@ -177,43 +215,5 @@ Pages: 1 · [2](02-learning-other-2.by-time.md)
 | 2024 | Recent Advances in Deep Learning for Channel Coding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.19664>) | N/A | [38](<https://openalex.org/W4403022002>) |
 | 2024 | A Survey on Deep Clustering: From the Prior Perspective | arXiv | [paper](<https://arxiv.org/abs/2406.19602>) | N/A | [35](<https://openalex.org/W4400016009>) |
 | 2024 | Data Preparation for Deep Learning based Code Smell Detection: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2406.19240>) | N/A | [26](<https://openalex.org/W4399565903>) |
-| 2024 | A Comprehensive Review of Emerging Approaches in Machine Learning for De Novo PROTAC Design | arXiv | [paper](<https://arxiv.org/abs/2406.16681>) | N/A | [32](<https://openalex.org/W4402926321>) |
-| 2024 | Machine Learning Applications of Quantum Computing: A Review | arXiv | [paper](<https://arxiv.org/abs/2406.13262>) | N/A | [45](<https://openalex.org/W4399912630>) |
-| 2024 | Synergizing Machine Learning with ACOPF: A Comprehensive Overview | arXiv | [paper](<https://arxiv.org/abs/2406.10428>) | N/A | [2](<https://openalex.org/W4399794203>) |
-| 2024 | A Comprehensive Survey on Machine Learning Driven Material Defect Detection | arXiv | [paper](<https://arxiv.org/abs/2406.07880>) | N/A | [67](<https://openalex.org/W4409653166>) |
-| 2024 | Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.08115>) | N/A | [25](<https://openalex.org/W4399657463>) |
-| 2024 | Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting | arXiv | [paper](<https://arxiv.org/abs/2406.04867>) | N/A | [6](<https://openalex.org/W4399510920>) |
-| 2024 | Memorization in deep learning: A survey | arXiv | [paper](<https://arxiv.org/abs/2406.03880>) | N/A | [43](<https://openalex.org/W4414385814>) |
-| 2024 | A Structured Review of Literature on Uncertainty in Machine Learning &amp; Deep Learning | arXiv | [paper](<https://arxiv.org/abs/2406.00332>) | N/A | [32](<https://openalex.org/W4399355294>) |
-| 2024 | Applications of interpretable deep learning in neuroimaging: a comprehensive review | arXiv | [paper](<https://arxiv.org/abs/2406.17792>) | N/A | [32](<https://openalex.org/W4399662619>) |
-| 2024 | Video Anomaly Detection in 10 Years: A Survey and Outlook | arXiv | [paper](<https://arxiv.org/abs/2405.19387>) | N/A | [78](<https://openalex.org/W4414447489>) |
-| 2024 | Machine learning in business process management: A systematic literature review | arXiv | [paper](<https://arxiv.org/abs/2405.16396>) | N/A | [103](<https://openalex.org/W4398220997>) |
-| 2024 | Animal Behavior Analysis Methods Using Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.14002>) | N/A | [76](<https://openalex.org/W4410740802>) |
-| 2024 | Review of deep learning models for crypto price prediction: implementation and evaluation | arXiv | [paper](<https://arxiv.org/abs/2405.11431>) | N/A | [42](<https://openalex.org/W7135083528>) |
-| 2024 | Deep Learning in Earthquake Engineering: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2405.09021>) | N/A | [37](<https://openalex.org/W4414891249>) |
-| 2024 | Sensing technologies and machine learning methods for emotion recognition in autism: Systematic review | arXiv | [paper](<https://arxiv.org/abs/2407.04712>) | N/A | [34](<https://openalex.org/W4396607602>) |
-| 2024 | A review on machine learning for arterial extraction and quantitative assessment on invasive coronary angiograms | arXiv | [paper](<https://arxiv.org/abs/2405.08474>) | N/A | [4](<https://openalex.org/W4402692892>) |
-| 2024 | Searches for the BSM scenarios at the LHC using decision tree based machine learning algorithms: A comparative study and review of Random Forest, Adaboost, XGboost and LightGBM frameworks | arXiv | [paper](<https://arxiv.org/abs/2405.06040>) | N/A | [93](<https://openalex.org/W4402861781>) |
-| 2024 | A snapshot review on soft-materials assembly design utilizing machine learning methods | arXiv | [paper](<https://arxiv.org/abs/2405.03805>) | N/A | [6](<https://openalex.org/W4396609200>) |
-| 2024 | Machine Learning in Short-Reach Optical Systems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2405.09557>) | N/A | [19](<https://openalex.org/W4400235716>) |
-| 2024 | A Survey on Deep Active Learning: Recent Advances and New Frontiers | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3396463>) | N/A | [175](<https://openalex.org/W4398250170>) |
-| 2024 | Modified least squares method and a review of its applications in machine learning and fractional differential/integral equations | arXiv | [paper](<https://arxiv.org/abs/2405.00382>) | N/A | [1](<https://openalex.org/W7127596348>) |
-| 2024 | A Survey of Deep Learning Based Software Refactoring | arXiv | [paper](<https://arxiv.org/abs/2404.19226>) | N/A | [18](<https://openalex.org/W4396600468>) |
-| 2024 | Fast MRI Reconstruction Using Deep Learning-based Compressed Sensing: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2405.00241>) | [code](<https://github.com/mosaf/Awesome-DL-based-CS-MRI>) | N/A ([⭐ 115](<https://github.com/mosaf/Awesome-DL-based-CS-MRI>)) |
-| 2024 | Deep Learning for Accelerated and Robust MRI Reconstruction: a Review | arXiv | [paper](<https://arxiv.org/abs/2404.15692>) | N/A | [162](<https://openalex.org/W4400918887>) |
-| 2024 | Machine Learning Applied to the Detection of Mycotoxin in Food: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.15387>) | N/A | [61](<https://openalex.org/W4399582892>) |
-| 2024 | A survey of air combat behavior modeling using machine learning | arXiv | [paper](<https://arxiv.org/abs/2404.13954>) | N/A | N/A |
-| 2024 | I/O in Machine Learning Applications on HPC Systems: A 360-degree Survey | arXiv | [paper](<https://arxiv.org/abs/2404.10386>) | N/A | [20](<https://openalex.org/W4408232726>) |
-| 2024 | Field-Programmable Gate Array Architecture for Deep Learning: Survey &amp; Future Directions | arXiv | [paper](<https://arxiv.org/abs/2404.10076>) | N/A | [38](<https://openalex.org/W4415707388>) |
-| 2024 | An inclusive review on deep learning techniques and their scope in handwriting recognition | arXiv | [paper](<https://arxiv.org/abs/2404.08011>) | N/A | [5](<https://openalex.org/W4410783765>) |
-| 2024 | Lightweight Deep Learning for Resource-Constrained Environments: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.07236>) | N/A | [318](<https://openalex.org/W4396827044>) |
-| 2024 | Machine Learning and Data Analysis Using Posets: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.03082>) | N/A | N/A |
-| 2024 | Electrical and seismic refraction methods: fundamental concepts, current trends, and emerging machine learning prospects -- A review | arXiv | [paper](<https://arxiv.org/abs/2404.00813>) | N/A | [26](<https://openalex.org/W4412525583>) |
-| 2024 | Integrating behavior analysis with machine learning to predict online learning performance: A scientometric review and empirical study | arXiv | [paper](<https://arxiv.org/abs/2406.11847>) | N/A | [16](<https://openalex.org/W4399836685>) |
-| 2024 | Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review | arXiv | [paper](<https://arxiv.org/abs/2403.18565>) | N/A | [38](<https://openalex.org/W4390826396>) |
-| 2024 | A Survey on State-of-the-art Deep Learning Applications and Challenges | arXiv | [paper](<https://arxiv.org/abs/2403.17561>) | N/A | [102](<https://openalex.org/W4412474694>) |
-| 2024 | State of the art applications of deep learning within tracking and detecting marine debris: A survey | arXiv | [paper](<https://arxiv.org/abs/2403.18067>) | N/A | [9](<https://openalex.org/W4393299825>) |
-| 2024 | A Survey of Machine Learning for Estimating Workload: Considering Unknown Tasks | arXiv | [paper](<https://arxiv.org/abs/2403.13318>) | N/A | [2](<https://openalex.org/W7203875226>) |
-| 2024 | Geometric Constraints in Deep Learning Frameworks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2403.12431>) | N/A | [5](<https://openalex.org/W4409336177>) |
 
 Pages: 1 · [2](02-learning-other-2.by-time.md)

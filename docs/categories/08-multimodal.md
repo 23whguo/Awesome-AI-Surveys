@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**82 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**96 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>08.1 Multimodal Foundation & Vision-Language Models · 多模态基础模型与视觉语言模型 (48)</b></summary>
+<summary><b>08.1 Multimodal Foundation & Vision-Language Models · 多模态基础模型与视觉语言模型 (57)</b></summary>
 
-[Browse all 48 surveys →](../papers/08-multimodal-foundation.md)
+[Browse all 57 surveys →](../papers/08-multimodal-foundation.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>08.2 Alignment, Fusion & Representation · 对齐、融合与表征 (19)</b></summary>
+<summary><b>08.2 Alignment, Fusion & Representation · 对齐、融合与表征 (21)</b></summary>
 
-[Browse all 19 surveys →](../papers/08-multimodal-alignment.md)
+[Browse all 21 surveys →](../papers/08-multimodal-alignment.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>08.3 Document & Chart Understanding · 文档与图表理解 (6)</b></summary>
+<summary><b>08.3 Document & Chart Understanding · 文档与图表理解 (7)</b></summary>
 
-[Browse all 6 surveys →](../papers/08-multimodal-documents.md)
+[Browse all 7 surveys →](../papers/08-multimodal-documents.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -60,9 +60,9 @@
 </details>
 
 <details open>
-<summary><b>08.4 Multimodal Reasoning & Generation · 多模态推理与生成 (9)</b></summary>
+<summary><b>08.4 Multimodal Reasoning & Generation · 多模态推理与生成 (11)</b></summary>
 
-[Browse all 9 surveys →](../papers/08-multimodal-reasoning.md)
+[Browse all 11 surveys →](../papers/08-multimodal-reasoning.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

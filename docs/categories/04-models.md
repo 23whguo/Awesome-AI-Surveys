@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**123 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**132 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>04.1 Transformers, Attention & Mixture of Experts · Transformer、注意力与混合专家 (28)</b></summary>
+<summary><b>04.1 Transformers, Attention & Mixture of Experts · Transformer、注意力与混合专家 (31)</b></summary>
 
-[Browse all 28 surveys →](../papers/04-models-transformers.md)
+[Browse all 31 surveys →](../papers/04-models-transformers.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>04.2 State Space, Recurrent & Differential Models · 状态空间、循环与微分模型 (14)</b></summary>
+<summary><b>04.2 State Space, Recurrent & Differential Models · 状态空间、循环与微分模型 (15)</b></summary>
 
-[Browse all 14 surveys →](../papers/04-models-state-space.md)
+[Browse all 15 surveys →](../papers/04-models-state-space.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>04.3 Diffusion, GANs, VAEs & Autoregressive Models · 扩散、GAN、VAE 与自回归模型 (40)</b></summary>
+<summary><b>04.3 Diffusion, GANs, VAEs & Autoregressive Models · 扩散、GAN、VAE 与自回归模型 (42)</b></summary>
 
-[Browse all 40 surveys →](../papers/04-models-generative.md)
+[Browse all 42 surveys →](../papers/04-models-generative.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -60,9 +60,9 @@
 </details>
 
 <details open>
-<summary><b>04.4 Graph Neural Network Architectures · 图神经网络架构 (25)</b></summary>
+<summary><b>04.4 Graph Neural Network Architectures · 图神经网络架构 (26)</b></summary>
 
-[Browse all 25 surveys →](../papers/04-models-graph.md)
+[Browse all 26 surveys →](../papers/04-models-graph.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,9 +76,9 @@
 </details>
 
 <details open>
-<summary><b>04.5 Neural Architecture & Design · 神经网络架构与设计 (16)</b></summary>
+<summary><b>04.5 Neural Architecture & Design · 神经网络架构与设计 (18)</b></summary>
 
-[Browse all 16 surveys →](../papers/04-models-other.md)
+[Browse all 18 surveys →](../papers/04-models-other.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

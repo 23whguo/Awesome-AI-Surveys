@@ -9,7 +9,7 @@
 
 
 
-**43 surveys · Page 1/1**
+**46 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -51,8 +51,11 @@
 | 2025 | A Survey on Spatio-Temporal Knowledge Graph Models | arXiv | [paper](<https://arxiv.org/abs/2512.16487>) | N/A | [7](<https://openalex.org/W4417530320>) |
 | 2024 | KG-EmpiRE: A Community-Maintainable Knowledge Graph for a Sustainable Literature Review on the State and Evolution of Empirical Research in Requirements Engineering | arXiv | [paper](<https://arxiv.org/abs/2405.08351>) | N/A | [7](<https://openalex.org/W4401719565>) |
 | 2025 | Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.19023>) | N/A | [5](<https://openalex.org/W4416043594>) |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
 | 2025 | A Survey on Multi-View Knowledge Graph: Generation, Fusion, Applications and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1197>) | N/A | [1](<https://openalex.org/W4414359232>) |
 | 2026 | Building Knowledge Graphs for Theses: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.28648>) | N/A | [0](<https://openalex.org/W7223207025>) |
 | 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A | [0](<https://openalex.org/W7162203912>) |
 | 2024 | Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties | arXiv | [paper](<https://arxiv.org/abs/2410.14733>) | N/A | [0](<https://openalex.org/W4404088014>) |
+| 2026 | Review of Health Knowledge Graphs for Clinical Decision Support: Construction, LLM-Grounded Reasoning, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1625.v1>) | N/A | N/A |
+| 2026 | Systematic Literature Review on Evolvable Knowledge Graphs in Manufacturing | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.172054425.55676002/v2>) | N/A | N/A |
 | 2024 | A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs | arXiv | [paper](<https://arxiv.org/abs/2406.07402>) | N/A | N/A |

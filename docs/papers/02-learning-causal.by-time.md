@@ -9,15 +9,19 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**25 surveys · Page 1/1**
+**29 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Causal-based approaches to explain and learn from self-extension - A review | arXiv | [paper](<https://arxiv.org/abs/2610.33227>) | N/A | [1](<https://openalex.org/W4393071966>) |
 | 2026 | Contextual Causality with Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.493>) | N/A | [0](<https://openalex.org/W7214025276>) |
+| 2026 | Where Does Knowledge Live? Representational, Causal, and Editable Localization in Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1605.v1>) | N/A | N/A |
+| 2026 | Structure Learning in Bayesian Networks: A Systematic Pedagogical Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1322.v1>) | N/A | N/A |
 | 2026 | Conditional Independence Tests for Constraint-Based Causal Discovery: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.11156>) | N/A | [0](<https://openalex.org/W7202289625>) |
 | 2026 | Causal Perspectives on Network Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2607.09200>) | N/A | [0](<https://openalex.org/W7168188163>) |
 | 2026 | A Survey on Federated Causal Discovery and Inference | arXiv | [paper](<https://arxiv.org/abs/2606.23741>) | N/A | [0](<https://openalex.org/W7165798763>) |
+| 2026 | Causal Inference in Non-Allergic Asthma Associated with Obesity: Application of the Bradford Hill Viewpoints to a Complex Epidemiological Association | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0451.v1>) | N/A | N/A |
+| 2026 | Metformin for Age-Related Macular Degeneration: Moving Beyond Observational Studies to Causal Inference Through Target Trial Emulation and Advanced Analytics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0202.v1>) | N/A | N/A |
 | 2026 | Causal Post-hoc XAI: Categorisation and Systematic Literature Review | MLJ | [paper](<https://doi.org/10.1007/s10994-026-07103-0>) | N/A | [1](<https://openalex.org/W7169800812>) |
 | 2026 | Counterfactual Explanation Bake-Off: A Review and Experimental Evaluation for Time Series Classification | MLJ | [paper](<https://doi.org/10.1007/s10994-026-07056-4>) | N/A | [1](<https://openalex.org/W7160382214>) |
 | 2025 | Causal MAS: A Survey of Large Language Model Architectures for Discovery and Effect Estimation | arXiv | [paper](<https://arxiv.org/abs/2509.00987>) | N/A | [3](<https://openalex.org/W4416686554>) |

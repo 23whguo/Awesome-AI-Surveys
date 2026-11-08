@@ -9,7 +9,7 @@
 
 [Trustworthy AI, Alignment & Evaluation](../categories/15-trustworthy.md)
 
-**76 surveys · Page 1/1**
+**98 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -83,6 +83,28 @@
 | 2026 | Adversarial Defense in Vision-Language Models: An Overview | arXiv | [paper](<https://arxiv.org/abs/2601.12443>) | N/A | [0](<https://openalex.org/W7125259256>) |
 | 2025 | A Review on Domain Adaption and Generative Adversarial Networks(GANs) | arXiv | [paper](<https://arxiv.org/abs/2510.12075>) | N/A | [0](<https://openalex.org/W4415261835>) |
 | 2024 | A Survey on Adversarial Machine Learning for Code Data: Realistic Threats, Countermeasures, and Interpretations | arXiv | [paper](<https://arxiv.org/abs/2411.07597>) | N/A | [0](<https://openalex.org/W4404405920>) |
+| 2026 | Accountable Enterprise Agents A Critical Review of Authorization Execution and Recovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2622.v1>) | N/A | N/A |
+| 2026 | Jailbreak Attacks and Defenses on Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2308.v1>) | N/A | N/A |
+| 2026 | From Perception Errors to Unsafe Actions: A Survey of Behavioral Safety in MLLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1997.v1>) | N/A | N/A |
+| 2026 | A Survey of Security in Real-World Agents: From Digital Agents to Embodied AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1303.v1>) | N/A | N/A |
+| 2026 | Evaluating Security Claims in LLM Systems: A Survey of Adversarial Attacks and Defenses | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1007.v1>) | N/A | N/A |
+| 2026 | Comparative Review of Provenance and Attribution Architectures for AI-Generated Multimedia Under Adversarial and Operational Stress Conditions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2476.v1>) | N/A | N/A |
+| 2026 | Pandora’s Toolbox: A Survey of Generalist Agent Security from the Lifecycle Perspective | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2066.v1>) | N/A | N/A |
+| 2026 | Deepfakes in the Foundation-Model Era: A Survey of Forensics, Generation and Distribution Across Social Media Lifecycle | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1870.v1>) | N/A | N/A |
+| 2026 | Fuzzing AI Systems: Foundations, Techniques, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0874.v1>) | N/A | N/A |
+| 2026 | Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle | arXiv | [paper](<https://arxiv.org/abs/2608.04314>) | N/A | N/A |
+| 2026 | Adversarial Learning in the Quantum Era: Attack Surfaces Evolution from Traditional ML to Agentic AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1256.v1>) | N/A | N/A |
+| 2026 | Defense Against Adversarial Attacks: Foundations, Strategies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1022.v1>) | N/A | N/A |
+| 2026 | Cognitive Hacking and the Evolution of Semantic Attacks: Psychological Mechanisms, AI-Driven Tools, and Countermeasures in Contemporary Information Security: A Comprehensive Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0338.v1>) | N/A | N/A |
+| 2026 | Jailbreak Attacks and Defenses in Large Language Models: A Beginner-Friendly Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0092.v1>) | N/A | N/A |
+| 2026 | Sensing Deepfake Detection: A Survey of Detection Architectures, Adversarial Challenges, and Critical Applications in Political, Educational, and Military Domains | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1662.v1>) | N/A | N/A |
+| 2026 | Recent Advances in Adversarial Attacks on Model Utility, Privacy, and Explainability: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272853.30003431/v1>) | N/A | N/A |
+| 2026 | Secure Recommender Systems: A Co-evolutionary Survey of Vulnerabilities, Attacks, and Defenses | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220005.50171723/v1>) | N/A | N/A |
+| 2026 | Adversarial Robustness in Embodied AI: A Closed-Loop Perspective on Attacks and Defenses | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177100288.88303656/v1>) | N/A | N/A |
+| 2026 | Threats and Defenses in Large Language Models: A Review of Adversarial and Model Poisoning Techniques | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177040550.02084667/v1>) | N/A | N/A |
+| 2026 | Security of Large Model-based Agents: A Survey on Adversarial, Poisoning, and Backdoor Attacks | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177006506.61959855/v1>) | N/A | N/A |
+| 2026 | Agentic AI Security in 6G Networks: A Survey of Emerging Attack Vectors, Vulnerabilities, and Defenses | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972133.38919604/v1>) | N/A | N/A |
+| 2026 | Backdoor Attacks and Defenses on Large Multimodal Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176618816.64264497/v2>) | [code](<https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs>) | N/A ([⭐ 122](<https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs>)) |
 | 2025 | Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models | arXiv | [paper](<https://arxiv.org/abs/2506.11521>) | N/A | N/A |
 | 2025 | Membership Inference Attacks on Large-Scale Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.19338>) | N/A | N/A |
 | 2025 | Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2503.19626>) | N/A | N/A |

@@ -9,7 +9,7 @@
 
 
 
-**32 surveys · Page 1/1**
+**50 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -41,6 +41,24 @@
 | 2026 | Robotic Foundation Models for Industrial Control: A Comprehensive Survey and Readiness Assessment Framework | arXiv | [paper](<https://arxiv.org/abs/2603.06749>) | N/A | [1](<https://openalex.org/W7134820619>) |
 | 2026 | Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges | arXiv | [paper](<https://arxiv.org/abs/2609.00171>) | N/A | [0](<https://openalex.org/W7206150980>) |
 | 2026 | A Qualitative Review of GenAI-Based Methods for Data Generation and Augmentation in Industrial Computer Vision Applications | arXiv | [paper](<https://arxiv.org/abs/2606.14578>) | N/A | [0](<https://openalex.org/W7168098896>) |
+| 2026 | Human-AI collaboration and Explainability in Manufacturing Operations: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0263.v1>) | N/A | N/A |
+| 2026 | LLM-Based Agentic AI in Manufacturing: A Scoping Review of Applications, System Designs and Evaluation Practices | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2479.v1>) | N/A | N/A |
+| 2026 | From Prediction to Thinking: A Review of Reasoning in Industrial Recommender System | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2135.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Machine Learning in Composite Manufacturing: Recent Advances, Emerging Trends, Digital Twins, and Future Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1865.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Machine Learning in Stem Cell Bioprocessing: From Monitoring to Autonomous Manufacturing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1488.v1>) | N/A | N/A |
+| 2026 | A Systematic, Taxonomy-Guided Survey of Predictive Maintenance in Robotic Systems: Fault Detection, Diagnosis, Prognosis, and Fault-Tolerant Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2443.v1>) | N/A | N/A |
+| 2026 | Explainable Artificial Intelligence for Manufacturing and Materials Processing: A Review of Engineering Validation and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2243.v1>) | N/A | N/A |
+| 2026 | A Review of Steel Surface Defect Detection for Industrial Applications: Evaluation Frameworks, Data Challenges, and Model Mechanisms | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0355.v1>) | N/A | N/A |
+| 2026 | A Systematic Review and Unified Framework for Predictive Maintenance in the Railway Domain | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1830.v1>) | N/A | N/A |
+| 2026 | Explainable and Prescriptive AI for Cyber-Physical NVH Quality Control in Smart Manufacturing: A Critical Review and Research Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0814.v1>) | N/A | N/A |
+| 2026 | Smart Textiles for Circular Wearable Systems: Architecture, Energy Harvesting, AI Integration, and Manufacturing Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0196.v1>) | N/A | N/A |
+| 2026 | From Predict to Generate: A Cross-Layer Survey of Generative AI for IC Design and Manufacturing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0874.v1>) | N/A | N/A |
+| 2026 | Generative AI in Industrial and Manufacturing Contexts: A Systematic Review of Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0119.v1>) | N/A | N/A |
+| 2026 | A Survey of Recent Advances in Industrial Anomaly Detection: From Normal-Only Training to Foundation-Model Priors | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0719.v1>) | N/A | N/A |
+| 2026 | Digital Twin Enabled Predictive Maintenance: A Systematic Review of Modeling Strategies, Maintenance Functions, and Application Domains | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1733.v1>) | N/A | N/A |
+| 2026 | A Survey of Image Segmentation for Industrial Applications with a Focus on Quality Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0507.v1>) | N/A | N/A |
+| 2026 | Composite Laminate Manufacturing and Characterization: A Comprehensive Review of Conventional Methods, AI Integration, Standardization Techniques, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1192.v1>) | N/A | N/A |
+| 2026 | Systematic Literature Review on Evolvable Knowledge Graphs in Manufacturing | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.172054425.55676002/v2>) | N/A | N/A |
 | 2025 | A Survey of Predictive Maintenance Methods: An Analysis of Prognostics via Classification and Regression | arXiv | [paper](<https://arxiv.org/abs/2506.20090>) | N/A | N/A |
 | 2025 | Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.00210>) | N/A | N/A |
 | 2024 | Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2402.12923>) | N/A | N/A |

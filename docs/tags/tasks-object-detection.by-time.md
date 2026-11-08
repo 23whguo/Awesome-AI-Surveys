@@ -9,10 +9,11 @@
 
 
 
-**36 surveys · Page 1/1**
+**37 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Object Detection in Computer Vision: A Comprehensive Review of Algorithms, Datasets, and Evaluation Techniques | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2288.v1>) | N/A | N/A |
 | 2026 | A comprehensive overview of deep learning models for object detection from videos/images | arXiv | [paper](<https://arxiv.org/abs/2601.14677>) | N/A | [0](<https://openalex.org/W7125390985>) |
 | 2025 | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.08490>) | N/A | N/A |
 | 2025 | Object Detection with Multimodal Large Vision-Language Models: An In-depth Review | arXiv | [paper](<https://arxiv.org/abs/2508.19294>) | N/A | [61](<https://openalex.org/W4412791139>) |

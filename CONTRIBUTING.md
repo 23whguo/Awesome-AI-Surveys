@@ -56,3 +56,11 @@ python scripts/validate.py
 The refresh reads OpenAlex and GitHub APIs; OPENALEX_API_KEY and GH_TOKEN/GITHUB_TOKEN are optional environment settings. Without a GitHub environment token, an already configured Git credential helper may provide one noninteractively. Tokens are never written into the repository or response caches. Follow provider quotas; unknown or failed lookups must not become zero.
 
 data/metrics.json is the published snapshot. Generated citation views use the default filenames; alternate time views have the .by-time.md suffix. Update both by running the renderer. Cite only one provider consistently, preserve identity checks, and keep missing metrics at the end of citation rankings.
+
+## 2026 external-source expansion
+
+See [the coverage and reproduction report](docs/EXPANSION_2026.md) before adding new source records. Harvest all relevant dates and pages, reconcile counts and identity sets, and preserve unsuccessful partitions in the audit. An empty registry month is not proof that the platform published nothing. Do not bypass access denials or claim worldwide/platform completeness from a registry query.
+
+Run scripts/harvest.py --refresh for a fresh sweep, including delayed registrations and historic feed changes. Then rebuild the catalog with the three normalized external inputs, run scripts/report_expansion.py --build-index, update new metrics with --new-only, render and validate. The full discovery index must include unselected records as well as accepted candidates; never publish full response/abstract caches or credentials.
+
+Review protocols, questionnaire instruments, original tools and ambiguous review/AI relevance remain visibly pending until evidence supports a decision. Editorial overrides need a reason and should distinguish metadata review from full-text verification. HF selection date must never replace the original arXiv publication year.

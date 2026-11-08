@@ -9,10 +9,13 @@
 
 [Efficient AI & Machine Learning Systems](../categories/16-systems.by-time.md)
 
-**8 surveys · Page 1/1**
+**11 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | From Draft-Then-Verify to Systems Co-Design: A Survey of Speculative Decoding for Autoregressive Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0746.v1>) | N/A | N/A |
+| 2026 | A Comparative Survey of Inference Acceleration for DLLMs against AR-LLMs: No Free Lunch | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0776.v1>) | [code](<https://github.com/haoyun-jiang/DLLM-AccelEval>) | N/A ([⭐ 10](<https://github.com/haoyun-jiang/DLLM-AccelEval>)) |
+| 2026 | Speculative Decoding for Multimodal Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2344.v2>) | [code](<https://github.com/zyfzs0/Multimodal-Models-Speculative-Decoding-Survey>) | N/A ([⭐ 22](<https://github.com/zyfzs0/Multimodal-Models-Speculative-Decoding-Survey>)) |
 | 2026 | Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1916>) | N/A | [10](<https://openalex.org/W4415159602>) |
 | 2025 | KV Cache Compression for Inference Efficiency in LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.06297>) | N/A | [15](<https://openalex.org/W7117482383>) |
 | 2025 | Efficient Reasoning Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.10903>) | [code](<https://github.com/fscdc/Awesome-Efficient-Reasoning-Models>) | [124](<https://openalex.org/W4415330016>) ([⭐ 325](<https://github.com/fscdc/Awesome-Efficient-Reasoning-Models>)) |

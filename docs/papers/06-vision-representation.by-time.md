@@ -9,10 +9,14 @@
 
 [Computer Vision](../categories/06-vision.by-time.md)
 
-**42 surveys · Page 1/1**
+**46 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Microscopy and Image Processing Techniques Using Artificial Intelligence for the Analysis of the Impact of Corrosion in Pipelines in the Oil and Gas Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2196.v1>) | N/A | N/A |
+| 2026 | Light-Assisted Computer Vision for Non-Destructive Assessment of Meat Quality: Intramuscular Fat and Freshness Estimation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0519.v1>) | N/A | N/A |
+| 2026 | Frequency-Informed Vision and Learning: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0650.v1>) | N/A | N/A |
+| 2026 | Interpretable Athlete Performance Modelling in Collegiate Basketball: A Review of Machine Learning and Computer Vision Methods | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177006540.07826863/v1>) | N/A | N/A |
 | 2026 | A Survey on 3D Skeleton Based Person Re-Identification: Taxonomy, Advances, Challenges, and Interdisciplinary Prospects | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/888>) | [code](<https://github.com/Kali-Hac/3D-SRID-Survey>) | [5](<https://openalex.org/W4391417837>) ([⭐ 13](<https://github.com/Kali-Hac/3D-SRID-Survey>)) |
 | 2025 | Color Models in Image Processing: A Review and Experimental Comparison | arXiv | [paper](<https://arxiv.org/abs/2510.00584>) | N/A | [24](<https://openalex.org/W4414808501>) |
 | 2025 | Automatic Intermodal Loading Unit Identification using Computer Vision: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2509.17707>) | N/A | [1](<https://openalex.org/W4414749796>) |

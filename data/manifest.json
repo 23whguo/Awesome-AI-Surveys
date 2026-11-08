@@ -10,8 +10,8 @@
       "counts": {
         "records": 722857,
         "title_candidates": 8287,
-        "review": 2617,
-        "exclude": 4136,
+        "review": 2616,
+        "exclude": 4137,
         "include": 1534
       },
       "years": {
@@ -100,42 +100,100 @@
         "records": 321326,
         "title_candidates": 4214,
         "candidate_date_month_mismatch": 371,
-        "review": 962,
-        "exclude": 2603,
-        "include": 649
+        "review": 956,
+        "exclude": 2601,
+        "include": 657
       },
       "years": {
         "2026": 321326
       }
+    },
+    {
+      "id": "techrxiv-2026",
+      "file": "techrxiv-2026.jsonl.gz",
+      "bytes": 899265,
+      "sha256": "e1869b3a8643cf02fc796f64fee1757d10eedb2dc18d5cefcc71ce02afd723cf",
+      "counts": {
+        "records": 1520,
+        "title_candidates": 282,
+        "exclude": 40,
+        "include": 185,
+        "expanded_discovery_candidates": 78,
+        "abstract_only_candidates": 78,
+        "review": 57
+      },
+      "years": {
+        "2026": 1520
+      }
+    },
+    {
+      "id": "preprints-2026",
+      "file": "preprints-2026.jsonl.gz",
+      "bytes": 19643208,
+      "sha256": "ee75634df5a49795162e4e917112e1d4915d891c7d5d425d4cd383901579a731",
+      "counts": {
+        "records": 26848,
+        "title_candidates": 4857,
+        "expanded_discovery_candidates": 2579,
+        "abstract_only_candidates": 2538,
+        "exclude": 3627,
+        "include": 673,
+        "review": 557
+      },
+      "years": {
+        "2026": 26848
+      }
+    },
+    {
+      "id": "huggingface-daily-2026",
+      "file": "huggingface-2026.jsonl.gz",
+      "bytes": 5545705,
+      "sha256": "c1a82b0855d223da6f7850da4d24a4cecd8f3ef590a0e1c6497ad217904d6c63",
+      "counts": {
+        "records": 8341,
+        "title_candidates": 178,
+        "expanded_discovery_candidates": 78,
+        "abstract_only_candidates": 78,
+        "review": 101,
+        "candidate_date_month_mismatch": 12,
+        "include": 50,
+        "exclude": 27
+      },
+      "years": {
+        "2022": 1,
+        "2024": 3,
+        "2025": 74,
+        "2026": 8263
+      }
     }
   ],
-  "source_records": 1572700,
-  "screened_in_source_records": 5504,
-  "unique_surveys": 3918,
-  "merged_duplicate_records": 343,
-  "review_queue_records": 6419,
-  "unresolved_classification_works": 1243,
-  "with_code_links": 524,
-  "cross_source_works": 255,
+  "source_records": 1609409,
+  "screened_in_source_records": 6420,
+  "unique_surveys": 4726,
+  "merged_duplicate_records": 461,
+  "review_queue_records": 7117,
+  "unresolved_classification_works": 1233,
+  "with_code_links": 596,
+  "cross_source_works": 303,
   "classification_needs_review": 0,
   "category_counts": {
-    "01-general-ai": 88,
-    "02-learning": 543,
-    "03-data": 37,
-    "04-models": 123,
-    "05-language": 666,
-    "06-vision": 261,
-    "07-audio": 76,
-    "08-multimodal": 82,
-    "09-knowledge": 90,
-    "10-retrieval": 113,
-    "11-temporal": 60,
-    "12-decision": 115,
-    "13-agents": 142,
-    "14-embodied": 152,
-    "15-trustworthy": 479,
-    "16-systems": 70,
-    "17-applications": 821
+    "01-general-ai": 115,
+    "02-learning": 610,
+    "03-data": 48,
+    "04-models": 132,
+    "05-language": 712,
+    "06-vision": 289,
+    "07-audio": 78,
+    "08-multimodal": 96,
+    "09-knowledge": 100,
+    "10-retrieval": 120,
+    "11-temporal": 66,
+    "12-decision": 136,
+    "13-agents": 214,
+    "14-embodied": 188,
+    "15-trustworthy": 584,
+    "16-systems": 83,
+    "17-applications": 1155
   },
   "year_counts": {
     "2000": 1,
@@ -163,7 +221,7 @@
     "2023": 153,
     "2024": 1461,
     "2025": 1368,
-    "2026": 604
+    "2026": 1412
   },
   "notes": [
     "Metadata-screened collection; not a systematic review or an independently verified publication index.",

@@ -9,7 +9,7 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.md)
 
-**118 surveys · Page 1/1**
+**148 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -112,6 +112,7 @@
 | 2026 | Survey on Remote Sensing Scene Classification: From Traditional Methods to Large Generative AI Models | arXiv | [paper](<https://arxiv.org/abs/2603.26751>) | N/A | [3](<https://openalex.org/W7140281874>) |
 | 2019 | Detection of Methane and Heavy Hydrocarbon Gases in the Infrared Range Using Hyperspectral Airborne Remote Sensing: an Overview | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8900556>) | N/A | [3](<https://openalex.org/W2986098632>) |
 | 2026 | Data-Driven Vision-Language Models for Remote Sensing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.31304>) | N/A | [2](<https://openalex.org/W7164007915>) |
+| 2026 | A Comprehensive Survey of Agentic AI for Geospatial Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v2>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>) | [2](<https://openalex.org/W7202255257>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
 | 2025 | Feature Extraction in the Remote Sensing Data Value Chain: A Systematic Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2510.18935>) | N/A | [2](<https://openalex.org/W4416245693>) |
 | 2026 | Review and Evaluation of Point-Cloud based Leaf Surface Reconstruction Methods for Agricultural Applications | arXiv | [paper](<https://arxiv.org/abs/2604.03328>) | N/A | [1](<https://openalex.org/W7151305725>) |
 | 2026 | Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2601.22198>) | N/A | [1](<https://openalex.org/W7168156841>) |
@@ -121,10 +122,39 @@
 | 2026 | Learning-Based Spectrum Cartography in Low Earth Orbit Satellite Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2605.10359>) | N/A | [0](<https://openalex.org/W7160909113>) |
 | 2026 | Survey on Disaster Management Datasets for Remote Sensing Based Emergency Applications | arXiv | [paper](<https://arxiv.org/abs/2605.08196>) | N/A | [0](<https://openalex.org/W7160902364>) |
 | 2026 | A High-Level Survey of Optical Remote Sensing | arXiv | [paper](<https://arxiv.org/abs/2602.17397>) | N/A | [0](<https://openalex.org/W7130726648>) |
+| 2026 | Survey on Deep Learning Application in Agricultural Innovation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1048.v1>) | N/A | [0](<https://openalex.org/W7124256270>) |
+| 2026 | Artificial Intelligence-Driven Biodiversity Conservation Framework: A Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0432.v1>) | N/A | [0](<https://openalex.org/W7119536604>) |
 | 2025 | AI and Remote Sensing for Resilient and Sustainable Built Environments: A Review of Current Methods, Open Data and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2507.01547>) | N/A | [0](<https://openalex.org/W4417183069>) |
 | 2025 | Operational Change Detection for Geographical Information: Overview and Challenges | arXiv | [paper](<https://arxiv.org/abs/2503.14109>) | N/A | [0](<https://openalex.org/W7157113371>) |
 | 2024 | Overview of the Main Activities of Hyperhealth Project - Results of Hyperspectral Prisma Data Exploitation | IGARSS | [paper](<https://doi.org/10.1109/IGARSS53475.2024.10641467>) | N/A | [0](<https://openalex.org/W4402261167>) |
 | 2021 | An Overview of the Contributions of Jose Manuel Bioucas-Dias to Remote Sensing Image Processing | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9554718>) | N/A | [0](<https://openalex.org/W3206509027>) |
+| 2026 | AI-Enabled Smart and Precision Agriculture: Smart Sensors, IoT, Deep Learning, Computer Vision, and Decision Support: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2112.v1>) | N/A | N/A |
+| 2026 | From 3D Scene Understanding to Hazard Forecasting: A Critical Review of Remote Sensing–Driven Emergency Digital Twins | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0926.v1>) | N/A | N/A |
+| 2026 | AI-Based Methods for Geomechanical Containment-Risk Assessment in Geological CO₂ Storage: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0553.v1>) | N/A | N/A |
+| 2026 | Integrating Artificial Intelligence into Multi-Hazard Early Warning Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2356.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Climate Change Adaptation in Sustainable Maize Production and Socioeconomic Development in South Africa: A Comprehensive Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1940.v1>) | N/A | N/A |
+| 2026 | Application of Large Language Models for Design and Monitoring Geotechnical Infrastructure in the Crosshairs of Climate Change Induced Extreme Weather Events | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1809.v1>) | N/A | N/A |
+| 2026 | Earth Observation Foundation Models (EO-FMs): A Review of the Conditions for Transferable and Trustworthy Geospatial Representations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1563.v1>) | N/A | N/A |
+| 2026 | Foundation Models and AI Agents in Geographic Science: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1861.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Water Quality Improvement in Bangladesh: A Review of Methods, Applications, and an Integrated Roadmap for Arsenic, Salinity, and River Pollution | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0881.v1>) | N/A | N/A |
+| 2026 | Adaptive Neural Networks for Remote Sensing Imagery: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0448.v1>) | N/A | N/A |
+| 2026 | Geospatial Artificial Intelligence in Precision Agriculture: A Systematic Review of Applications, Multimodal Data Integration, and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0386.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Coastal Resilience and Environmental Sustainability: A Review of Remote Sensing and Geospatial Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0260.v1>) | N/A | N/A |
+| 2026 | Advances in Multi-Scale Remote Sensing and Machine Learning for Canopy-to-Root Phenotyping of Drought Adaptation in Sorghum: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1083.v1>) | N/A | N/A |
+| 2026 | State-of-the-Art Review of Artificial Intelligence in Environmental Geophysics and Geotechnical Engineering | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1511.v1>) | N/A | N/A |
+| 2026 | Evaluating the Efficacy of Generative AI in Agricultural Extension Services for Smallholder Farmers: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0864.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Technologies in Plant Factories over the Last Decade: Machine Vision, Nutrient Intelligence, Control, and Digital Twins | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0438.v1>) | N/A | N/A |
+| 2026 | Agentic AI for Climate-Resilient Cities: A PRISMA-Guided Review and Digital Twin Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1837.v1>) | N/A | N/A |
+| 2026 | From NDVI to Neural Networks: A Systematic Review of Satellite Remote Sensing Methods for Monitoring Vegetation Responses to Climate Change (2000–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1906.v2>) | N/A | N/A |
+| 2026 | Integrating Envirotyping and Phenomics for AI-Enabled Multi-Environment Genomic Prediction in Crop Breeding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0950.v1>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning in Agriculture: A PRISMA Systematic Review of Architectures, Applications, and Open Science Practices (2019–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0648.v2>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2395.v1>) | N/A | N/A |
+| 2026 | A Decade of Applied Quantitative Analytics for Philippine Policy: Forecasting, Statistical Forensics, and Predictive Modeling Across Education, Energy, Agriculture, Health, and Finance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1811.v1>) | N/A | N/A |
+| 2026 | From Decision-Support Tools to Digital Twins: Digital Farming, Data Platforms, and AI for Sustainable Dairy Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1613.v1>) | N/A | N/A |
+| 2026 | UAV-Based Remote Sensing and Artificial Intelligence for Climate-Smart Agriculture: A Systematic Review of Technologies, Analytics, and Applications in Smallholder Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0355.v1>) | N/A | N/A |
+| 2026 | Real2Sim Closed-loop Framework in Agriculture Robotics: A Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177223114.44173322/v1>) | N/A | N/A |
+| 2026 | Towards Real-Time Earth System Intelligence through Advancements in Onboard AI Processing | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177212479.91567605/v1>) | N/A | N/A |
+| 2026 | Comprehensive Review on Deep Learning and Foundation Models in Agriculture: Progress, Benchmarks, and Open Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177031356.68798137/v1>) | N/A | N/A |
 | 2026 | Deep Learning and Foundation Models for Weather Prediction: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/890>) | [code](<https://github.com/JimengShi/DL-Foundation-Models-Weather>) | N/A ([⭐ 91](<https://github.com/JimengShi/DL-Foundation-Models-Weather>)) |
 | 2025 | Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.22964>) | N/A | N/A |
 | 2025 | AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock | arXiv | [paper](<https://arxiv.org/abs/2507.22101>) | [code](<https://github.com/umair1221/AI-in-Agriculture>) | N/A ([⭐ 19](<https://github.com/umair1221/AI-in-Agriculture>)) |

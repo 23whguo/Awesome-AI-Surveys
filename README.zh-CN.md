@@ -7,13 +7,13 @@
 
 <p align="center"><strong>按研究问题分类、支持多标签查找的 AI 综述与文献回顾集合</strong></p>
 
-<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <img src="https://img.shields.io/badge/surveys-3918-2563eb" alt="Survey count"> <img src="https://img.shields.io/badge/categories-17-0f766e" alt="17 categories"> <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"></a></p>
+<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <img src="https://img.shields.io/badge/surveys-4726-2563eb" alt="Survey count"> <img src="https://img.shields.io/badge/categories-17-0f766e" alt="17 categories"> <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"></a></p>
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**3,918 篇综述 · 17 个主分类 · 524 篇含源数据或摘要提供的仓库链接。**
+**4,726 篇综述 · 17 个主分类 · 596 篇含源数据或摘要提供的仓库链接。**
 
-基于 PaperVault 会议期刊记录与本地 2024—2026 年 arXiv 快照构建。截至 2026-11-08，扫描 1,572,700 条源记录。每篇作品只设一个主分类，多标签提供跨主题浏览。
+基于 PaperVault 会议期刊记录与本地 2024—2026 年 arXiv 快照构建。截至 2026-11-08，扫描 1,609,409 条源记录。每篇作品只设一个主分类，多标签提供跨主题浏览。
 
 条目通过元数据规则筛选，尚未逐篇进行全文及链接核验。发表渠道和年份沿用源记录；arXiv 记录不据此推断已通过同行评审。暂无法确认类型或主分类的记录保留在 [待复核队列](data/review_queue.jsonl)。
 
@@ -21,34 +21,38 @@
 
 下面每个分类按当前所选排序展示 6 篇条目；点击完整列表可查看该分类全部综述及二级主题。表格列为 Year / Title / Venue / Paper / Code / 引用。每个页面顶部均可切换引用数或时间排序；时间采用展示年份内的源提交日期，缺少日期时排在该年已知日期之后。未获取到的引用数排在引用榜末尾。
 
-**统计覆盖：** 3,607 / 3,918 篇取得引用数；516 篇取得 GitHub Stars。[下载含统计的 CSV](data/surveys-with-metrics.csv)。
+**统计覆盖：** 3,675 / 4,726 篇取得引用数；587 篇取得 GitHub Stars。[下载含统计的 CSV](data/surveys-with-metrics.csv)。
+
+**2026 年补漏：** 本轮新增 808 篇；接入 TechRxiv、Preprints.org 和 HF Daily Papers。[调查与覆盖报告](docs/EXPANSION_2026.md) · [完整发现索引](data/discovery-index/manifest.json) · [695 组待复核候选](docs/EXTERNAL_PENDING_2026.md)。公开接口遍历完成不构成平台全量保证。
+
+**覆盖提示：** TechRxiv 登记查询在 2026-04、2026-05、2026-06、2026-07、2026-08、2026-09、2026-10、2026-11 返回零条，不能据此认定这些月份没有论文。HF Daily Papers 是 arXiv 精选索引。
 
 ## 分类导航
 
-- [01. AI 综合与研究概览](#01-general-ai) (88)
-- [02. 学习理论与学习方法](#02-learning) (543)
-- [03. 数据与数据中心 AI](#03-data) (37)
-- [04. 模型架构与生成建模](#04-models) (123)
-- [05. 语言、NLP 与大语言模型](#05-language) (666)
-- [06. 计算机视觉](#06-vision) (261)
-- [07. 语音、音频与音乐](#07-audio) (76)
-- [08. 多模态学习与模型](#08-multimodal) (82)
-- [09. 知识、图学习与符号推理](#09-knowledge) (90)
-- [10. 信息检索、推荐与 Web 智能](#10-retrieval) (113)
-- [11. 时序与时空学习](#11-temporal) (60)
-- [12. 强化学习与序贯决策](#12-decision) (115)
-- [13. 智能体与多智能体系统](#13-agents) (142)
-- [14. 机器人与具身智能](#14-embodied) (152)
-- [15. 可信 AI、对齐与评测](#15-trustworthy) (479)
-- [16. 高效 AI 与机器学习系统](#16-systems) (70)
-- [17. 领域应用与人机交互](#17-applications) (821)
+- [01. AI 综合与研究概览](#01-general-ai) (115)
+- [02. 学习理论与学习方法](#02-learning) (610)
+- [03. 数据与数据中心 AI](#03-data) (48)
+- [04. 模型架构与生成建模](#04-models) (132)
+- [05. 语言、NLP 与大语言模型](#05-language) (712)
+- [06. 计算机视觉](#06-vision) (289)
+- [07. 语音、音频与音乐](#07-audio) (78)
+- [08. 多模态学习与模型](#08-multimodal) (96)
+- [09. 知识、图学习与符号推理](#09-knowledge) (100)
+- [10. 信息检索、推荐与 Web 智能](#10-retrieval) (120)
+- [11. 时序与时空学习](#11-temporal) (66)
+- [12. 强化学习与序贯决策](#12-decision) (136)
+- [13. 智能体与多智能体系统](#13-agents) (214)
+- [14. 机器人与具身智能](#14-embodied) (188)
+- [15. 可信 AI、对齐与评测](#15-trustworthy) (584)
+- [16. 高效 AI 与机器学习系统](#16-systems) (83)
+- [17. 领域应用与人机交互](#17-applications) (1155)
 
 ## 综述目录
 
 <a id="01-general-ai"></a>
 
 <details open>
-<summary><b>01. AI 综合与研究概览 (88)</b></summary>
+<summary><b>01. AI 综合与研究概览 (115)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/01-general-ai.md)
 
@@ -66,7 +70,7 @@
 <a id="02-learning"></a>
 
 <details open>
-<summary><b>02. 学习理论与学习方法 (543)</b></summary>
+<summary><b>02. 学习理论与学习方法 (610)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/02-learning.md)
 
@@ -84,7 +88,7 @@
 <a id="03-data"></a>
 
 <details open>
-<summary><b>03. 数据与数据中心 AI (37)</b></summary>
+<summary><b>03. 数据与数据中心 AI (48)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/03-data.md)
 
@@ -102,7 +106,7 @@
 <a id="04-models"></a>
 
 <details open>
-<summary><b>04. 模型架构与生成建模 (123)</b></summary>
+<summary><b>04. 模型架构与生成建模 (132)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/04-models.md)
 
@@ -120,7 +124,7 @@
 <a id="05-language"></a>
 
 <details open>
-<summary><b>05. 语言、NLP 与大语言模型 (666)</b></summary>
+<summary><b>05. 语言、NLP 与大语言模型 (712)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/05-language.md)
 
@@ -138,7 +142,7 @@
 <a id="06-vision"></a>
 
 <details open>
-<summary><b>06. 计算机视觉 (261)</b></summary>
+<summary><b>06. 计算机视觉 (289)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/06-vision.md)
 
@@ -156,7 +160,7 @@
 <a id="07-audio"></a>
 
 <details open>
-<summary><b>07. 语音、音频与音乐 (76)</b></summary>
+<summary><b>07. 语音、音频与音乐 (78)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/07-audio.md)
 
@@ -174,7 +178,7 @@
 <a id="08-multimodal"></a>
 
 <details open>
-<summary><b>08. 多模态学习与模型 (82)</b></summary>
+<summary><b>08. 多模态学习与模型 (96)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/08-multimodal.md)
 
@@ -192,7 +196,7 @@
 <a id="09-knowledge"></a>
 
 <details open>
-<summary><b>09. 知识、图学习与符号推理 (90)</b></summary>
+<summary><b>09. 知识、图学习与符号推理 (100)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/09-knowledge.md)
 
@@ -210,7 +214,7 @@
 <a id="10-retrieval"></a>
 
 <details open>
-<summary><b>10. 信息检索、推荐与 Web 智能 (113)</b></summary>
+<summary><b>10. 信息检索、推荐与 Web 智能 (120)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/10-retrieval.md)
 
@@ -228,7 +232,7 @@
 <a id="11-temporal"></a>
 
 <details open>
-<summary><b>11. 时序与时空学习 (60)</b></summary>
+<summary><b>11. 时序与时空学习 (66)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/11-temporal.md)
 
@@ -246,7 +250,7 @@
 <a id="12-decision"></a>
 
 <details open>
-<summary><b>12. 强化学习与序贯决策 (115)</b></summary>
+<summary><b>12. 强化学习与序贯决策 (136)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/12-decision.md)
 
@@ -264,7 +268,7 @@
 <a id="13-agents"></a>
 
 <details open>
-<summary><b>13. 智能体与多智能体系统 (142)</b></summary>
+<summary><b>13. 智能体与多智能体系统 (214)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/13-agents.md)
 
@@ -282,7 +286,7 @@
 <a id="14-embodied"></a>
 
 <details open>
-<summary><b>14. 机器人与具身智能 (152)</b></summary>
+<summary><b>14. 机器人与具身智能 (188)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/14-embodied.md)
 
@@ -300,7 +304,7 @@
 <a id="15-trustworthy"></a>
 
 <details open>
-<summary><b>15. 可信 AI、对齐与评测 (479)</b></summary>
+<summary><b>15. 可信 AI、对齐与评测 (584)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/15-trustworthy.md)
 
@@ -318,7 +322,7 @@
 <a id="16-systems"></a>
 
 <details open>
-<summary><b>16. 高效 AI 与机器学习系统 (70)</b></summary>
+<summary><b>16. 高效 AI 与机器学习系统 (83)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/16-systems.md)
 
@@ -336,7 +340,7 @@
 <a id="17-applications"></a>
 
 <details open>
-<summary><b>17. 领域应用与人机交互 (821)</b></summary>
+<summary><b>17. 领域应用与人机交互 (1155)</b></summary>
 
 [查看完整分类与二级主题 →](docs/categories/17-applications.md)
 
@@ -355,6 +359,7 @@
 
 - [PaperVault](https://github.com/youngfish42/PaperVault) / [Hugging Face dataset](https://huggingface.co/datasets/youngfish42/PaperVault): conference and journal metadata.
 - Local arXiv 2024 / 2025 / 2026 CSV-derived snapshots: identifiers, titles, abstracts and category metadata used for screening; original raw files are not uploaded.
+- 2026 external metadata: TechRxiv / Preprints.org via Crossref with a DataCite check; Hugging Face Daily Papers via its official date/month API. [Coverage, limitations and audit files](docs/EXPANSION_2026.md).
 - [Methodology, limitations and arXiv policy](docs/METHODOLOGY.md) · [Source manifest and checksums](data/manifest.json) · [Data schema](docs/DATA_SCHEMA.md).
 
 ## 维护与贡献

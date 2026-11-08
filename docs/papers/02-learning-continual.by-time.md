@@ -9,12 +9,15 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**37 surveys · Page 1/1**
+**40 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | LLM Unlearning for Cyber Defense: A Survey on Methods, Challenges, and Emerging Threats | arXiv | [paper](<https://arxiv.org/abs/2607.16227>) | N/A | [0](<https://openalex.org/W7169903971>) |
 | 2026 | Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data | arXiv | [paper](<https://arxiv.org/abs/2606.11272>) | N/A | [2](<https://openalex.org/W7161148614>) |
+| 2026 | Machine Unlearning in Large Language Models: A Survey of Challenges and Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0114.v1>) | N/A | N/A |
+| 2026 | A Survey on Federated Unlearning: Lifecycle, Taxonomy, and Insights | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004227.77961306/v1>) | N/A | N/A |
+| 2026 | Towards Self-Adaptive Learning: Continual Learning under Harsh Conditions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948359.91255526/v1>) | N/A | N/A |
 | 2025 | A Survey on Unlearning in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.25117>) | N/A | N/A |
 | 2025 | Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting | arXiv | [paper](<https://arxiv.org/abs/2508.04227>) | [code](<https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models>) | N/A ([⭐ 230](<https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models>)) |
 | 2025 | Generative Model Unlearning: A Survey through Target Events, Unlearning Operators, and Evaluation Protocols | arXiv | [paper](<https://arxiv.org/abs/2507.19894>) | [code](<https://github.com/caxLee/GenMU-Survey>) | N/A ([⭐ N/A](<https://github.com/caxlee/genmu-survey>)) |

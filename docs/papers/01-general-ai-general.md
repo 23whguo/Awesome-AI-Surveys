@@ -9,7 +9,7 @@
 
 [General AI & Research Overviews](../categories/01-general-ai.md)
 
-**88 surveys · Page 1/1**
+**115 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -80,6 +80,7 @@
 | 2025 | Impact and Implications of Generative AI for Enterprise Architects in Agile Environments: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.22003>) | N/A | [5](<https://openalex.org/W7161494060>) |
 | 2024 | Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives | arXiv | [paper](<https://arxiv.org/abs/2406.06475>) | N/A | [5](<https://openalex.org/W4399554424>) |
 | 2024 | A Review of Findings from Neuroscience and Cognitive Psychology as Possible Inspiration for the Path to Artificial General Intelligence | arXiv | [paper](<https://arxiv.org/abs/2401.10904>) | N/A | [5](<https://openalex.org/W4391157006>) |
+| 2026 | From Prediction to Synthesis: Generative AI Architectures and Digital Twins for the Future of Vaccines and Immuno-Oncology | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2335.v1>) | N/A | [4](<https://openalex.org/W7127047419>) |
 | 2025 | Foundation Models For Seismic Data Processing: An Extensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.24166>) | N/A | [4](<https://openalex.org/W4417054873>) |
 | 2024 | Exploring the Potential Role of Generative AI in the TRAPD Procedure for Survey Translation | arXiv | [paper](<https://arxiv.org/abs/2411.14472>) | N/A | [4](<https://openalex.org/W4404985394>) |
 | 2024 | A Theoretical Survey on Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2410.11444>) | N/A | [3](<https://openalex.org/W4403574084>) |
@@ -94,6 +95,32 @@
 | 2026 | Is it Cake or is it AI? A Systematic Review of Human Uncertainty in Distinguishing Generative Artificial Intelligence Content | arXiv | [paper](<https://arxiv.org/abs/2604.03437>) | N/A | [0](<https://openalex.org/W7151479837>) |
 | 2026 | Unsupervised Post-Training of Foundation Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2044>) | N/A | [0](<https://openalex.org/W7204476104>) |
 | 2024 | Unlocking Fair Use in the Generative AI Supply Chain: A Systematized Literature Review | arXiv | [paper](<https://arxiv.org/abs/2408.00613>) | N/A | [0](<https://openalex.org/W4401307488>) |
+| 2026 | Visual Generative AI for Extended Reality: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2630.v1>) | N/A | N/A |
+| 2026 | From Generative AI Capability to Business Value: A Critical Review of Verification Complements and Value Capture | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2554.v1>) | N/A | N/A |
+| 2026 | A Survey on Side-Tuning for Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1986.v1>) | N/A | N/A |
+| 2026 | Generative AI in Construction Safety: A Systematic Literature Review of Methods, Evidence, Deployment Gaps, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1503.v1>) | N/A | N/A |
+| 2026 | Assessment in the Age of Generative AI: Academic Integrity, Authentic Learning and Assessment Design in Tanzanian Universities — A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1376.v1>) | N/A | N/A |
+| 2026 | Pretrained on Animals, Deployed on Plants: Why RNA Foundation Models Have Not Decoded Plant Regulation or Genome Editing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0255.v1>) | N/A | N/A |
+| 2026 | Generative AI-Based Virtual Hand Skin Tone and Nail Art Color Harmony: An Integrative Review Toward Personalized Nail Color Selection Guidelines | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1667.v1>) | N/A | N/A |
+| 2026 | Generative Artificial Intelligence in Health Economics and Outcomes Research: A Critical Review and a Capability–Governance Framework for Health Technology Assessment in Low- and Middle-Income Countries | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1987.v1>) | N/A | N/A |
+| 2026 | Worldwide Image Geolocalization in the Foundation Model Era: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1749.v1>) | [code](<https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization>) | N/A ([⭐ 6](<https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization>)) |
+| 2026 | Human-Centric Intelligence in the Era of Foundation Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.18184>) | [code](<https://github.com/cseeyangchen/Human-Centric-AI>) | N/A ([⭐ 25](<https://github.com/cseeyangchen/Human-Centric-AI>)) |
+| 2026 | The Landscape of Single-Cell Foundation Models: Design Principles, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1166.v1>) | N/A | N/A |
+| 2026 | Streaming Data Mining and Modeling: A Survey from Deep Learning to the Foundation Model Era | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0456.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Mineral Exploration: Methods, Foundation Models, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2303.v1>) | N/A | N/A |
+| 2026 | The Evolution of Deep Learning: From Perceptrons to Generative Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1764.v1>) | N/A | N/A |
+| 2026 | Global Impacts of Artificial General Intelligence and Artificial Superintelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0329.v1>) | N/A | N/A |
+| 2026 | A Survey of Physical AI: A History from ChatGPT to World Models and Embodied Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0173.v1>) | [code](<https://github.com/Hai-chao-Zhang/Awesome-Physical-AI>) | N/A ([⭐ 3](<https://github.com/Hai-chao-Zhang/Awesome-Physical-AI>)) |
+| 2026 | A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1532.v1>) | N/A | N/A |
+| 2026 | The Role of Generative Artificial Intelligence for Scientific Writing: A Scoping Review of Empirical Evidence (2023-2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1200.v1>) | N/A | N/A |
+| 2026 | Large Language Models and Foundation Models for Petroleum Engineering: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1814.v1>) | N/A | N/A |
+| 2026 | Can Large Language Models Diagnose Machine Faults? A Comprehensive Survey from Deep Learning to Foundation Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177281073.38924355/v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey on the Foundations and Future of Artificial General Intelligence | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176315468.89085719/v2>) | N/A | N/A |
+| 2026 | Generative AI-Assisted Management of Integrated Terrestrial and Non-Terrestrial Networks: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177039670.02651084/v1>) | N/A | N/A |
+| 2026 | A Survey of Next-Generation AI and Its Evolving Landscape | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.175329122.29020847/v3>) | N/A | N/A |
+| 2026 | A Survey of the Recent Foundation Models Based on Their Architectural and Learning Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176834456.68708065/v1>) | N/A | N/A |
+| 2026 | Foundation Models in Omics Research: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827205.56282524/v1>) | N/A | N/A |
+| 2026 | A Comprehensive Review of Physical Artificial Intelligence | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176739762.23746519/v1>) | N/A | N/A |
 | 2025 | On The Role of Pretrained Language Models in General-Purpose Text Embeddings: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.20783>) | N/A | N/A |
 | 2025 | Unmasking Synthetic Realities in Generative AI: A Comprehensive Review of Adversarially Robust Deepfake Detection Systems | arXiv | [paper](<https://arxiv.org/abs/2507.21157>) | N/A | N/A |
 | 2025 | From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion | arXiv | [paper](<https://arxiv.org/abs/2507.09081>) | N/A | N/A |

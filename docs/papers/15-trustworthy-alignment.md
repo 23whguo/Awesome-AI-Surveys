@@ -9,7 +9,7 @@
 
 [Trustworthy AI, Alignment & Evaluation](../categories/15-trustworthy.md)
 
-**27 surveys · Page 1/1**
+**36 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -27,7 +27,7 @@
 | 2025 | Reward Models in Deep Reinforcement Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1199>) | N/A | [23](<https://openalex.org/W4415333972>) |
 | 2025 | A Survey of LLM Alignment: Instruction Understanding, Intention Reasoning, and Reliable Generation | arXiv | [paper](<https://arxiv.org/abs/2502.09101>) | N/A | [14](<https://openalex.org/W7154627499>) |
 | 2025 | Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey | arXiv | [paper](<https://arxiv.org/abs/2510.01925>) | N/A | [13](<https://openalex.org/W4414819524>) |
-| 2026 | Progress Reward Modeling for Robotic Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.21655>) | N/A | [8](<https://openalex.org/W7171376342>) |
+| 2026 | Progress Reward Modeling for Robotic Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.21655>) | [code](<https://github.com/sterzhang/Awesome-Progress-Models>) | [8](<https://openalex.org/W7171376342>) ([⭐ 89](<https://github.com/andyzworks/Awesome-Progress-Models>)) |
 | 2025 | A Survey on Training-free Alignment of Large Language Models | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.238>) | N/A | [7](<https://openalex.org/W4416035243>) |
 | 2025 | How do Language Models Reshape Entity Alignment? A Survey of LM-Driven EA Methods: Advances, Benchmarks, and Future | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1184>) | N/A | [4](<https://openalex.org/W4416035766>) |
 | 2025 | RLHF: A comprehensive Survey for Cultural, Multimodal and Low Latency Alignment Methods | arXiv | [paper](<https://arxiv.org/abs/2511.03939>) | N/A | [3](<https://openalex.org/W4416023378>) |
@@ -36,6 +36,15 @@
 | 2026 | A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration | arXiv | [paper](<https://arxiv.org/abs/2610.09891>) | N/A | [0](<https://openalex.org/W7221021311>) |
 | 2026 | AI Alignment through a Game-theoretic Lens: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2607>) | N/A | [0](<https://openalex.org/W7204787062>) |
 | 2026 | A Survey on Value Alignment in Agentic AI Systems | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/896>) | N/A | [0](<https://openalex.org/W7213391790>) |
+| 2026 | Alignment in Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1245.v3>) | N/A | N/A |
+| 2026 | Large Language Model Alignment with Complex Feedback: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0674.v1>) | N/A | N/A |
+| 2026 | When LLMs Take Action: A Survey on the Safety and Alignment of Language-Conditioned Embodied Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0061.v1>) | N/A | N/A |
+| 2026 | Seeing the Forest and the Trees: A Survey of Analytic Rubrics for Holistic Reward Modeling in LLMs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1624.v1>) | [code](<https://github.com/EADMO/Rubric-RMs-Survey>) | N/A ([⭐ 17](<https://github.com/EADMO/Rubric-RMs-Survey>)) |
+| 2026 | Towards Pluralistic Alignment of LLMs: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1876.v1>) | N/A | N/A |
+| 2026 | Personalized Alignment in the Era of LLMs: A Review of Methodologies, Datasets, Evaluation, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177083699.99572896/v1>) | N/A | N/A |
+| 2026 | Privacy-Preserving LLM Preference Alignment: A Systematic Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978434.43544529/v1>) | N/A | N/A |
+| 2026 | Large Language Models: A Survey of Architectures, Training Paradigms, and Alignment Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1138.v1>) | N/A | N/A |
+| 2026 | Instruction Tuning for Large Language Models: RLHF, Supervised Fine-Tuning, and Alignment Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.43758400/v1>) | N/A | N/A |
 | 2025 | Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens | arXiv | [paper](<https://arxiv.org/abs/2508.16982>) | N/A | N/A |
 | 2025 | Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2506.09656>) | N/A | N/A |
 | 2025 | Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.17352>) | N/A | N/A |

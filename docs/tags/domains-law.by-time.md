@@ -9,11 +9,12 @@
 
 
 
-**11 surveys · Page 1/1**
+**12 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Semantics of Subterfuge: Benchmarking Legal Deception Detection Against General-domain State-of-the-Art | arXiv | [paper](<https://arxiv.org/abs/2607.29066>) | N/A | [0](<https://openalex.org/W7172250072>) |
+| 2026 | Trustworthy Legal Reasoning: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0870.v1>) | N/A | [0](<https://openalex.org/W7128628788>) |
 | 2025 | Integrating Legal and Logical Specifications in Perception, Prediction, and Planning for Automated Driving: A Survey of Methods | arXiv | [paper](<https://arxiv.org/abs/2510.25386>) | N/A | [1](<https://openalex.org/W4416184313>) |
 | 2025 | Large Language Models Meet Legal Artificial Intelligence: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.09969>) | [code](<https://github.com/ZhitianHou/LLMs4LegalAI>) | [21](<https://openalex.org/W4414593777>) ([⭐ 20](<https://github.com/ZhitianHou/LLMs4LegalAI>)) |
 | 2025 | A Survey of Classification Tasks and Approaches for Legal Contracts | arXiv | [paper](<https://arxiv.org/abs/2507.21108>) | N/A | [9](<https://openalex.org/W4415271235>) |

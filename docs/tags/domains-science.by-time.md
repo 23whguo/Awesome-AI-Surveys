@@ -9,13 +9,21 @@
 
 
 
-**21 surveys · Page 1/1**
+**29 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Multiphysics, Machine Learning, and Physics Informed Approaches to Fault Reactivation During Geological CO₂ Storage: A Critical Review and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0987.v1>) | N/A | N/A |
 | 2026 | Physics-Informed Machine Learning in Prognostics and Health Management: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2608.10047>) | N/A | [1](<https://openalex.org/W7172437325>) |
+| 2026 | AI for Science: A Systematic Survey of Architectures, Autonomy, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0102.v1>) | N/A | N/A |
 | 2026 | A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology | arXiv | [paper](<https://arxiv.org/abs/2607.00178>) | N/A | [1](<https://openalex.org/W7167042043>) |
 | 2026 | Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review | arXiv | [paper](<https://arxiv.org/abs/2605.21903>) | N/A | [1](<https://openalex.org/W7162070289>) |
+| 2026 | Advancements in Physics-Informed Neural Networks for Solving Maxwell’s Equations: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0679.v1>) | N/A | N/A |
+| 2026 | Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial | arXiv | [paper](<https://arxiv.org/abs/2604.01328>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Multimodal LLMs for Scientific Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1847.v1>) | N/A | [0](<https://openalex.org/W7131894700>) |
+| 2026 | Collaborative and Autonomous AI for Science and Innovation: Practices, Challenges, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155935.57684125/v1>) | [code](<https://github.com/TJUNLP-xxy/Awesome-AI-Science-and-Innovation>) | N/A ([⭐ 11](<https://github.com/TJUNLP-xxy/Awesome-AI-Science-and-Innovation>)) |
+| 2026 | Foundation Models for Scientific Discovery: A Survey of Modalities, Architectures, and Pre-training Paradigms | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177042078.81811026/v1>) | N/A | N/A |
+| 2026 | A Survey of Human-AI Collaboration for Scientific Discovery | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176823034.44078313/v1>) | N/A | [2](<https://openalex.org/W7118658315>) |
 | 2026 | How Far Are AI Scientists from Changing the World? A Survey of Autonomous Scientific Discovery | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1285>) | N/A | N/A |
 | 2025 | Physics-informed machine learning for combustion: A review | arXiv | [paper](<https://arxiv.org/abs/2509.03347>) | N/A | [8](<https://openalex.org/W4416716965>) |
 | 2025 | From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery | arXiv | [paper](<https://arxiv.org/abs/2508.14111>) | N/A | [170](<https://openalex.org/W4415238177>) |

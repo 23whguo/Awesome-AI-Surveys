@@ -13,6 +13,15 @@ acquisition provenance has not been independently established.
 Papers remain the property of their authors and publishers.
 This repository redistributes a bibliographic index, not the papers.
 
+2026 external-source metadata:
+TechRxiv and Preprints.org metadata via Crossref (https://api.crossref.org/).
+DOI registration-agency crosscheck via DataCite (https://api.datacite.org/).
+Hugging Face Daily Papers via its official public API
+(https://huggingface.co/api/daily_papers).
+Metadata retains source identifiers and links. Full papers and full abstract
+corpora are not redistributed; linked content retains its original rights.
+API enumeration and metadata screening do not certify platform completeness.
+
 Layout inspiration only:
 https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents
 https://github.com/kaikatsumata/awesome-ai-survey-papers

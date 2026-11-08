@@ -9,14 +9,28 @@
 
 
 
-**21 surveys · Page 1/1**
+**35 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | AI-Enabled Smart and Precision Agriculture: Smart Sensors, IoT, Deep Learning, Computer Vision, and Decision Support: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2112.v1>) | N/A | N/A |
 | 2026 | A Data-Centric Review of Plant Disease Datasets: Taxonomy, Critical Analysis, Environmental Variability, and Implications for Precision Agriculture | arXiv | [paper](<https://arxiv.org/abs/2610.07087>) | N/A | [0](<https://openalex.org/W7220916406>) |
+| 2026 | Geospatial Artificial Intelligence in Precision Agriculture: A Systematic Review of Applications, Multimodal Data Integration, and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0386.v1>) | N/A | N/A |
+| 2026 | Evaluating the Efficacy of Generative AI in Agricultural Extension Services for Smallholder Farmers: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0864.v1>) | N/A | N/A |
+| 2026 | Integrating Envirotyping and Phenomics for AI-Enabled Multi-Environment Genomic Prediction in Crop Breeding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0950.v1>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning in Agriculture: A PRISMA Systematic Review of Architectures, Applications, and Open Science Practices (2019–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0648.v2>) | N/A | N/A |
 | 2026 | Review and Evaluation of Point-Cloud based Leaf Surface Reconstruction Methods for Agricultural Applications | arXiv | [paper](<https://arxiv.org/abs/2604.03328>) | N/A | [1](<https://openalex.org/W7151305725>) |
+| 2026 | A Decade of Applied Quantitative Analytics for Philippine Policy: Forecasting, Statistical Forensics, and Predictive Modeling Across Education, Energy, Agriculture, Health, and Finance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1811.v1>) | N/A | N/A |
+| 2026 | From Decision-Support Tools to Digital Twins: Digital Farming, Data Platforms, and AI for Sustainable Dairy Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1613.v1>) | N/A | N/A |
 | 2026 | Affordable Precision Agriculture: A Deployment-Oriented Review of Low-Cost, Low-Power Edge AI and TinyML for Resource-Constrained Farming Systems | arXiv | [paper](<https://arxiv.org/abs/2603.15085>) | N/A | N/A |
+| 2026 | UAV-Based Remote Sensing and Artificial Intelligence for Climate-Smart Agriculture: A Systematic Review of Technologies, Analytics, and Applications in Smallholder Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0355.v1>) | N/A | N/A |
+| 2026 | Agricultural Intelligence: A Technical Review Within the Perception-Decision-Execution (PDE) Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1901.v1>) | N/A | N/A |
+| 2026 | Real2Sim Closed-loop Framework in Agriculture Robotics: A Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177223114.44173322/v1>) | N/A | N/A |
+| 2026 | Farm-Scale Autonomous Welfare Monitoring in Smart Livestock Farming: A Systematic Review of Robotics and Multimodal AI with an Emphasis on the Lab-to-Farm Deployment Gap | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138881.15794631/v1>) | N/A | N/A |
+| 2026 | Comprehensive Review on Deep Learning and Foundation Models in Agriculture: Progress, Benchmarks, and Open Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177031356.68798137/v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey on Farmland Segmentation: Methodologies, Applications, and the Road to Agriculture 5.0 | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004901.18423035/v1>) | N/A | N/A |
 | 2026 | Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2601.22198>) | N/A | [1](<https://openalex.org/W7168156841>) |
+| 2026 | Survey on Deep Learning Application in Agricultural Innovation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1048.v1>) | N/A | [0](<https://openalex.org/W7124256270>) |
 | 2025 | A Comprehensive Review of Agricultural Parcel and Boundary Delineation from Remote Sensing Images: Recent Progress and Future Perspectives | arXiv | [paper](<https://arxiv.org/abs/2508.14558>) | N/A | [31](<https://openalex.org/W7128848440>) |
 | 2025 | AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock | arXiv | [paper](<https://arxiv.org/abs/2507.22101>) | [code](<https://github.com/umair1221/AI-in-Agriculture>) | N/A ([⭐ 19](<https://github.com/umair1221/AI-in-Agriculture>)) |
 | 2025 | A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2507.18376>) | N/A | [15](<https://openalex.org/W4416553166>) |

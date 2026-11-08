@@ -9,7 +9,7 @@
 
 
 
-**29 surveys · Page 1/1**
+**40 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -33,7 +33,9 @@
 | 2026 | Deep Time-Series Forecasting in 10 Years: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.19899>) | [code](<https://github.com/Master-PLC/Awesome-TSF-Papers>) | [5](<https://openalex.org/W7221151566>) ([⭐ 17](<https://github.com/Master-PLC/Awesome-TSF-Papers>)) |
 | 2025 | A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis and Future Directions | TKDE | [paper](<https://doi.org/10.1109/TKDE.2026.3671378>) | N/A | [5](<https://openalex.org/W7134107951>) |
 | 2025 | The Evolution of Probabilistic Price Forecasting Techniques: A Review of the Day-Ahead, Intra-Day, and Balancing Markets | arXiv | [paper](<https://arxiv.org/abs/2511.05523>) | N/A | [4](<https://openalex.org/W7154561719>) |
+| 2026 | Modeling Holiday Effect on Retail Demand Forecasting: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0840.v1>) | N/A | [3](<https://openalex.org/W7123361302>) |
 | 2026 | A Review of Large Language Models for Stock Price Forecasting from a Hedge-Fund Perspective | arXiv | [paper](<https://arxiv.org/abs/2605.05211>) | N/A | [2](<https://openalex.org/W7163048091>) |
+| 2026 | Comparative Study of Arima, Lstm and Prophet Models for Time Series Forecasting: A Comprehensive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1377.v1>) | N/A | [2](<https://openalex.org/W7125189927>) |
 | 2026 | LLM Agent Based Renewable Energy Forecasting Using Edge and IoT Data A Review of Solar Wind Weather and Grid Aware Decision Support | arXiv | [paper](<https://arxiv.org/abs/2605.25141>) | N/A | [1](<https://openalex.org/W7162433394>) |
 | 2026 | A review of imbalance price forecasting in Europe: algorithms, metrics and the way forward | arXiv | [paper](<https://arxiv.org/abs/2605.17054>) | N/A | [1](<https://openalex.org/W7167917828>) |
 | 2025 | A Review of the Long Horizon Forecasting Problem in Time Series Analysis | arXiv | [paper](<https://arxiv.org/abs/2506.12809>) | N/A | [1](<https://openalex.org/W4415112522>) |
@@ -41,4 +43,13 @@
 | 2026 | Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.26467>) | N/A | [0](<https://openalex.org/W7171870358>) |
 | 2026 | From Vector Autoregressions to AI-based Time Series Forecasting: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.14279>) | N/A | [0](<https://openalex.org/W7169571784>) |
 | 2026 | Forecasting Oil Consumption: The Statistical Review of World Energy Meets Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2602.01963>) | N/A | [0](<https://openalex.org/W7127318134>) |
+| 2026 | Explainable and Hybrid AI Approaches for Corporate Financial Performance Forecasting: A Structured Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1215.v1>) | N/A | [0](<https://openalex.org/W7124761743>) |
 | 2026 | Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/891>) | N/A | [0](<https://openalex.org/W7213435699>) |
+| 2026 | From 3D Scene Understanding to Hazard Forecasting: A Critical Review of Remote Sensing–Driven Emergency Digital Twins | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0926.v1>) | N/A | N/A |
+| 2026 | Wind Power Forecasting Architectures in Complex Terrain and Coastal Environments: A Systematic Review and Meta-Analysis of Comparative Performance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0967.v1>) | N/A | N/A |
+| 2026 | Computational Forecasting of Influenza Virus Evolution: An Integrative Review of Genomic Surveillance, Antigenic Prediction, and Outbreak Risk | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1419.v1>) | N/A | N/A |
+| 2026 | Short-Term Demand Forecasting in Mobility-on-Demand Systems: A Systematic Literature Review and Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1278.v1>) | N/A | N/A |
+| 2026 | A Decade of Applied Quantitative Analytics for Philippine Policy: Forecasting, Statistical Forensics, and Predictive Modeling Across Education, Energy, Agriculture, Health, and Finance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1811.v1>) | N/A | N/A |
+| 2026 | LSTM vs. Transformer Models in Power Forecasting: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0624.v1>) | N/A | N/A |
+| 2026 | Kolmogorov-Arnold Networks for Time Series Forecasting: Architectures, Implementation, and Evaluation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177130591.14244418/v1>) | N/A | N/A |
+| 2026 | Lane Change Prediction in Autonomous Driving: A Statistical Survey on Intention and Trajectory Forecasting | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176761699.98887344/v1>) | N/A | N/A |

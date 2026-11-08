@@ -9,7 +9,7 @@
 
 
 
-**22 surveys · Page 1/1**
+**25 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -34,4 +34,7 @@
 | 2026 | Knowledge distillation method for spatio-temporal tasks: a survey | GeoInformatica | [paper](<https://doi.org/10.1007/s10707-025-00563-x>) | N/A | [1](<https://openalex.org/W7116842382>) |
 | 2026 | Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems | arXiv | [paper](<https://arxiv.org/abs/2611.08461>) | N/A | [0](<https://openalex.org/W7225422230>) |
 | 2026 | A Survey on Knowledge Distillation of Vision-Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.180>) | [code](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>) | [0](<https://openalex.org/W7224499228>) ([⭐ 121](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>)) |
+| 2026 | Efficient On-Policy Distillation for Language Models: A Survey of Costs, Trade-Offs, and Evaluation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2702.v1>) | N/A | N/A |
+| 2026 | One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation | arXiv | [paper](<https://arxiv.org/abs/2608.25936>) | N/A | N/A |
+| 2026 | Knowledge Distillation for Large Language Models: Model Compression, Efficiency, and Transfer Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.47778906/v1>) | N/A | N/A |
 | 2025 | A Comprehensive Survey on Knowledge Distillation | arXiv | [paper](<https://arxiv.org/abs/2503.12067>) | [code](<https://github.com/IPL-Sharif/KD_Survey>) | N/A ([⭐ 83](<https://github.com/IPL-sharif/KD_Survey>)) |

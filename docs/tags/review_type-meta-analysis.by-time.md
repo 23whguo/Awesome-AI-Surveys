@@ -9,24 +9,34 @@
 
 
 
-**53 surveys · Page 1/1**
+**63 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Machine Learning for Live-Birth Prediction After IVF/ICSI From Structured Clinical Data: A Systematic Review, Meta-Analysis, and Critical Appraisal | arXiv | [paper](<https://arxiv.org/abs/2611.07124>) | N/A | [0](<https://openalex.org/W7225390283>) |
 | 2026 | AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration | arXiv | [paper](<https://arxiv.org/abs/2610.42001>) | N/A | [0](<https://openalex.org/W7225122435>) |
 | 2026 | Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting | arXiv | [paper](<https://arxiv.org/abs/2610.33103>) | N/A | [0](<https://openalex.org/W7223780228>) |
+| 2026 | Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1404.v1>) | N/A | N/A |
 | 2026 | The Gap Is in the Geometry: A Convergent Meta-Analysis of Multi-Facet Aerial and Remote Sensing Video Understanding | arXiv | [paper](<https://arxiv.org/abs/2610.19102>) | N/A | [0](<https://openalex.org/W7221914767>) |
+| 2026 | Wind Power Forecasting Architectures in Complex Terrain and Coastal Environments: A Systematic Review and Meta-Analysis of Comparative Performance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0967.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Predicting Delayed Graft Function and Graft Survival After Kidney Transplantation: A Systematic Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1335.v1>) | N/A | N/A |
+| 2026 | Preoperative Assessment of HER2 Status in Gastric Cancer Using Radiomics and Machine Learning: A Systematic Review and Diagnostic Accuracy Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0828.v1>) | N/A | N/A |
 | 2026 | Constructing Executable Analytical Knowledge Representations for Meta-Analysis Synthesis Using an Agentic Harness | arXiv | [paper](<https://arxiv.org/abs/2608.01711>) | N/A | [0](<https://openalex.org/W7172406168>) |
+| 2026 | Generative AI Acceptance in Higher Education: A Meta-Analysis and Meta-Analytic Structural Equation Model of the 2026 PLS-SEM Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2015.v1>) | N/A | N/A |
 | 2026 | AutoSynthesis: An agentic system for automated meta-analysis | arXiv | [paper](<https://arxiv.org/abs/2607.15247>) | N/A | [2](<https://openalex.org/W7169579615>) |
 | 2026 | Causal Perspectives on Network Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2607.09200>) | N/A | [0](<https://openalex.org/W7168188163>) |
 | 2026 | When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking | arXiv | [paper](<https://arxiv.org/abs/2606.10287>) | N/A | [0](<https://openalex.org/W7164132534>) |
 | 2026 | Bias in Filter Feature Selection Evaluation: A Meta-Analysis of Datasets, Baselines, and Experimental Design Choices | arXiv | [paper](<https://arxiv.org/abs/2606.07068>) | N/A | [0](<https://openalex.org/W7163922358>) |
 | 2026 | Learning study similarity to investigate heterogeneity in meta-analysis using LLMs and triplet loss | arXiv | [paper](<https://arxiv.org/abs/2605.29603>) | N/A | [0](<https://openalex.org/W7162791275>) |
 | 2026 | A meta-analysis of the effect of generative AI on productivity and learning in programming | arXiv | [paper](<https://arxiv.org/abs/2605.04779>) | N/A | [6](<https://openalex.org/W7160551821>) |
+| 2026 | AI/ML-Integrated Nutritional and Metabolic Multi-Omics in Cancer: A Systematic Review, Meta-Analysis, and Proposed Translational Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2006.v1>) | N/A | N/A |
+| 2026 | Robotic-Assisted, Video-Assisted, and Open Sleeve Lobectomy After Neoadjuvant Therapy for Non-Small Cell Lung Cancer: A Systematic Review and Network Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0957.v1>) | N/A | N/A |
 | 2026 | The LLM Effect on IR Benchmarks: A Meta-Analysis of Effectiveness, Baselines, and Contamination | SIGIR | [paper](<https://doi.org/10.1145/3805712.3809901>) | N/A | [0](<https://openalex.org/W7168343197>) |
+| 2026 | Generative AI in Cybersecurity: A Systematic Literature Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0324.v1>) | N/A | N/A |
 | 2026 | meta-pipe: An LLM-agent pipeline for end-to-end automated systematic review and meta-analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28363>) | N/A | [1](<https://openalex.org/W7166693886>) |
 | 2026 | Transfer Learning for Meta-analysis Under Covariate Shift | arXiv | [paper](<https://arxiv.org/abs/2604.02656>) | N/A | [0](<https://openalex.org/W7150967596>) |
+| 2026 | Evaluating the Predictive Accuracy of Deep Learning Algorithms for Postoperative Mortality in Cardiac Surgery: A Systematic Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2465.v1>) | N/A | N/A |
+| 2026 | Precision-Guided Surgery for Hilar Cholangiocarcinoma: A Network Meta-Analysis of Robotic, Laparoscopic, and Open Resection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2463.v1>) | N/A | N/A |
 | 2026 | LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28362>) | N/A | [0](<https://openalex.org/W7166642608>) |
 | 2026 | Diagnosing Structural Failures in LLM-Based Evidence Extraction for Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2602.10881>) | [code](<https://github.com/zhiyintan/LLM-Meta-Analysis>) | [5](<https://openalex.org/W7128722571>) ([⭐ 1](<https://github.com/zhiyintan/LLM-Meta-Analysis>)) |
 | 2026 | AI chatbots versus human healthcare professionals: a systematic review and meta-analysis of empathy in patient care | arXiv | [paper](<https://arxiv.org/abs/2602.05628>) | N/A | [105](<https://openalex.org/W4415407986>) |

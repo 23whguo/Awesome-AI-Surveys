@@ -9,9 +9,9 @@
 
 
 
-**2411 surveys · Page 4/13**
+**2699 surveys · Page 4/14**
 
-Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · 4 · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)
+Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · 4 · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md) · [14](review_type-survey-14.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,7 +76,7 @@ Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_
 | 2023 | Result Diversification in Search and Recommendation: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3382262>) | [code](<https://github.com/forrest-stone/diversity>) | [67](<https://openalex.org/W4393906116>) ([⭐ 3](<https://github.com/Forrest-Stone/Diversity>)) |
 | 2022 | A Survey on Neural Open Information Extraction: Current Status and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/793>) | N/A | [67](<https://openalex.org/W4285604902>) |
 | 2022 | Meta Learning for Natural Language Processing: A Survey | NAACL | [paper](<https://aclanthology.org/2022.naacl-main.49>) | N/A | [67](<https://openalex.org/W4287854777>) |
-| 2026 | World Model for Robot Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.00080>) | N/A | [66](<https://openalex.org/W7160063469>) |
+| 2026 | World Model for Robot Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.00080>) | [code](<https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy>) | [66](<https://openalex.org/W7160063469>) ([⭐ 879](<https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy>)) |
 | 2025 | Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap | arXiv | [paper](<https://arxiv.org/abs/2503.21411>) | [code](<https://github.com/tongnie/awesome-llm4tr>) | [66](<https://openalex.org/W4411443861>) ([⭐ 79](<https://github.com/tongnie/awesome-llm4tr>)) |
 | 2024 | A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice | arXiv | [paper](<https://arxiv.org/abs/2410.15326>) | N/A | [66](<https://openalex.org/W4404088575>) |
 | 2024 | AI Safety in Generative AI Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.18369>) | N/A | [66](<https://openalex.org/W4402466851>) |
@@ -216,4 +216,4 @@ Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_
 | 2025 | Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.333>) | [code](<https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection>) | [50](<https://openalex.org/W4411119927>) ([⭐ 131](<https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection>)) |
 | 2024 | Out-of-Distribution Detection: A Task-Oriented Survey of Recent Advances | arXiv | [paper](<https://arxiv.org/abs/2409.11884>) | [code](<https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection>) | [50](<https://openalex.org/W4413221778>) ([⭐ 174](<https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection>)) |
 
-Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · 4 · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)
+Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · 4 · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md) · [14](review_type-survey-14.md)

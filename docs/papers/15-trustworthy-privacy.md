@@ -9,7 +9,7 @@
 
 [Trustworthy AI, Alignment & Evaluation](../categories/15-trustworthy.md)
 
-**129 surveys · Page 1/1**
+**146 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -117,6 +117,7 @@
 | 2015 | Review of Anderson and Anderson's Machine Ethics | AI | [paper](<https://doi.org/10.1016/j.artint.2015.08.013>) | N/A | [2](<https://openalex.org/W2206267219>) |
 | 2026 | IP Protection in the Era of Visual Generative AI: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.14730>) | N/A | [1](<https://openalex.org/W7203690993>) |
 | 2026 | Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review | arXiv | [paper](<https://arxiv.org/abs/2608.14562>) | N/A | [1](<https://openalex.org/W7203718042>) |
+| 2026 | Governing Environmental Decisions with Artificial Intelligence: Algorithmic Sustainability for Accountability and Lifecycle Impact, a Policy Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1746.v3>) | N/A | [1](<https://openalex.org/W7143331661>) |
 | 2026 | Trade-offs Between Individual and Group Fairness in Machine Learning: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2602.00094>) | N/A | [1](<https://openalex.org/W7127278209>) |
 | 2026 | Responsible AI for General-Purpose Systems: Overview, Challenges, and A Path Forward | arXiv | [paper](<https://arxiv.org/abs/2601.13122>) | N/A | [1](<https://openalex.org/W7125114437>) |
 | 2025 | A Critical Review of Predominant Bias in Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2502.11031>) | N/A | [1](<https://openalex.org/W4407690013>) |
@@ -128,9 +129,25 @@
 | 2026 | Does Welsh media need a review? Detecting bias in Nation.Cymru's political reporting | arXiv | [paper](<https://arxiv.org/abs/2604.17628>) | N/A | [0](<https://openalex.org/W7155098501>) |
 | 2026 | Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems | arXiv | [paper](<https://arxiv.org/abs/2604.15078>) | N/A | [0](<https://openalex.org/W7154680839>) |
 | 2026 | Operationalizing Fairness in Text-to-Image Models: A Survey of Bias, Fairness Audits and Mitigation Strategies | arXiv | [paper](<https://arxiv.org/abs/2604.16516>) | N/A | [0](<https://openalex.org/W7155079896>) |
+| 2026 | Governing Environmental Decisions in the Age of AI: Algorithmic Sustainability as a Policy Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1746.v2>) | N/A | [0](<https://openalex.org/W7131881814>) |
+| 2026 | A Systematic Review of Privacy-Enhancing Technologies (PETs) for Securing Personally Identifiable Information in Public Cloud Architectures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0303.v1>) | N/A | [0](<https://openalex.org/W7127944597>) |
 | 2025 | An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation | arXiv | [paper](<https://arxiv.org/abs/2512.02689>) | N/A | [0](<https://openalex.org/W4417009244>) |
 | 2025 | Mitigating Bias in Machine Learning: A Comprehensive Review and Novel Approaches | AAAI | [paper](<https://doi.org/10.1609/aaai.v39i27.35107>) | N/A | [0](<https://openalex.org/W4409362090>) |
 | 2024 | A Novel Review of Stability Techniques for Improved Privacy-Preserving Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2406.00073>) | N/A | [0](<https://openalex.org/W4399354194>) |
+| 2026 | Modernising Humanity, Endangering Life: Artificial Intelligence, Nuclear Technology and Converging Pathways to the Next Mass Extinction | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0119.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Digital Health for Women's Cardiovascular Health: A Survey of Bias, Equity, and Inclusive Innovation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2232.v1>) | N/A | N/A |
+| 2026 | Algorithmic Accountability and Continuous Audit in High-Risk Public AI Systems: A Narrative Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1380.v1>) | N/A | N/A |
+| 2026 | A Review of Standards for Artificial Intelligence Compliance in Nuclear Instrumentation Control System | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1115.v1>) | N/A | N/A |
+| 2026 | From Telehealth to Artificial Intelligence: Digital Health Technologies for Indigenous Communities—A Systematic Review of Diagnostic Access, Ethical Governance, and Sustainable Health Equity | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1978.v1>) | N/A | N/A |
+| 2026 | The Symbiotic Mandate: On the Urgency of a Mutually Uplifting Synergy Between Artificial Intelligence and Sustainability | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0077.v1>) | N/A | N/A |
+| 2026 | A Survey on Selection Bias in Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2234.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence (AI) E-Banking in Bangladesh: An Integrated Model of Consumer Decision-Making, Ethical Trust, and Fraud Prevention | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2057.v1>) | N/A | N/A |
+| 2026 | Software Unfairness Detection in Machine Learning-based Systems: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0038.v1>) | N/A | N/A |
+| 2026 | Attacks and Defenses in Differentially Private Deep Learning: New Security Risks in New Era | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1179.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence–Enabled Approaches to Enhance Maternal Vaccine Uptake: Implementation Opportunities, Challenges, and Ethical Implications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0590.v1>) | N/A | N/A |
+| 2026 | Toward a Philosophical Taxonomy of Bias in Large Language Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177273600.04458982/v1>) | N/A | N/A |
+| 2026 | Differentially Private Graph Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220347.77114729/v1>) | N/A | N/A |
+| 2026 | Balancing Progress and Ethics in AI: A Survey of Opportunities, Risks, and Responsible Innovation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177031372.26564676/v1>) | N/A | N/A |
 | 2025 | A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness | arXiv | [paper](<https://arxiv.org/abs/2510.13890>) | [code](<https://github.com/FairyFali/SLMs-Survey>) | N/A ([⭐ 262](<https://github.com/FairyFali/SLMs-Survey>)) |
 | 2025 | Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives | arXiv | [paper](<https://arxiv.org/abs/2507.14519>) | [code](<https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers>) | N/A ([⭐ 90](<https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers>)) |
 | 2025 | Datasets for Fairness in Language Models: An In-Depth Survey | arXiv | [paper](<https://arxiv.org/abs/2506.23411>) | [code](<https://github.com/vanbanTruong/Fairness-in-Large-Language-Models>) | N/A ([⭐ 43](<https://github.com/vanbanTruong/Fairness-in-Large-Language-Models>)) |

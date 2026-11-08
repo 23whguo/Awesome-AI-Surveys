@@ -9,10 +9,11 @@
 
 
 
-**9 surveys · Page 1/1**
+**10 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Neuro-Symbolic AI in Education: A Systematic Literature Review of Architectures, Pedagogical Integration, and Trustworthy Intelligent Learning Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0506.v1>) | N/A | N/A |
 | 2026 | Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery | arXiv | [paper](<https://arxiv.org/abs/2606.08728>) | [code](<https://github.com/Starscream-11813/awesome-AI4Math>) | [4](<https://openalex.org/W7163990527>) ([⭐ 3](<https://github.com/Starscream-11813/awesome-AI4Math>)) |
 | 2026 | Neuro-symbolic AI for Predictive Maintenance (PdM) -- review and recommendations | arXiv | [paper](<https://arxiv.org/abs/2602.00731>) | N/A | [3](<https://openalex.org/W7127313629>) |
 | 2025 | Neuro-Symbolic AI for Cybersecurity: State of the Art, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2509.06921>) | N/A | N/A |

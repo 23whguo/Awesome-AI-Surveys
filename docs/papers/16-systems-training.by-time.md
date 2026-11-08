@@ -9,10 +9,11 @@
 
 [Efficient AI & Machine Learning Systems](../categories/16-systems.by-time.md)
 
-**5 surveys · Page 1/1**
+**6 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Label Augmentation in Machine Learning: Data-Efficient Training, Semi-Supervised Learning, and Model Generalization | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784495.51275250/v1>) | N/A | N/A |
 | 2024 | Efficient Training of Large Language Models on Distributed Infrastructures: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.20018>) | N/A | [82](<https://openalex.org/W4401202443>) |
 | 2024 | Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2404.06114>) | N/A | [35](<https://openalex.org/W4394709322>) |
 | 2023 | A Survey on Efficient Training of Transformers | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/764>) | N/A | [119](<https://openalex.org/W4385764034>) |

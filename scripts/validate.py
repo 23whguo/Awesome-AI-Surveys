@@ -2,6 +2,8 @@
 from __future__ import annotations
 import collections
 import csv
+import datetime as dt
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -39,6 +41,75 @@ def main():
             if not set(tags) <= set(vocab.get(dim, [])): errors.append('Unknown tag: ' + row['id'])
         if row['peer_review_status'] != 'not-independently-verified': errors.append('Unverified publication claim: ' + row['id'])
     if len(rows) != manifest['unique_surveys']: errors.append('Manifest work count mismatch')
+    harvest_path=ROOT/'data/harvest-2026.json'
+    if harvest_path.exists():
+        harvest=json.loads(harvest_path.read_text(encoding='utf-8'))
+        expansion=json.loads((ROOT/'data/expansion-2026.json').read_text(encoding='utf-8'))
+        external=[json.loads(line) for line in (ROOT/'data/external-review-audit.jsonl').read_text(encoding='utf-8').splitlines() if line.strip()]
+        source_map={'techrxiv':'techrxiv-2026','preprints':'preprints-2026','huggingface':'huggingface-daily-2026'}
+        input_manifest={s['id']:s for s in manifest['sources']}
+        if set(harvest['sources'])!=set(source_map): errors.append('External source audit is incomplete')
+        for key,source in source_map.items():
+            audit_source=harvest['sources'][key]
+            supplied=input_manifest.get(source,{})
+            if audit_source['records']!=supplied.get('counts',{}).get('records'): errors.append('Harvest/input record count mismatch: '+source)
+            if audit_source['input_sha256']!=supplied.get('sha256'): errors.append('Harvest/input checksum mismatch: '+source)
+            if key=='huggingface':
+                days=(dt.date.fromisoformat(harvest['through'])-dt.date.fromisoformat(harvest['from'])).days+1
+                if len(audit_source['partitions'])!=days or len({p['value'] for p in audit_source['partitions']})!=days:
+                    errors.append('Missing or duplicate HF daily partitions')
+                if audit_source['complete_within_api_scope'] and not all(p['complete'] and p['sets_agree'] for p in audit_source['monthly_crosschecks']):
+                    errors.append('HF crosscheck claim inconsistent with evidence')
+            elif audit_source['complete_within_api_scope']:
+                if not all(p['complete'] and p['unique_records']==p['expected_records'] for p in audit_source['partitions']):
+                    errors.append('Crossref partition completion claim inconsistent: '+source)
+                check=audit_source['publication_date_crosscheck']
+                if check['errors'] or check['unique_dois']!=check['expected_records']:
+                    errors.append('Crossref date-axis crosscheck inconsistent: '+source)
+        by_source_line={(r['source'],r['line']):r for r in external}
+        provenance={(s['dataset'],s['line']):p['id'] for p in rows for s in p['sources']}
+        for item in external:
+            if item['status']=='included':
+                if item['catalog_id'] not in ids or provenance.get((item['source'],item['line']))!=item['catalog_id']:
+                    errors.append('External included record lacks canonical provenance')
+            elif item['catalog_id'] is not None:
+                errors.append('Unapproved external record has a catalog ID')
+        index_manifest=json.loads((ROOT/'data/discovery-index/manifest.json').read_text(encoding='utf-8'))
+        indexed=0
+        for source,source_index in index_manifest.items():
+            seen_records=set()
+            source_total=0
+            for part in source_index['parts']:
+                path=ROOT/part['path']
+                raw=path.read_bytes()
+                if hashlib.sha256(raw).hexdigest()!=part['sha256']: errors.append('Discovery index checksum mismatch: '+part['path'])
+                records=[json.loads(line) for line in raw.decode('utf-8').splitlines() if line.strip()]
+                if len(records)!=part['records']: errors.append('Discovery index shard count mismatch')
+                for item in records:
+                    if item['record_id'] in seen_records: errors.append('Duplicate discovery ID in '+source)
+                    seen_records.add(item['record_id'])
+                    linked=by_source_line.get((source,item['line']))
+                    if linked and (linked['source_record_id']!=item['record_id'] or linked['status']!=item['screening_status']):
+                        errors.append('Discovery/candidate identity mismatch')
+                source_total+=len(records)
+            if source_total!=source_index['records'] or source_total!=input_manifest[source]['counts']['records']:
+                errors.append('Discovery/source total mismatch: '+source)
+            indexed+=source_total
+        baseline=set(expansion['baseline_ids'])
+        if set(expansion['added_ids'])!=ids-baseline or set(expansion['removed_ids'])!=baseline-ids:
+            errors.append('Expansion added/removed identity mismatch')
+        if expansion['current_surveys']!=len(ids) or expansion['net_added']!=len(ids)-len(baseline):
+            errors.append('Expansion headline count mismatch')
+        if expansion['pending_source_records']!=sum(x['status']=='pending' for x in external): errors.append('Pending external count mismatch')
+        pending_index=(ROOT/'docs/EXTERNAL_PENDING_2026.md').read_text(encoding='utf-8')
+        listed_pages=set(re.findall(r'pending/(external-2026-\d{3}\.md)',pending_index))
+        actual_pages={p.name for p in (ROOT/'docs/pending').glob('external-2026-*.md')}
+        if listed_pages!=actual_pages: errors.append('Missing or stale external pending pages')
+        pending_groups=sum(max(0,sum(line.startswith('| ') for line in (ROOT/'docs/pending'/name).read_text(encoding='utf-8').splitlines())-2)
+                           for name in actual_pages)
+        if pending_groups!=expansion['pending_unique_candidates']: errors.append('Browsable pending group count mismatch')
+        if expansion['full_discovery_index_records']!=indexed: errors.append('Full discovery-index total mismatch')
+        if expansion['platform_exhaustiveness_guaranteed'] is not False: errors.append('Unsupported platform-completeness guarantee')
     counts = dict(collections.Counter(p['primary_category'] for p in rows))
     if counts != manifest['category_counts']: errors.append('Manifest category counts mismatch')
     if sum(bool(p['code_url']) for p in rows) != manifest['with_code_links']: errors.append('Code count mismatch')

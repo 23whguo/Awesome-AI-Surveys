@@ -9,14 +9,19 @@
 
 
 
-**77 surveys · Page 1/1**
+**82 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1404.v1>) | N/A | N/A |
 | 2026 | Recent Developments in Transformer Inference Deployment on FPGA Platforms: A Survey | arXiv | [paper](<https://arxiv.org/abs/2609.01212>) | N/A | [2](<https://openalex.org/W7161142939>) |
 | 2026 | Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations | arXiv | [paper](<https://arxiv.org/abs/2608.12299>) | N/A | [0](<https://openalex.org/W7202383147>) |
 | 2026 | A Survey of Adversarial Efficiency Degradation for Vision Transformer by Exploiting Input-adaptive Optimization | arXiv | [paper](<https://arxiv.org/abs/2608.05217>) | N/A | [1](<https://openalex.org/W7201861935>) |
+| 2026 | From Handcrafted Features to Vision Transformers: A Multi-Domain Survey of Image Classification Architectures, Datasets, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1416.v1>) | N/A | N/A |
 | 2026 | Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation | arXiv | [paper](<https://arxiv.org/abs/2604.10098>) | [code](<https://github.com/ZunhaiSu/Awesome-Attention-Sink>) | [14](<https://openalex.org/W7154299917>) ([⭐ 144](<https://github.com/ZunhaiSu/Awesome-Attention-Sink>)) |
+| 2026 | LSTM vs. Transformer Models in Power Forecasting: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0624.v1>) | N/A | N/A |
+| 2026 | Transformer Algorithmics: A Tutorial on Efficient Implementation of Transformers on Hardware | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0932.v1>) | N/A | N/A |
+| 2026 | What Makes a Transformer Solve the TSP? A Component-Wise Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0484.v1>) | N/A | N/A |
 | 2026 | Barriers to Discrete Reasoning with Transformers: A Survey Across Depth, Exactness, and Bandwidth | EACL | [paper](<https://aclanthology.org/2026.eacl-long.87>) | N/A | [1](<https://openalex.org/W7140108538>) |
 | 2026 | The Grammar of Transformers: A Systematic Review of Interpretability Research on Syntactic Knowledge in Language Models | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1679>) | N/A | [5](<https://openalex.org/W7126110420>) |
 | 2025 | Foundation Models and Transformers for Anomaly Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.15905>) | N/A | [23](<https://openalex.org/W4412507263>) |

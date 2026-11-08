@@ -9,22 +9,33 @@
 
 [Trustworthy AI, Alignment & Evaluation](../categories/15-trustworthy.by-time.md)
 
-**61 surveys · Page 1/1**
+**72 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Explainable AI Driven Frameworks for Real Time Cyber Threat Detection and Response: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0090.v1>) | N/A | N/A |
+| 2026 | Mechanistic Interpretability of LLM Behavior: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2446.v1>) | N/A | N/A |
+| 2026 | Open Boxing of AI Systems: Activation-Based Interpretability for AI Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1867.v1>) | N/A | N/A |
 | 2026 | Sparse Autoencoders for Mechanistic Interpretability in NLP: A Critical Survey of Recoverability, Interpretability, and Utility | arXiv | [paper](<https://arxiv.org/abs/2610.20139>) | N/A | [0](<https://openalex.org/W7222064187>) |
+| 2026 | Responsible and Trustworthy Agentic AI: Governance, Assurance, Explainability, Controllability, and Human Oversight: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1294.v1>) | N/A | N/A |
+| 2026 | Explainable NLP in the Era of Large Language Models: A Unified Taxonomy, Evaluation Frameworks, and Decision Guidance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0435.v1>) | N/A | N/A |
+| 2026 | From Saliency Maps to Circuits: An Integrative Survey of Explainable AI and Mechanistic Interpretability | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0445.v1>) | N/A | N/A |
+| 2026 | Moving Explanations Closer to Humans: A Systematic Review of Comparisons of Explainable AI Implementations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0440.v1>) | N/A | N/A |
 | 2026 | Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2608.21449>) | N/A | [0](<https://openalex.org/W7204185602>) |
 | 2026 | Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations | arXiv | [paper](<https://arxiv.org/abs/2608.12299>) | N/A | [0](<https://openalex.org/W7202383147>) |
 | 2026 | Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap | arXiv | [paper](<https://arxiv.org/abs/2608.02699>) | N/A | [0](<https://openalex.org/W7172538308>) |
+| 2026 | Mechanistic Interpretability for Understanding Language Abilities in Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.464>) | [code](<https://github.com/xufengduan/Awesome-Language-MI-Survey>) | [1](<https://openalex.org/W7170177632>) ([⭐ 8](<https://github.com/xufengduan/Awesome-Language-MI-Survey>)) |
+| 2026 | Beyond the Black Box – A New Vector for Explainable AI Through Comparative Analysis of Logical Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2162.v1>) | N/A | N/A |
 | 2026 | Why Current XAI Is Not Enough for Arabic NLP: A Critical Survey of the Explainability Gap | arXiv | [paper](<https://arxiv.org/abs/2608.26144>) | N/A | [0](<https://openalex.org/W7204576420>) |
+| 2026 | An Overview of Recent Interpretability and Explainability Approaches for Tree-Based Ensembles | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2101.v1>) | N/A | N/A |
 | 2026 | Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures | ACL | [paper](<https://aclanthology.org/2026.acl-long.1605>) | [code](<https://github.com/PKU-PILLAR-Group/Survey-Intrinsic-Interpretability-of-LLMs>) | [6](<https://openalex.org/W7166885958>) ([⭐ 23](<https://github.com/PKU-PILLAR-Group/Survey-Intrinsic-Interpretability-of-LLMs>)) |
 | 2026 | Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making | arXiv | [paper](<https://arxiv.org/abs/2604.14240>) | N/A | [0](<https://openalex.org/W4416711815>) |
 | 2026 | Explainable Human Activity Recognition: A Unified Review of Concepts and Mechanisms | arXiv | [paper](<https://arxiv.org/abs/2604.09799>) | N/A | [0](<https://openalex.org/W7154276902>) |
 | 2026 | Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models | ACL | [paper](<https://aclanthology.org/2026.findings-acl.502>) | [code](<https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey>) | [32](<https://openalex.org/W7164409677>) ([⭐ 163](<https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey>)) |
+| 2026 | Explainable AI in Deep Learning: Methods, Challenges, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784518.86968822/v1>) | N/A | N/A |
+| 2026 | From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176739863.31204174/v1>) | N/A | N/A |
 | 2026 | Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound Plane Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2601.00990>) | N/A | [0](<https://openalex.org/W7118889148>) |
 | 2026 | A Survey on Actionable Interpretability in Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/865>) | N/A | [1](<https://openalex.org/W7213406831>) |
-| 2026 | Mechanistic Interpretability for Understanding Language Abilities in Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.464>) | N/A | [1](<https://openalex.org/W7170177632>) |
 | 2026 | Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy, and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/892>) | N/A | [0](<https://openalex.org/W7124951986>) |
 | 2026 | The Mirage of Explainability: A Survey on Chain-of-Thought Faithfulness in Large Language Models | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.614>) | N/A | [0](<https://openalex.org/W7224509922>) |
 | 2025 | Explainable Artificial Intelligence for Economic Time Series: A Comprehensive Review and a Systematic Taxonomy of Methods and Concepts | arXiv | [paper](<https://arxiv.org/abs/2512.12506>) | N/A | [3](<https://openalex.org/W4417448848>) |

@@ -9,14 +9,12 @@
 
 
 
-**873 surveys · Page 2/5**
+**1035 surveys · Page 2/6**
 
-Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md)
+Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md) · [6](review_type-review-6.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
-| 2024 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning | arXiv | [paper](<https://arxiv.org/abs/2406.05804>) | [code](<https://github.com/xinzhel/LLM-Agent-Survey>) | [46](<https://openalex.org/W4399555153>) ([⭐ 519](<https://github.com/xinzhel/LLM-Agent-Survey>)) |
-| 2024 | A Review of Data Mining in Personalized Education: Current Trends and Future Prospects | arXiv | [paper](<https://arxiv.org/abs/2402.17236>) | N/A | [46](<https://openalex.org/W4402780341>) |
 | 2024 | A Review on Low-Dose Emission Tomography Post-Reconstruction Denoising with Neural Network Approaches | arXiv | [paper](<https://arxiv.org/abs/2401.00232>) | N/A | [46](<https://openalex.org/W4390492132>) |
 | 2025 | A Comprehensive Review of Multi-Agent Reinforcement Learning in Video Games | arXiv | [paper](<https://arxiv.org/abs/2509.03682>) | N/A | [45](<https://openalex.org/W4412403840>) |
 | 2025 | Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2501.16656>) | N/A | [45](<https://openalex.org/W4410709520>) |
@@ -136,7 +134,6 @@ Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](re
 | 2024 | The active visual sensing methods for robotic welding: review, tutorial and prospect | arXiv | [paper](<https://arxiv.org/abs/2405.00685>) | N/A | [25](<https://openalex.org/W4403678692>) |
 | 2024 | Knowledge-Informed Machine Learning for Cancer Diagnosis and Prognosis: A review | arXiv | [paper](<https://arxiv.org/abs/2401.06406>) | N/A | [25](<https://openalex.org/W4405520360>) |
 | 2024 | Image-based Deep Learning for Smart Digital Twins: a Review | arXiv | [paper](<https://arxiv.org/abs/2401.02523>) | N/A | [25](<https://openalex.org/W4407883570>) |
-| 2024 | Deep-Learning-Based Semantic Segmentation for Remote Sensing: A Bibliometric Literature Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2023.3328315>) | N/A | [25](<https://openalex.org/W4388094615>) |
 | 2023 | Continuous-Time Reinforcement Learning Control: A Review of Theoretical Results, Insights on Performance, and Needs for New Designs | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3245980>) | N/A | [25](<https://openalex.org/W4322706663>) |
 | 2025 | Color Models in Image Processing: A Review and Experimental Comparison | arXiv | [paper](<https://arxiv.org/abs/2510.00584>) | N/A | [24](<https://openalex.org/W4414808501>) |
 | 2025 | Advancements and Challenges in Quantum Machine Learning for Medical Image Classification: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2504.13910>) | N/A | [24](<https://openalex.org/W4409683592>) |
@@ -204,7 +201,6 @@ Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](re
 | 2024 | Pre-Trained Language Models for Keyphrase Prediction: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.01087>) | N/A | [16](<https://openalex.org/W4399533471>) |
 | 2024 | Comprehensive Review and Empirical Evaluation of Causal Discovery Algorithms for Numerical Data | arXiv | [paper](<https://arxiv.org/abs/2407.13054>) | N/A | [16](<https://openalex.org/W4406058750>) |
 | 2024 | A Review of the Challenges with Massive Web-mined Corpora Used in Large Language Models Pre-Training | arXiv | [paper](<https://arxiv.org/abs/2407.07630>) | N/A | [16](<https://openalex.org/W4407914316>) |
-| 2024 | Integrating behavior analysis with machine learning to predict online learning performance: A scientometric review and empirical study | arXiv | [paper](<https://arxiv.org/abs/2406.11847>) | N/A | [16](<https://openalex.org/W4399836685>) |
 | 2024 | Generative Visual Compression: A Review | arXiv | [paper](<https://arxiv.org/abs/2402.02140>) | N/A | [16](<https://openalex.org/W4402916321>) |
 | 2026 | Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02663-5>) | [code](<https://github.com/abourki/sota-semantically-aware-nerfs>) | [15](<https://openalex.org/W7128028767>) ([⭐ 15](<https://github.com/abourki/SoTA-Semantically-aware-NeRFs>)) |
 | 2025 | KV Cache Compression for Inference Efficiency in LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.06297>) | N/A | [15](<https://openalex.org/W7117482383>) |
@@ -215,5 +211,9 @@ Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](re
 | 2025 | A Model-Centric Review of Deep Learning for Protein Design | arXiv | [paper](<https://arxiv.org/abs/2502.19173>) | N/A | [15](<https://openalex.org/W4416043682>) |
 | 2025 | A Review on Self-Supervised Learning for Time Series Anomaly Detection: Recent Advances and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2501.15196>) | [code](<https://github.com/Aitorzan3/Awesome-Self-Supervised-Time-Series-Anomaly-Detection>) | [15](<https://openalex.org/W4414780086>) ([⭐ 20](<https://github.com/Aitorzan3/Awesome-Self-Supervised-Time-Series-Anomaly-Detection>)) |
 | 2025 | Exploring the evolution, progress, and future of point-of-interest recommendation over location-based social network: a comprehensive review | GeoInformatica | [paper](<https://doi.org/10.1007/s10707-024-00531-x>) | N/A | [15](<https://openalex.org/W4403843625>) |
+| 2024 | A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision | arXiv | [paper](<https://arxiv.org/abs/2412.08148>) | N/A | [15](<https://openalex.org/W4405301175>) |
+| 2024 | Multiscale Simulation and Machine Learning Facilitated Design of Two-Dimensional Nanomaterials-Based Tunnel Field-Effect Transistors: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.18965>) | N/A | [15](<https://openalex.org/W4408525742>) |
+| 2024 | Benchmarking LLMs for Environmental Review and Permitting | arXiv | [paper](<https://arxiv.org/abs/2407.07321>) | N/A | [15](<https://openalex.org/W4400600739>) |
+| 2024 | A Review on Discriminative Self-supervised Learning Methods in Computer Vision | arXiv | [paper](<https://arxiv.org/abs/2405.04969>) | N/A | [15](<https://openalex.org/W4396816783>) |
 
-Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md)
+Pages: [1](review_type-review.md) · 2 · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md) · [6](review_type-review-6.md)

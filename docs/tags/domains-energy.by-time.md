@@ -9,21 +9,31 @@
 
 
 
-**38 surveys · Page 1/1**
+**48 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Reinforcement Learning in High-Energy Physics: A Survey from Accelerator Control to Theory Exploration | arXiv | [paper](<https://arxiv.org/abs/2611.02049>) | N/A | [0](<https://openalex.org/W7225143295>) |
+| 2026 | Machine Learning, Foundation Models, Skills, and Agents in the Energy Industry: A Systematic, Evidence-Graded Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.3125.v1>) | N/A | N/A |
 | 2026 | Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection | arXiv | [paper](<https://arxiv.org/abs/2610.23809>) | N/A | [0](<https://openalex.org/W7222929540>) |
 | 2026 | Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness | arXiv | [paper](<https://arxiv.org/abs/2609.05314>) | N/A | [2](<https://openalex.org/W7211885610>) |
 | 2026 | Energy Efficient AI-Enabled Wireless Sensor Networks for Mission Critical Environments: A Systematic Review across Smart Grid, AI, and Urban Infrastructure Applications | arXiv | [paper](<https://arxiv.org/abs/2608.04499>) | N/A | [0](<https://openalex.org/W7196927746>) |
+| 2026 | Smart Textiles for Circular Wearable Systems: Architecture, Energy Harvesting, AI Integration, and Manufacturing Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0196.v1>) | N/A | N/A |
+| 2026 | Green AI for Sustainable Transportation Infrastructure: A Sys-tematic Review of Energy-Efficient Deep Learning in Railway, Highway, and Smart Mobility Systems (2020-2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2242.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Utilization in Renewable Energy System Modeling: Comprehensive Review of Techniques, Applications, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0346.v1>) | N/A | N/A |
 | 2026 | AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2606.23125>) | N/A | [0](<https://openalex.org/W7165627401>) |
 | 2026 | LLM Agent Based Renewable Energy Forecasting Using Edge and IoT Data A Review of Solar Wind Weather and Grid Aware Decision Support | arXiv | [paper](<https://arxiv.org/abs/2605.25141>) | N/A | [1](<https://openalex.org/W7162433394>) |
 | 2026 | Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics | arXiv | [paper](<https://arxiv.org/abs/2604.25244>) | N/A | [2](<https://openalex.org/W7157574397>) |
 | 2026 | Networking-Aware Energy Efficiency in Agentic AI Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2604.07857>) | N/A | [0](<https://openalex.org/W7153067931>) |
+| 2026 | A Decade of Applied Quantitative Analytics for Philippine Policy: Forecasting, Statistical Forensics, and Predictive Modeling Across Education, Energy, Agriculture, Health, and Finance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1811.v1>) | N/A | N/A |
+| 2026 | Baseline, Benefits, Barriers, and Beyond: A Review of ISO 50001 Energy Management System Implementation in the AI-Driven Data Center Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1411.v1>) | N/A | N/A |
+| 2026 | Generative Artificial Intelligence in the Energy Transition: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1432.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Enabling Intelligent Solar Energy Systems: Integration and Emerging Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1114.v1>) | N/A | N/A |
 | 2026 | Energy-Efficient Code Generation Using Large Language Models: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2603.00989>) | N/A | [1](<https://openalex.org/W7133294268>) |
 | 2026 | Grid Integration of AI Data Centers: A Critical Review of Energy Storage Solutions | arXiv | [paper](<https://arxiv.org/abs/2603.00415>) | N/A | [11](<https://openalex.org/W7168742171>) |
+| 2026 | Machine Learning in Directed Energy Deposition: A Systematic Literature Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177222631.11146214/v1>) | N/A | N/A |
 | 2026 | Forecasting Oil Consumption: The Statistical Review of World Energy Meets Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2602.01963>) | N/A | [0](<https://openalex.org/W7127318134>) |
+| 2026 | A Review of Artificial Intelligence Techniques for Ferroresonance Detection and Mitigation in Power Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2101.v1>) | N/A | [3](<https://openalex.org/W7134839183>) |
 | 2025 | Large Language Models for Power System Applications: A Comprehensive Literature Survey | arXiv | [paper](<https://arxiv.org/abs/2512.13004>) | N/A | [14](<https://openalex.org/W4417511726>) |
 | 2025 | Agentic AI Systems in Electrical Power Systems Engineering: Current State-of-the-Art and Challenges | arXiv | [paper](<https://arxiv.org/abs/2511.14478>) | N/A | [11](<https://openalex.org/W4417210803>) |
 | 2025 | Does Machine Learning Work? A Comparative Analysis of Strong Gravitational Lens Searches in the Dark Energy Survey | arXiv | [paper](<https://arxiv.org/abs/2510.23782>) | N/A | N/A |

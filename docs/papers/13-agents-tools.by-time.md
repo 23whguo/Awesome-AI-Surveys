@@ -9,10 +9,12 @@
 
 [Agents & Multi-Agent Systems](../categories/13-agents.by-time.md)
 
-**4 surveys · Page 1/1**
+**6 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | How to Make Tool-Using LLM Agents Efficient? A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0365.v1>) | N/A | N/A |
+| 2026 | Code as Agent Harness | arXiv | [paper](<https://arxiv.org/abs/2605.18747>) | [code](<https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers>) | N/A ([⭐ 776](<https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers>)) |
 | 2025 | Fast, Slow, and Tool-augmented Thinking for LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.12265>) | N/A | [2](<https://openalex.org/W4414460958>) |
 | 2025 | A Survey on Agent Workflow -- Status and Future | arXiv | [paper](<https://arxiv.org/abs/2508.01186>) | N/A | [33](<https://openalex.org/W4412537083>) |
 | 2024 | Tool Learning with Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.17935>) | [code](<https://github.com/quchangle1/LLM-Tool-Survey>) | [261](<https://openalex.org/W4406297511>) ([⭐ 492](<https://github.com/quchangle1/LLM-Tool-Survey>)) |

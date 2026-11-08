@@ -9,7 +9,7 @@
 
 [Knowledge, Graph Learning & Symbolic Reasoning](../categories/09-knowledge.md)
 
-**48 surveys · Page 1/1**
+**51 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -51,6 +51,7 @@
 | 2024 | KG-EmpiRE: A Community-Maintainable Knowledge Graph for a Sustainable Literature Review on the State and Evolution of Empirical Research in Requirements Engineering | arXiv | [paper](<https://arxiv.org/abs/2405.08351>) | N/A | [7](<https://openalex.org/W4401719565>) |
 | 2025 | Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.19023>) | N/A | [5](<https://openalex.org/W4416043594>) |
 | 2024 | A Survey of Ontology Expansion for Conversational Understanding | EMNLP | [paper](<https://aclanthology.org/2024.emnlp-main.1006>) | N/A | [5](<https://openalex.org/W4404782924>) |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
 | 2025 | Reasoning based on symbolic and parametric knowledge bases: a survey | arXiv | [paper](<https://arxiv.org/abs/2501.01030>) | N/A | [4](<https://openalex.org/W4406033003>) |
 | 2025 | Generative Large Language Models for Knowledge Representation: A Systematic Review of Concept Map Generation | arXiv | [paper](<https://arxiv.org/abs/2509.14554>) | N/A | [2](<https://openalex.org/W4417081427>) |
 | 2025 | Two-dimensional Taxonomy for N-ary Knowledge Representation Learning Methods | arXiv | [paper](<https://arxiv.org/abs/2506.05626>) | N/A | [2](<https://openalex.org/W4417096105>) |
@@ -59,5 +60,7 @@
 | 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A | [0](<https://openalex.org/W7162203912>) |
 | 2024 | Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties | arXiv | [paper](<https://arxiv.org/abs/2410.14733>) | N/A | [0](<https://openalex.org/W4404088014>) |
 | 2008 | A review of the Handbook of Knowledge Representation | AI | [paper](<https://doi.org/10.1016/j.artint.2008.10.002>) | N/A | [0](<https://openalex.org/W116992605>) |
+| 2026 | An Overview of Knowledge-Based System: History, Advances and Challenges in the Era of Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0633.v1>) | N/A | N/A |
+| 2026 | Advances in AI Systems on Islamic Knowledge Capabilities: A Critical Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155997.77147487/v1>) | N/A | N/A |
 | 2024 | A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs | arXiv | [paper](<https://arxiv.org/abs/2406.07402>) | N/A | N/A |
 | 2010 | A review of the textbook Graph-based Knowledge Representation | AI | [paper](<https://doi.org/10.1016/j.artint.2009.11.004>) | N/A | N/A |

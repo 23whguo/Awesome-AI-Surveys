@@ -9,14 +9,16 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.by-time.md)
 
-**30 surveys · Page 1/1**
+**32 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | A Survey of Secure Retrieval-Augmented Generation | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.241>) | [code](<https://github.com/TreeAI-Lab/Awesome-RAG-Security>) | [6](<https://openalex.org/W7153167298>) ([⭐ 9](<https://github.com/TreeAI-Lab/Awesome-RAG-Security>)) |
 | 2026 | Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2604.03174>) | N/A | [2](<https://openalex.org/W7150730858>) |
 | 2026 | Towards Secure Retrieval-Augmented Generation: A Comprehensive Review of Threats, Defenses and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2603.21654>) | N/A | [4](<https://openalex.org/W7140221703>) |
+| 2026 | A Survey of (Deep RAG) Deep Retrieval Augmented Generation and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272838.89432844/v1>) | N/A | N/A |
 | 2026 | Attribution Techniques for Mitigating Hallucinated Information in RAG Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2601.19927>) | N/A | [4](<https://openalex.org/W7147482316>) |
+| 2026 | A Survey of RAG and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784429.92121712/v1>) | N/A | N/A |
 | 2026 | Engineering the RAG Stack: A Comprehensive Review of the Architecture and Trust Frameworks for Retrieval-Augmented Generation Systems | arXiv | [paper](<https://arxiv.org/abs/2601.05264>) | N/A | [11](<https://openalex.org/W7123252070>) |
 | 2025 | META-RAG: Meta-Analysis-Inspired Evidence-Re-Ranking Method for Retrieval-Augmented Generation in Evidence-Based Medicine | arXiv | [paper](<https://arxiv.org/abs/2510.24003>) | N/A | [5](<https://openalex.org/W4416021377>) |
 | 2025 | Optimizing Retrieval-Augmented Generation (RAG) for Colloquial Cantonese: A LoRA-Based Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2508.08610>) | N/A | [0](<https://openalex.org/W4416167864>) |

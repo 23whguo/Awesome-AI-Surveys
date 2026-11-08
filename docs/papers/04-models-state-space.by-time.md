@@ -9,10 +9,11 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.by-time.md)
 
-**14 surveys · Page 1/1**
+**15 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | LSTM vs. Transformer Models in Power Forecasting: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0624.v1>) | N/A | N/A |
 | 2025 | A Survey of Recursive and Recurrent Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2510.17867>) | N/A | [1](<https://openalex.org/W4416054656>) |
 | 2025 | Solar and Wind Power Forecasting: A Comparative Review of LSTM, Random Forest, and XGBoost Models | arXiv | [paper](<https://arxiv.org/abs/2509.24059>) | N/A | [17](<https://openalex.org/W4415336038>) |
 | 2025 | A Survey on Mamba Architecture for Vision Applications | arXiv | [paper](<https://arxiv.org/abs/2502.07161>) | N/A | [12](<https://openalex.org/W4407424193>) |

@@ -9,7 +9,7 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.md)
 
-**40 surveys · Page 1/1**
+**42 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -52,4 +52,6 @@
 | 2025 | Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2510.14462>) | N/A | [2](<https://openalex.org/W4414988554>) |
 | 2026 | Constraining Generative Models: A Survey from the Constraint Programming Perspective | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/864>) | N/A | [1](<https://openalex.org/W7213412384>) |
 | 2026 | AI-Based Sound Effect Generation: A Narrative Review of Generative Models Across Input Modalities | arXiv | [paper](<https://arxiv.org/abs/2608.03742>) | N/A | [0](<https://openalex.org/W7172513711>) |
+| 2026 | Large Video Generative Models: A Systematic Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2442.v1>) | N/A | N/A |
+| 2026 | Generative AI and Diffusion Models in Geophysics: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2101.v1>) | N/A | N/A |
 | 2024 | An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization | arXiv | [paper](<https://arxiv.org/abs/2404.07771>) | N/A | N/A |

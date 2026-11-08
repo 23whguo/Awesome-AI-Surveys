@@ -9,15 +9,29 @@
 
 
 
-**84 surveys · Page 1/1**
+**98 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Deep Learning Approaches for Financial Time Series Change Detection: Algorithms and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0295.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Health Time Series: Physiological Signals, Clinical Records, and Epidemic Dynamics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0067.v1>) | N/A | N/A |
 | 2026 | LLM Agents for Time-Series: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.367>) | N/A | [1](<https://openalex.org/W7204526091>) |
 | 2026 | Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2608.21449>) | N/A | [0](<https://openalex.org/W7204185602>) |
 | 2026 | From Vector Autoregressions to AI-based Time Series Forecasting: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.14279>) | N/A | [0](<https://openalex.org/W7169571784>) |
+| 2026 | A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1532.v1>) | N/A | N/A |
+| 2026 | Mamba for Time Series Analysis: A Contemporary Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0995.v1>) | [code](<https://github.com/tamlhp/awesome-mamba-ts>) | N/A ([⭐ 7](<https://github.com/tamlhp/awesome-mamba-ts>)) |
+| 2026 | A Survey on Data Generation for Time Series: Taxonomy, Review and Prospects | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0725.v1>) | N/A | N/A |
+| 2026 | A Review of Deep Learning for Individualized Treatment Effect Estimation in Healthcare Time Series | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0958.v1>) | N/A | N/A |
 | 2026 | Deep Time-Series Forecasting in 10 Years: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.19899>) | [code](<https://github.com/Master-PLC/Awesome-TSF-Papers>) | [5](<https://openalex.org/W7221151566>) ([⭐ 17](<https://github.com/Master-PLC/Awesome-TSF-Papers>)) |
 | 2026 | A review of shape-morphing solutions and evolutional neural networks for spatiotemporal dynamics | arXiv | [paper](<https://arxiv.org/abs/2603.19526>) | N/A | [0](<https://openalex.org/W7168165263>) |
+| 2026 | Early Warning Signals in Ecological Time-Series | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0897.v1>) | N/A | N/A |
+| 2026 | Kolmogorov-Arnold Networks for Time Series Forecasting: Architectures, Implementation, and Evaluation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177130591.14244418/v1>) | N/A | N/A |
+| 2026 | From Pre-training to Post-training: A Survey on Time Series Foundation Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978429.90235801/v2>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Agentic AI for Spatio-Temporal Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v1>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST>) | [4](<https://openalex.org/W7125902772>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
+| 2026 | Comparative Study of Arima, Lstm and Prophet Models for Time Series Forecasting: A Comprehensive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1377.v1>) | N/A | [2](<https://openalex.org/W7125189927>) |
+| 2026 | Temporal Adversarial Attacks on Time Series and Reinforcement Learning Systems: A Systematic Survey, Taxonomy, and Benchmarking Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0598.v1>) | N/A | [3](<https://openalex.org/W7119479467>) |
+| 2026 | Large Language Models for Time Series Analysis: Methodologies, Applications, and Emerging Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176703979.99494698/v2>) | N/A | N/A |
+| 2026 | From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176739863.31204174/v1>) | N/A | N/A |
 | 2026 | Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches | arXiv | [paper](<https://arxiv.org/abs/2601.00304>) | N/A | [0](<https://openalex.org/W7118755285>) |
 | 2026 | A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/887>) | [code](<https://github.com/decisionintelligence/CS4TS>) | [69](<https://openalex.org/W4407684077>) ([⭐ 51](<https://github.com/decisionintelligence/CS4TS>)) |
 | 2026 | Counterfactual Explanation Bake-Off: A Review and Experimental Evaluation for Time Series Classification | MLJ | [paper](<https://doi.org/10.1007/s10994-026-07056-4>) | N/A | [1](<https://openalex.org/W7160382214>) |

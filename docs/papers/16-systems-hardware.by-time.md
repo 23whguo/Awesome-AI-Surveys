@@ -9,18 +9,24 @@
 
 [Efficient AI & Machine Learning Systems](../categories/16-systems.by-time.md)
 
-**23 surveys · Page 1/1**
+**29 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | From White Canes to Edge AI: A Survey of Assistive Navigation Technologies for Blind and Low-Vision Individuals | arXiv | [paper](<https://arxiv.org/abs/2611.00671>) | N/A | [0](<https://openalex.org/W7225136473>) |
 | 2026 | Securing Deep Learning Hardware: A Survey of Side-Channel Vulnerabilities and Countermeasures | arXiv | [paper](<https://arxiv.org/abs/2607.04055>) | N/A | [0](<https://openalex.org/W7167574658>) |
+| 2026 | The Ferrofluidic Liquid Metal Revolution: Breaking the 10 kW/cm 2 Thermal Wall with Electromagnetically Actuated Jet Impingement for AI Chips and EV Inverters | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0256.v1>) | N/A | N/A |
 | 2026 | What changes after deployment? A survey on On-device Learning in TinyML | arXiv | [paper](<https://arxiv.org/abs/2605.31226>) | N/A | [0](<https://openalex.org/W7162992545>) |
 | 2026 | Protecting On-Device AI Inference: A Systematic Review of Attacks and Defence Mechanisms | arXiv | [paper](<https://arxiv.org/abs/2605.29450>) | N/A | [0](<https://openalex.org/W7162775870>) |
 | 2026 | Federated Learning over Human-Body Communication for On-Body Edge Intelligence: A Survey, Taxonomy, and BODYFED-HBC Scheduling Vignette | arXiv | [paper](<https://arxiv.org/abs/2605.24062>) | N/A | [0](<https://openalex.org/W7162606303>) |
+| 2026 | Distributed Intelligence in the Artificial Intelligence of Things: A Comprehensive Review of Architectures, Applications, and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0261.v1>) | N/A | N/A |
+| 2026 | Exploiting Static Conductance and Dynamic Switching of Memristors for Artificial Intelligence Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1727.v1>) | N/A | N/A |
 | 2026 | Brain-inspired AI for Edge Intelligence: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2603.26722>) | N/A | [2](<https://openalex.org/W7147354165>) |
 | 2026 | Affordable Precision Agriculture: A Deployment-Oriented Review of Low-Cost, Low-Power Edge AI and TinyML for Resource-Constrained Farming Systems | arXiv | [paper](<https://arxiv.org/abs/2603.15085>) | N/A | N/A |
 | 2026 | Architectural Design and Performance Analysis of FPGA based AI Accelerators: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2603.08740>) | N/A | [1](<https://openalex.org/W7134960592>) |
+| 2026 | Architectural Taxonomy of AI Accelerators: A Memory and Interconnect Centric Perspective | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177102159.95058346/v1>) | N/A | N/A |
+| 2026 | Transformer Algorithmics: A Tutorial on Efficient Implementation of Transformers on Hardware | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0932.v1>) | N/A | N/A |
+| 2026 | Green AI: Systematic Review and Guidelines for Sustainability in Artificial Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0411.v1>) | N/A | [3](<https://openalex.org/W7128396520>) |
 | 2025 | Monitoring Machine Learning Systems: A Multivocal Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.14294>) | N/A | [11](<https://openalex.org/W4417080552>) |
 | 2025 | A Survey of TinyML Applications in Beekeeping for Hive Monitoring and Management | arXiv | [paper](<https://arxiv.org/abs/2509.08822>) | N/A | [2](<https://openalex.org/W4416069202>) |
 | 2025 | FPGA-Based Neural Network Accelerators for Space Applications: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.16173>) | N/A | N/A |

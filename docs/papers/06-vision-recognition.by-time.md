@@ -9,13 +9,17 @@
 
 [Computer Vision](../categories/06-vision.by-time.md)
 
-**91 surveys · Page 1/1**
+**95 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Tracking-by-detection in Multi-object Tracking: Survey and Experiments | arXiv | [paper](<https://arxiv.org/abs/2609.08265>) | N/A | [0](<https://openalex.org/W7212068292>) |
 | 2026 | A Review of Vision-Based Vehicle Detection for UAV-Based Traffic Monitoring: Experimental Insights and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2608.07571>) | N/A | [2](<https://openalex.org/W7163924800>) |
 | 2026 | Automated Cardiac Adipose Tissue Segmentation in Computed Tomography: A Literature Review | arXiv | [paper](<https://arxiv.org/abs/2607.16992>) | N/A | [0](<https://openalex.org/W4411509423>) |
+| 2026 | A Systematic Review of Quantum Deep Learning Architectures for Image Classification | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1015.v1>) | N/A | N/A |
+| 2026 | From Handcrafted Features to Vision Transformers: A Multi-Domain Survey of Image Classification Architectures, Datasets, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1416.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Logit Adjustment Methods for Long-Tailed Recognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177127395.56824258/v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey on Farmland Segmentation: Methodologies, Applications, and the Road to Agriculture 5.0 | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004901.18423035/v1>) | N/A | N/A |
 | 2026 | A comprehensive overview of deep learning models for object detection from videos/images | arXiv | [paper](<https://arxiv.org/abs/2601.14677>) | N/A | [0](<https://openalex.org/W7125390985>) |
 | 2026 | A survey of facial recognition techniques | arXiv | [paper](<https://arxiv.org/abs/2601.06239>) | N/A | [2](<https://openalex.org/W7118170760>) |
 | 2026 | A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02672-4>) | N/A | [16](<https://openalex.org/W7124925000>) |

@@ -9,10 +9,16 @@
 
 
 
-**113 surveys · Page 1/1**
+**130 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Multimodal Reasoning, Agentic Systems, and Embedding Models: A Survey of Recent Advances | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0215.v1>) | N/A | N/A |
+| 2026 | Reasoning for Generation, Generation for Reasoning: A Survey of Unified Multimodal Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0138.v1>) | N/A | N/A |
+| 2026 | From Prediction to Thinking: A Review of Reasoning in Industrial Recommender System | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2135.v1>) | N/A | N/A |
+| 2026 | Can Hidden Reasoning Stay Hidden? A Survey of Chain-of-Thought Extraction Attacks on Large Reasoning Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2022.v1>) | N/A | N/A |
+| 2026 | Chart Reasoning with Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1869.v1>) | N/A | N/A |
+| 2026 | Review of Health Knowledge Graphs for Clinical Decision Support: Construction, LLM-Grounded Reasoning, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1625.v1>) | N/A | N/A |
 | 2026 | Supervised Fine-Tuning for Reasoning Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1189>) | N/A | [0](<https://openalex.org/W7224408794>) |
 | 2026 | AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation | arXiv | [paper](<https://arxiv.org/abs/2608.25667>) | N/A | [0](<https://openalex.org/W7204482759>) |
 | 2026 | Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning | arXiv | [paper](<https://arxiv.org/abs/2607.07761>) | N/A | [3](<https://openalex.org/W4414190075>) |
@@ -21,14 +27,25 @@
 | 2026 | Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery | arXiv | [paper](<https://arxiv.org/abs/2606.08728>) | [code](<https://github.com/Starscream-11813/awesome-AI4Math>) | [4](<https://openalex.org/W7163990527>) ([⭐ 3](<https://github.com/Starscream-11813/awesome-AI4Math>)) |
 | 2026 | World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications | arXiv | [paper](<https://arxiv.org/abs/2606.00133>) | N/A | [5](<https://openalex.org/W7160832817>) |
 | 2026 | A Survey of Audio Reasoning in Multimodal Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.21008>) | N/A | N/A |
+| 2026 | Rethinking Benchmark Comparability: A Survey of Reasoning Benchmarks for Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0806.v1>) | [code](<https://github.com/chenyuanTKCY/Awesome-Benchmarks-for-LLM-Reasoning>) | N/A ([⭐ 2](<https://github.com/chenyuanTKCY/Awesome-Benchmarks-for-LLM-Reasoning>)) |
 | 2026 | A Survey of Reasoning-Intensive Retrieval: Progress and Challenges | ACL | [paper](<https://aclanthology.org/2026.acl-long.1949>) | N/A | [0](<https://openalex.org/W7166852561>) |
 | 2026 | Wiring the 'Why': A Unified Taxonomy and Survey of Abductive Reasoning in LLMs | arXiv | [paper](<https://arxiv.org/abs/2604.08016>) | N/A | [6](<https://openalex.org/W7153042752>) |
 | 2026 | Medical Reasoning with Large Language Models: A Survey and MR-Bench | arXiv | [paper](<https://arxiv.org/abs/2604.08559>) | N/A | [7](<https://openalex.org/W7153979526>) |
 | 2026 | A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms | arXiv | [paper](<https://arxiv.org/abs/2603.11093>) | N/A | [1](<https://openalex.org/W7135195193>) |
 | 2026 | The ARC of Progress towards AGI: A Living Survey of Abstraction and Reasoning | arXiv | [paper](<https://arxiv.org/abs/2603.13372>) | N/A | [5](<https://openalex.org/W7138142412>) |
+| 2026 | A Survey of (Deep RAG) Deep Retrieval Augmented Generation and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272838.89432844/v1>) | N/A | N/A |
+| 2026 | A Survey of LLM Reasoning in Healthcare and Medicine: from Individual Modeling to Collaborative Agents | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177127364.46765828/v1>) | N/A | N/A |
+| 2026 | Trustworthy Legal Reasoning: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0870.v1>) | N/A | [0](<https://openalex.org/W7128628788>) |
+| 2026 | When Vision Meets Graphs: A Survey on Graph Reasoning and Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/898>) | N/A | N/A |
+| 2026 | A Survey on Thinking in Visual Generation: Reasoning, Planning, and Cognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964121.13450493/v1>) | N/A | N/A |
+| 2026 | Towards Visual Chain-of-Thought Reasoning: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964090.06440051/v1>) | N/A | N/A |
 | 2026 | Barriers to Discrete Reasoning with Transformers: A Survey Across Depth, Exactness, and Bandwidth | EACL | [paper](<https://aclanthology.org/2026.eacl-long.87>) | N/A | [1](<https://openalex.org/W7140108538>) |
 | 2026 | A Survey of Agentic Reasoning for Large Language Models: Towards Recursively Self-Improving and Collective Agents | arXiv | [paper](<https://arxiv.org/abs/2601.12538>) | N/A | [94](<https://openalex.org/W7125263063>) |
+| 2026 | Agentic Reasoning for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2601.12538>) | [code](<https://github.com/weitianxin/Awesome-Agentic-Reasoning>) | N/A ([⭐ 1,429](<https://github.com/weitianxin/Awesome-Agentic-Reasoning>)) |
 | 2026 | Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures | ACL | [paper](<https://aclanthology.org/2026.acl-long.889>) | N/A | [7](<https://openalex.org/W7125925189>) |
+| 2026 | A Survey of RAG and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784429.92121712/v1>) | N/A | N/A |
+| 2026 | Emergent Abilities in Large Language Models: In-Context Learning, Chain-of-Thought Reasoning, and Scaling Laws | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784493.33333564/v1>) | N/A | N/A |
+| 2026 | Opening the Black Box: A Survey on the Mechanisms of Multi-Step Reasoning in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2601.14270>) | N/A | [4](<https://openalex.org/W7118197387>) |
 | 2026 | Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.55>) | [code](<https://github.com/EIT-NLP/Awesome-Latent-CoT>) | [92](<https://openalex.org/W4416452771>) ([⭐ 399](<https://github.com/EIT-NLP/Awesome-Latent-CoT>)) |
 | 2026 | A Survey of Inductive Reasoning for Large Language Models | ACL | [paper](<https://aclanthology.org/2026.acl-long.1447>) | N/A | [14](<https://openalex.org/W4417100126>) |
 | 2026 | A Survey of Audio Reasoning in Audio Foundation Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.349>) | N/A | [6](<https://openalex.org/W7161979303>) |

@@ -9,7 +9,7 @@
 
 [Knowledge, Graph Learning & Symbolic Reasoning](../categories/09-knowledge.md)
 
-**9 surveys · Page 1/1**
+**11 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -20,5 +20,7 @@
 | 2025 | A Survey on Large Language Models for Automated Planning | arXiv | [paper](<https://arxiv.org/abs/2502.12435>) | N/A | [25](<https://openalex.org/W4407759444>) |
 | 2024 | Learning Guided Automated Reasoning: A Brief Survey | arXiv | [paper](<https://arxiv.org/abs/2403.04017>) | N/A | [14](<https://openalex.org/W4399135062>) |
 | 2025 | Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1157>) | [code](<https://github.com/disi-unibo-nlp/task-oriented-neuro-symbolic.git>) | [7](<https://openalex.org/W4414359193>) ([⭐ 4](<https://github.com/disi-unibo-nlp/task-oriented-neuro-symbolic>)) |
+| 2026 | Connect-4 AI: A Comprehensive Taxonomy and Critical Review of Methods and Metrics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2416.v1>) | N/A | [4](<https://openalex.org/W7127985204>) |
 | 2025 | Integrating Neurosymbolic AI in Advanced Air Mobility: A Comprehensive Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1151>) | N/A | [4](<https://openalex.org/W4414360200>) |
 | 2024 | Historical Review of Variants of Informal Semantics for Logic Programs under Answer Set Semantics: GL'88, GL'91, GK'14, D-V'12 | arXiv | [paper](<https://arxiv.org/abs/2407.06814>) | N/A | [0](<https://openalex.org/W4403305777>) |
+| 2026 | From Minimax to Self-Play: A Taxonomy of Decision Quality, Optimality, and Robustness in Game-Playing Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0057.v1>) | N/A | N/A |

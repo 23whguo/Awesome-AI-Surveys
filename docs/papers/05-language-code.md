@@ -9,7 +9,7 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**17 surveys · Page 1/1**
+**19 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -30,3 +30,5 @@
 | 2026 | Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence | arXiv | [paper](<https://arxiv.org/abs/2606.15932>) | [code](<https://github.com/xjywhu/Awesome-Multimodal-LLM-for-Code>) | [8](<https://openalex.org/W7164887291>) ([⭐ 290](<https://github.com/xjywhu/Awesome-Multimodal-LLM-for-Code>)) |
 | 2026 | Large Language Models for Multilingual Code Intelligence: A Survey | arXiv | [paper](<https://arxiv.org/abs/2604.25960>) | N/A | [5](<https://openalex.org/W7158446072>) |
 | 2026 | Generative AI use in Statistical Research: A Literature Review and Code Generation Case Study | arXiv | [paper](<https://arxiv.org/abs/2608.11121>) | N/A | [0](<https://openalex.org/W7202416390>) |
+| 2026 | A Systematic View on AI-Based Code Generation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1999.v1>) | N/A | N/A |
+| 2026 | A Review of Small Language Models for Code and Domain-Specific Language Artifact Generation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1095.v2>) | N/A | N/A |

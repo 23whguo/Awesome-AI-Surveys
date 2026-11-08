@@ -9,13 +9,16 @@
 
 [Computer Vision](../categories/06-vision.by-time.md)
 
-**27 surveys · Page 1/1**
+**30 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | A Review of Deep-learning-based Seismic Data Denoising and Its Promising Paradigm Shift to Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2609.34530>) | N/A | [0](<https://openalex.org/W7214755031>) |
 | 2026 | Survey of Novel Deep Learning Architectures for Denoising Gravitational-wave Signals | arXiv | [paper](<https://arxiv.org/abs/2609.13272>) | N/A | [0](<https://openalex.org/W7213326437>) |
 | 2026 | From Denoising to Decision Making: A Survey on Diffusion Model-Enabled Deep Reinforcement Learning for Wireless Networks | arXiv | [paper](<https://arxiv.org/abs/2605.25531>) | N/A | [1](<https://openalex.org/W7162399430>) |
+| 2026 | Advances in Neural Video Compression: A Review and Benchmarking | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0035.v1>) | N/A | N/A |
+| 2026 | Language-Driven Image Restoration and Semantic-Aware Quality Assessment: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2366.v2>) | [code](<https://github.com/MingyuLiu1/Language-Driven-IR-and-IQA>) | N/A ([⭐ 0](<https://github.com/MingyuLiu1/Language-Driven-IR-and-IQA>)) |
+| 2026 | Efficient Image Restoration Using Deep Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177092225.59864833/v1>) | N/A | N/A |
 | 2025 | MRI Super-Resolution with Deep Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2511.16854>) | [code](<https://github.com/mkhateri/Awesome-MRI-Super-Resolution>) | [15](<https://openalex.org/W4416594396>) ([⭐ 40](<https://github.com/mkhateri/Awesome-MRI-Super-Resolution>)) |
 | 2025 | Deep Learning Empowered Super-Resolution: A Comprehensive Survey and Future Prospects | arXiv | [paper](<https://arxiv.org/abs/2509.22692>) | [code](<https://github.com/AVC2-UESTC/Holistic-Super-Resolution-Review>) | [12](<https://openalex.org/W4414955894>) ([⭐ 34](<https://github.com/AVC2-UESTC/Holistic-Super-Resolution-Review>)) |
 | 2025 | Recent Advancements in Microscopy Image Enhancement using Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.15363>) | N/A | [3](<https://openalex.org/W4405271342>) |

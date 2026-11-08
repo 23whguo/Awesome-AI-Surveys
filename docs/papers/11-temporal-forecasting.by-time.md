@@ -9,12 +9,18 @@
 
 [Time Series & Spatio-Temporal Learning](../categories/11-temporal.by-time.md)
 
-**49 surveys · Page 1/1**
+**55 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | From Vector Autoregressions to AI-based Time Series Forecasting: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.14279>) | N/A | [0](<https://openalex.org/W7169571784>) |
+| 2026 | Mamba for Time Series Analysis: A Contemporary Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0995.v1>) | [code](<https://github.com/tamlhp/awesome-mamba-ts>) | N/A ([⭐ 7](<https://github.com/tamlhp/awesome-mamba-ts>)) |
 | 2026 | Deep Time-Series Forecasting in 10 Years: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.19899>) | [code](<https://github.com/Master-PLC/Awesome-TSF-Papers>) | [5](<https://openalex.org/W7221151566>) ([⭐ 17](<https://github.com/Master-PLC/Awesome-TSF-Papers>)) |
+| 2026 | Early Warning Signals in Ecological Time-Series | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0897.v1>) | N/A | N/A |
+| 2026 | From Pre-training to Post-training: A Survey on Time Series Foundation Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978429.90235801/v2>) | N/A | N/A |
+| 2026 | Comparative Study of Arima, Lstm and Prophet Models for Time Series Forecasting: A Comprehensive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1377.v1>) | N/A | [2](<https://openalex.org/W7125189927>) |
+| 2026 | Modeling Holiday Effect on Retail Demand Forecasting: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0840.v1>) | N/A | [3](<https://openalex.org/W7123361302>) |
+| 2026 | Large Language Models for Time Series Analysis: Methodologies, Applications, and Emerging Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176703979.99494698/v2>) | N/A | N/A |
 | 2026 | A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/887>) | [code](<https://github.com/decisionintelligence/CS4TS>) | [69](<https://openalex.org/W4407684077>) ([⭐ 51](<https://github.com/decisionintelligence/CS4TS>)) |
 | 2026 | From Time Series Analysis to Question Answering: A Survey in the LLM Era | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/877>) | N/A | [0](<https://openalex.org/W4415068859>) |
 | 2025 | Clustering methods for Categorical Time Series and Sequences : A scoping review | arXiv | [paper](<https://arxiv.org/abs/2509.07885>) | N/A | [2](<https://openalex.org/W4414761343>) |

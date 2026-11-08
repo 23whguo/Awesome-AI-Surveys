@@ -9,7 +9,7 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.md)
 
-**261 surveys · Page 1/2**
+**394 surveys · Page 1/2**
 
 Pages: 1 · [2](17-applications-healthcare-2.md)
 
@@ -123,6 +123,7 @@ Pages: 1 · [2](17-applications-healthcare-2.md)
 | 2024 | Evaluating large language models in medical applications: a survey | arXiv | [paper](<https://arxiv.org/abs/2405.07468>) | N/A | [17](<https://openalex.org/W4396913745>) |
 | 2024 | Review on Fault Diagnosis and Fault-Tolerant Control Scheme for Robotic Manipulators: Recent Advances in AI, Machine Learning, and Digital Twin | arXiv | [paper](<https://arxiv.org/abs/2402.02980>) | N/A | [17](<https://openalex.org/W4391621780>) |
 | 2024 | Brain-Inspired Spiking Neural Networks for Industrial Fault Diagnosis: A Survey, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2401.02429>) | N/A | [17](<https://openalex.org/W4390690387>) |
+| 2026 | Organs-on-Chips in Drug Development: Engineering Foundations, Artificial Intelligence, and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0931.v1>) | N/A | [16](<https://openalex.org/W7134956925>) |
 | 2024 | A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.14496>) | N/A | [16](<https://openalex.org/W4403709429>) |
 | 2025 | Transformer-based EEG Decoding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.02320>) | N/A | [15](<https://openalex.org/W7167820906>) |
 | 2025 | DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.01257>) | N/A | [15](<https://openalex.org/W4414895666>) |
@@ -194,6 +195,7 @@ Pages: 1 · [2](17-applications-healthcare-2.md)
 | 2026 | Managing Diabetic Retinopathy with Deep Learning: A Data Centric Overview | arXiv | [paper](<https://arxiv.org/abs/2604.02448>) | N/A | [3](<https://openalex.org/W7171372268>) |
 | 2026 | Synthetic Data Generation for Brain-Computer Interfaces: Overview, Benchmarking, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12296>) | [code](<https://github.com/wzwvv/DG4BCI>) | [3](<https://openalex.org/W7137229372>) ([⭐ 11](<https://github.com/wzwvv/DG4BCI>)) |
 | 2026 | Toward Robust, Reproducible, and Widely Accessible Intracranial Speech Brain-Computer Interfaces: A Comprehensive Narrative Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12279>) | N/A | [3](<https://openalex.org/W7222837109>) |
+| 2026 | Healthcare Providers' Perspectives on Generative Artificial Intelligence (GenAI) Adoption, Adaptation, Assimilation, and Use in the United States | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1298.v1>) | N/A | [3](<https://openalex.org/W7138992613>) |
 | 2025 | Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.13638>) | N/A | [3](<https://openalex.org/W4415276846>) |
 | 2025 | A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges | arXiv | [paper](<https://arxiv.org/abs/2509.07887>) | N/A | [3](<https://openalex.org/W4416068517>) |
 | 2025 | Artificial intelligence in drug discovery: A comprehensive review with a case study on hyperuricemia, gout arthritis, and hyperuricemic nephropathy | arXiv | [paper](<https://arxiv.org/abs/2507.03407>) | N/A | [3](<https://openalex.org/W4415344464>) |
@@ -204,16 +206,14 @@ Pages: 1 · [2](17-applications-healthcare-2.md)
 | 2024 | A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation | arXiv | [paper](<https://arxiv.org/abs/2412.19688>) | N/A | [3](<https://openalex.org/W4405903455>) |
 | 2024 | Clinical Document Corpora -- Real Ones, Translated and Synthetic Substitutes, and Assorted Domain Proxies: A Survey of Diversity in Corpus Design, with Focus on German Text Data | arXiv | [paper](<https://arxiv.org/abs/2412.00230>) | N/A | [3](<https://openalex.org/W4410364240>) |
 | 2024 | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | arXiv | [paper](<https://arxiv.org/abs/2405.18387>) | N/A | [3](<https://openalex.org/W4296886576>) |
+| 2026 | Multimodal Machine Learning in Healthcare: A Tutorial and Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.1445.v2>) | N/A | [2](<https://openalex.org/W4417445713>) |
 | 2026 | Towards Next-Generation Healthcare: A Survey of Medical Embodied AI for Perception, Decision-Making, and Action | arXiv | [paper](<https://arxiv.org/abs/2606.15647>) | [code](<https://github.com/VMVLab/Medical_Embodied_AI_Paper_List>) | [2](<https://openalex.org/W7164884989>) ([⭐ 16](<https://github.com/VMVLab/Medical_Embodied_AI_Paper_List>)) |
+| 2026 | Artificial Intelligence and Oral Cancer Diagnosis: Current Evidence, Critical Limitations, and the Basic Science Priorities Essential for Improving Diagnostic Accuracy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1934.v1>) | N/A | [2](<https://openalex.org/W7133235467>) |
+| 2026 | Deep Learning Architectures for Multi-Omics Data Integration: Bridging Biomarker Discovery and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1884.v1>) | N/A | [2](<https://openalex.org/W7125712164>) |
 | 2025 | Efficacy Analysis in Clinical Trials: A Comprehensive Review of Statistical and Machine Learning Approaches | arXiv | [paper](<https://arxiv.org/abs/2511.04903>) | N/A | [2](<https://openalex.org/W4416269553>) |
 | 2025 | Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications | arXiv | [paper](<https://arxiv.org/abs/2510.17764>) | N/A | [2](<https://openalex.org/W4415966329>) |
 | 2025 | Survey of AI-Powered Approaches for Osteoporosis Diagnosis in Medical Imaging | arXiv | [paper](<https://arxiv.org/abs/2510.00061>) | N/A | [2](<https://openalex.org/W4414804246>) |
 | 2025 | Systematic Literature Review on Clinical Trial Eligibility Matching | arXiv | [paper](<https://arxiv.org/abs/2503.00863>) | N/A | [2](<https://openalex.org/W4415083486>) |
 | 2024 | The Era of Foundation Models in Medical Imaging is Approaching : A Scoping Review of the Clinical Value of Large-Scale Generative AI Applications in Radiology | arXiv | [paper](<https://arxiv.org/abs/2409.12973>) | N/A | [2](<https://openalex.org/W4403713524>) |
-| 2023 | BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis | SIGIR | [paper](<https://doi.org/10.1145/3539618.3591897>) | N/A | [2](<https://openalex.org/W4384652031>) |
-| 2026 | Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2608.20743>) | N/A | [1](<https://openalex.org/W7204089399>) |
-| 2026 | Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation | arXiv | [paper](<https://arxiv.org/abs/2607.07219>) | N/A | [1](<https://openalex.org/W7167841860>) |
-| 2026 | AI-Powered Mental Health Chatbots in Africa: A Systematic Review and Culturally Adaptive Framework | arXiv | [paper](<https://arxiv.org/abs/2608.24890>) | N/A | [1](<https://openalex.org/W7171643730>) |
-| 2026 | ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2604.02501>) | N/A | [1](<https://openalex.org/W7150748881>) |
 
 Pages: 1 · [2](17-applications-healthcare-2.md)

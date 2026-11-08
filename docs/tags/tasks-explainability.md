@@ -9,7 +9,7 @@
 
 
 
-**102 surveys · Page 1/1**
+**123 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -90,8 +90,8 @@
 | 2025 | Exploring the Explainability of Time Series Clustering: A Review of Methods and Practices | WSDM | [paper](<https://doi.org/10.1145/3701551.3703479>) | N/A | [3](<https://openalex.org/W4407953563>) |
 | 2024 | Causal Abstraction in Model Interpretability: A Compact Survey | arXiv | [paper](<https://arxiv.org/abs/2410.20161>) | N/A | [3](<https://openalex.org/W4404313809>) |
 | 2025 | Survey for Categorising Explainable AI Studies Using Data Analysis Task Frameworks | arXiv | [paper](<https://arxiv.org/abs/2507.10208>) | N/A | [2](<https://openalex.org/W4414739432>) |
+| 2026 | Mechanistic Interpretability for Understanding Language Abilities in Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.464>) | [code](<https://github.com/xufengduan/Awesome-Language-MI-Survey>) | [1](<https://openalex.org/W7170177632>) ([⭐ 8](<https://github.com/xufengduan/Awesome-Language-MI-Survey>)) |
 | 2026 | A Survey on Actionable Interpretability in Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/865>) | N/A | [1](<https://openalex.org/W7213406831>) |
-| 2026 | Mechanistic Interpretability for Understanding Language Abilities in Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.464>) | N/A | [1](<https://openalex.org/W7170177632>) |
 | 2025 | Scalable and Interpretable Contextual Bandits: A Literature Review and Retail Offer Prototype | arXiv | [paper](<https://arxiv.org/abs/2505.16918>) | N/A | [1](<https://openalex.org/W4415315186>) |
 | 2026 | Sparse Autoencoders for Mechanistic Interpretability in NLP: A Critical Survey of Recoverability, Interpretability, and Utility | arXiv | [paper](<https://arxiv.org/abs/2610.20139>) | N/A | [0](<https://openalex.org/W7222064187>) |
 | 2026 | Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges | arXiv | [paper](<https://arxiv.org/abs/2609.00171>) | N/A | [0](<https://openalex.org/W7206150980>) |
@@ -102,11 +102,32 @@
 | 2026 | Explainable AI for Next-Generation Wireless Physical Layer: Basics, State-of-the-Art, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2606.24424>) | N/A | [0](<https://openalex.org/W7165733380>) |
 | 2026 | Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making | arXiv | [paper](<https://arxiv.org/abs/2604.14240>) | N/A | [0](<https://openalex.org/W4416711815>) |
 | 2026 | Explainable Human Activity Recognition: A Unified Review of Concepts and Mechanisms | arXiv | [paper](<https://arxiv.org/abs/2604.09799>) | N/A | [0](<https://openalex.org/W7154276902>) |
+| 2026 | Explainable and Hybrid AI Approaches for Corporate Financial Performance Forecasting: A Structured Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1215.v1>) | N/A | [0](<https://openalex.org/W7124761743>) |
 | 2026 | Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound Plane Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2601.00990>) | N/A | [0](<https://openalex.org/W7118889148>) |
 | 2026 | Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy, and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/892>) | N/A | [0](<https://openalex.org/W7124951986>) |
 | 2026 | The Mirage of Explainability: A Survey on Chain-of-Thought Faithfulness in Large Language Models | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.614>) | N/A | [0](<https://openalex.org/W7224509922>) |
 | 2026 | Why and When to Use Statistical Significance in Explanation Evaluation: A Systematic Survey and Guidelines for Explainable NLP | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.504>) | N/A | [0](<https://openalex.org/W7224168584>) |
 | 2025 | A review on development of eco-friendly filters in Nepal for use in cigarettes and masks and Air Pollution Analysis with Machine Learning and SHAP Interpretability | arXiv | [paper](<https://arxiv.org/abs/2501.13369>) | N/A | [0](<https://openalex.org/W4406785430>) |
+| 2026 | Human-AI collaboration and Explainability in Manufacturing Operations: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0263.v1>) | N/A | N/A |
+| 2026 | Explainable AI Driven Frameworks for Real Time Cyber Threat Detection and Response: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0090.v1>) | N/A | N/A |
+| 2026 | Mechanistic Interpretability of LLM Behavior: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2446.v1>) | N/A | N/A |
+| 2026 | Open Boxing of AI Systems: Activation-Based Interpretability for AI Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1867.v1>) | N/A | N/A |
+| 2026 | Responsible and Trustworthy Agentic AI: Governance, Assurance, Explainability, Controllability, and Human Oversight: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1294.v1>) | N/A | N/A |
+| 2026 | Explainable NLP in the Era of Large Language Models: A Unified Taxonomy, Evaluation Frameworks, and Decision Guidance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0435.v1>) | N/A | N/A |
+| 2026 | Explainable Artificial Intelligence for Manufacturing and Materials Processing: A Review of Engineering Validation and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2243.v1>) | N/A | N/A |
+| 2026 | From Saliency Maps to Circuits: An Integrative Survey of Explainable AI and Mechanistic Interpretability | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0445.v1>) | N/A | N/A |
+| 2026 | Moving Explanations Closer to Humans: A Systematic Review of Comparisons of Explainable AI Implementations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0440.v1>) | N/A | N/A |
+| 2026 | Intrusion Detection under Incomplete Information: A Structured Survey of Explainability, Robustness, and Operational Deployment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0001.v1>) | N/A | N/A |
+| 2026 | Explainable and Prescriptive AI for Cyber-Physical NVH Quality Control in Smart Manufacturing: A Critical Review and Research Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0814.v1>) | N/A | N/A |
+| 2026 | Beyond the Black Box – A New Vector for Explainable AI Through Comparative Analysis of Logical Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2162.v1>) | N/A | N/A |
+| 2026 | Explainable Artificial Intelligence for Tabular Data in Healthcare: A Systematic Review of Methods, Evaluation, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0322.v1>) | N/A | N/A |
+| 2026 | An Overview of Recent Interpretability and Explainability Approaches for Tree-Based Ensembles | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2101.v1>) | N/A | N/A |
+| 2026 | Recent Advances in Adversarial Attacks on Model Utility, Privacy, and Explainability: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272853.30003431/v1>) | N/A | N/A |
+| 2026 | Explainable and Safe Learning-Based Autonomous Driving: A Survey from Modular to End-to-End Planning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177084714.46890967/v1>) | N/A | N/A |
+| 2026 | Interpretable Athlete Performance Modelling in Collegiate Basketball: A Review of Machine Learning and Computer Vision Methods | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177006540.07826863/v1>) | N/A | N/A |
+| 2026 | Explainable AI in Deep Learning: Methods, Challenges, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784518.86968822/v1>) | N/A | N/A |
+| 2026 | Trustworthy Machine Learning for Cybersecurity:A Decision-Centric Survey of Explainability, Uncertainty, and Human Factors | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784242.23575739/v1>) | N/A | N/A |
+| 2026 | From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176739863.31204174/v1>) | N/A | N/A |
 | 2025 | A Review of Developmental Interpretability in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2508.15841>) | N/A | N/A |
 | 2025 | Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation | arXiv | [paper](<https://arxiv.org/abs/2507.20014>) | N/A | N/A |
 | 2025 | The Effect of Explainable AI-based Decision Support on Human Task Performance: A Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2504.13858>) | N/A | N/A |

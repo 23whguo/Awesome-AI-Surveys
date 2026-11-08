@@ -9,7 +9,7 @@
 
 
 
-**11 surveys · Page 1/1**
+**12 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -23,4 +23,5 @@
 | 2025 | Integrating Legal and Logical Specifications in Perception, Prediction, and Planning for Automated Driving: A Survey of Methods | arXiv | [paper](<https://arxiv.org/abs/2510.25386>) | N/A | [1](<https://openalex.org/W4416184313>) |
 | 2025 | QA Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings | ACL | [paper](<https://aclanthology.org/2025.acl-srw.89>) | [code](<https://github.com/kentrachmat/survey-da>) | [1](<https://openalex.org/W4412889371>) ([⭐ 0](<https://github.com/kentrachmat/survey-da>)) |
 | 2026 | Semantics of Subterfuge: Benchmarking Legal Deception Detection Against General-domain State-of-the-Art | arXiv | [paper](<https://arxiv.org/abs/2607.29066>) | N/A | [0](<https://openalex.org/W7172250072>) |
+| 2026 | Trustworthy Legal Reasoning: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0870.v1>) | N/A | [0](<https://openalex.org/W7128628788>) |
 | 2024 | Towards A Structured Overview of Use Cases for Natural Language Processing in the Legal Domain: A German Perspective | arXiv | [paper](<https://arxiv.org/abs/2404.18759>) | N/A | N/A |

@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**70 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**83 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>16.1 Compression, Quantization, Pruning & Acceleration · 压缩、量化、剪枝与加速 (34)</b></summary>
+<summary><b>16.1 Compression, Quantization, Pruning & Acceleration · 压缩、量化、剪枝与加速 (37)</b></summary>
 
-[Browse all 34 surveys →](../papers/16-systems-compression.md)
+[Browse all 37 surveys →](../papers/16-systems-compression.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>16.2 Efficient Inference, Serving & Test-Time Compute · 高效推理、服务与测试时计算 (8)</b></summary>
+<summary><b>16.2 Efficient Inference, Serving & Test-Time Compute · 高效推理、服务与测试时计算 (11)</b></summary>
 
-[Browse all 8 surveys →](../papers/16-systems-inference.md)
+[Browse all 11 surveys →](../papers/16-systems-inference.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>16.3 Efficient & Distributed Training · 高效与分布式训练 (5)</b></summary>
+<summary><b>16.3 Efficient & Distributed Training · 高效与分布式训练 (6)</b></summary>
 
-[Browse all 5 surveys →](../papers/16-systems-training.md)
+[Browse all 6 surveys →](../papers/16-systems-training.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -55,13 +55,14 @@
 | 2023 | A Comprehensive Survey on Distributed Training of Graph Neural Networks | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2023.3337442>) | N/A | [70](<https://openalex.org/W4389495241>) |
 | 2024 | Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2404.06114>) | N/A | [35](<https://openalex.org/W4394709322>) |
 | 2022 | Survey on Efficient Training of Large Neural Networks | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/769>) | N/A | [12](<https://openalex.org/W4223990029>) |
+| 2026 | Label Augmentation in Machine Learning: Data-Efficient Training, Semi-Supervised Learning, and Model Generalization | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784495.51275250/v1>) | N/A | N/A |
 
 </details>
 
 <details open>
-<summary><b>16.4 Edge AI, Hardware & Co-Design · 边缘 AI、硬件与协同设计 (23)</b></summary>
+<summary><b>16.4 Edge AI, Hardware & Co-Design · 边缘 AI、硬件与协同设计 (29)</b></summary>
 
-[Browse all 23 surveys →](../papers/16-systems-hardware.md)
+[Browse all 29 surveys →](../papers/16-systems-hardware.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

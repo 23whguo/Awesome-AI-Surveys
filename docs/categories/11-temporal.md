@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**60 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**66 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>11.1 Time Series Forecasting & Foundation Models · 时间序列预测与基础模型 (49)</b></summary>
+<summary><b>11.1 Time Series Forecasting & Foundation Models · 时间序列预测与基础模型 (55)</b></summary>
 
-[Browse all 49 surveys →](../papers/11-temporal-forecasting.md)
+[Browse all 55 surveys →](../papers/11-temporal-forecasting.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

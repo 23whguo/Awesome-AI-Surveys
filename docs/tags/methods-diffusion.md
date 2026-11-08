@@ -9,7 +9,7 @@
 
 
 
-**59 surveys · Page 1/1**
+**66 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -66,6 +66,13 @@
 | 2026 | Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.21904>) | N/A | [0](<https://openalex.org/W7171393229>) |
 | 2026 | Efficient Diffusion Language Models: A Comprehensive Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1074>) | N/A | [0](<https://openalex.org/W7125531142>) |
 | 2026 | Trajectory Self-Feedback in Diffusion Language Models: A Systematic Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1739>) | N/A | [0](<https://openalex.org/W7224653168>) |
+| 2026 | Diffusion-Based World Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1022.v1>) | N/A | N/A |
+| 2026 | Generative AI and Diffusion Models in Geophysics: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2101.v1>) | N/A | N/A |
+| 2026 | Consistency in Diffusion-Based Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0870.v1>) | N/A | N/A |
+| 2026 | Human-Centric Content Generation with Diffusion Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138906.63173113/v1>) | N/A | N/A |
+| 2026 | Video Editing Meets Diffusion Models: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177129952.23796356/v1>) | N/A | N/A |
+| 2026 | Accelerating Inference in Diffusion Large Language Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177102145.58136415/v1>) | N/A | N/A |
+| 2026 | Generative AI for Medical Image Synthesis: GANs, Diffusion Models, and Data Augmentation Techniques | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784492.29866965/v1>) | N/A | N/A |
 | 2025 | A Survey on Diffusion Language Models | arXiv | [paper](<https://arxiv.org/abs/2508.10875>) | [code](<https://github.com/VILA-Lab/Awesome-DLMs>) | N/A ([⭐ 1,244](<https://github.com/VILA-Lab/Awesome-DLMs>)) |
 | 2025 | Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.17352>) | N/A | N/A |
 | 2025 | Image Editing with Diffusion Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.13226>) | N/A | N/A |

@@ -40,8 +40,8 @@
 | 2025 | Passive Acoustic Monitoring of Underwater Well Leakages with Machine Learning: A Review | arXiv | [paper](<https://arxiv.org/abs/2511.07598>) | N/A | [1](<https://openalex.org/W4416189357>) |
 | 2026 | From Acoustic Sensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents | arXiv | [paper](<https://arxiv.org/abs/2610.15390>) | N/A | [0](<https://openalex.org/W7221779555>) |
 | 2026 | Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs | arXiv | [paper](<https://arxiv.org/abs/2609.10355>) | [code](<https://github.com/momentslab/awesome-efficient-videollm>) | [0](<https://openalex.org/W7212148774>) ([⭐ 11](<https://github.com/momentslab/awesome-efficient-videollm>)) |
-| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | A Survey of Audio Reasoning in Multimodal Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.21008>) | N/A | N/A |
+| 2026 | Audio-Visual Intelligence in Large Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.04045>) | [code](<https://github.com/JavisVerse/Awesome-AVI>) | N/A ([⭐ 93](<https://github.com/JavisVerse/Awesome-AVI>)) |
 | 2025 | Fundamental Survey on Neuromorphic Based Audio Classification | arXiv | [paper](<https://arxiv.org/abs/2502.15056>) | N/A | N/A |
 | 2025 | Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools | arXiv | [paper](<https://arxiv.org/abs/2501.06227>) | N/A | N/A |
 | 2024 | A Comprehensive Review and Taxonomy of Audio-Visual Synchronization Techniques for Realistic Speech Animation | arXiv | [paper](<https://arxiv.org/abs/2407.17430>) | N/A | N/A |

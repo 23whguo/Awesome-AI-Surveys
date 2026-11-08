@@ -9,7 +9,7 @@
 
 [Learning Theory & Methods](../categories/02-learning.md)
 
-**34 surveys · Page 1/1**
+**38 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -43,6 +43,10 @@
 | 2026 | Uncertainty in visibility: a scoping review of the probable and fuzzy viewshed for observer location optimization | IJGIS | [paper](<https://doi.org/10.1080/13658816.2025.2581833>) | N/A | [0](<https://openalex.org/W4416392335>) |
 | 2025 | Survey of Swarm Intelligence Approaches to Search Documents Based On Semantic Similarity | arXiv | [paper](<https://arxiv.org/abs/2507.11787>) | N/A | [0](<https://openalex.org/W4411887338>) |
 | 2024 | Collective dynamics in spiking neural networks: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2410.23876>) | N/A | [0](<https://openalex.org/W4404347861>) |
+| 2026 | A Comprehensive Survey on LLM-Guided Evolutionary Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1122.v1>) | N/A | N/A |
+| 2026 | Spiking Neural Networks from Signals to Silicon:An End-to-End Survey of Dynamics, Learning,Architectures, Toolchains, Neuromorphic Hardware,and Deployment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0164.v1>) | N/A | N/A |
+| 2026 | Evolutionary Algorithms and Engineering Applications: A Comprehensive Survey of Classical Methods and Emerging Trends | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0126.v1>) | N/A | N/A |
+| 2026 | Spiking Neural Networks: A Tutorial on Models, Coding, and Training | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0827.v1>) | N/A | N/A |
 | 2025 | Blue Stragglers and Friends: Initial Evolutionary Pathways in Close Low-Mass Binaries: Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.20531>) | N/A | N/A |
 | 2025 | ALMAGAL I. The ALMA evolutionary study of high-mass protocluster formation in the Galaxy. Presentation of the survey and early results | arXiv | [paper](<https://arxiv.org/abs/2503.05555>) | N/A | N/A |
 | 2025 | A Comprehensive Survey of Fuzzy Implication Functions | arXiv | [paper](<https://arxiv.org/abs/2503.05702>) | N/A | N/A |

@@ -9,7 +9,7 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**67 surveys · Page 1/1**
+**74 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -57,6 +57,7 @@
 | 2026 | The ARC of Progress towards AGI: A Living Survey of Abstraction and Reasoning | arXiv | [paper](<https://arxiv.org/abs/2603.13372>) | N/A | [5](<https://openalex.org/W7138142412>) |
 | 2025 | On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.122>) | N/A | [5](<https://openalex.org/W4399794634>) |
 | 2026 | Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery | arXiv | [paper](<https://arxiv.org/abs/2606.08728>) | [code](<https://github.com/Starscream-11813/awesome-AI4Math>) | [4](<https://openalex.org/W7163990527>) ([⭐ 3](<https://github.com/Starscream-11813/awesome-AI4Math>)) |
+| 2026 | Opening the Black Box: A Survey on the Mechanisms of Multi-Step Reasoning in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2601.14270>) | N/A | [4](<https://openalex.org/W7118197387>) |
 | 2026 | Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey | EACL | [paper](<https://aclanthology.org/2026.findings-eacl.7>) | N/A | [4](<https://openalex.org/W7140121408>) |
 | 2026 | Rethinking Reasoning: A Survey on Reasoning-based Backdoors in LLMs | ACL | [paper](<https://aclanthology.org/2026.findings-acl.863>) | N/A | [3](<https://openalex.org/W4416398204>) |
 | 2026 | A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning | ACL | [paper](<https://aclanthology.org/2026.acl-long.1961>) | N/A | [2](<https://openalex.org/W7166797353>) |
@@ -74,6 +75,12 @@
 | 2026 | A Systematic Review of Recent Advancements in PINN Augmented Deep Learning and Mathematical Modeling for Efficient Portfolio Management | arXiv | [paper](<https://arxiv.org/abs/2604.27610>) | N/A | [0](<https://openalex.org/W7159626346>) |
 | 2026 | A Survey on Entropy Mechanism in Large Reasoning Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2478>) | N/A | [0](<https://openalex.org/W4417519904>) |
 | 2024 | Survey on Reasoning Capabilities and Accessibility of Large Language Models Using Biology-related Questions | arXiv | [paper](<https://arxiv.org/abs/2406.16891>) | N/A | [0](<https://openalex.org/W4400064433>) |
+| 2026 | Can Hidden Reasoning Stay Hidden? A Survey of Chain-of-Thought Extraction Attacks on Large Reasoning Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2022.v1>) | N/A | N/A |
+| 2026 | One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation | arXiv | [paper](<https://arxiv.org/abs/2608.25936>) | N/A | N/A |
+| 2026 | Artificial Intelligence, Sustainability, and the Development of Mathematical Thinking: A Theory-Grounded Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2391.v1>) | N/A | N/A |
+| 2026 | When Vision Meets Graphs: A Survey on Graph Reasoning and Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/898>) | N/A | N/A |
+| 2026 | Towards Visual Chain-of-Thought Reasoning: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964090.06440051/v1>) | N/A | N/A |
+| 2026 | Emergent Abilities in Large Language Models: In-Context Learning, Chain-of-Thought Reasoning, and Scaling Laws | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784493.33333564/v1>) | N/A | N/A |
 | 2025 | Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2510.25760>) | [code](<https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning>) | N/A ([⭐ 330](<https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning>)) |
 | 2025 | Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.09988>) | N/A | N/A |
 | 2025 | A Comprehensive Survey on Trustworthiness in Reasoning with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.03871>) | [code](<https://github.com/ybwang119/Awesome-reasoning-safety>) | N/A ([⭐ 67](<https://github.com/ybwang119/Awesome-reasoning-safety>)) |

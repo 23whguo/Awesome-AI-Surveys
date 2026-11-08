@@ -9,7 +9,7 @@
 
 
 
-**66 surveys · Page 1/1**
+**72 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -20,8 +20,14 @@
 | 2026 | Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data | arXiv | [paper](<https://arxiv.org/abs/2606.11272>) | N/A | [2](<https://openalex.org/W7161148614>) |
 | 2026 | Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security | arXiv | [paper](<https://arxiv.org/abs/2605.23989>) | N/A | [19](<https://openalex.org/W7159965625>) |
 | 2026 | A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations | arXiv | [paper](<https://arxiv.org/abs/2604.24468>) | N/A | [1](<https://openalex.org/W7156964661>) |
+| 2026 | Attacks and Defenses in Differentially Private Deep Learning: New Security Risks in New Era | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1179.v1>) | N/A | N/A |
 | 2026 | Privacy-Preserving Machine Learning for IoT: A Cross-Paradigm Survey and Future Roadmap | arXiv | [paper](<https://arxiv.org/abs/2603.13570>) | N/A | [1](<https://openalex.org/W7138203247>) |
+| 2026 | Recent Advances in Adversarial Attacks on Model Utility, Privacy, and Explainability: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272853.30003431/v1>) | N/A | N/A |
+| 2026 | Differentially Private Graph Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220347.77114729/v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Privacy-Enhancing Technologies (PETs) for Securing Personally Identifiable Information in Public Cloud Architectures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0303.v1>) | N/A | [0](<https://openalex.org/W7127944597>) |
+| 2026 | Privacy-Preserving LLM Preference Alignment: A Systematic Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978434.43544529/v1>) | N/A | N/A |
 | 2026 | NLP Privacy Risk Identification in Social Media (NLP-PRISM): A Survey | EACL | [paper](<https://aclanthology.org/2026.findings-eacl.78>) | N/A | [4](<https://openalex.org/W7140145507>) |
+| 2026 | Security and Privacy Challenges in Healthcare Internet of Things Applications in the Era of Agentic AI | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176740429.99079587/v1>) | N/A | N/A |
 | 2026 | A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630673>) | N/A | [123](<https://openalex.org/W4416011383>) |
 | 2026 | LLM-Based Agents on the Edge: A Survey of Privacy, Scalability, Heterogeneity, and Autonomy | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/858>) | N/A | [0](<https://openalex.org/W7213434187>) |
 | 2025 | Privacy Challenges and Solutions in Retrieval-Augmented Generation-Enhanced LLMs for Healthcare Chatbots: A Review of Applications, Risks, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2511.11347>) | N/A | [12](<https://openalex.org/W4416378424>) |

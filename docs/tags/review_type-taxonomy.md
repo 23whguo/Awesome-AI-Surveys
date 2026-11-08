@@ -9,7 +9,7 @@
 
 
 
-**36 surveys · Page 1/1**
+**47 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -47,5 +47,16 @@
 | 2026 | Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.03233>) | N/A | [0](<https://openalex.org/W7167587652>) |
 | 2026 | Advancing Improvisation in Human-Robot Construction Collaboration: Taxonomy and Research Roadmap | arXiv | [paper](<https://arxiv.org/abs/2601.17219>) | N/A | [0](<https://openalex.org/W7125799332>) |
 | 2025 | Imitation Learning in the Deep Learning Era: A Novel Taxonomy and Recent Advances | arXiv | [paper](<https://arxiv.org/abs/2511.03565>) | N/A | [0](<https://openalex.org/W7104264600>) |
+| 2026 | Explainable NLP in the Era of Large Language Models: A Unified Taxonomy, Evaluation Frameworks, and Decision Guidance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0435.v1>) | N/A | N/A |
+| 2026 | AT(N)-Anchored Multimodal Deep Learning for Alzheimer’s Staging: A Taxonomy and Continuous Burden Index for Low-Resource Settings | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2240.v1>) | N/A | N/A |
+| 2026 | Trustworthy Medical Multimodal Large Language Models: Taxonomy, Evaluation, and Benchmarks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0962.v1>) | [code](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>) | N/A ([⭐ 1](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>)) |
+| 2026 | Benchmark, Agent, and Tool-Use Harnesses for Large Language Models: A Taxonomy of Evaluation Infrastructure | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0236.v1>) | N/A | N/A |
+| 2026 | A Layered Taxonomy of AI-Driven Patient–Trial Matching: From Rules to Agents and the Evaluation-Validity Gap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0258.v1>) | N/A | N/A |
+| 2026 | Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1539.v1>) | [code](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>) | N/A ([⭐ 31](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>)) |
+| 2026 | From Minimax to Self-Play: A Taxonomy of Decision Quality, Optimality, and Robustness in Game-Playing Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0057.v1>) | N/A | N/A |
+| 2026 | Tool Execution Hallucination in LLM-based Agents: A Unified Taxonomy with Detection, Mitigation, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177219979.94060974/v1>) | N/A | N/A |
+| 2026 | Agentic Self-Evolution for Large Language Models: Taxonomy, Techniques, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203250.05832634/v1>) | N/A | N/A |
+| 2026 | Architectural Taxonomy of AI Accelerators: A Memory and Interconnect Centric Perspective | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177102159.95058346/v1>) | N/A | N/A |
+| 2026 | AGENTIC AI IN HEALTHCARE &amp; MEDICINE: A SEVEN-DIMENSIONAL TAXONOMY FOR EMPIRICAL EVALUATION OF LLM-BASED AGENTS | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.175951916.60039552/v2>) | N/A | N/A |
 | 2025 | Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies | arXiv | [paper](<https://arxiv.org/abs/2508.10523>) | N/A | N/A |
 | 2025 | Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation | arXiv | [paper](<https://arxiv.org/abs/2507.20014>) | N/A | N/A |

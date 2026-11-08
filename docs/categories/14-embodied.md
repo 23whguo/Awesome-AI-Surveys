@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**152 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**188 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>14.1 Robot Learning, Control & Manipulation · 机器人学习、控制与操作 (88)</b></summary>
+<summary><b>14.1 Robot Learning, Control & Manipulation · 机器人学习、控制与操作 (109)</b></summary>
 
-[Browse all 88 surveys →](../papers/14-embodied-robot-learning.md)
+[Browse all 109 surveys →](../papers/14-embodied-robot-learning.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>14.2 Navigation, SLAM & Embodied Perception · 导航、SLAM 与具身感知 (40)</b></summary>
+<summary><b>14.2 Navigation, SLAM & Embodied Perception · 导航、SLAM 与具身感知 (49)</b></summary>
 
-[Browse all 40 surveys →](../papers/14-embodied-navigation.md)
+[Browse all 49 surveys →](../papers/14-embodied-navigation.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>14.3 Vision-Language-Action & Embodied Foundation Models · 视觉语言动作与具身基础模型 (24)</b></summary>
+<summary><b>14.3 Vision-Language-Action & Embodied Foundation Models · 视觉语言动作与具身基础模型 (30)</b></summary>
 
-[Browse all 24 surveys →](../papers/14-embodied-vla.md)
+[Browse all 30 surveys →](../papers/14-embodied-vla.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

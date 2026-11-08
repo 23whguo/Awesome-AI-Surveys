@@ -50,3 +50,12 @@ data/metrics.json stores a separate metrics snapshot keyed by canonical work ID,
 | github_lookup_status | matched or HTTP/network error code |
 
 Citation and star counts are snapshots. Counts can change; a repository star is not a paper citation. Metrics from different citation providers are not mixed.
+
+## External-source audit
+
+- data/harvest-2026.json records each monthly Crossref partition, publication-date DOI crosscheck, DataCite check, daily HF page, month-ID crosscheck and direct website access result. complete_within_api_scope describes returned API records, not platform or worldwide coverage.
+- data/external-review-audit.jsonl gives every external review candidate's source ID, title, authors, screening decision, short evidence excerpt and canonical catalog ID when included. Pending and excluded source records are not automatically confirmed reviews.
+- data/discovery-index/manifest.json points to metadata-only shards for every discovered external record. not-discovered-as-review means no implemented discovery trigger fired; it is not proof that the article is not a review. Full abstracts are not published.
+- data/expansion-2026.json records the public baseline commit/IDs, added/removed identities, overlapping source contributions and pending candidate counts. Source contributions must not be summed as unique works.
+- sources may additionally preserve source_record_id, source_platform_url, source_metadata_provider, source_retrieved_at, source_date_basis and HF selection dates. These describe provenance, not independent verification of publication or peer review.
+- versions.source_first_submitted_at retains the supplied date for backward compatibility; source_date_basis clarifies Crossref posted-date values where available. Such values may refer to a later version's posting date, not first-ever submission.

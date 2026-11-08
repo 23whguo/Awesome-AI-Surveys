@@ -9,7 +9,7 @@
 
 
 
-**33 surveys · Page 1/1**
+**41 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -36,6 +36,7 @@
 | 2024 | Human-Computer Interaction and Human-AI Collaboration in Advanced Air Mobility: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2412.07241>) | N/A | [4](<https://openalex.org/W4405255182>) |
 | 2026 | Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review | CHI | [paper](<https://doi.org/10.1145/3772318.3791662>) | N/A | [3](<https://openalex.org/W7154088680>) |
 | 2024 | A Design Trajectory Map of Human-AI Collaborative Reinforcement Learning Systems: Survey and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2405.10214>) | N/A | [3](<https://openalex.org/W4397028772>) |
+| 2026 | A Survey of Human-AI Collaboration for Scientific Discovery | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176823034.44078313/v1>) | N/A | [2](<https://openalex.org/W7118658315>) |
 | 2025 | Towards Human-AI-Robot Collaboration and AI-Agent based Digital Twins for Parkinson's Disease Management: Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2511.06036>) | N/A | [2](<https://openalex.org/W4416157079>) |
 | 2025 | AISSISTANT: Human-AI Collaborative Review and Perspective Research Workflows in Data Science | arXiv | [paper](<https://arxiv.org/abs/2509.12282>) | N/A | [2](<https://openalex.org/W4415315131>) |
 | 2026 | Where's the Structure? A Systematic Literature Review of Empirical Research on Human-AI Collaboration and Hybrid Intelligence for Learning | arXiv | [paper](<https://arxiv.org/abs/2606.05222>) | N/A | [1](<https://openalex.org/W7163689368>) |
@@ -43,6 +44,13 @@
 | 2026 | Adaptive Human-AI Collaboration: A Review of Multimodal Context Modeling, Uncertainty-Aware Intervention, and Longitudinal Co-Adaptation | arXiv | [paper](<https://arxiv.org/abs/2609.13180>) | N/A | [0](<https://openalex.org/W7213283972>) |
 | 2026 | Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach | arXiv | [paper](<https://arxiv.org/abs/2607.14141>) | N/A | [0](<https://openalex.org/W7169538088>) |
 | 2025 | Improving the State of the Art for Training Human-AI Teams: Technical Report #5 -- Individual Differences and Team Qualities to Measure in a Human-AI Teaming Testbed | arXiv | [paper](<https://arxiv.org/abs/2507.18878>) | N/A | [0](<https://openalex.org/W4417262899>) |
+| 2026 | Human-AI collaboration and Explainability in Manufacturing Operations: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0263.v1>) | N/A | N/A |
+| 2026 | Beyond the Automation–Warmth Trade-Off: How Human–AI Service Configurations Shape Relational Value in Hospitality-A Critical Integrative Literature Review and Multi-Level Conceptual Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2963.v1>) | N/A | N/A |
+| 2026 | Towards Human-Centered Safety in Vision-Language-Action Robot Control: A Survey and Outlook | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2762.v1>) | N/A | N/A |
+| 2026 | Knowing When to Hand Over: A Survey of Uncertainty, Deferral, and Escalation in Human–AI Fraud Investigation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1933.v1>) | N/A | N/A |
+| 2026 | Organizing Intelligence Over Time: Human–AI Collaboration as Joint Cognitive Development | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1092.v1>) | N/A | N/A |
+| 2026 | A Systematic Review and Empirical Framework for Human-AI Co-Creation in the Conceptual Design Process | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1431.v1>) | N/A | N/A |
+| 2026 | In the Shadow of Judgment: Mapping Out the Landscape of Human-AI Decision-Making Through a Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176963824.45099699/v1>) | N/A | N/A |
 | 2025 | Human-AI Interactions and the Psychological Triad: A Multi-Domain Survey of Cognitive, Behavioral, and Emotional Impacts | arXiv | [paper](<https://arxiv.org/abs/2510.17753>) | N/A | N/A |
 | 2025 | A Systematic Review of Human-AI Co-Creativity | arXiv | [paper](<https://arxiv.org/abs/2506.21333>) | N/A | N/A |
 | 2025 | Enabling Rapid Shared Human-AI Mental Model Alignment via the After-Action Review | arXiv | [paper](<https://arxiv.org/abs/2503.19607>) | N/A | N/A |

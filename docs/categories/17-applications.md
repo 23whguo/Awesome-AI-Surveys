@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**821 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**1155 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>17.1 Healthcare, Medicine & Mental Health · 医疗、医学与心理健康 (261)</b></summary>
+<summary><b>17.1 Healthcare, Medicine & Mental Health · 医疗、医学与心理健康 (394)</b></summary>
 
-[Browse all 261 surveys →](../papers/17-applications-healthcare.md)
+[Browse all 394 surveys →](../papers/17-applications-healthcare.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>17.2 AI for Science, Biology & Chemistry · 科学、生物与化学 (52)</b></summary>
+<summary><b>17.2 AI for Science, Biology & Chemistry · 科学、生物与化学 (75)</b></summary>
 
-[Browse all 52 surveys →](../papers/17-applications-science.md)
+[Browse all 75 surveys →](../papers/17-applications-science.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>17.3 Earth Observation, Remote Sensing & Climate · 地球观测、遥感与气候 (118)</b></summary>
+<summary><b>17.3 Earth Observation, Remote Sensing & Climate · 地球观测、遥感与气候 (148)</b></summary>
 
-[Browse all 118 surveys →](../papers/17-applications-earth.md)
+[Browse all 148 surveys →](../papers/17-applications-earth.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -60,9 +60,9 @@
 </details>
 
 <details open>
-<summary><b>17.4 Autonomous Driving & Transportation · 自动驾驶与交通 (49)</b></summary>
+<summary><b>17.4 Autonomous Driving & Transportation · 自动驾驶与交通 (60)</b></summary>
 
-[Browse all 49 surveys →](../papers/17-applications-mobility.md)
+[Browse all 60 surveys →](../papers/17-applications-mobility.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,9 +76,9 @@
 </details>
 
 <details open>
-<summary><b>17.5 Education & Learning Technologies · 教育与学习技术 (35)</b></summary>
+<summary><b>17.5 Education & Learning Technologies · 教育与学习技术 (60)</b></summary>
 
-[Browse all 35 surveys →](../papers/17-applications-education.md)
+[Browse all 60 surveys →](../papers/17-applications-education.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -92,9 +92,9 @@
 </details>
 
 <details open>
-<summary><b>17.6 Finance, Law & Public Services · 金融、法律与公共服务 (48)</b></summary>
+<summary><b>17.6 Finance, Law & Public Services · 金融、法律与公共服务 (63)</b></summary>
 
-[Browse all 48 surveys →](../papers/17-applications-finance-law.md)
+[Browse all 63 surveys →](../papers/17-applications-finance-law.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -108,9 +108,9 @@
 </details>
 
 <details open>
-<summary><b>17.7 Software Engineering & Cybersecurity · 软件工程与网络安全应用 (81)</b></summary>
+<summary><b>17.7 Software Engineering & Cybersecurity · 软件工程与网络安全应用 (99)</b></summary>
 
-[Browse all 81 surveys →](../papers/17-applications-software.md)
+[Browse all 99 surveys →](../papers/17-applications-software.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -124,9 +124,9 @@
 </details>
 
 <details open>
-<summary><b>17.8 Industry, Energy, Networks & Other Domains · 工业、能源、网络与其他领域 (126)</b></summary>
+<summary><b>17.8 Industry, Energy, Networks & Other Domains · 工业、能源、网络与其他领域 (193)</b></summary>
 
-[Browse all 126 surveys →](../papers/17-applications-industry.md)
+[Browse all 193 surveys →](../papers/17-applications-industry.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -140,9 +140,9 @@
 </details>
 
 <details open>
-<summary><b>17.9 Human-AI Interaction, Collaboration & Creativity · 人机交互、协作与创造力 (51)</b></summary>
+<summary><b>17.9 Human-AI Interaction, Collaboration & Creativity · 人机交互、协作与创造力 (63)</b></summary>
 
-[Browse all 51 surveys →](../papers/17-applications-hci.md)
+[Browse all 63 surveys →](../papers/17-applications-hci.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

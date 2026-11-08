@@ -9,7 +9,7 @@
 
 
 
-**32 surveys · Page 1/1**
+**35 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -42,6 +42,9 @@
 | 2026 | Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2604.03174>) | N/A | [2](<https://openalex.org/W7150730858>) |
 | 2026 | Refusal Evaluation in Coding LLMs and Code Agents: A Systematic Review of Thirteen Malicious-Code Prompt Corpora (2023-2025) | arXiv | [paper](<https://arxiv.org/abs/2605.20351>) | N/A | [1](<https://openalex.org/W7161944820>) |
 | 2026 | Efficient Task Adaptation in Large Language Models: A Survey of Weight-Based, Prompt-Based, and Embedding-Based Adaptations | arXiv | [paper](<https://arxiv.org/abs/2610.00928>) | N/A | [0](<https://openalex.org/W7215842320>) |
+| 2026 | In-Context Learning from Demonstrations for Robotic Manipulation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0780.v1>) | N/A | N/A |
+| 2026 | Automated Design of Agentic Systems: A Survey of Algorithms for Searching, Optimizing, and Evolving LLM Agents, Workflows, and Prompts | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0238.v1>) | N/A | N/A |
+| 2026 | Emergent Abilities in Large Language Models: In-Context Learning, Chain-of-Thought Reasoning, and Scaling Laws | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784493.33333564/v1>) | N/A | N/A |
 | 2025 | Prompt Engineering Techniques for Mitigating Cultural Bias Against Arabs and Muslims in Large Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2506.18199>) | N/A | N/A |
 | 2024 | Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices | arXiv | [paper](<https://arxiv.org/abs/2405.01249>) | N/A | N/A |
 | 2024 | A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications | arXiv | [paper](<https://arxiv.org/abs/2402.07927>) | N/A | N/A |

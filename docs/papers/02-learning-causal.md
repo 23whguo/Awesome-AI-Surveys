@@ -9,7 +9,7 @@
 
 [Learning Theory & Methods](../categories/02-learning.md)
 
-**25 surveys · Page 1/1**
+**29 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -37,4 +37,8 @@
 | 2026 | Causal Perspectives on Network Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2607.09200>) | N/A | [0](<https://openalex.org/W7168188163>) |
 | 2026 | A Survey on Federated Causal Discovery and Inference | arXiv | [paper](<https://arxiv.org/abs/2606.23741>) | N/A | [0](<https://openalex.org/W7165798763>) |
 | 2025 | WMAP: An R Package for Causal Meta-Analysis by Integrating Multiple Observational Studies | arXiv | [paper](<https://arxiv.org/abs/2501.01041>) | N/A | [0](<https://openalex.org/W4406032973>) |
+| 2026 | Where Does Knowledge Live? Representational, Causal, and Editable Localization in Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1605.v1>) | N/A | N/A |
+| 2026 | Structure Learning in Bayesian Networks: A Systematic Pedagogical Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1322.v1>) | N/A | N/A |
+| 2026 | Causal Inference in Non-Allergic Asthma Associated with Obesity: Application of the Bradford Hill Viewpoints to a Complex Epidemiological Association | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0451.v1>) | N/A | N/A |
+| 2026 | Metformin for Age-Related Macular Degeneration: Moving Beyond Observational Studies to Causal Inference Through Target Trial Emulation and Advanced Analytics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0202.v1>) | N/A | N/A |
 | 2025 | Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.20540>) | N/A | N/A |

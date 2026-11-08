@@ -9,15 +9,26 @@
 
 
 
-**36 surveys · Page 1/1**
+**47 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Explainable NLP in the Era of Large Language Models: A Unified Taxonomy, Evaluation Frameworks, and Decision Guidance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0435.v1>) | N/A | N/A |
+| 2026 | AT(N)-Anchored Multimodal Deep Learning for Alzheimer’s Staging: A Taxonomy and Continuous Burden Index for Low-Resource Settings | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2240.v1>) | N/A | N/A |
+| 2026 | Trustworthy Medical Multimodal Large Language Models: Taxonomy, Evaluation, and Benchmarks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0962.v1>) | [code](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>) | N/A ([⭐ 1](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>)) |
+| 2026 | Benchmark, Agent, and Tool-Use Harnesses for Large Language Models: A Taxonomy of Evaluation Infrastructure | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0236.v1>) | N/A | N/A |
 | 2026 | Blockchain Empowered Trustworthy Agent Networks: Foundations, Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2608.04626>) | N/A | [2](<https://openalex.org/W7196962092>) |
+| 2026 | A Layered Taxonomy of AI-Driven Patient–Trial Matching: From Rules to Agents and the Evaluation-Validity Gap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0258.v1>) | N/A | N/A |
 | 2026 | A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI | arXiv | [paper](<https://arxiv.org/abs/2608.02553>) | N/A | [0](<https://openalex.org/W7172435583>) |
 | 2026 | Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.21904>) | N/A | [0](<https://openalex.org/W7171393229>) |
+| 2026 | Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1539.v1>) | [code](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>) | N/A ([⭐ 31](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>)) |
 | 2026 | The Chronos Vulnerability: A Taxonomy of Temporal Persistence and Memory-Based Deception in Agentic AI | arXiv | [paper](<https://arxiv.org/abs/2607.19433>) | N/A | [0](<https://openalex.org/W7170194730>) |
 | 2026 | Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.03233>) | N/A | [0](<https://openalex.org/W7167587652>) |
+| 2026 | From Minimax to Self-Play: A Taxonomy of Decision Quality, Optimality, and Robustness in Game-Playing Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0057.v1>) | N/A | N/A |
+| 2026 | Tool Execution Hallucination in LLM-based Agents: A Unified Taxonomy with Detection, Mitigation, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177219979.94060974/v1>) | N/A | N/A |
+| 2026 | Agentic Self-Evolution for Large Language Models: Taxonomy, Techniques, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203250.05832634/v1>) | N/A | N/A |
+| 2026 | Architectural Taxonomy of AI Accelerators: A Memory and Interconnect Centric Perspective | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177102159.95058346/v1>) | N/A | N/A |
+| 2026 | AGENTIC AI IN HEALTHCARE &amp; MEDICINE: A SEVEN-DIMENSIONAL TAXONOMY FOR EMPIRICAL EVALUATION OF LLM-BASED AGENTS | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.175951916.60039552/v2>) | N/A | N/A |
 | 2026 | The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis | arXiv | [paper](<https://arxiv.org/abs/2602.10453>) | N/A | [38](<https://openalex.org/W7128731475>) |
 | 2026 | Graph-based Agent Memory: Taxonomy, Techniques, and Applications | arXiv | [paper](<https://arxiv.org/abs/2602.05665>) | [code](<https://github.com/DEEP-PolyU/Awesome-GraphMemory>) | [58](<https://openalex.org/W7127926068>) ([⭐ 366](<https://github.com/DEEP-PolyU/Awesome-GraphMemory>)) |
 | 2026 | Agentic AI for Self-Driving Laboratories in Soft Matter: Taxonomy, Benchmarks,and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2601.17920>) | N/A | [2](<https://openalex.org/W7125804569>) |

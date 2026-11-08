@@ -9,7 +9,7 @@
 
 | Year | Surveys |
 | ---: | ---: |
-| [2026](years/2026.by-time.md) | 604 |
+| [2026](years/2026.by-time.md) | 1412 |
 | [2025](years/2025.by-time.md) | 1368 |
 | [2024](years/2024.by-time.md) | 1461 |
 | [2023](years/2023.by-time.md) | 153 |

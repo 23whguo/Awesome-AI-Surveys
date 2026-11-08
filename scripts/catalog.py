@@ -5,6 +5,7 @@ import argparse
 import collections
 import csv
 import datetime as dt
+import difflib
 import gzip
 import hashlib
 import html
@@ -51,6 +52,32 @@ AI_VENUES = {'ACL', 'EMNLP', 'NAACL', 'EACL', 'COLING', 'CVPR', 'ICCV', 'ECCV', 
              'BMVC', 'NIPS', 'NEURIPS', 'ICML', 'ICLR', 'AAAI', 'IJCAI', 'AISTATS', 'COLT',
              'UAI', 'JMLR', 'MLJ', 'AI', 'TPAMI', 'IJCV', 'TNNLS', 'TASLP', 'RECSYS', 'SIGIR'}
 CAT_BY_ID = {c['id']: c for c in TAXONOMY}
+PREPRINT_VENUES = {'ARXIV', 'TECHRXIV', 'PREPRINTS.ORG'}
+SELF_DESCRIBED_REVIEW = re.compile(r'\b(?:this|our|the present)\s+(?:(?:systematic|scoping|comprehensive|critical|narrative|literature|mapping)\s+){0,3}(?:review|survey|meta.analysis)\b', re.I)
+EXTERNAL_REVIEW_MARKER = re.compile(r'\b(?:bibliometric|scientometric|systematic mapping|evidence synthesis|umbrella review|meta.review)\b',re.I)
+EXTERNAL_AI_SCOPE = re.compile(
+    AI_SCOPE.pattern.replace('|neural|','|neural networks?|') +
+    r'|\b(?:ai|artificial general intelligence|foundation.models?|multimodal models?|vision.language|agentic|intelligent systems|'
+    r'robotics?|robotic|image processing|image recognition|image generation|visual generation|video generation|'
+    r'generative video|speech recognition|speech processing|speech synthesis|accent identification|'
+    r'graph.based methods|subgraph matching|time.series|time series|forecasting|long.tailed recognition|'
+    r'gaussian splatting|neural radiance fields?|neural rendering|anomaly detection|deepfake detection|'
+    r'federated model evolution|decentrali[sz]ed learning|multi.agent systems?|multiagent systems?|'
+    r'autonomous agents?|agent memory|intelligent agents?|'
+    r'(?:knowledge|model|on.policy|self).distillation|'
+    r'vision transformers?|transformer models?|transformer architectures?|transformer algorithmics|'
+    r'diffusion transformers?|attention sink|linear attention|adversarial attacks?|bayesian optimi[sz]ation|'
+    r'diffusion models?|generative models?|knowledge graphs?|retrieval.augmented generation|rag|'
+    r'meta.learning|few.shot learning|zero.shot learning|active learning|continual learning|'
+    r'imitation learning|multimodal learning|multimodal unlearning|federated unlearning|machine unlearning|'
+    r'world models?|world action models?|large reasoning models?|neural operators?|mllms?|'
+    r'self.evolving agents?|embodied agents?|long.horizon agents?|computer.use agents?|'
+    r'machine vision|image classification|neural machine translation|autonomous driving|'
+    r'evolutionary algorithms?|generative adversarial|(?-i:GAN).based|'
+    r'graph generation|graph reasoning|agent harness|gui grounding|omnimodal embeddings|'
+    r'neural video compression|neural question generation|multimodal fusion|generative recommendation|'
+    r'point clouds?|egocentric vision|bayesian networks?|metaheuristics?|automl|'
+    r'multimodal code intelligence|(?-i:ML|CNNs?|GNNs?|RNNs?))\b',re.I)
 
 
 def normalized_title(text):
@@ -95,15 +122,39 @@ def screen(record):
     """Return include / review / exclude, with a precise metadata-based reason."""
     title = record.get('paper_name', '').strip()
     abstract = record.get('paper_abstract') or ''
-    if not MARKER.search(title):
+    abstract_hint = external_review_hint(record)
+    external_title_hint = record.get('source_external') and EXTERNAL_REVIEW_MARKER.search(title)
+    if not MARKER.search(title) and not abstract_hint and not external_title_hint:
         return 'exclude', 'No review-type discovery marker in title'
+    if record.get('source_withdrawn_at') or (record.get('source_external') and re.search(r'\b(?:withdrawn|retracted)\b',title,re.I)):
+        return 'review', 'Withdrawal/retraction metadata requires editorial review'
+    if record.get('source_external') and re.search(r'\breview protocol\b|\bprotocol for\b.*\breview\b',title,re.I):
+        return 'review', 'Review protocol rather than a completed literature synthesis'
+    if record.get('source_external') and re.search(r'\binformed consent review\b',title,re.I) and not re.search(r'\b(?:literature|systematic) review\b',title,re.I):
+        return 'exclude', 'Reviewing informed-consent documents is the research task, not a literature-review article'
+    if record.get('source_external') and not EXTERNAL_AI_SCOPE.search(title):
+        if EXTERNAL_AI_SCOPE.search(abstract):
+            if not external_ai_review_evidence(record):
+                return 'review', 'AI relevance appears only in the abstract; requires editorial confirmation'
+        else:
+            return 'exclude', 'No explicit AI/ML focus; biological neural mechanisms and generic knowledge are insufficient'
     venue, _ = venue_year(record)
     topical_title = re.search(r'\b(?:AI|NLP|LLMs?|GNNs?|deep learning|machine learning|neural|learning.based|generative|vision|image|speech|audio|music|robot|robotic|embodied|agentic|agents?|knowledge|recommender|recommendation|retrieval|causal|fuzzy|evolutionary|hyperspectral|point cloud|segmentation|time.series|forecasting)\b', title, re.I)
     ai_categories = {'cs.AI', 'cs.LG', 'cs.CV', 'cs.CL', 'cs.IR', 'cs.RO', 'cs.MA', 'cs.NE', 'stat.ML'}
     primary_categories = record.get('arxiv_categories', [])[:1]
-    if not (AI_SCOPE.search(title) or topical_title or venue.upper() in AI_VENUES or
+    external_title_scope = record.get('source_external') and EXTERNAL_AI_SCOPE.search(title)
+    if not (AI_SCOPE.search(title) or topical_title or external_title_scope or venue.upper() in AI_VENUES or
+            (record.get('source_external') and EXTERNAL_AI_SCOPE.search(abstract)) or
             (set(primary_categories) & ai_categories and AI_SCOPE.search(abstract))):
         return 'exclude', 'No explicit AI/ML relevance in available metadata'
+    if not MARKER.search(title):
+        if re.search(r'\b(?:tool|framework|platform|prototype)\b',title,re.I):
+            return 'review', 'Possible original tool/platform paper with review language in the abstract'
+        if external_title_hint and re.search(r'\b(?:bibliometric|scientometric)\b.*\b(?:analysis|review|mapping)\b|\bsystematic mapping\b',title,re.I) and not re.search(r'\b(?:method|approach|system)\b',title,re.I):
+            return 'include', 'AI-focused bibliometric/scientometric literature mapping named in the title'
+        if (AI_SCOPE.search(title) or topical_title or external_title_scope) and SELF_DESCRIBED_REVIEW.search(abstract) and not re.search(r'\bwe (?:propose|introduce|develop)\b',abstract,re.I):
+            return 'include', 'AI-focused title and explicit self-description as a review in the abstract'
+        return 'review', 'Abstract-led review candidate without title marker; requires editorial confirmation'
     evidence = REVIEW_EVIDENCE.search(abstract)
     if re.search(r'\b(?:review analysis|performing (?:scientific )?literature review|automating (?:scientific )?literature review)\b', title, re.I) and not re.search(r':\s*(?:a\s+)?(?:survey|review)\b', title, re.I):
         return 'exclude', 'Analysis or automation of reviews, not a review article'
@@ -115,7 +166,22 @@ def screen(record):
     if re.search(r'\b(?:case study|benchmark|framework|corpus|tool)\b', title, re.I) and not re.search(r'\b(?:scoping|systematic|literature|comprehensive|critical|narrative)\s+(?:literature\s+)?(?:review|survey)\b|:\s*(?:a\s+)?(?:survey|review)\b|^a (?:survey|review)\b', title, re.I):
         return 'review', 'Possible hybrid method/benchmark paper; requires editorial confirmation'
     title_lit = bool(re.search(r'\b(?:a|an|the|comprehensive|systematic|literature|critical|scoping)\s+(?:\w+[ -]){0,3}(?:survey|review)\b|\b(?:survey|review)\s+(?:of|on|for|and|:)|:\s*(?:a\s+)?(?:survey|review)\b', title, re.I))
-    empirical = EMPIRICAL_SURVEY.search(title + ' ' + abstract)
+    if record.get('source_external'):
+        title_lit = title_lit or bool(re.search(
+            r'\b(?:state.of.the.art|literature|short|focused|taxonomic|structured)\s+(?:review|overview|survey)\b|'
+            r'\bsystematic,?\s+(?:evidence.graded\s+)?survey\b|^review paper:',title,re.I))
+    empirical_text = title + ' ' + abstract
+    empirical = EMPIRICAL_SURVEY.search(empirical_text)
+    if record.get('source_external'):
+        # Counts of papers/datasets, and embedded PDF line numbers, are not evidence
+        # of a participant survey. Preserve the original heuristic for base inputs.
+        empirical = next((m for m in EMPIRICAL_SURVEY.finditer(empirical_text)
+                          if not re.fullmatch(r'survey(?:ed|ing)?\s+(?:of\s+)?\d+', m.group(0), re.I)), None)
+        empirical = empirical or re.search(
+            r'\bsurvey(?:ed|ing)?\s+(?:of\s+)?[\d,]+\s+(?:\w+\s+){0,4}'
+            r'(?:people|users?|respondents?|participants?|students?|patients?|adults?|workers?|'
+            r'teachers?|doctors?|households?|companies|employees|researchers?|engineers?|'
+            r'professionals?|experts?|organizations?|institutions?|universities|firms?)\b', empirical_text, re.I)
     if re.search(r'\b(?:survey talk|tutorial proposal|tutorial report|keynote|panel discussion)\b', title, re.I):
         return 'exclude', 'Talk, proposal or event record rather than a review article'
     if re.search(r'\b(?:overview of|overview)\b', title, re.I) and re.search(r'\b(?:challenge|shared task|industry track|task \d|mission|instrument|campaign)\b', title, re.I) and not evidence:
@@ -137,11 +203,42 @@ def screen(record):
     return 'review', 'Possible review; insufficient unambiguous synthesis evidence'
 
 
-def classify(title, abstract='', arxiv_categories=()):
+def external_review_hint(record):
+    if not record.get('source_external'):
+        return None
+    abstract = record.get('paper_abstract') or ''
+    return SELF_DESCRIBED_REVIEW.search(abstract) or REVIEW_EVIDENCE.search(abstract)
+
+
+def external_ai_review_evidence(record):
+    if not record.get('source_external'):
+        return None
+    for sentence in re.split(r'(?<=[.!?])\s+',record.get('paper_abstract') or ''):
+        # An AI-assisted search tool does not turn the reviewed subject into AI.
+        focus = re.sub(r'\b(?:ai|artificial intelligence)[ -]assisted\s+(?:literature\s+)?'
+                       r'(?:tools?|search(?:ing)?|screening|retrieval)\b(?:\s+(?:Consensus|Elicit))?',
+                       '',sentence,flags=re.I)
+        if EXTERNAL_AI_SCOPE.search(focus) and (SELF_DESCRIBED_REVIEW.search(focus) or REVIEW_EVIDENCE.search(focus)):
+            return sentence
+    return None
+
+
+def is_candidate(record):
+    return bool(MARKER.search(record.get('paper_name') or '') or external_review_hint(record) or
+                (record.get('source_external') and EXTERNAL_REVIEW_MARKER.search(record.get('paper_name') or '')))
+
+
+def source_date(record):
+    return record.get('arxiv_first_submitted_at_utc') or record.get('source_first_submitted_at')
+
+
+def classify(title, abstract='', arxiv_categories=(), expanded_scope=False):
     focus = title
     if ':' in title:
         before, after = title.split(':', 1)
-        if MARKER.search(before) or re.match(r'\s*(?:a |an |the |comprehensive |systematic )*(?:survey|review|overview)\b', after, re.I):
+        boilerplate = (re.fullmatch(r'\s*(?:(?:a|an|the|comprehensive|systematic|literature|critical|scoping)\s+)*(?:survey|review|overview)\s*', after, re.I)
+                       if expanded_scope else re.match(r'\s*(?:a |an |the |comprehensive |systematic )*(?:survey|review|overview)\b', after, re.I))
+        if MARKER.search(before) or boilerplate:
             focus = before
     scored = []
     for c in TAXONOMY:
@@ -179,7 +276,8 @@ def tags_for(title, abstract=''):
 
 
 def review_type(title):
-    for kind, pattern in [('meta-analysis', r'meta.analysis'), ('scoping-review', r'scoping review'),
+    for kind, pattern in [('bibliometric-review',r'bibliometric'),('scientometric-review',r'scientometric'),('systematic-mapping',r'systematic mapping'),
+                          ('meta-analysis', r'meta.analysis'), ('scoping-review', r'scoping review'),
                           ('systematic-review', r'systematic.*review'), ('systematic-survey', r'systematic.*survey'),
                           ('survey', r'\bsurvey\b'), ('review', r'\breview\b'), ('overview', r'overview'),
                           ('tutorial', r'tutorial'), ('taxonomy', r'taxonomy')]:
@@ -192,11 +290,27 @@ def record_key(d):
 
 
 def compatible(a, b):
-    if record_key(a) != record_key(b): return False
+    if record_key(a) != record_key(b):
+        identity = record_identity(a)
+        if not identity or identity!=record_identity(b) or difflib.SequenceMatcher(None,record_key(a),record_key(b)).ratio()<0.92:
+            return False
     va, ya = venue_year(a); vb, yb = venue_year(b)
     if ya is None or yb is None or abs(ya - yb) > 3: return False
     ak = author_keys(a.get('paper_authors', [])); bk = author_keys(b.get('paper_authors', []))
     return bool(ak & bk) or (not ak and not bk and ya == yb)
+
+
+def record_identity(record):
+    url = normalize_url(record.get('paper_url'))
+    aid = arxiv_id(url)
+    if aid:
+        return 'arxiv:'+aid
+    if url and 'doi.org/' in url:
+        doi = unquote(url.split('doi.org/',1)[1]).lower()
+        if doi.startswith(('10.36227/techrxiv.','10.20944/preprints')):
+            doi = re.sub(r'(?:/v|\.v)\d+$','',doi)
+        return 'doi:'+doi
+    return url
 
 
 def deduplicate(records):
@@ -206,7 +320,7 @@ def deduplicate(records):
     for row in records:
         key = record_key(row)
         url = normalize_url(row.get('paper_url'))
-        identity = arxiv_id(url) or url
+        identity = record_identity(row)
         matches = set()
         for idx in by_title[key] + by_url[identity]:
             if groups[idx] and any(compatible(row, prev) for prev in groups[idx]): matches.add(idx)
@@ -218,7 +332,7 @@ def deduplicate(records):
                 for old in groups[target]:
                     by_title[record_key(old)].append(target)
                     u = normalize_url(old.get('paper_url'))
-                    by_url[arxiv_id(u) or u].append(target)
+                    by_url[record_identity(old)].append(target)
         else:
             target = len(groups); groups.append([row])
         by_title[key].append(target); by_url[identity].append(target)
@@ -227,13 +341,14 @@ def deduplicate(records):
 
 def make_paper(group, overrides):
     # Prefer an archival venue record; never infer peer review from a venue label.
-    group.sort(key=lambda r: (venue_year(r)[0].upper() == 'ARXIV',
+    group.sort(key=lambda r: (venue_year(r)[0].upper() in PREPRINT_VENUES,
+                             bool(r.get('source_external')),
                              not bool(normalize_url(r.get('paper_url'))),
                              venue_year(r)[1] or 9999, -len(r.get('paper_abstract') or '')))
     primary = group[0]; title = primary['paper_name'].strip()
     abstract_record = max(group, key=lambda x: len(x.get('paper_abstract') or ''))
     abstract = abstract_record.get('paper_abstract') or ''
-    cid, topic, reason, uncertain = classify(title, abstract)
+    cid, topic, reason, uncertain = classify(title, abstract, expanded_scope=any(r.get('source_external') for r in group))
     override = overrides.get(normalized_title(title), {})
     if override:
         if not override.get('reason'): raise ValueError('Override requires reason: ' + title)
@@ -248,8 +363,13 @@ def make_paper(group, overrides):
         if url and 'doi.org/' in url: dois.add(unquote(url.split('doi.org/', 1)[1]).lower())
         if (url, v, y) not in seen:
             seen.add((url, v, y)); versions.append({'venue': 'arXiv' if v.upper() == 'ARXIV' else ('NeurIPS' if v.upper() == 'NIPS' else v), 'year': y, 'url': url,
-                'source_first_submitted_at': r.get('arxiv_first_submitted_at_utc')})
-        sources.append({'dataset': r['_source'], 'line': r['_line'], 'venue_label': r.get('conf')})
+                'source_first_submitted_at': source_date(r), **({'source_date_basis':r['source_date_basis']} if r.get('source_date_basis') else {})})
+        source = {'dataset': r['_source'], 'line': r['_line'], 'venue_label': r.get('conf')}
+        for key in ('source_record_id','source_platform_url','source_retrieved_at','source_metadata_provider',
+                    'source_date_basis','source_selected_on','source_selected_at','source_selected_days','source_relation','source_update_to'):
+            if r.get(key) is not None:
+                source[key] = r[key]
+        sources.append(source)
         code = normalize_url(r.get('paper_code'))
         if code and code not in code_links: code_links.append(code)
         for match in re.finditer(r'https?://github\.com/([A-Za-z0-9_.-]+)/([A-Za-z0-9_.-]+)', r.get('paper_abstract') or ''):
@@ -287,7 +407,7 @@ def write_jsonl(path, rows):
 
 def build(inputs, as_of):
     overrides = json.loads((ROOT / 'data/overrides.json').read_text(encoding='utf-8'))['papers']
-    selected = []; pending = []; stats = collections.Counter(); source_stats = []
+    selected = []; pending = []; stats = collections.Counter(); source_stats = []; external_audit = []
     for name, path in inputs:
         sha = hashlib.sha256()
         with path.open('rb') as f:
@@ -298,15 +418,18 @@ def build(inputs, as_of):
                 row = json.loads(line); counts['records'] += 1
                 _, year = venue_year(row); years[str(year)] += 1
                 title = row.get('paper_name', '')
-                if not MARKER.search(title): continue
+                if not is_candidate(row): continue
                 counts['title_candidates'] += 1
+                if not MARKER.search(title):
+                    counts['expanded_discovery_candidates'] += 1
+                    if external_review_hint(row): counts['abstract_only_candidates'] += 1
                 row['_source'] = name; row['_line'] = line_no
                 aid = row.get('arxiv_id') or arxiv_id(row.get('paper_url'))
                 if aid:
                     month = int(aid[2:4]); aid_year = 2000 + int(aid[:2])
                     if (aid_year, month) > (as_of.year, as_of.month):
                         counts['excluded_future_identifier_month'] += 1; continue
-                date = row.get('arxiv_first_submitted_at_utc')
+                date = source_date(row)
                 if date:
                     try:
                         if dt.date.fromisoformat(date[:10]) > as_of:
@@ -322,11 +445,19 @@ def build(inputs, as_of):
                 if decision == 'include' and not normalize_url(row.get('paper_url')):
                     decision = 'review'; reason = 'Missing or malformed paper URL'
                 counts[decision] += 1; stats[decision] += 1
+                if row.get('source_external'):
+                    hint = external_review_hint(row)
+                    abstract = row.get('paper_abstract') or ''
+                    external_audit.append({'source':name,'line':line_no,'source_record_id':row.get('source_record_id'),
+                        'title':title,'authors':row.get('paper_authors',[]),'year':year,'paper_url':normalize_url(row.get('paper_url')),
+                        'platform_url':row.get('source_platform_url'),'source_date':date,
+                        'screening_decision':decision,'reason':reason,'title_marker':bool(MARKER.search(title)),
+                        'abstract_evidence':abstract[max(0,hint.start()-40):hint.end()+350] if hint else None})
                 if decision == 'include': selected.append(row)
                 elif decision == 'review':
                     pending.append({'title': title, 'year': year, 'venue_label': row.get('conf'),
                                     'paper_url': normalize_url(row.get('paper_url')), 'reason': reason,
-                                    'source': {'dataset': name, 'line': line_no}})
+                                    'source': {'dataset': name, 'line': line_no, 'source_record_id':row.get('source_record_id')}})
         source_stats.append({'id': name, 'file': path.name, 'bytes': path.stat().st_size,
                              'sha256': sha.hexdigest(), 'counts': dict(counts), 'years': dict(sorted(years.items()))})
         print(name, dict(counts), flush=True)
@@ -350,9 +481,15 @@ def build(inputs, as_of):
     papers.sort(key=lambda p: (p['primary_category'], p['primary_topic'], -(p['year'] or 0), p['title'].casefold()))
     write_jsonl(ROOT/'data/surveys.jsonl', papers)
     write_jsonl(ROOT/'data/review_queue.jsonl', pending)
+    included_sources = {(s['dataset'],s['line']):p['id'] for p in papers for s in p['sources']}
+    for entry in external_audit:
+        entry['catalog_id'] = included_sources.get((entry['source'],entry['line']))
+        entry['status'] = 'included' if entry['catalog_id'] else ('pending' if entry['screening_decision'] in {'include','review'} else 'excluded')
+    if external_audit:
+        write_jsonl(ROOT/'data/external-review-audit.jsonl',external_audit)
     with (ROOT/'data/surveys.csv').open('w', encoding='utf-8', newline='') as f:
         fields = ['id', 'year', 'title', 'venue', 'paper_url', 'code_url', 'primary_category', 'primary_topic', 'review_type', 'tags']
-        out = csv.DictWriter(f, fieldnames=fields); out.writeheader()
+        out = csv.DictWriter(f, fieldnames=fields, lineterminator='\n'); out.writeheader()
         for p in papers:
             row = {k: p[k] for k in fields}; row['tags'] = json.dumps(row['tags'], ensure_ascii=False)
             out.writerow(row)

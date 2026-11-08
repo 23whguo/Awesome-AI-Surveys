@@ -9,7 +9,7 @@
 
 [Multimodal Learning & Models](../categories/08-multimodal.md)
 
-**6 surveys · Page 1/1**
+**7 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -19,3 +19,4 @@
 | 2025 | Document Intelligence in the Era of Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.13366>) | N/A | [14](<https://openalex.org/W4415275856>) |
 | 2025 | A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2506.05061>) | N/A | [2](<https://openalex.org/W4416137572>) |
 | 2026 | Roles of MLLMs in Visually Rich Document Retrieval for RAG: A Survey | arXiv | [paper](<https://arxiv.org/abs/2601.03262>) | N/A | [0](<https://openalex.org/W7119472339>) |
+| 2026 | Chart Reasoning with Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1869.v1>) | N/A | N/A |

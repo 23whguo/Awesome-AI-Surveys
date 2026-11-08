@@ -9,16 +9,19 @@
 
 
 
-**32 surveys · Page 1/1**
+**35 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Efficient Task Adaptation in Large Language Models: A Survey of Weight-Based, Prompt-Based, and Embedding-Based Adaptations | arXiv | [paper](<https://arxiv.org/abs/2610.00928>) | N/A | [0](<https://openalex.org/W7215842320>) |
+| 2026 | In-Context Learning from Demonstrations for Robotic Manipulation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0780.v1>) | N/A | N/A |
 | 2026 | How to Ask the AI: A User Perspective Survey for Large Language Model Prompting | arXiv | [paper](<https://arxiv.org/abs/2608.07494>) | [code](<https://github.com/Yunfan-Zhang/TAI_Guideline-Table>) | [3](<https://openalex.org/W7163519571>) ([⭐ 0](<https://github.com/Yunfan-Zhang/TAI_Guideline-Table>)) |
+| 2026 | Automated Design of Agentic Systems: A Survey of Algorithms for Searching, Optimizing, and Evolving LLM Agents, Workflows, and Prompts | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0238.v1>) | N/A | N/A |
 | 2026 | Refusal Evaluation in Coding LLMs and Code Agents: A Systematic Review of Thirteen Malicious-Code Prompt Corpora (2023-2025) | arXiv | [paper](<https://arxiv.org/abs/2605.20351>) | N/A | [1](<https://openalex.org/W7161944820>) |
 | 2026 | Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2604.03174>) | N/A | [2](<https://openalex.org/W7150730858>) |
 | 2026 | The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis | arXiv | [paper](<https://arxiv.org/abs/2602.10453>) | N/A | [38](<https://openalex.org/W7128731475>) |
 | 2026 | A Systematic Literature Review on LLM Defenses Against Prompt Injection and Jailbreaking: Expanding NIST Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2601.22240>) | N/A | [12](<https://openalex.org/W7127162166>) |
+| 2026 | Emergent Abilities in Large Language Models: In-Context Learning, Chain-of-Thought Reasoning, and Scaling Laws | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784493.33333564/v1>) | N/A | N/A |
 | 2026 | A Survey of LLM Prompt Datasets: Taxonomy, Linguistic Patterns, and Practical Uses | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.397>) | [code](<https://github.com/ymzhang-cs/prompt-dataset-analysis>) | [3](<https://openalex.org/W4417129365>) ([⭐ 1](<https://github.com/ymzhang-cs/prompt-dataset-analysis>)) |
 | 2025 | Evaluating Prompting Strategies and Large Language Models in Systematic Literature Review Screening: Relevance and Task-Stage Classification | arXiv | [paper](<https://arxiv.org/abs/2510.16091>) | N/A | [6](<https://openalex.org/W4415949686>) |
 | 2025 | A Taxonomy of Prompt Defects in LLM Systems | arXiv | [paper](<https://arxiv.org/abs/2509.14404>) | N/A | [14](<https://openalex.org/W4417080748>) |

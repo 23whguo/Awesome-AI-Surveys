@@ -79,7 +79,7 @@ def get_json(url, headers=None, attempts=3):
                 return json.load(response), None
         except urllib.error.HTTPError as error:
             # Missing records stay unknown; never turn a lookup failure into zero.
-            if error.code in {400, 401, 402, 403, 404, 410, 422}:
+            if error.code in {400, 401, 402, 403, 404, 410, 422, 429}:
                 return None, 'http-' + str(error.code)
             if attempt == attempts - 1:
                 return None, 'http-' + str(error.code)
@@ -148,7 +148,7 @@ def openalex_request(params, refresh=False):
     return result
 
 
-def refresh_citations(papers, refresh=False):
+def refresh_citations(papers, refresh=False, skip_title_search=False):
     found = {}
     lookup_errors = collections.Counter()
     by_doi, by_arxiv, by_title = collections.defaultdict(list), collections.defaultdict(list), collections.defaultdict(list)
@@ -188,7 +188,7 @@ def refresh_citations(papers, refresh=False):
             consume(response)
             if i % 10 == 0 or i == len(batches):
                 print('Citation identifier batches', i, '/', len(batches), 'matched', len(found), 'last_error', response['error'], flush=True)
-    missing = [p for p in papers if not found.get(p['id'])]
+    missing = [p for p in papers if not found.get(p['id'])] if not skip_title_search else []
     title_batches = [missing[i:i+15] for i in range(0, len(missing), 15)]
     def fetch_titles(batch):
         terms = ['"' + re.sub(r'["\\|]', ' ', p['title']) + '"' for p in batch]
@@ -209,7 +209,7 @@ def refresh_citations(papers, refresh=False):
         else:
             metrics[paper['id']] = {'citation_count': None, 'citation_source': 'OpenAlex',
                                      'citation_source_url': None, 'citation_lookup_status': 'unavailable-or-unmatched',
-                                     'citation_checked_at': stamp()}
+                                     'citation_checked_at': stamp(), 'citation_lookup_errors':dict(lookup_errors)}
     print('Citation matches', len(found), '/', len(papers), 'batch errors', dict(lookup_errors), flush=True)
     return metrics
 
@@ -242,18 +242,25 @@ def refresh_stars(papers, token, refresh=False):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--refresh', action='store_true', help='Refresh successful cached API responses')
+    parser.add_argument('--new-only', action='store_true', help='Preserve previous per-paper citation records; fetch new catalog identities and new Code repository metrics')
+    parser.add_argument('--skip-title-search', action='store_true', help='Use identifier batches only, avoiding expensive fallback title searches')
     args = parser.parse_args()
     with (ROOT/'data/surveys.jsonl').open(encoding='utf-8') as f:
         papers = [json.loads(line) for line in f if line.strip()]
     token = github_token()
+    previous = read_json(ROOT/'data/metrics.json', {}).get('paper_metrics', {}) if args.new_only else {}
+    new_papers = [p for p in papers if p['id'] not in previous]
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-        citations = executor.submit(refresh_citations, papers, args.refresh)
+        citations = executor.submit(refresh_citations, new_papers, args.refresh, args.skip_title_search)
         stars = executor.submit(refresh_stars, papers, token, args.refresh)
         citation_values = citations.result()
         star_values = stars.result()
     records = {}
     for paper in papers:
-        metrics = citation_values[paper['id']]
+        metrics = dict(citation_values.get(paper['id'], previous.get(paper['id'], {})))
+        for key in list(metrics):
+            if key.startswith('github_'):
+                del metrics[key]
         repo = repo_name(paper.get('code_url'))
         if repo:
             metrics.update(star_values[repo])

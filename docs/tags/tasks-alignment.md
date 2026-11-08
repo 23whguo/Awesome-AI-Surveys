@@ -9,7 +9,7 @@
 
 
 
-**30 surveys · Page 1/1**
+**40 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -37,6 +37,16 @@
 | 2026 | AI Alignment through a Game-theoretic Lens: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2607>) | N/A | [0](<https://openalex.org/W7204787062>) |
 | 2026 | A Survey on Value Alignment in Agentic AI Systems | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/896>) | N/A | [0](<https://openalex.org/W7213391790>) |
 | 2026 | Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/891>) | N/A | [0](<https://openalex.org/W7213435699>) |
+| 2026 | Alignment in Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1245.v3>) | N/A | N/A |
+| 2026 | Large Language Model Alignment with Complex Feedback: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0674.v1>) | N/A | N/A |
+| 2026 | When LLMs Take Action: A Survey on the Safety and Alignment of Language-Conditioned Embodied Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0061.v1>) | N/A | N/A |
+| 2026 | Towards Pluralistic Alignment of LLMs: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1876.v1>) | N/A | N/A |
+| 2026 | Video Generation Models: A Survey of Post-Training and Alignment | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220111.17351887/v1>) | [code](<https://github.com/CyL97/Awesome-Video-Generation-Post-Training>) | N/A ([⭐ 215](<https://github.com/people-robots/Awesome-Video-Generation-Post-Training>)) |
+| 2026 | Personalized Alignment in the Era of LLMs: A Review of Methodologies, Datasets, Evaluation, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177083699.99572896/v1>) | N/A | N/A |
+| 2026 | Privacy-Preserving LLM Preference Alignment: A Systematic Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978434.43544529/v1>) | N/A | N/A |
+| 2026 | A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945895.52184668/v1>) | N/A | N/A |
+| 2026 | Large Language Models: A Survey of Architectures, Training Paradigms, and Alignment Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1138.v1>) | N/A | N/A |
+| 2026 | Instruction Tuning for Large Language Models: RLHF, Supervised Fine-Tuning, and Alignment Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.43758400/v1>) | N/A | N/A |
 | 2025 | Decoding Alignment: A Critical Survey of LLM Development Initiatives through Value-setting and Data-centric Lens | arXiv | [paper](<https://arxiv.org/abs/2508.16982>) | N/A | N/A |
 | 2025 | Multi-level Value Alignment in Agentic AI Systems: Survey and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2506.09656>) | N/A | N/A |
 | 2025 | Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.17352>) | N/A | N/A |

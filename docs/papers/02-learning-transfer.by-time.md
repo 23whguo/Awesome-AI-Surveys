@@ -9,11 +9,14 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**30 surveys · Page 1/1**
+**33 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Domain Adaptation and Annotation Efficiency in Remote-Sensing LULC Mapping: A Systematic Review of Active Learning and Vision–Language Models and a Conceptual Framework for the Brazilian Cerrado | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1534.v1>) | N/A | N/A |
+| 2026 | How does Active Learning Tackle Domain Adaptation: A Survey on Active Domain Adaptation and Active Continual Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0070.v1>) | N/A | N/A |
 | 2026 | Transfer Learning for Meta-analysis Under Covariate Shift | arXiv | [paper](<https://arxiv.org/abs/2604.02656>) | N/A | [0](<https://openalex.org/W7150967596>) |
+| 2026 | Meta-Learning and Few-Shot Learning: A Comprehensive Survey of Algorithms, Theory, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784520.02393968/v1>) | N/A | N/A |
 | 2026 | CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2026.3651700>) | [code](<https://github.com/jindongli-ai/survey_on_clip-powered_domain_generalization_and_adaptation>) | [30](<https://openalex.org/W7123345677>) ([⭐ 87](<https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation>)) |
 | 2025 | Multi-Task Learning Based on Support Vector Machines and Twin Support Vector Machines: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.26392>) | N/A | N/A |
 | 2025 | Compositional Zero-Shot Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.11106>) | [code](<https://github.com/ans92/Compositional-Zero-Shot-Learning>) | N/A ([⭐ 10](<https://github.com/ans92/Compositional-Zero-Shot-Learning>)) |

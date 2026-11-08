@@ -9,16 +9,20 @@
 
 
 
-**39 surveys · Page 1/1**
+**43 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Causal-based approaches to explain and learn from self-extension - A review | arXiv | [paper](<https://arxiv.org/abs/2610.33227>) | N/A | [1](<https://openalex.org/W4393071966>) |
 | 2026 | Contextual Causality with Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.493>) | N/A | [0](<https://openalex.org/W7214025276>) |
+| 2026 | Where Does Knowledge Live? Representational, Causal, and Editable Localization in Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1605.v1>) | N/A | N/A |
 | 2026 | Conditional Independence Tests for Constraint-Based Causal Discovery: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.11156>) | N/A | [0](<https://openalex.org/W7202289625>) |
 | 2026 | Causal Perspectives on Network Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2607.09200>) | N/A | [0](<https://openalex.org/W7168188163>) |
 | 2026 | A Survey on Federated Causal Discovery and Inference | arXiv | [paper](<https://arxiv.org/abs/2606.23741>) | N/A | [0](<https://openalex.org/W7165798763>) |
+| 2026 | Causal Inference in Non-Allergic Asthma Associated with Obesity: Application of the Bradford Hill Viewpoints to a Complex Epidemiological Association | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0451.v1>) | N/A | N/A |
 | 2026 | Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2604.03174>) | N/A | [2](<https://openalex.org/W7150730858>) |
+| 2026 | Metformin for Age-Related Macular Degeneration: Moving Beyond Observational Studies to Causal Inference Through Target Trial Emulation and Advanced Analytics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0202.v1>) | N/A | N/A |
+| 2026 | A Survey of Human Motion Style Based on Physical Perception: Definitions, Causal Taxonomy, and Generative Paradigms | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177160637.72794468/v1>) | N/A | N/A |
 | 2026 | Causal Post-hoc XAI: Categorisation and Systematic Literature Review | MLJ | [paper](<https://doi.org/10.1007/s10994-026-07103-0>) | N/A | [1](<https://openalex.org/W7169800812>) |
 | 2026 | Looking at Radiology Report Generation through a Causal Lens: A Survey | ACL | [paper](<https://aclanthology.org/2026.acl-long.186>) | N/A | [1](<https://openalex.org/W7117573307>) |
 | 2025 | Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications | arXiv | [paper](<https://arxiv.org/abs/2512.18135>) | N/A | [4](<https://openalex.org/W7117148070>) |

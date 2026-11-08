@@ -9,12 +9,84 @@
 
 
 
-**369 surveys · Page 2/2**
+**441 surveys · Page 2/3**
 
-Pages: [1](tasks-generation.by-time.md) · 2
+Pages: [1](tasks-generation.by-time.md) · 2 · [3](tasks-generation-3.by-time.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2025 | Generative AI for Autonomous Driving: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.15863>) | N/A | [10](<https://openalex.org/W4415329399>) |
+| 2025 | AI and Generative AI Transforming Disaster Management: A Survey of Damage Assessment and Response Techniques | arXiv | [paper](<https://arxiv.org/abs/2505.08202>) | N/A | [17](<https://openalex.org/W4413679588>) |
+| 2025 | 3D Scene Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.05474>) | [code](<https://github.com/hzxie/Awesome-3D-Scene-Generation>) | [39](<https://openalex.org/W4416092114>) ([⭐ 1,112](<https://github.com/hzxie/Awesome-3D-Scene-Generation>)) |
+| 2025 | Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.04531>) | N/A | [33](<https://openalex.org/W4416014152>) |
+| 2025 | Natural Language Generation in Healthcare: A Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2505.04073>) | N/A | [14](<https://openalex.org/W7128538487>) |
+| 2025 | Text to Image Generation and Editing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02527>) | N/A | [12](<https://openalex.org/W4415886265>) |
+| 2025 | Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications | arXiv | [paper](<https://arxiv.org/abs/2505.01146>) | N/A | [27](<https://openalex.org/W4417313874>) |
+| 2025 | Generative AI in Financial Institution: A Global Survey of Opportunities, Threats, and Regulation | arXiv | [paper](<https://arxiv.org/abs/2504.21574>) | N/A | [26](<https://openalex.org/W4417523747>) |
+| 2025 | Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.00210>) | N/A | N/A |
+| 2025 | Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2504.20799>) | N/A | [24](<https://openalex.org/W4417171404>) |
+| 2025 | Mixture of Experts for Decentralized Generative AI and Reinforcement Learning in Wireless Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.19660>) | N/A | [15](<https://openalex.org/W4417130747>) |
+| 2025 | Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2504.19056>) | [code](<https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey>) | N/A ([⭐ 82](<https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey>)) |
+| 2025 | Generative to Agentic AI: Survey, Conceptualization, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2504.18875>) | N/A | [112](<https://openalex.org/W4416889024>) |
+| 2025 | A Comprehensive Survey of Synthetic Tabular Data Generation | arXiv | [paper](<https://arxiv.org/abs/2504.16506>) | N/A | [53](<https://openalex.org/W4415065917>) |
+| 2025 | A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradigms | arXiv | [paper](<https://arxiv.org/abs/2504.16420>) | N/A | [30](<https://openalex.org/W4415065819>) |
+| 2025 | Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.14891>) | N/A | N/A |
+| 2025 | Generative AI for Film Creation: A Survey of Recent Advances | arXiv | [paper](<https://arxiv.org/abs/2504.08296>) | N/A | [56](<https://openalex.org/W4414198953>) |
+| 2025 | Generative Artificial Intelligence for Internet of Things Computing: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2504.07635>) | N/A | [7](<https://openalex.org/W7167645598>) |
+| 2025 | Graph-based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.10499>) | N/A | [41](<https://openalex.org/W7129489580>) |
+| 2025 | A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2504.05496>) | N/A | [36](<https://openalex.org/W4416527493>) |
+| 2025 | Generative Adversarial Networks with Limited Data: A Survey and Benchmarking | arXiv | [paper](<https://arxiv.org/abs/2504.05456>) | N/A | [3](<https://openalex.org/W4416119113>) |
+| 2025 | Do Large Language Models Solve the Problems of Agent-Based Modeling? A Critical Review of Generative Social Simulations | arXiv | [paper](<https://arxiv.org/abs/2504.03274>) | N/A | [53](<https://openalex.org/W4415979340>) |
+| 2025 | A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives | arXiv | [paper](<https://arxiv.org/abs/2504.00837>) | N/A | [11](<https://openalex.org/W7133930723>) |
+| 2025 | InteractiveSurvey: An LLM-based Personalized and Interactive Survey Paper Generation System | arXiv | [paper](<https://arxiv.org/abs/2504.08762>) | N/A | [19](<https://openalex.org/W4415152233>) |
+| 2025 | Vision-to-Music Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.21254>) | [code](<https://github.com/wzk1015/Awesome-Vision-to-Music-Generation>) | [15](<https://openalex.org/W4415062261>) ([⭐ 126](<https://github.com/wzk1015/Awesome-Vision-to-Music-Generation>)) |
+| 2025 | A Survey of Multimodal Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2504.08748>) | N/A | [101](<https://openalex.org/W4415152171>) |
+| 2025 | Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook | arXiv | [paper](<https://arxiv.org/abs/2503.18016>) | N/A | N/A |
+| 2025 | Machine Learning - Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A review | arXiv | [paper](<https://arxiv.org/abs/2503.18975>) | N/A | [87](<https://openalex.org/W4414299703>) |
+| 2025 | Ensemble Learning for Large Language Models in Text and Code Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.13505>) | N/A | [19](<https://openalex.org/W7133509551>) |
+| 2025 | A Survey on Knowledge-Oriented Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2503.10677>) | N/A | N/A |
+| 2025 | Generative AI in Transportation Planning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.07158>) | N/A | N/A |
+| 2025 | A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval | arXiv | [paper](<https://arxiv.org/abs/2503.05659>) | [code](<https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search>) | N/A ([⭐ 129](<https://github.com/tsinghua-fib-lab/LLM-Agent-for-Recommendation-and-Search>)) |
+| 2025 | A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2503.05954>) | N/A | N/A |
+| 2025 | Simulating the Real World: A Unified Survey of Multimodal Generative Models | arXiv | [paper](<https://arxiv.org/abs/2503.04641>) | N/A | [22](<https://openalex.org/W4416113753>) |
+| 2025 | Generative Artificial Intelligence in Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.03464>) | [code](<https://github.com/GAI4Manipulation/AwesomeGAIManipulation>) | [35](<https://openalex.org/W4408891889>) ([⭐ 95](<https://github.com/GAI4Manipulation/AwesomeGAIManipulation>)) |
+| 2025 | Large Language Models for Code Generation: A Comprehensive Survey of Challenges, Techniques, Evaluation, and Applications | arXiv | [paper](<https://arxiv.org/abs/2503.01245>) | N/A | [79](<https://openalex.org/W4417221685>) |
+| 2025 | A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images | arXiv | [paper](<https://arxiv.org/abs/2502.21151>) | N/A | N/A |
+| 2025 | AI Literacy in K-12 and Higher Education in the Wake of Generative AI: An Integrative Review | arXiv | [paper](<https://arxiv.org/abs/2503.00079>) | N/A | [131](<https://openalex.org/W4412781201>) |
+| 2025 | Generative Models in Decision Making: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.17100>) | N/A | [22](<https://openalex.org/W4415100134>) |
+| 2025 | A Survey on Industrial Anomaly Synthesis | arXiv | [paper](<https://arxiv.org/abs/2502.16412>) | [code](<https://github.com/M-3LAB/awesome-anomaly-synthesis>) | [10](<https://openalex.org/W4414841072>) ([⭐ 80](<https://github.com/M-3LAB/awesome-anomaly-synthesis>)) |
+| 2025 | Personalized Image Generation with Deep Generative Models: A Decade Survey | arXiv | [paper](<https://arxiv.org/abs/2502.13081>) | [code](<https://github.com/csyxwei/Awesome-Personalized-Image-Generation>) | [24](<https://openalex.org/W4413822471>) ([⭐ 258](<https://github.com/csyxwei/Awesome-Personalized-Image-Generation>)) |
+| 2025 | A Comprehensive Survey on Generative AI for Video-to-Music Generation | arXiv | [paper](<https://arxiv.org/abs/2502.12489>) | N/A | [17](<https://openalex.org/W4407759530>) |
+| 2025 | Natural Language Generation from Visual Events: State-of-the-Art and Key Open Questions | arXiv | [paper](<https://arxiv.org/abs/2502.13034>) | N/A | [1](<https://openalex.org/W4407760028>) |
+| 2025 | Generative Multi-Agent Collaboration in Embodied AI: A Systematic Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1190>) | N/A | [34](<https://openalex.org/W4414359154>) |
+| 2025 | A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond | arXiv | [paper](<https://arxiv.org/abs/2502.12048>) | N/A | [11](<https://openalex.org/W4407759027>) |
+| 2025 | From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine | arXiv | [paper](<https://arxiv.org/abs/2502.09242>) | N/A | [79](<https://openalex.org/W4413408156>) |
+| 2025 | A Survey of LLM Alignment: Instruction Understanding, Intention Reasoning, and Reliable Generation | arXiv | [paper](<https://arxiv.org/abs/2502.09101>) | N/A | [14](<https://openalex.org/W7154627499>) |
+| 2025 | Generative AI &amp; Changing Work: Systematic Review of Practitioner-led Work Transformations through the Lens of Job Crafting | arXiv | [paper](<https://arxiv.org/abs/2502.08854>) | N/A | [8](<https://openalex.org/W4407571093>) |
+| 2025 | A Survey on Data-Centric AI: Tabular Learning from Reinforcement Learning and Generative AI Perspective | arXiv | [paper](<https://arxiv.org/abs/2502.08828>) | N/A | [17](<https://openalex.org/W4407571110>) |
+| 2025 | Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing | arXiv | [paper](<https://arxiv.org/abs/2502.07829>) | N/A | [12](<https://openalex.org/W7127938829>) |
+| 2025 | Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.06872>) | N/A | [103](<https://openalex.org/W4407423003>) |
+| 2025 | Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2502.05151>) | N/A | [122](<https://openalex.org/W4407310674>) |
+| 2025 | Privacy-Preserving Generative Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.03668>) | N/A | N/A |
+| 2025 | Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification | arXiv | [paper](<https://arxiv.org/abs/2502.02133>) | N/A | [50](<https://openalex.org/W7128436456>) |
+| 2025 | Synthetic CT image generation from CBCT: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.13972>) | N/A | [25](<https://openalex.org/W4406793953>) |
+| 2025 | A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.13958>) | [code](<https://github.com/DEEP-PolyU/Awesome-GraphRAG>) | [255](<https://openalex.org/W4406840433>) ([⭐ 2,687](<https://github.com/DEEP-PolyU/Awesome-GraphRAG>)) |
+| 2025 | Reference-free Evaluation Metrics for Text Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.12011>) | N/A | [13](<https://openalex.org/W4406745597>) |
+| 2025 | Generative Physical AI in Vision: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.10928>) | N/A | [39](<https://openalex.org/W4406733556>) |
+| 2025 | Towards Data-Centric AI: A Comprehensive Survey of Traditional, Reinforcement, and Generative Approaches for Tabular Data Transformation | arXiv | [paper](<https://arxiv.org/abs/2501.10555>) | N/A | [25](<https://openalex.org/W7140305670>) |
+| 2025 | Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG | arXiv | [paper](<https://arxiv.org/abs/2501.09136>) | N/A | [525](<https://openalex.org/W4406542750>) |
+| 2025 | Who is Responsible? The Data, Models, Users or Regulations? A Comprehensive Survey on Responsible Generative AI for a Sustainable Future | arXiv | [paper](<https://arxiv.org/abs/2502.08650>) | N/A | [40](<https://openalex.org/W4407570772>) |
+| 2025 | Underwater Image Enhancement using Generative Adversarial Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.06273>) | N/A | [25](<https://openalex.org/W4407781446>) |
+| 2025 | Generative AI for Cel-Animation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.06250>) | [code](<https://github.com/yunlong10/Awesome-AI4Animation>) | [38](<https://openalex.org/W7131067892>) ([⭐ 218](<https://github.com/yoloytang/Awesome-AI4Animation>)) |
+| 2025 | The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers | CHI | [paper](<https://doi.org/10.1145/3706598.3713778>) | N/A | [961](<https://openalex.org/W4409885395>) |
+| 2025 | Graph Retrieval-Augmented Generation: A Survey | TOIS | [paper](<https://doi.org/10.1145/3777378>) | [code](<https://github.com/pengboci/GraphRAG-Survey>) | [696](<https://openalex.org/W4416379250>) ([⭐ 292](<https://github.com/pengboci/GraphRAG-Survey>)) |
+| 2025 | An in-depth review and analysis of mode collapse in generative adversarial networks | MLJ | [paper](<https://doi.org/10.1007/s10994-025-06772-7>) | N/A | [56](<https://openalex.org/W4409740852>) |
+| 2025 | A Survey on Quality Metrics for Text-to-Image Generation | TVCG | [paper](<https://doi.org/10.1109/TVCG.2025.3585077>) | N/A | [55](<https://openalex.org/W4411867278>) |
+| 2025 | Towards Controllable Speech Synthesis in the Era of Large Language Models: A Systematic Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.40>) | [code](<https://github.com/imxtx/awesome-controllabe-speech-synthesis>) | [50](<https://openalex.org/W4416037241>) ([⭐ 291](<https://github.com/imxtx/awesome-controllable-speech-synthesis>)) |
+| 2025 | On the Trustworthiness Landscape of State-of-the-art Generative Models: A Survey and Outlook | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02375-w>) | N/A | [35](<https://openalex.org/W4408042859>) |
+| 2025 | Image Synthesis Under Limited Data: A Survey and Taxonomy | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02357-y>) | [code](<https://github.com/kobeshegu/awesome-few-shot-generation>) | [33](<https://openalex.org/W4406855871>) ([⭐ 87](<https://github.com/kobeshegu/awesome-few-shot-generation>)) |
+| 2025 | Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.83>) | N/A | [32](<https://openalex.org/W4416037345>) |
+| 2025 | A Survey on LLMs for Story Generation | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.750>) | N/A | [15](<https://openalex.org/W4416034823>) |
 | 2025 | Generative Modeling: A Review | arXiv | [paper](<https://arxiv.org/abs/2501.05458>) | N/A | [13](<https://openalex.org/W4406316540>) |
 | 2025 | Trajectory generative models: a survey from unconditional and conditional perspectives | GeoInformatica | [paper](<https://doi.org/10.1007/s10707-025-00558-8>) | N/A | [7](<https://openalex.org/W4413813389>) |
 | 2025 | A review of generative models for virtual human motion driving | SCIS | [paper](<https://doi.org/10.1007/s11432-023-4284-x>) | N/A | [4](<https://openalex.org/W4410702628>) |
@@ -143,46 +215,5 @@ Pages: [1](tasks-generation.by-time.md) · 2
 | 2024 | A Survey of Music Generation in the Context of Interaction | arXiv | [paper](<https://arxiv.org/abs/2402.15294>) | N/A | [4](<https://openalex.org/W4392182240>) |
 | 2024 | Large Language Models for Data Annotation and Synthesis: A Survey | EMNLP | [paper](<https://aclanthology.org/2024.emnlp-main.54>) | [code](<https://github.com/zhen-tan-dmml/llm4annotation>) | [459](<https://openalex.org/W4404783774>) ([⭐ 648](<https://github.com/Zhen-Tan-dmml/LLM4Annotation>)) |
 | 2024 | Generative AI for Secure Physical Layer Communications: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.13553>) | N/A | [109](<https://openalex.org/W4401326099>) |
-| 2024 | Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions | arXiv | [paper](<https://arxiv.org/abs/2402.13777>) | [code](<https://github.com/LucasCJYSDL/DGMs-for-Offline-Policy-Learning>) | [15](<https://openalex.org/W4392126193>) ([⭐ 54](<https://github.com/LucasCJYSDL/DGMs-for-Offline-Policy-Learning>)) |
-| 2024 | Generative AI for Controllable Protein Sequence Design: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.10516>) | N/A | [14](<https://openalex.org/W4391940875>) |
-| 2024 | Mapping the Ethics of Generative AI: A Comprehensive Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2402.08323>) | N/A | [201](<https://openalex.org/W4402601985>) |
-| 2024 | A Survey of Generative AI for de novo Drug Design: New Frontiers in Molecule and Protein Generation | arXiv | [paper](<https://arxiv.org/abs/2402.08703>) | [code](<https://github.com/gersteinlab/GenAI4Drug>) | [144](<https://openalex.org/W4400656170>) ([⭐ 98](<https://github.com/gersteinlab/GenAI4Drug>)) |
-| 2024 | Generative Visual Compression: A Review | arXiv | [paper](<https://arxiv.org/abs/2402.02140>) | N/A | [16](<https://openalex.org/W4402916321>) |
-| 2024 | At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence | arXiv | [paper](<https://arxiv.org/abs/2402.18587>) | N/A | [161](<https://openalex.org/W4391547794>) |
-| 2024 | Building Expressive and Tractable Probabilistic Generative Models: A Review | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/910>) | N/A | [9](<https://openalex.org/W4401024307>) |
-| 2024 | Advances in 3D Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2401.17807>) | N/A | [98](<https://openalex.org/W4391462886>) |
-| 2024 | A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming | arXiv | [paper](<https://arxiv.org/abs/2404.16038>) | N/A | [93](<https://openalex.org/W4393318705>) |
-| 2024 | Data-driven Camera and Lidar Simulation Models for Autonomous Driving: A Review from Generative Models to Volume Renderers | arXiv | [paper](<https://arxiv.org/abs/2402.10079>) | N/A | N/A |
-| 2024 | SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model | arXiv | [paper](<https://arxiv.org/abs/2401.13266>) | N/A | [35](<https://openalex.org/W4413122213>) |
-| 2024 | Generative AI-Driven Human Digital Twin in IoT-Healthcare: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2401.13699>) | N/A | [167](<https://openalex.org/W4400933825>) |
-| 2024 | Text-to-Image Cross-Modal Generation: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2401.11631>) | N/A | [18](<https://openalex.org/W4391158512>) |
-| 2024 | Deep Generative Modeling for Financial Time Series with Application in VaR: A Comparative Review | arXiv | [paper](<https://arxiv.org/abs/2401.10370>) | N/A | [14](<https://openalex.org/W4391125499>) |
-| 2024 | A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models | arXiv | [paper](<https://arxiv.org/abs/2401.07187>) | N/A | [24](<https://openalex.org/W4404572601>) |
-| 2024 | Zero-Shot Generative Large Language Models for Systematic Review Screening Automation | ECIR | [paper](<https://doi.org/10.1007/978-3-031-56027-9_25>) | N/A | [27](<https://openalex.org/W4392964628>) |
-| 2024 | Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human | arXiv | [paper](<https://arxiv.org/abs/2401.02620>) | N/A | [15](<https://openalex.org/W4390689983>) |
-| 2024 | Comprehensive Exploration of Synthetic Data Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2401.02524>) | N/A | [137](<https://openalex.org/W4390690081>) |
-| 2024 | Human Motion Generation: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3330935>) | N/A | [139](<https://openalex.org/W4388505252>) |
-| 2024 | Generative Adversarial Network Applications in Industry 4.0: A Review | IJCV | [paper](<https://doi.org/10.1007/s11263-023-01966-9>) | N/A | [37](<https://openalex.org/W4390825351>) |
-| 2024 | Deep learning for code generation: a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-023-3956-3>) | N/A | [20](<https://openalex.org/W4401812232>) |
-| 2024 | Machine Learning Approaches for 3D Motion Synthesis and Musculoskeletal Dynamics Estimation: A Survey | TVCG | [paper](<https://doi.org/10.1109/TVCG.2023.3308753>) | N/A | [16](<https://openalex.org/W4386176477>) |
-| 2024 | Evaluation Metrics for Intelligent Generation of Graphical Game Assets: A Systematic Survey-Based Framework | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3398998>) | N/A | [9](<https://openalex.org/W4396782800>) |
-| 2023 | A Survey on Generative Diffusion Models | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3361474>) | N/A | [804](<https://openalex.org/W4391468387>) |
-| 2023 | A Systematic Survey on Deep Generative Models for Graph Generation | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3214832>) | N/A | [191](<https://openalex.org/W4306733841>) |
-| 2023 | A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3277122>) | [code](<https://github.com/litterbrother-xiao/overview-of-non-autoregressive-applications>) | [115](<https://openalex.org/W4377079846>) ([⭐ 187](<https://github.com/LitterBrother-Xiao/Overview-of-Non-autoregressive-Applications>)) |
-| 2023 | Diffusion Models for Non-autoregressive Text Generation: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/750>) | [code](<https://github.com/RUCAIBox/Awesome-Text-Diffusion-Models>) | [67](<https://openalex.org/W4385767932>) ([⭐ 61](<https://github.com/RUCAIBox/Awesome-Text-Diffusion-Models>)) |
-| 2023 | Survey on leveraging pre-trained generative adversarial networks for image editing and restoration | SCIS | [paper](<https://doi.org/10.1007/s11432-022-3679-0>) | [code](<https://github.com/csmliu/pretrained-GANs>) | [38](<https://openalex.org/W4365450082>) ([⭐ 17](<https://github.com/csmliu/pretrained-GANs>)) |
-| 2023 | A Survey on Neural Data-to-Text Generation | TKDE | [paper](<https://doi.org/10.1109/TKDE.2023.3304385>) | N/A | [25](<https://openalex.org/W4385756501>) |
-| 2023 | Application and Evaluation of Large Language Models for the Generation of Survey Questions | CIKM | [paper](<https://doi.org/10.1145/3583780.3615506>) | N/A | [9](<https://openalex.org/W4387846667>) |
-| 2022 | New Generation Deep Learning for Video Object Detection: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2021.3053249>) | N/A | [274](<https://openalex.org/W3127131334>) |
-| 2022 | A review and meta-analysis of Generative Adversarial Networks and their applications in remote sensing | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2022.102734>) | N/A | [106](<https://openalex.org/W4220953084>) |
-| 2022 | Generative Knowledge Graph Construction: A Review | EMNLP | [paper](<https://aclanthology.org/2022.emnlp-main.1>) | [code](<https://github.com/zjunlp/Generative_KG_Construction_Papers>) | [103](<https://openalex.org/W4385574107>) ([⭐ 112](<https://github.com/zjunlp/Generative_KG_Construction_Papers>)) |
-| 2022 | A Review on Question Generation from Natural Language Text | TOIS | [paper](<https://doi.org/10.1145/3468889>) | N/A | [102](<https://openalex.org/W3196385594>) |
-| 2022 | Commonsense Knowledge Reasoning and Generation with Pre-trained Language Models: A Survey | AAAI | [paper](<https://ojs.aaai.org/index.php/AAAI/article/view/21496>) | N/A | [61](<https://openalex.org/W4283815582>) |
-| 2022 | MReD: A Meta-Review Dataset for Structure-Controllable Text Generation | ACL | [paper](<https://aclanthology.org/2022.findings-acl.198>) | [code](<https://github.com/shen-chenhui/mred>) | [37](<https://openalex.org/W4285139476>) ([⭐ 28](<https://github.com/Shen-Chenhui/MReD>)) |
-| 2021 | Pretrained Language Model for Text Generation: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/612>) | N/A | [193](<https://openalex.org/W3187134297>) |
-| 2021 | A Survey of Machine Learning-Based Physics Event Generation | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/588>) | N/A | [25](<https://openalex.org/W3171640724>) |
-| 2021 | Optimal Transport for Deep Generative Models: State of the Art and Research Challenges | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/607>) | N/A | [9](<https://openalex.org/W3193050506>) |
-| 2005 | Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions | TKDE | [paper](<https://doi.org/10.1109/TKDE.2005.99>) | N/A | [10,538](<https://openalex.org/W2171960770>) |
-| 2000 | Neuro-fuzzy rule generation: survey in soft computing framework | TNNLS | [paper](<https://doi.org/10.1109/72.846746>) | N/A | [728](<https://openalex.org/W2159111290>) |
 
-Pages: [1](tasks-generation.by-time.md) · 2
+Pages: [1](tasks-generation.by-time.md) · 2 · [3](tasks-generation-3.by-time.md)

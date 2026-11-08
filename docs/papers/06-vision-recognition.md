@@ -9,7 +9,7 @@
 
 [Computer Vision](../categories/06-vision.md)
 
-**91 surveys · Page 1/1**
+**95 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -92,6 +92,10 @@
 | 2025 | Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging | arXiv | [paper](<https://arxiv.org/abs/2506.19797>) | N/A | [0](<https://openalex.org/W4414684732>) |
 | 2024 | Advancements in Orthopaedic Arm Segmentation: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2406.13266>) | N/A | [0](<https://openalex.org/W4399912631>) |
 | 2013 | A Survey of Cervix Segmentation Methods in Magnetic Resonance Images | MICCAI | [paper](<https://doi.org/10.1007/978-3-642-41083-3_32>) | N/A | [0](<https://openalex.org/W18456513>) |
+| 2026 | A Systematic Review of Quantum Deep Learning Architectures for Image Classification | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1015.v1>) | N/A | N/A |
+| 2026 | From Handcrafted Features to Vision Transformers: A Multi-Domain Survey of Image Classification Architectures, Datasets, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1416.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Logit Adjustment Methods for Long-Tailed Recognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177127395.56824258/v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey on Farmland Segmentation: Methodologies, Applications, and the Road to Agriculture 5.0 | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004901.18423035/v1>) | N/A | N/A |
 | 2025 | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.08490>) | N/A | N/A |
 | 2025 | Multimodal Referring Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.00265>) | [code](<https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation>) | N/A ([⭐ 260](<https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation>)) |
 | 2025 | Image Recognition with Online Lightweight Vision Transformer: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.03113>) | [code](<https://github.com/ajxklo/Lightweight-VIT>) | N/A ([⭐ 10](<https://github.com/ajxklo/Lightweight-VIT>)) |

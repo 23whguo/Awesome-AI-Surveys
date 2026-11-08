@@ -9,22 +9,50 @@
 
 [Agents & Multi-Agent Systems](../categories/13-agents.by-time.md)
 
-**98 surveys · Page 1/1**
+**152 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | When, Where, and How Experience Becomes Structure: Mechanisms for Recursive Self-Improvement in LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0261.v1>) | N/A | N/A |
 | 2026 | FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision | arXiv | [paper](<https://arxiv.org/abs/2610.37905>) | N/A | [0](<https://openalex.org/W7224857091>) |
+| 2026 | Where the Harness Meets the Physical World: A Survey of the Physical Agentic Harness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2613.v1>) | N/A | N/A |
+| 2026 | A Survey of Knowledge Extraction Attacks and Defenses in LLM Agent Ecosystems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2538.v1>) | N/A | N/A |
+| 2026 | From Harness Optimization to Recursive Self-Improvement: A Survey of Language Model Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2293.v1>) | N/A | N/A |
+| 2026 | Recursive Self Improvement for Embodied Agents—A Survey of Mechanisms Evaluation and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2080.v1>) | N/A | N/A |
+| 2026 | Agentic AIGC: A Survey of Visual Generation Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0173.v2>) | N/A | N/A |
+| 2026 | From Trajectories to Experience: A Survey of Experience-Driven LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0937.v2>) | N/A | N/A |
+| 2026 | Recursive Self-Improvement in AI: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2680.v1>) | N/A | N/A |
 | 2026 | What Can Component-Replacement Evidence Establish? A Critical Scoping Review of Local Decisions in LLM Agents | arXiv | [paper](<https://arxiv.org/abs/2609.39989>) | N/A | N/A |
 | 2026 | Agentic Video Understanding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2609.31713>) | [code](<https://github.com/DXY0711/Awesome-Agentic-Video-Understanding>) | [1](<https://openalex.org/W7214779667>) ([⭐ 32](<https://github.com/DXY0711/Awesome-Agentic-Video-Understanding>)) |
+| 2026 | Scaling Interactive Learning Resources for LLM Agents: A Survey of Environment and Task Synthesis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1648.v1>) | N/A | N/A |
+| 2026 | The Rise of Agentic AI in Enterprise Data Workflows: A Systematic Review of Architectures, Applications, and Research Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1481.v1>) | N/A | N/A |
+| 2026 | Proactive Execution in LLM-based Agent Systems: A Survey of Triggers, Mechanisms, and Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1164.v1>) | N/A | N/A |
+| 2026 | Diving into Reliable Self-Evolving Agents: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0913.v1>) | N/A | N/A |
+| 2026 | Beyond Visual Generation: Frontiers, Challenges, and Future Directions in Agentic Visual Creation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0682.v1>) | [code](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>) | N/A ([⭐ 21](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>)) |
+| 2026 | From Circuits to Policies: A Review and Taxonomy of Decision Making and Strategy Selection in LLMs and LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0757.v1>) | N/A | N/A |
 | 2026 | Safety in Self-Evolving Agents: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.00093>) | N/A | [3](<https://openalex.org/W7212183339>) |
+| 2026 | A Survey on AI for AI: When the Improver Becomes the Improvee | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0591.v1>) | N/A | N/A |
+| 2026 | Agentic Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0173.v1>) | N/A | N/A |
+| 2026 | Augmenting the Intelligence of Large Language Model-Based Agents with Graphs: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0138.v1>) | [code](<https://github.com/sqs17/GLA>) | N/A ([⭐ 4](<https://github.com/sqs17/GLA>)) |
 | 2026 | Agentic Quantitative Trading: A Survey of Workflows, Systems, and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2608.31041>) | N/A | [2](<https://openalex.org/W7204871485>) |
 | 2026 | A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security | arXiv | [paper](<https://arxiv.org/abs/2608.29596>) | N/A | [2](<https://openalex.org/W7204908635>) |
+| 2026 | AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement—Definitions, Reliable Horizons, and Open Problems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2108.v1>) | N/A | N/A |
 | 2026 | LLM Agents for Time-Series: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.367>) | N/A | [1](<https://openalex.org/W7204526091>) |
+| 2026 | A Practical Tutorial on Agentic AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1756.v1>) | [code](<https://github.com/jmdvinodjmd/agentic-ai-tutorial>) | N/A ([⭐ 3](<https://github.com/jmdvinodjmd/agentic-ai-tutorial>)) |
+| 2026 | From Solo Control to Enterprise Scale Through Agentic AI: A Survey of One-Person Agentic Company (OPAC) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1414.v1>) | N/A | N/A |
+| 2026 | Agentic AI for Cyber Defense: A Survey of Failure Modes, Applications, and Research Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0865.v1>) | N/A | N/A |
+| 2026 | A Survey on AI Smart Glasses for Wearable Intelligence from Egocentric Sensing to Agentic Personalization | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0648.v1>) | N/A | N/A |
+| 2026 | The Landscape of LLM-based Search Agents: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0572.v1>) | N/A | N/A |
+| 2026 | LLM Agents: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0265.v1>) | [code](<https://github.com/js-lee-AI/awesome-llm-agent-papers>) | N/A ([⭐ 113](<https://github.com/js-lee-AI/awesome-llm-agent-papers>)) |
+| 2026 | Agent Governance for Self-Evolving AI Agents: A Literature Review on Runtime Adaptation, Self-Modification, and Safe Autonomy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0199.v1>) | N/A | N/A |
 | 2026 | A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI | arXiv | [paper](<https://arxiv.org/abs/2608.02553>) | N/A | [0](<https://openalex.org/W7172435583>) |
 | 2026 | Constructing Executable Analytical Knowledge Representations for Meta-Analysis Synthesis Using an Agentic Harness | arXiv | [paper](<https://arxiv.org/abs/2608.01711>) | N/A | [0](<https://openalex.org/W7172406168>) |
+| 2026 | Agentic Generative Systems: A Survey on Autonomous Multimodal Content Creation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1997.v1>) | [code](<https://github.com/xxlbigbrother/Awesome-Agentic-Generative-Systems>) | N/A ([⭐ 13](<https://github.com/xxlbigbrother/Awesome-Agentic-Generative-Systems>)) |
 | 2026 | The Chronos Vulnerability: A Taxonomy of Temporal Persistence and Memory-Based Deception in Agentic AI | arXiv | [paper](<https://arxiv.org/abs/2607.19433>) | N/A | [0](<https://openalex.org/W7170194730>) |
 | 2026 | LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization | arXiv | [paper](<https://arxiv.org/abs/2607.16066>) | N/A | [4](<https://openalex.org/W7169805817>) |
+| 2026 | Towards Long-Horizon Agents: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1328.v1>) | N/A | N/A |
 | 2026 | AutoSynthesis: An agentic system for automated meta-analysis | arXiv | [paper](<https://arxiv.org/abs/2607.15247>) | N/A | [2](<https://openalex.org/W7169579615>) |
+| 2026 | Orchestrating LLMs with Specialized Models: A Survey on Heterogeneous Multi-Model Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1041.v1>) | N/A | N/A |
 | 2026 | Self-Improvements in Modern Agentic Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2607.13104>) | [code](<https://github.com/selfimproving-agent/awesome-Self-Improving-Agents>) | [32](<https://openalex.org/W7168756509>) ([⭐ 618](<https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents>)) |
 | 2026 | Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries | arXiv | [paper](<https://arxiv.org/abs/2607.10113>) | N/A | [8](<https://openalex.org/W7168265643>) |
 | 2026 | Archer: Towards Agentic Review for Compiler Optimizations | arXiv | [paper](<https://arxiv.org/abs/2607.01808>) | N/A | [0](<https://openalex.org/W7167270940>) |
@@ -32,18 +60,44 @@
 | 2026 | LLM agents security duality: a comprehensive survey of self-security and empowered cybersecurity | arXiv | [paper](<https://arxiv.org/abs/2606.28450>) | N/A | [11](<https://openalex.org/W7160700413>) |
 | 2026 | Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement | arXiv | [paper](<https://arxiv.org/abs/2608.14590>) | N/A | [3](<https://openalex.org/W7203715746>) |
 | 2026 | Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2608.18110>) | N/A | [3](<https://openalex.org/W7163865146>) |
-| 2026 | Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application | arXiv | [paper](<https://arxiv.org/abs/2606.12191>) | N/A | [13](<https://openalex.org/W7164415632>) |
+| 2026 | Agentic Artificial Intelligence in Auditing: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0941.v1>) | N/A | N/A |
 | 2026 | Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective | arXiv | [paper](<https://arxiv.org/abs/2608.18104>) | N/A | [3](<https://openalex.org/W7165751206>) |
+| 2026 | Automated Design of Agentic Systems: A Survey of Algorithms for Searching, Optimizing, and Evolving LLM Agents, Workflows, and Prompts | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0238.v1>) | N/A | N/A |
+| 2026 | A Survey of Agent Skills: Toward Procedural Infrastructure for LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1276.v1>) | [code](<https://github.com/DataArcTech/Awesome-Agent-Skill-Papers>) | N/A ([⭐ 24](<https://github.com/DataArcTech/Awesome-Agent-Skill-Papers>)) |
 | 2026 | A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications | arXiv | [paper](<https://arxiv.org/abs/2605.07358>) | [code](<https://github.com/JayLZhou/Awesome-Agent-Skills>) | [43](<https://openalex.org/W7160862497>) ([⭐ 156](<https://github.com/JayLZhou/Awesome-Agent-Skills>)) |
+| 2026 | Beyond Scaling: A Survey on Data-Efficient Agentic Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0477.v1>) | N/A | N/A |
+| 2026 | A Survey of Agent Skills for Foundation-Model Agents: Concepts, Representations, Lifecycles, Evaluation, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1817.v2>) | [code](<https://github.com/JinhaoShen/awesome-agent-skill-papers>) | N/A ([⭐ 9](<https://github.com/JinhaoShen/awesome-agent-skill-papers>)) |
 | 2026 | A Systematic Survey of Security Threats and Defenses in LLM-Based AI Agents: A Layered Attack Surface Framework | arXiv | [paper](<https://arxiv.org/abs/2604.23338>) | N/A | [26](<https://openalex.org/W7157103096>) |
 | 2026 | IntrAgent: An LLM Agent for Content-Grounded Information Retrieval through Literature Review | ACL | [paper](<https://aclanthology.org/2026.acl-long.29>) | N/A | [1](<https://openalex.org/W7166863144>) |
 | 2026 | A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2296>) | N/A | [39](<https://openalex.org/W7155049992>) |
+| 2026 | Tool and Agent Selection for Large Language Model Agents in Production: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.1050.v2>) | N/A | [9](<https://openalex.org/W4417309755>) |
 | 2026 | A Scoping Review of Large Language Model-Based Pedagogical Agents | arXiv | [paper](<https://arxiv.org/abs/2604.12253>) | N/A | [6](<https://openalex.org/W7154500473>) |
+| 2026 | A Comprehensive Survey of the LLM-Based Agent: The Contextual Cognition Perspective | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0935.v1>) | N/A | N/A |
 | 2026 | Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering | arXiv | [paper](<https://arxiv.org/abs/2604.08224>) | N/A | [108](<https://openalex.org/W7153056532>) |
+| 2026 | Agent Harness for Large Language Model Agents: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0428.v1>) | [code](<https://github.com/Gloriaameng/Awesome-Agent-Harness>) | N/A ([⭐ 379](<https://github.com/Gloriaameng/Awesome-Agent-Harness>)) |
 | 2026 | meta-pipe: An LLM-agent pipeline for end-to-end automated systematic review and meta-analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28363>) | N/A | [1](<https://openalex.org/W7166693886>) |
+| 2026 | From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1393>) | [code](<https://github.com/IBM/awesome-agentic-workflow-optimization>) | N/A ([⭐ 88](<https://github.com/IBM/awesome-agentic-workflow-optimization>)) |
+| 2026 | OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1060.v1>) | N/A | N/A |
 | 2026 | The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2603.11088>) | N/A | [37](<https://openalex.org/W7135214730>) |
+| 2026 | LLM Agent Memory: A Survey from a Unified Representation–Management Perspective | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0359.v1>) | N/A | N/A |
+| 2026 | A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203250.05832634/v2>) | [code](<https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents>) | N/A ([⭐ 482](<https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents>)) |
+| 2026 | A Survey on the Unique Security of Autonomous and Collaborative LLM Agents: Threats, Defenses, and Futures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1655.v3>) | [code](<https://github.com/sunyinggang/LLM-Agent-Security-Survey>) | [2](<https://openalex.org/W7134907807>) ([⭐ 21](<https://github.com/sunyinggang/LLM-Agent-Security-Survey>)) |
+| 2026 | Agentic Self-Evolution for Large Language Models: Taxonomy, Techniques, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203250.05832634/v1>) | N/A | N/A |
+| 2026 | Small Language Models as Autonomous Agents: Architectures, Retrieval Strategies, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155639.91955081/v1>) | N/A | N/A |
+| 2026 | True-to-Role, Tailored-to-You: A Survey of LLM-based Role-Playing Agents | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177160619.98027802/v1>) | N/A | N/A |
+| 2026 | The Synergistic Integration of Access Control Management and Large Language Model Agents: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177075184.43798334/v1>) | N/A | N/A |
+| 2026 | Agentic Commerce: A Survey of How AI Agents Are Reshaping Commerce | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972193.39211542/v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence of Things as a Foundation for Agentic AI Systems: Architectures, Applications, and Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972132.21250188/v1>) | N/A | N/A |
+| 2026 | Towards Agentic Intelligence for Materials Science | arXiv | [paper](<https://arxiv.org/abs/2602.00169>) | N/A | N/A |
+| 2026 | Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972131.13438500/v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Agentic AI for Spatio-Temporal Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v1>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST>) | [4](<https://openalex.org/W7125902772>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
 | 2026 | A Survey of Agentic Reasoning for Large Language Models: Towards Recursively Self-Improving and Collective Agents | arXiv | [paper](<https://arxiv.org/abs/2601.12538>) | N/A | [94](<https://openalex.org/W7125263063>) |
+| 2026 | Agentic Reasoning for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2601.12538>) | [code](<https://github.com/weitianxin/Awesome-Agentic-Reasoning>) | N/A ([⭐ 1,429](<https://github.com/weitianxin/Awesome-Agentic-Reasoning>)) |
+| 2026 | Agent Skills from the Perspective of Procedural Memory: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176857932.25697838/v1>) | N/A | N/A |
+| 2026 | Agentic AI and Autonomous Agents Development Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176800191.10311184/v1>) | N/A | N/A |
 | 2026 | LLM Agents in Law: Taxonomy, Applications, and Challenges | ACL | [paper](<https://aclanthology.org/2026.acl-long.718>) | N/A | [7](<https://openalex.org/W7166866219>) |
+| 2026 | From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms | ACL | [paper](<https://aclanthology.org/2026.findings-acl.2069>) | [code](<https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey>) | [3](<https://openalex.org/W7124725341>) ([⭐ 61](<https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey>)) |
+| 2026 | Agent-based Hybrid AI Models and Technologies: A systematic Literature Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176761760.06773652/v1>) | N/A | N/A |
 | 2026 | Agentic Recommender Systems: A Systematic Literature Review | TSE | [paper](<https://doi.org/10.1109/TSE.2026.3657900>) | N/A | [3](<https://openalex.org/W7125834859>) |
 | 2026 | A Survey of Large Language Model-Based Search Agents | ACL | [paper](<https://aclanthology.org/2026.acl-long.374>) | N/A | [2](<https://openalex.org/W7166860182>) |
 | 2026 | Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey | ACL | [paper](<https://aclanthology.org/2026.findings-acl.78>) | [code](<https://github.com/fatty-belly/Awesome-AgenticRAG-Data>) | [2](<https://openalex.org/W4416220650>) ([⭐ 3](<https://github.com/fatty-belly/Awesome-AgenticRAG-Data>)) |

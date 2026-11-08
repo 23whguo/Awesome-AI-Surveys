@@ -9,12 +9,15 @@
 
 [Knowledge, Graph Learning & Symbolic Reasoning](../categories/09-knowledge.by-time.md)
 
-**48 surveys · Page 1/1**
+**51 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | An Overview of Knowledge-Based System: History, Advances and Challenges in the Era of Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0633.v1>) | N/A | N/A |
 | 2026 | Building Knowledge Graphs for Theses: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.28648>) | N/A | [0](<https://openalex.org/W7223207025>) |
 | 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A | [0](<https://openalex.org/W7162203912>) |
+| 2026 | Advances in AI Systems on Islamic Knowledge Capabilities: A Critical Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155997.77147487/v1>) | N/A | N/A |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
 | 2025 | A Survey on Spatio-Temporal Knowledge Graph Models | arXiv | [paper](<https://arxiv.org/abs/2512.16487>) | N/A | [7](<https://openalex.org/W4417530320>) |
 | 2025 | LLM-empowered knowledge graph construction: A survey | arXiv | [paper](<https://arxiv.org/abs/2510.20345>) | N/A | [62](<https://openalex.org/W4416245224>) |
 | 2025 | Generative Large Language Models for Knowledge Representation: A Systematic Review of Concept Map Generation | arXiv | [paper](<https://arxiv.org/abs/2509.14554>) | N/A | [2](<https://openalex.org/W4417081427>) |

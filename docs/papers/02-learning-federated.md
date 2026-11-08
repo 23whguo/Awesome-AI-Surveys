@@ -9,7 +9,7 @@
 
 [Learning Theory & Methods](../categories/02-learning.md)
 
-**30 surveys · Page 1/1**
+**34 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -30,6 +30,7 @@
 | 2025 | When Federated Learning Meets Quantum Computing: Survey and Research Opportunities | arXiv | [paper](<https://arxiv.org/abs/2504.08814>) | N/A | [21](<https://openalex.org/W4416323578>) |
 | 2024 | Synergizing Foundation Models and Federated Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.12844>) | [code](<https://github.com/lishenghui/awesome-fm-fl>) | [20](<https://openalex.org/W4399838212>) ([⭐ 160](<https://github.com/lishenghui/awesome-fm-fl>)) |
 | 2025 | Tree-based Models for Vertical Federated Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.02285>) | N/A | [16](<https://openalex.org/W4409168199>) |
+| 2026 | Federated Learning: A Survey of Core Challenges, Current Methods, and Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0271.v1>) | N/A | [15](<https://openalex.org/W7133255133>) |
 | 2024 | Combining Federated Learning and Control: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.11069>) | N/A | [14](<https://openalex.org/W4404280149>) |
 | 2024 | Exploring the Practicality of Federated Learning: A Survey Towards the Communication Perspective | arXiv | [paper](<https://arxiv.org/abs/2405.20431>) | N/A | [14](<https://openalex.org/W4399317061>) |
 | 2024 | Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2405.10376>) | N/A | [13](<https://openalex.org/W4398156427>) |
@@ -43,3 +44,6 @@
 | 2025 | Overcoming Challenges of Partial Client Participation in Federated Learning : A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.02887>) | N/A | [2](<https://openalex.org/W4415135018>) |
 | 2025 | Multi-objective methods in Federated Learning: A survey and taxonomy | arXiv | [paper](<https://arxiv.org/abs/2502.03108>) | N/A | [2](<https://openalex.org/W4407224281>) |
 | 2026 | A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations | arXiv | [paper](<https://arxiv.org/abs/2604.24468>) | N/A | [1](<https://openalex.org/W7156964661>) |
+| 2026 | A Comprehensive Survey of Federated Model Evolution in Open Environments | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0652.v1>) | N/A | N/A |
+| 2026 | Poisoning Attacks in Federated Learning: An Accountability-Oriented Survey with Centralized Learning as Baseline | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1674.v1>) | N/A | N/A |
+| 2026 | Federated Learning for Ophthalmic Imaging: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203265.53959182/v1>) | N/A | N/A |

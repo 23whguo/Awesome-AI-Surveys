@@ -9,7 +9,7 @@
 
 
 
-**207 surveys · Page 1/2**
+**254 surveys · Page 1/2**
 
 Pages: 1 · [2](modalities-multimodal-2.md)
 
@@ -166,19 +166,21 @@ Pages: 1 · [2](modalities-multimodal-2.md)
 | 2025 | Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1023>) | N/A | [4](<https://openalex.org/W4414842318>) |
 | 2024 | Towards Multi-Modal Animal Pose Estimation: A Survey and In-Depth Analysis | arXiv | [paper](<https://arxiv.org/abs/2410.09312>) | [code](<https://github.com/ChennyDeng/MM-APE>) | [4](<https://openalex.org/W4403564567>) ([⭐ 36](<https://github.com/ChennyDeng/MM-APE>)) |
 | 2026 | A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications | arXiv | [paper](<https://arxiv.org/abs/2608.20379>) | N/A | [3](<https://openalex.org/W7204106788>) |
+| 2026 | Vision–Language Foundation Models and Multimodal Large Language Models: A Comprehensive Survey of Architectures, Benchmarks, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0467.v1>) | N/A | [3](<https://openalex.org/W7128545496>) |
 | 2026 | Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review | CHI | [paper](<https://doi.org/10.1145/3772318.3791662>) | N/A | [3](<https://openalex.org/W7154088680>) |
 | 2025 | RLHF: A comprehensive Survey for Cultural, Multimodal and Low Latency Alignment Methods | arXiv | [paper](<https://arxiv.org/abs/2511.03939>) | N/A | [3](<https://openalex.org/W4416023378>) |
 | 2025 | Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms | arXiv | [paper](<https://arxiv.org/abs/2505.21792>) | N/A | [3](<https://openalex.org/W4416046446>) |
 | 2025 | Artificial intelligence-enabled detection and assessment of Parkinson's disease using multimodal data: A survey | arXiv | [paper](<https://arxiv.org/abs/2502.10703>) | N/A | [3](<https://openalex.org/W4407684004>) |
 | 2025 | Multimodal Neural Machine Translation: A Survey of the State of the Art | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1125>) | N/A | [3](<https://openalex.org/W4416035837>) |
 | 2026 | Data-Driven Vision-Language Models for Remote Sensing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.31304>) | N/A | [2](<https://openalex.org/W7164007915>) |
+| 2026 | Multimodal Machine Learning in Healthcare: A Tutorial and Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.1445.v2>) | N/A | [2](<https://openalex.org/W4417445713>) |
 | 2026 | Towards Efficient Large Vision-Language Models: A Comprehensive Survey on Inference Strategies | arXiv | [paper](<https://arxiv.org/abs/2603.27960>) | N/A | [2](<https://openalex.org/W7154283588>) |
 | 2026 | A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning | ACL | [paper](<https://aclanthology.org/2026.acl-long.1961>) | N/A | [2](<https://openalex.org/W7166797353>) |
 | 2025 | Multimedia-Aware Question Answering: A Review of Retrieval and Cross-Modal Reasoning Architectures | arXiv | [paper](<https://arxiv.org/abs/2510.20193>) | N/A | [2](<https://openalex.org/W4415400921>) |
 | 2024 | A Survey of Low-shot Vision-Language Model Adaptation via Representer Theorem | arXiv | [paper](<https://arxiv.org/abs/2410.11686>) | N/A | [2](<https://openalex.org/W4403575052>) |
 | 2026 | Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2608.20743>) | N/A | [1](<https://openalex.org/W7204089399>) |
-| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
 | 2026 | Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2606.26566>) | N/A | [1](<https://openalex.org/W7165652367>) |
+| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
 | 2026 | Multimodal Information Fusion for Chart Understanding: A Survey of MLLMs -- Evolution, Limitations, and Cognitive Enhancement | arXiv | [paper](<https://arxiv.org/abs/2602.10138>) | N/A | [1](<https://openalex.org/W7202290923>) |
 | 2026 | From Multimodal Perception to Strategic Reasoning: A Survey on AI-Generated Game Commentary | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/901>) | N/A | [1](<https://openalex.org/W4415946691>) |
 | 2026 | Tackling Multimodal Learning Challenges with Mixture-of-Expert: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/900>) | N/A | [1](<https://openalex.org/W7162653424>) |
@@ -188,32 +190,30 @@ Pages: 1 · [2](modalities-multimodal-2.md)
 | 2026 | Multi-Modal Anomaly Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.24937>) | N/A | [0](<https://openalex.org/W7204438162>) |
 | 2026 | Adaptive Human-AI Collaboration: A Review of Multimodal Context Modeling, Uncertainty-Aware Intervention, and Longitudinal Co-Adaptation | arXiv | [paper](<https://arxiv.org/abs/2609.13180>) | N/A | [0](<https://openalex.org/W7213283972>) |
 | 2026 | Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards | arXiv | [paper](<https://arxiv.org/abs/2608.07535>) | N/A | [0](<https://openalex.org/W7202215923>) |
-| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | Multimodal Large Language Model-Enabled Video Translation: A Role-Oriented Survey | arXiv | [paper](<https://arxiv.org/abs/2604.11283>) | N/A | [0](<https://openalex.org/W7154375666>) |
+| 2026 | A Comprehensive Survey of Multimodal LLMs for Scientific Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1847.v1>) | N/A | [0](<https://openalex.org/W7131894700>) |
+| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | Adversarial Defense in Vision-Language Models: An Overview | arXiv | [paper](<https://arxiv.org/abs/2601.12443>) | N/A | [0](<https://openalex.org/W7125259256>) |
 | 2026 | A Survey on Knowledge Distillation of Vision-Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.180>) | [code](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>) | [0](<https://openalex.org/W7224499228>) ([⭐ 121](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>)) |
 | 2026 | Towards Unified Multimodal Large Language Models: A survey | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1853>) | N/A | [0](<https://openalex.org/W7166838875>) |
 | 2026 | Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/891>) | N/A | [0](<https://openalex.org/W7213435699>) |
 | 2025 | Augmented Vision-Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.22933>) | N/A | [0](<https://openalex.org/W4414930444>) |
-| 2026 | A Survey of Audio Reasoning in Multimodal Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.21008>) | N/A | N/A |
-| 2025 | Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2510.25760>) | [code](<https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning>) | N/A ([⭐ 330](<https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning>)) |
-| 2025 | The Social Gaze of LLMs: A Literature Review of Multimodal Approaches to Human Behavior Understanding | arXiv | [paper](<https://arxiv.org/abs/2510.23947>) | N/A | N/A |
-| 2025 | A Survey on Efficient Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2510.24795>) | N/A | N/A |
-| 2025 | Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.22964>) | N/A | N/A |
-| 2025 | A Survey on Agentic Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.10991>) | [code](<https://github.com/HJYao00/Awesome-Agentic-MLLMs>) | N/A ([⭐ 217](<https://github.com/HJYao00/Awesome-Agentic-MLLMs>)) |
-| 2025 | Multilingual Vision-Language Models, A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.22123>) | N/A | N/A |
-| 2025 | A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models | arXiv | [paper](<https://arxiv.org/abs/2509.08490>) | N/A | N/A |
-| 2025 | Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.13073>) | [code](<https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation>) | N/A ([⭐ 472](<https://github.com/iLearn-Lab/Awesome-VLM-based-VLA-for-Robotic-Manipulation>)) |
-| 2025 | Empowering Multimodal LLMs with External Tools: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.10955>) | [code](<https://github.com/Lackel/Awesome-Tools-for-MLLMs>) | N/A ([⭐ 11](<https://github.com/Lackel/Awesome-Tools-for-MLLMs>)) |
-| 2025 | Multimodal Referring Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.00265>) | [code](<https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation>) | N/A ([⭐ 260](<https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation>)) |
-| 2025 | Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2507.16876>) | N/A | N/A |
-| 2025 | Vision Language Action Models in Robotic Manipulation: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.10672>) | N/A | N/A |
-| 2025 | Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.18378>) | [code](<https://github.com/haonenglin/Awesome-VLM-for-MIA>) | N/A ([⭐ 35](<https://github.com/haonenglin/Awesome-VLM-for-MIA>)) |
-| 2025 | Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models | arXiv | [paper](<https://arxiv.org/abs/2506.11521>) | N/A | N/A |
-| 2025 | Aligning Multimodal LLM with Human Preference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.14504>) | [code](<https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models>) | N/A ([⭐ 18,079](<https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models>)) |
-| 2025 | Survey of Adversarial Robustness in Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.13962>) | N/A | N/A |
-| 2025 | Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2503.12605>) | N/A | N/A |
-| 2025 | A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2502.14881>) | [code](<https://github.com/XuankunRong/Awesome-LVLM-Safety>) | N/A ([⭐ 223](<https://github.com/XuankunRong/Awesome-LVLM-Safety>)) |
-| 2025 | Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection | arXiv | [paper](<https://arxiv.org/abs/2501.09506>) | N/A | N/A |
+| 2026 | Multimodal Reasoning, Agentic Systems, and Embedding Models: A Survey of Recent Advances | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0215.v1>) | N/A | N/A |
+| 2026 | Reasoning for Generation, Generation for Reasoning: A Survey of Unified Multimodal Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0138.v1>) | N/A | N/A |
+| 2026 | Towards Human-Centered Safety in Vision-Language-Action Robot Control: A Survey and Outlook | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2762.v1>) | N/A | N/A |
+| 2026 | Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use | arXiv | [paper](<https://arxiv.org/abs/2610.30108>) | [code](<https://github.com/showlab/Awesome-Multimodal-Embodied-Agent>) | N/A ([⭐ 289](<https://github.com/showlab/Awesome-Multimodal-Embodied-Agent>)) |
+| 2026 | Chart Reasoning with Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1869.v1>) | N/A | N/A |
+| 2026 | Alignment in Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1245.v3>) | N/A | N/A |
+| 2026 | From Aligned Embeddings to Instruction-Following Perception: A Survey of Vision–Language Model Development | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1388.v1>) | N/A | N/A |
+| 2026 | AT(N)-Anchored Multimodal Deep Learning for Alzheimer’s Staging: A Taxonomy and Continuous Burden Index for Low-Resource Settings | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2240.v1>) | N/A | N/A |
+| 2026 | Domain Adaptation and Annotation Efficiency in Remote-Sensing LULC Mapping: A Systematic Review of Active Learning and Vision–Language Models and a Conceptual Framework for the Brazilian Cerrado | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1534.v1>) | N/A | N/A |
+| 2026 | Trustworthy Medical Multimodal Large Language Models: Taxonomy, Evaluation, and Benchmarks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0962.v1>) | [code](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>) | N/A ([⭐ 1](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>)) |
+| 2026 | Artificial Intelligence in Preclinical Orofacial Pain Research: From Experimental Phenotyping to Multimodal Mechanistic Discovery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0555.v1>) | N/A | N/A |
+| 2026 | Multimodal Artificial Intelligence for Pneumonia Prognosis and Clinical Deterioration: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1307.v1>) | N/A | N/A |
+| 2026 | Multimodal Artificial Intelligence Approaches for the Diagnosis and Understanding of Heart Failure: A Contemporary Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1013.v1>) | N/A | N/A |
+| 2026 | Foundation-Model-Assisted Reward Design for Reinforcement Learning: A Review of Reward Program Synthesis, Multimodal Feedback, and Trustworthiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0779.v1>) | N/A | N/A |
+| 2026 | Geospatial Artificial Intelligence in Precision Agriculture: A Systematic Review of Applications, Multimodal Data Integration, and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0386.v1>) | N/A | N/A |
+| 2026 | GAN-Based Brain MRI-to-CT Image Synthesis: A Comparative Review of Cross-Modality Translation Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2088.v1>) | N/A | N/A |
+| 2026 | Agentic Generative Systems: A Survey on Autonomous Multimodal Content Creation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1997.v1>) | [code](<https://github.com/xxlbigbrother/Awesome-Agentic-Generative-Systems>) | N/A ([⭐ 13](<https://github.com/xxlbigbrother/Awesome-Agentic-Generative-Systems>)) |
 
 Pages: 1 · [2](modalities-multimodal-2.md)

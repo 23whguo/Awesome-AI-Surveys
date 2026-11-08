@@ -9,7 +9,7 @@
 
 [Trustworthy AI, Alignment & Evaluation](../categories/15-trustworthy.md)
 
-**48 surveys · Page 1/1**
+**53 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -49,6 +49,7 @@
 | 2024 | A Survey of Calibration Process for Black-Box LLMs | arXiv | [paper](<https://arxiv.org/abs/2412.12767>) | [code](<https://github.com/LiangruXie/Calibration-Process-in-Black-Box-LLMs>) | [12](<https://openalex.org/W4405562439>) ([⭐ 21](<https://github.com/LiangruXie/Calibration-Process-in-Black-Box-LLMs>)) |
 | 2025 | Out-of-Distribution Detection on Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.08105>) | [code](<https://github.com/ca1man-2022/Awesome-GOOD-Detection>) | [11](<https://openalex.org/W4407569739>) ([⭐ 13](<https://github.com/ca1man-2022/Awesome-GOOD-Detection>)) |
 | 2025 | Mitigating Hallucination by Integrating Knowledge Graphs into LLM Inference – a Systematic Literature Review | ACL | [paper](<https://aclanthology.org/2025.acl-srw.53>) | N/A | [9](<https://openalex.org/W4412889428>) |
+| 2026 | A Survey on Hallucination in Large Language Models: Definitions, Detection, and Mitigation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202510.0540.v3>) | N/A | [7](<https://openalex.org/W4415044773>) |
 | 2026 | Text Classification Under Class Distribution Shift: A Survey | EACL | [paper](<https://aclanthology.org/2026.eacl-long.189>) | [code](<https://github.com/Eduard6421/Open-Set-Survey>) | [6](<https://openalex.org/W7140143265>) ([⭐ 1](<https://github.com/Eduard6421/Open-Set-Survey>)) |
 | 2025 | Out-of-distribution detection in 3D applications: a review | arXiv | [paper](<https://arxiv.org/abs/2507.00570>) | N/A | [4](<https://openalex.org/W4410392015>) |
 | 2025 | Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.02448>) | N/A | [4](<https://openalex.org/W4415031597>) |
@@ -57,6 +58,10 @@
 | 2026 | Hallucinations in LLMs: A Lifecycle-Based Survey of Causes, Detection, Mitigation, and Prevention | arXiv | [paper](<https://arxiv.org/abs/2608.26168>) | N/A | [1](<https://openalex.org/W7168518142>) |
 | 2025 | A Concise Review of Hallucinations in LLMs and their Mitigation | arXiv | [paper](<https://arxiv.org/abs/2512.02527>) | N/A | [1](<https://openalex.org/W4417006815>) |
 | 2026 | AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation | arXiv | [paper](<https://arxiv.org/abs/2608.25667>) | N/A | [0](<https://openalex.org/W7204482759>) |
+| 2026 | Hallucination Mitigation in Large Language Models: A Review and Exploratory Small-Model Pilot | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1923.v1>) | N/A | N/A |
+| 2026 | Safety, Hallucination, and Failure Modes in Agentic Health AI: A State-of-the-Art Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1409.v1>) | N/A | N/A |
+| 2026 | Tool Execution Hallucination in LLM-based Agents: A Unified Taxonomy with Detection, Mitigation, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177219979.94060974/v1>) | N/A | N/A |
+| 2026 | Factuality and Hallucinations in Large Language Models: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155933.37903126/v1>) | N/A | N/A |
 | 2025 | Mitigating Hallucination in Large Language Models: A Capability-Oriented Survey on RAG, Reasoning, and Agentic Systems | arXiv | [paper](<https://arxiv.org/abs/2510.24476>) | N/A | N/A |
 | 2025 | Review of Hallucination Understanding in Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2510.00034>) | N/A | N/A |
 | 2024 | Combine and Conquer: A Meta-Analysis on Data Shift and Out-of-Distribution Detection | arXiv | [paper](<https://arxiv.org/abs/2406.16045>) | [code](<https://github.com/edadaltocg/detectors>) | N/A ([⭐ 15](<https://github.com/edadaltocg/detectors>)) |

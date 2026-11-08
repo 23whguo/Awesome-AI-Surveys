@@ -9,7 +9,7 @@
 
 
 
-**84 surveys · Page 1/1**
+**98 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -75,11 +75,14 @@
 | 2025 | LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions | arXiv | [paper](<https://arxiv.org/abs/2507.10620>) | N/A | [5](<https://openalex.org/W4415147919>) |
 | 2025 | A Survey of Deep Learning for Time Series Forecasting: Taxonomy, Analysis and Future Directions | TKDE | [paper](<https://doi.org/10.1109/TKDE.2026.3671378>) | N/A | [5](<https://openalex.org/W7134107951>) |
 | 2024 | Review of Data-centric Time Series Analysis from Sample, Feature, and Period | arXiv | [paper](<https://arxiv.org/abs/2404.16886>) | N/A | [5](<https://openalex.org/W4396242468>) |
+| 2026 | A Comprehensive Survey of Agentic AI for Spatio-Temporal Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v1>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST>) | [4](<https://openalex.org/W7125902772>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
+| 2026 | Temporal Adversarial Attacks on Time Series and Reinforcement Learning Systems: A Systematic Survey, Taxonomy, and Benchmarking Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0598.v1>) | N/A | [3](<https://openalex.org/W7119479467>) |
 | 2025 | Explainable Artificial Intelligence for Economic Time Series: A Comprehensive Review and a Systematic Taxonomy of Methods and Concepts | arXiv | [paper](<https://arxiv.org/abs/2512.12506>) | N/A | [3](<https://openalex.org/W4417448848>) |
 | 2025 | Exploring the Explainability of Time Series Clustering: A Review of Methods and Practices | WSDM | [paper](<https://doi.org/10.1145/3701551.3703479>) | N/A | [3](<https://openalex.org/W4407953563>) |
 | 2024 | Spatio-Temporal Graphical Counterfactuals: An Overview | arXiv | [paper](<https://arxiv.org/abs/2407.01875>) | N/A | [3](<https://openalex.org/W4400373853>) |
 | 2023 | Survey and Evaluation of Causal Discovery Methods for Time Series (Extended Abstract) | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/766>) | N/A | [3](<https://openalex.org/W4385764066>) |
 | 2022 | Experimental Comparison and Survey of Twelve Time Series Anomaly Detection Algorithms (Extended Abstract) | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/801>) | N/A | [3](<https://openalex.org/W4285603061>) |
+| 2026 | Comparative Study of Arima, Lstm and Prophet Models for Time Series Forecasting: A Comprehensive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1377.v1>) | N/A | [2](<https://openalex.org/W7125189927>) |
 | 2025 | Clustering methods for Categorical Time Series and Sequences : A scoping review | arXiv | [paper](<https://arxiv.org/abs/2509.07885>) | N/A | [2](<https://openalex.org/W4414761343>) |
 | 2024 | Protecting Privacy in Federated Time Series Analysis: A Pragmatic Technology Review for Application Developers | arXiv | [paper](<https://arxiv.org/abs/2408.15694>) | N/A | [2](<https://openalex.org/W4409195211>) |
 | 2026 | LLM Agents for Time-Series: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.367>) | N/A | [1](<https://openalex.org/W7204526091>) |
@@ -95,5 +98,16 @@
 | 2026 | Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/891>) | N/A | [0](<https://openalex.org/W7213435699>) |
 | 2024 | Recent Trends in Modelling the Continuous Time Series using Deep Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.09106>) | N/A | [0](<https://openalex.org/W4403666576>) |
 | 2018 | Innovative Exploitation of Long, Dense and Coherent Insar Sentinel-L Time Series forland Survey and Classification | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2018.8517966>) | N/A | [0](<https://openalex.org/W2901602939>) |
+| 2026 | Deep Learning Approaches for Financial Time Series Change Detection: Algorithms and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0295.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Health Time Series: Physiological Signals, Clinical Records, and Epidemic Dynamics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0067.v1>) | N/A | N/A |
+| 2026 | A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1532.v1>) | N/A | N/A |
+| 2026 | Mamba for Time Series Analysis: A Contemporary Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0995.v1>) | [code](<https://github.com/tamlhp/awesome-mamba-ts>) | N/A ([⭐ 7](<https://github.com/tamlhp/awesome-mamba-ts>)) |
+| 2026 | A Survey on Data Generation for Time Series: Taxonomy, Review and Prospects | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0725.v1>) | N/A | N/A |
+| 2026 | A Review of Deep Learning for Individualized Treatment Effect Estimation in Healthcare Time Series | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0958.v1>) | N/A | N/A |
+| 2026 | Early Warning Signals in Ecological Time-Series | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0897.v1>) | N/A | N/A |
+| 2026 | Kolmogorov-Arnold Networks for Time Series Forecasting: Architectures, Implementation, and Evaluation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177130591.14244418/v1>) | N/A | N/A |
+| 2026 | From Pre-training to Post-training: A Survey on Time Series Foundation Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978429.90235801/v2>) | N/A | N/A |
+| 2026 | Large Language Models for Time Series Analysis: Methodologies, Applications, and Emerging Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176703979.99494698/v2>) | N/A | N/A |
+| 2026 | From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176739863.31204174/v1>) | N/A | N/A |
 | 2025 | From Time-series Generation, Model Selection to Transfer Learning: A Comparative Review of Pixel-wise Approaches for Large-scale Crop Mapping | arXiv | [paper](<https://arxiv.org/abs/2507.12590>) | N/A | N/A |
 | 2024 | Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods | arXiv | [paper](<https://arxiv.org/abs/2404.05746>) | N/A | N/A |

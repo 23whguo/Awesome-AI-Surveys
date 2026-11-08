@@ -9,11 +9,17 @@
 
 
 
-**27 surveys · Page 1/1**
+**33 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Beyond Static AI: Continual Learning Approaches for Long-Term Adaptation of Medical Imaging Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1301.v2>) | N/A | N/A |
+| 2026 | Continual Learning in Medical Imaging: Methods, Foundation Models, Challenges, and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1301.v1>) | N/A | N/A |
 | 2026 | Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data | arXiv | [paper](<https://arxiv.org/abs/2606.11272>) | N/A | [2](<https://openalex.org/W7161148614>) |
+| 2026 | Modern Continual Learning with Foundation Models, Evaluation Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1234.v1>) | N/A | N/A |
+| 2026 | How does Active Learning Tackle Domain Adaptation: A Survey on Active Domain Adaptation and Active Continual Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0070.v1>) | N/A | N/A |
+| 2026 | A Survey of Continual Learning for Robotics in the Foundation Model Era | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972367.76460794/v1>) | N/A | N/A |
+| 2026 | Towards Self-Adaptive Learning: Continual Learning under Harsh Conditions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948359.91255526/v1>) | N/A | N/A |
 | 2025 | Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting | arXiv | [paper](<https://arxiv.org/abs/2508.04227>) | [code](<https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models>) | N/A ([⭐ 230](<https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models>)) |
 | 2025 | Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning | arXiv | [paper](<https://arxiv.org/abs/2502.08181>) | N/A | [4](<https://openalex.org/W4407570037>) |
 | 2025 | Online Continual Learning: A Systematic Literature Review of Approaches, Challenges, and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2501.04897>) | N/A | [17](<https://openalex.org/W4406271683>) |

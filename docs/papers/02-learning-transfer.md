@@ -9,7 +9,7 @@
 
 [Learning Theory & Methods](../categories/02-learning.md)
 
-**30 surveys · Page 1/1**
+**33 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -40,6 +40,9 @@
 | 2025 | An experimental survey and Perspective View on Meta-Learning for Automated Algorithms Selection and Parametrization | arXiv | [paper](<https://arxiv.org/abs/2504.06207>) | N/A | [4](<https://openalex.org/W4392961309>) |
 | 2025 | A Comprehensive Survey of Challenges and Opportunities of Few-Shot Learning Across Multiple Domains | arXiv | [paper](<https://arxiv.org/abs/2504.04017>) | N/A | [2](<https://openalex.org/W4416125017>) |
 | 2026 | Transfer Learning for Meta-analysis Under Covariate Shift | arXiv | [paper](<https://arxiv.org/abs/2604.02656>) | N/A | [0](<https://openalex.org/W7150967596>) |
+| 2026 | Domain Adaptation and Annotation Efficiency in Remote-Sensing LULC Mapping: A Systematic Review of Active Learning and Vision–Language Models and a Conceptual Framework for the Brazilian Cerrado | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1534.v1>) | N/A | N/A |
+| 2026 | How does Active Learning Tackle Domain Adaptation: A Survey on Active Domain Adaptation and Active Continual Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0070.v1>) | N/A | N/A |
+| 2026 | Meta-Learning and Few-Shot Learning: A Comprehensive Survey of Algorithms, Theory, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784520.02393968/v1>) | N/A | N/A |
 | 2025 | Multi-Task Learning Based on Support Vector Machines and Twin Support Vector Machines: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.26392>) | N/A | N/A |
 | 2025 | Compositional Zero-Shot Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.11106>) | [code](<https://github.com/ans92/Compositional-Zero-Shot-Learning>) | N/A ([⭐ 10](<https://github.com/ans92/Compositional-Zero-Shot-Learning>)) |
 | 2025 | Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.10671>) | N/A | N/A |

@@ -9,7 +9,7 @@
 
 
 
-**24 surveys · Page 1/1**
+**28 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -35,5 +35,9 @@
 | 2026 | The ALMA-QUARKS Survey. IV. Core Mass Function and Evolutionary Trends in Core Formation Efficiency and Chemistry | arXiv | [paper](<https://arxiv.org/abs/2610.20738>) | N/A | [0](<https://openalex.org/W7222629348>) |
 | 2026 | The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1210>) | [code](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>) | [0](<https://openalex.org/W7224361794>) ([⭐ 6](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>)) |
 | 2025 | Survey of Swarm Intelligence Approaches to Search Documents Based On Semantic Similarity | arXiv | [paper](<https://arxiv.org/abs/2507.11787>) | N/A | [0](<https://openalex.org/W4411887338>) |
+| 2026 | A Comprehensive Survey on LLM-Guided Evolutionary Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1122.v1>) | N/A | N/A |
+| 2026 | Evolutionary Algorithms and Engineering Applications: A Comprehensive Survey of Classical Methods and Emerging Trends | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0126.v1>) | N/A | N/A |
+| 2026 | Bridging the Knowledge Void: A Synthetic Near-Empty Review of Intelligent Evolutionary Games Employment in Healthcare | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2271.v1>) | N/A | N/A |
+| 2026 | Secure Recommender Systems: A Co-evolutionary Survey of Vulnerabilities, Attacks, and Defenses | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220005.50171723/v1>) | N/A | N/A |
 | 2025 | Blue Stragglers and Friends: Initial Evolutionary Pathways in Close Low-Mass Binaries: Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.20531>) | N/A | N/A |
 | 2025 | ALMAGAL I. The ALMA evolutionary study of high-mass protocluster formation in the Galaxy. Presentation of the survey and early results | arXiv | [paper](<https://arxiv.org/abs/2503.05555>) | N/A | N/A |

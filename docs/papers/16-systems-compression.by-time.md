@@ -9,14 +9,17 @@
 
 [Efficient AI & Machine Learning Systems](../categories/16-systems.by-time.md)
 
-**34 surveys · Page 1/1**
+**37 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Binary and Ternary Neural Networks: A Survey of Learning and Acceleration | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0589.v1>) | N/A | N/A |
 | 2026 | A Target-Centric Survey of Quantization-Aware Training | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1401>) | N/A | [0](<https://openalex.org/W7204966082>) |
+| 2026 | From Data to Model: A Survey of the Compression Lifecycle in MLLMs | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220375.55495124/v1>) | [code](<https://github.com/EIT-NLP/Awesome-MLLM-Compression>) | N/A ([⭐ 25](<https://github.com/EIT-NLP/Awesome-MLLM-Compression>)) |
 | 2026 | Overview and Comparison of AVS Point Cloud Compression Standard | arXiv | [paper](<https://arxiv.org/abs/2602.08613>) | N/A | [22](<https://openalex.org/W4409038875>) |
+| 2026 | Towards Efficient Multimodal Large Language Models: A Survey on Token Compression | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176823010.07236701/v1>) | [code](<https://github.com/yaolinli/MLLM-Token-Compression>) | N/A ([⭐ 229](<https://github.com/yaolinli/MLLM-Token-Compression>)) |
+| 2026 | Knowledge Distillation for Large Language Models: Model Compression, Efficiency, and Transfer Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.47778906/v1>) | N/A | N/A |
 | 2026 | Sparsity in Federated Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/884>) | N/A | [0](<https://openalex.org/W7213400235>) |
-| 2026 | Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2396>) | N/A | N/A |
 | 2025 | Neural Network Quantization for Microcontrollers: A Comprehensive Survey of Methods, Platforms, and Applications | arXiv | [paper](<https://arxiv.org/abs/2508.15008>) | N/A | [17](<https://openalex.org/W4415090260>) |
 | 2025 | A Survey of Token Compression for Efficient Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2507.20198>) | N/A | [56](<https://openalex.org/W4417268856>) |
 | 2025 | Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI | arXiv | [paper](<https://arxiv.org/abs/2507.09702>) | N/A | [3](<https://openalex.org/W4416799654>) |

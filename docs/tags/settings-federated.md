@@ -9,7 +9,7 @@
 
 
 
-**81 surveys · Page 1/1**
+**91 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -53,6 +53,7 @@
 | 2024 | Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.05517>) | N/A | [17](<https://openalex.org/W4399158279>) |
 | 2025 | Tree-based Models for Vertical Federated Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.02285>) | N/A | [16](<https://openalex.org/W4409168199>) |
 | 2024 | Intelligent Agents for Auction-based Federated Learning: A Survey | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/912>) | N/A | [16](<https://openalex.org/W4401023419>) |
+| 2026 | Federated Learning: A Survey of Core Challenges, Current Methods, and Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0271.v1>) | N/A | [15](<https://openalex.org/W7133255133>) |
 | 2024 | Combining Federated Learning and Control: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.11069>) | N/A | [14](<https://openalex.org/W4404280149>) |
 | 2024 | Exploring the Practicality of Federated Learning: A Survey Towards the Communication Perspective | arXiv | [paper](<https://arxiv.org/abs/2405.20431>) | N/A | [14](<https://openalex.org/W4399317061>) |
 | 2024 | A Survey on Contribution Evaluation in Vertical Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2405.02364>) | [code](<https://github.com/cuiyuebing/VFL_CE>) | [14](<https://openalex.org/W4396715253>) ([⭐ 9](<https://github.com/cuiyuebing/VFL_CE>)) |
@@ -74,6 +75,7 @@
 | 2024 | Review of Mathematical Optimization in Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2412.01630>) | N/A | [6](<https://openalex.org/W4406002824>) |
 | 2024 | Advancing oncology with federated learning: transcending boundaries in breast, lung, and prostate cancer. A systematic review | arXiv | [paper](<https://arxiv.org/abs/2408.05249>) | N/A | [6](<https://openalex.org/W4402386352>) |
 | 2025 | A survey on Clustered Federated Learning: Taxonomy, Analysis and Applications | arXiv | [paper](<https://arxiv.org/abs/2501.17512>) | N/A | [5](<https://openalex.org/W4406975568>) |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
 | 2026 | Benchmarking Federated Learning in Edge Computing Environments: A Systematic Review and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2603.08735>) | N/A | [3](<https://openalex.org/W7133323550>) |
 | 2025 | A Survey of Personalized Federated Foundation Models for Privacy-Preserving Recommendation | arXiv | [paper](<https://arxiv.org/abs/2506.11563>) | N/A | [3](<https://openalex.org/W4415068925>) |
 | 2025 | Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms | arXiv | [paper](<https://arxiv.org/abs/2505.21792>) | N/A | [3](<https://openalex.org/W4416046446>) |
@@ -89,6 +91,14 @@
 | 2026 | A Survey on Federated Causal Discovery and Inference | arXiv | [paper](<https://arxiv.org/abs/2606.23741>) | N/A | [0](<https://openalex.org/W7165798763>) |
 | 2026 | Federated Learning over Human-Body Communication for On-Body Edge Intelligence: A Survey, Taxonomy, and BODYFED-HBC Scheduling Vignette | arXiv | [paper](<https://arxiv.org/abs/2605.24062>) | N/A | [0](<https://openalex.org/W7162606303>) |
 | 2026 | Sparsity in Federated Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/884>) | N/A | [0](<https://openalex.org/W7213400235>) |
+| 2026 | Federated Learning Aggregation (FLAg) Strategies in Healthcare: A Systematic Survey and Taxonomy Based on Technical and Data Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2214.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Federated Model Evolution in Open Environments | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0652.v1>) | N/A | N/A |
+| 2026 | Poisoning Attacks in Federated Learning: An Accountability-Oriented Survey with Centralized Learning as Baseline | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1674.v1>) | N/A | N/A |
+| 2026 | Federated Learning, Mobile Emotion Recognition, and Client-Side Data Quality: A Survey and Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2175.v1>) | N/A | N/A |
+| 2026 | Federated Learning for Ophthalmic Imaging: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203265.53959182/v1>) | N/A | N/A |
+| 2026 | Federated Learning in Biomedical and Health Informatics: A Systematic Review and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177162424.47521127/v1>) | N/A | N/A |
+| 2026 | A Survey on Federated Unlearning: Lifecycle, Taxonomy, and Insights | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004227.77961306/v1>) | N/A | N/A |
+| 2026 | Urban Digital Twins for Sustainable Smart Cities: A Systematic Literature Review of UAV-Assisted MEC, Federated Intelligence, and Semantic Communications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948217.76093650/v1>) | N/A | N/A |
 | 2025 | A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2508.19620>) | N/A | N/A |
 | 2025 | A Survey on Federated Fine-tuning of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.12016>) | [code](<https://github.com/Clin0212/Awesome-Federated-LLM-Learning>) | N/A ([⭐ 114](<https://github.com/Clin0212/Awesome-Federated-LLM-Learning>)) |
 | 2024 | Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.16340>) | N/A | N/A |

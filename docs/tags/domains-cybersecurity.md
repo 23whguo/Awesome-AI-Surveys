@@ -9,7 +9,7 @@
 
 
 
-**47 surveys · Page 1/1**
+**62 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -57,6 +57,21 @@
 | 2026 | Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges | arXiv | [paper](<https://arxiv.org/abs/2609.00171>) | N/A | [0](<https://openalex.org/W7206150980>) |
 | 2026 | AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement by using AI for analyzing psychology of Victims, Attackers, and Defenders | arXiv | [paper](<https://arxiv.org/abs/2607.13123>) | N/A | [0](<https://openalex.org/W7168836574>) |
 | 2025 | Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper | arXiv | [paper](<https://arxiv.org/abs/2505.04265>) | N/A | [0](<https://openalex.org/W4416013066>) |
+| 2026 | Large Language Models for Cybersecurity: A Survey of Data, Training, Models, Agent Systems, Evaluation, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2235.v1>) | N/A | N/A |
+| 2026 | Cyberattack Dataset Engineering and Benchmarking for Realistic Intrusion Detection: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2047.v1>) | N/A | N/A |
+| 2026 | Malware Detection with Autonomous Agents: A Review of Functional Roles, Datasets, and Coordination Readiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0904.v1>) | N/A | N/A |
+| 2026 | Intrusion Detection under Incomplete Information: A Structured Survey of Explainability, Robustness, and Operational Deployment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0001.v1>) | N/A | N/A |
+| 2026 | LLM-Based Agents for Cybersecurity: A Systematic Review of Architectures, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1600.v1>) | N/A | N/A |
+| 2026 | From AI Strategy to Executable Controls: A PRISMA-Guided Review of AI Governance for Cybersecurity Efficiency in Azerbaijan | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0428.v1>) | N/A | N/A |
+| 2026 | Agentic AI and Large Language Models for Autonomous IoT Cybersecurity: A Systematic Survey, Taxonomy, and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0142.v1>) | [code](<https://github.com/vnageshwaran-de/agentic-iot-security>) | N/A ([⭐ 1](<https://github.com/vnageshwaran-de/agentic-iot-security>)) |
+| 2026 | Intrusion Detection Datasets for IIoT and ICS: A Taxonomic Review with a Decision-Aid Scoring Rubric | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0145.v1>) | N/A | N/A |
+| 2026 | A Systematic Literature Review on Machine Learning for Intrusion Detection Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1231.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Methods for Unmanned Aerial Vehicles Cybersecurity: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1384.v1>) | N/A | N/A |
+| 2026 | Generative AI in Cybersecurity: A Systematic Literature Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0324.v1>) | N/A | N/A |
+| 2026 | Intrusion Detection Systems for Cloud and IoT Infrastructures: Comprehensive Review of Challenges, Strategies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1817.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Review on Graph-Based Anomaly Detection: Approaches for Intrusion Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1466.v1>) | N/A | N/A |
+| 2026 | Understanding the Adversary: A Survey of Adversarial Machine Learning in Network Intrusion Detection | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176703966.68193688/v2>) | N/A | N/A |
+| 2026 | Trustworthy Machine Learning for Cybersecurity:A Decision-Centric Survey of Explainability, Uncertainty, and Human Factors | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784242.23575739/v1>) | N/A | N/A |
 | 2025 | Neuro-Symbolic AI for Cybersecurity: State of the Art, Challenges, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2509.06921>) | N/A | N/A |
 | 2025 | Deep Learning-based Intrusion Detection Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.07839>) | N/A | N/A |
 | 2024 | A Survey of AI-Related Cyber Security Risks and Countermeasures in Mobility-as-a-Service | arXiv | [paper](<https://arxiv.org/abs/2411.05681>) | N/A | N/A |

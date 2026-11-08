@@ -9,14 +9,21 @@
 
 
 
-**60 surveys · Page 1/1**
+**67 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Federated Learning Aggregation (FLAg) Strategies in Healthcare: A Systematic Survey and Taxonomy Based on Technical and Data Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2214.v1>) | N/A | N/A |
 | 2026 | Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2607.01305>) | N/A | [1](<https://openalex.org/W7167265271>) |
 | 2026 | From Data Heterogeneity to Convergence: A Data-Centric Review of Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2606.10595>) | N/A | [1](<https://openalex.org/W7164195153>) |
+| 2026 | Poisoning Attacks in Federated Learning: An Accountability-Oriented Survey with Centralized Learning as Baseline | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1674.v1>) | N/A | N/A |
 | 2026 | Federated Learning over Human-Body Communication for On-Body Edge Intelligence: A Survey, Taxonomy, and BODYFED-HBC Scheduling Vignette | arXiv | [paper](<https://arxiv.org/abs/2605.24062>) | N/A | [0](<https://openalex.org/W7162606303>) |
+| 2026 | Federated Learning, Mobile Emotion Recognition, and Client-Side Data Quality: A Survey and Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2175.v1>) | N/A | N/A |
+| 2026 | Federated Learning for Ophthalmic Imaging: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203265.53959182/v1>) | N/A | N/A |
 | 2026 | Benchmarking Federated Learning in Edge Computing Environments: A Systematic Review and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2603.08735>) | N/A | [3](<https://openalex.org/W7133323550>) |
+| 2026 | Federated Learning in Biomedical and Health Informatics: A Systematic Review and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177162424.47521127/v1>) | N/A | N/A |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
+| 2026 | Federated Learning: A Survey of Core Challenges, Current Methods, and Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0271.v1>) | N/A | [15](<https://openalex.org/W7133255133>) |
 | 2026 | Sparsity in Federated Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/884>) | N/A | [0](<https://openalex.org/W7213400235>) |
 | 2025 | Federated Learning Survey: A Multi-Level Taxonomy of Aggregation Techniques, Experimental Insights, and Future Frontiers | arXiv | [paper](<https://arxiv.org/abs/2511.22616>) | N/A | [54](<https://openalex.org/W4400729590>) |
 | 2025 | The Role of Federated Learning in Improving Financial Security: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.14991>) | N/A | [10](<https://openalex.org/W4417339298>) |

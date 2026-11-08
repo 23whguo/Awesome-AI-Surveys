@@ -9,7 +9,7 @@
 
 
 
-**251 surveys · Page 1/2**
+**373 surveys · Page 1/2**
 
 Pages: 1 · [2](subjects-agent-2.md)
 
@@ -152,6 +152,7 @@ Pages: 1 · [2](subjects-agent-2.md)
 | 2025 | Multi-Agent Reinforcement Learning in Intelligent Transportation Systems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2508.20315>) | N/A | [10](<https://openalex.org/W4414447587>) |
 | 2025 | Manalyzer: End-to-end Automated Meta-analysis with Multi-agent System | arXiv | [paper](<https://arxiv.org/abs/2505.20310>) | N/A | [10](<https://openalex.org/W4415035603>) |
 | 2026 | Agentic Artificial Intelligence in Finance: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2604.21672>) | N/A | [9](<https://openalex.org/W4416811114>) |
+| 2026 | Tool and Agent Selection for Large Language Model Agents in Production: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.1050.v2>) | N/A | [9](<https://openalex.org/W4417309755>) |
 | 2025 | Toward Goal-Oriented Communication in Multi-Agent Systems: An overview | arXiv | [paper](<https://arxiv.org/abs/2508.07720>) | N/A | [9](<https://openalex.org/W4416242768>) |
 | 2025 | Disambiguation in Conversational Question Answering in the Era of LLMs and Agents: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.482>) | N/A | [9](<https://openalex.org/W4416256615>) |
 | 2026 | Dynamic Agent Skills: A Lifecycle Survey and Taxonomy of Evolving Skill Libraries | arXiv | [paper](<https://arxiv.org/abs/2607.10113>) | N/A | [8](<https://openalex.org/W7168265643>) |
@@ -169,6 +170,7 @@ Pages: 1 · [2](subjects-agent-2.md)
 | 2026 | Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2607.26212>) | N/A | [5](<https://openalex.org/W7171878187>) |
 | 2026 | The Five Ws of Multi-Agent Communication: Who Talks to Whom, When, What, and Why -- A Survey from MARL to Emergent Language and LLMs | arXiv | [paper](<https://arxiv.org/abs/2602.11583>) | N/A | [5](<https://openalex.org/W4414123240>) |
 | 2026 | LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization | arXiv | [paper](<https://arxiv.org/abs/2607.16066>) | N/A | [4](<https://openalex.org/W7169805817>) |
+| 2026 | A Comprehensive Survey of Agentic AI for Spatio-Temporal Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v1>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST>) | [4](<https://openalex.org/W7125902772>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
 | 2025 | ARISE: Agentic Rubric-Guided Iterative Survey Engine for Automated Scholarly Paper Generation | arXiv | [paper](<https://arxiv.org/abs/2511.17689>) | [code](<https://github.com/ziwang11112/ARISE>) | [4](<https://openalex.org/W7106713569>) ([⭐ 6](<https://github.com/ziwang11112/ARISE>)) |
 | 2025 | Toward Adaptable Multi-Agent Reinforcement Learning: An Assumption-Aware Review | arXiv | [paper](<https://arxiv.org/abs/2507.10142>) | N/A | [4](<https://openalex.org/W4414738417>) |
 | 2025 | Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.00747>) | N/A | [4](<https://openalex.org/W4414768957>) |
@@ -182,12 +184,15 @@ Pages: 1 · [2](subjects-agent-2.md)
 | 2026 | Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective | arXiv | [paper](<https://arxiv.org/abs/2608.18104>) | N/A | [3](<https://openalex.org/W7165751206>) |
 | 2026 | LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review | arXiv | [paper](<https://arxiv.org/abs/2604.16321>) | N/A | [3](<https://openalex.org/W7155104881>) |
 | 2026 | A Scoping Review of the Ethical Perspectives on Anthropomorphising Large Language Model-Based Conversational Agents | arXiv | [paper](<https://arxiv.org/abs/2601.09869>) | N/A | [3](<https://openalex.org/W7166573188>) |
+| 2026 | From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms | ACL | [paper](<https://aclanthology.org/2026.findings-acl.2069>) | [code](<https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey>) | [3](<https://openalex.org/W7124725341>) ([⭐ 61](<https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey>)) |
 | 2026 | Agentic Recommender Systems: A Systematic Literature Review | TSE | [paper](<https://doi.org/10.1109/TSE.2026.3657900>) | N/A | [3](<https://openalex.org/W7125834859>) |
 | 2025 | Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.14831>) | N/A | [3](<https://openalex.org/W4415332934>) |
 | 2026 | Agentic Quantitative Trading: A Survey of Workflows, Systems, and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2608.31041>) | N/A | [2](<https://openalex.org/W7204871485>) |
 | 2026 | A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security | arXiv | [paper](<https://arxiv.org/abs/2608.29596>) | N/A | [2](<https://openalex.org/W7204908635>) |
+| 2026 | A Comprehensive Survey of Agentic AI for Geospatial Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v2>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>) | [2](<https://openalex.org/W7202255257>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
 | 2026 | Blockchain Empowered Trustworthy Agent Networks: Foundations, Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2608.04626>) | N/A | [2](<https://openalex.org/W7196962092>) |
 | 2026 | AutoSynthesis: An agentic system for automated meta-analysis | arXiv | [paper](<https://arxiv.org/abs/2607.15247>) | N/A | [2](<https://openalex.org/W7169579615>) |
+| 2026 | A Survey on the Unique Security of Autonomous and Collaborative LLM Agents: Threats, Defenses, and Futures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1655.v3>) | [code](<https://github.com/sunyinggang/LLM-Agent-Security-Survey>) | [2](<https://openalex.org/W7134907807>) ([⭐ 21](<https://github.com/sunyinggang/LLM-Agent-Security-Survey>)) |
 | 2026 | Agentic AI for Self-Driving Laboratories in Soft Matter: Taxonomy, Benchmarks,and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2601.17920>) | N/A | [2](<https://openalex.org/W7125804569>) |
 | 2026 | A Survey of Large Language Model-Based Search Agents | ACL | [paper](<https://aclanthology.org/2026.acl-long.374>) | N/A | [2](<https://openalex.org/W7166860182>) |
 | 2026 | Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey | ACL | [paper](<https://aclanthology.org/2026.findings-acl.78>) | [code](<https://github.com/fatty-belly/Awesome-AgenticRAG-Data>) | [2](<https://openalex.org/W4416220650>) ([⭐ 3](<https://github.com/fatty-belly/Awesome-AgenticRAG-Data>)) |
@@ -210,10 +215,5 @@ Pages: 1 · [2](subjects-agent-2.md)
 | 2024 | Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2406.06041>) | N/A | [1](<https://openalex.org/W4399554010>) |
 | 2023 | Creative Problem Solving in Artificially Intelligent Agents: A Survey and Framework (Extended Abstract) | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/777>) | N/A | [1](<https://openalex.org/W4385764494>) |
 | 2026 | FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision | arXiv | [paper](<https://arxiv.org/abs/2610.37905>) | N/A | [0](<https://openalex.org/W7224857091>) |
-| 2026 | The More the Better? A Comparison of Single- and Multi-Agent LLM Setups on a Financial Review Task | arXiv | [paper](<https://arxiv.org/abs/2610.27488>) | N/A | [0](<https://openalex.org/W7223103623>) |
-| 2026 | From Acoustic Sensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents | arXiv | [paper](<https://arxiv.org/abs/2610.15390>) | N/A | [0](<https://openalex.org/W7221779555>) |
-| 2026 | Recent Advances in Agentic Agri-Robotic Phenotyping: A Perspective Review from Fragmented Multimodal Sensing to Unified PhenoAgent Intelligence | arXiv | [paper](<https://arxiv.org/abs/2609.34567>) | N/A | [0](<https://openalex.org/W7214802792>) |
-| 2026 | Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2609.13731>) | N/A | [0](<https://openalex.org/W7213259375>) |
-| 2026 | From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance | arXiv | [paper](<https://arxiv.org/abs/2609.04286>) | N/A | [0](<https://openalex.org/W7211894716>) |
 
 Pages: 1 · [2](subjects-agent-2.md)

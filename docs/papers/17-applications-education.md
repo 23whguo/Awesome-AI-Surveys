@@ -9,7 +9,7 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.md)
 
-**35 surveys · Page 1/1**
+**60 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -32,19 +32,44 @@
 | 2024 | A Systematic Review of Knowledge Tracing and Large Language Models in Education: Opportunities, Issues, and Future Research | arXiv | [paper](<https://arxiv.org/abs/2412.09248>) | N/A | [20](<https://openalex.org/W4405355204>) |
 | 2025 | The Transition from Centralized Machine Learning to Federated Learning for Mental Health in Education: A Survey of Current Methods and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.11714>) | N/A | [17](<https://openalex.org/W4406730425>) |
 | 2025 | A Survey of LLM-Based Applications in Programming Education: Balancing Automation and Human Oversight | arXiv | [paper](<https://arxiv.org/abs/2510.03719>) | N/A | [14](<https://openalex.org/W7104366868>) |
+| 2026 | Generative AI to Foster Computational Thinking in Initial Teacher Education: A Thematic Literature Review and Model | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1017.v1>) | N/A | [9](<https://openalex.org/W7154054932>) |
 | 2025 | Aesthetic Experience and Educational Value in Co-creating Art with Generative AI: Evidence from a Survey of Young Learners | arXiv | [paper](<https://arxiv.org/abs/2509.10576>) | N/A | [9](<https://openalex.org/W4415090446>) |
 | 2025 | Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective | arXiv | [paper](<https://arxiv.org/abs/2506.24006>) | N/A | [8](<https://openalex.org/W4416524315>) |
 | 2025 | A systematic review of research on large language models for computer programming education | arXiv | [paper](<https://arxiv.org/abs/2506.21818>) | N/A | [7](<https://openalex.org/W4416081581>) |
 | 2024 | Learning Outcomes, Assessment, and Evaluation in Educational Recommender Systems: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2407.09500>) | N/A | [6](<https://openalex.org/W4400702579>) |
+| 2026 | A Systematic Review on Artificial Intelligence in Education: Opportunities, Challenges, and Ethical Implications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0448.v1>) | N/A | [5](<https://openalex.org/W7119118449>) |
 | 2026 | Artificial Intelligence and Cost Reduction in Public Higher Education: A Scoping Review of Emerging Evidence | arXiv | [paper](<https://arxiv.org/abs/2604.04741>) | N/A | [4](<https://openalex.org/W7151626899>) |
 | 2025 | AI Ethics Education in India: A Syllabus-Level Review of Computing Courses | arXiv | [paper](<https://arxiv.org/abs/2509.22329>) | N/A | [4](<https://openalex.org/W4417351032>) |
 | 2025 | Arabic Chatbot Technologies in Education: An Overview | arXiv | [paper](<https://arxiv.org/abs/2509.04066>) | N/A | [4](<https://openalex.org/W4409324412>) |
 | 2025 | AI in Computational Thinking Education in Higher Education: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.09677>) | N/A | [3](<https://openalex.org/W4411374883>) |
 | 2025 | Causal Analysis of Health, Education, and Economic Well-Being in India -- Evidence from the Young Lives Survey | arXiv | [paper](<https://arxiv.org/abs/2508.21370>) | N/A | [2](<https://openalex.org/W4415989337>) |
+| 2026 | Artificial Intelligence and Academic Honesty: Challenges in the Digital Classroom | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.2041.v1>) | N/A | [1](<https://openalex.org/W7133190960>) |
 | 2026 | Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature | arXiv | [paper](<https://arxiv.org/abs/2609.28886>) | N/A | [0](<https://openalex.org/W7214308650>) |
 | 2026 | Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance | arXiv | [paper](<https://arxiv.org/abs/2607.21257>) | N/A | [0](<https://openalex.org/W7170477730>) |
 | 2026 | Natural Language Processing in Health Professions Education: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2607.21605>) | N/A | [0](<https://openalex.org/W7171387228>) |
 | 2026 | An Underexplored Frontier: Large Language Models for Rare Disease Patient Education and Communication -- A scoping review | arXiv | [paper](<https://arxiv.org/abs/2604.14179>) | N/A | [0](<https://openalex.org/W7154681516>) |
 | 2026 | LLAMA LIMA: A Living Meta-Analysis on the Effects of Generative AI on Learning Mathematics | arXiv | [paper](<https://arxiv.org/abs/2601.18685>) | N/A | [0](<https://openalex.org/W7125778508>) |
+| 2026 | A Narrative Review on AI-Driven Learning Platforms and Their Role in Improving Learner Autonomy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0371.v1>) | N/A | [0](<https://openalex.org/W7118708508>) |
 | 2026 | LLM-Based Intelligent Tutoring Systems: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/875>) | N/A | [0](<https://openalex.org/W7213437200>) |
+| 2026 | Generative AI and Cognitive Processes in Education: A Narrative Review and Conceptual Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0452.v1>) | N/A | N/A |
+| 2026 | Creative Assignments and Who Gets Left Behind: A Systematic Review of Inclusion Readiness in Generative AI Teaching Practices in Business and Technology Higher Education | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2780.v1>) | N/A | N/A |
+| 2026 | AI in Education from CAI to AGI: A Narrative Review and Conceptual Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1853.v1>) | N/A | N/A |
+| 2026 | BCI &amp; AI for Cognitively-Aware Learning: A Review of Technologies, Tools, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1745.v1>) | N/A | N/A |
+| 2026 | Academic Integrity in the Age of Artificial Intelligence: A Scoping Review (2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1305.v1>) | N/A | N/A |
+| 2026 | AI-Supported Study Abroad: A Review of Emerging Evidence on Affordable Internationalization at Home | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0364.v1>) | N/A | N/A |
+| 2026 | The Impact of Artificial Intelligence on Education: Opportunities, Challenges, and the Future of Learning in Developing Countries: A Bangladesh-Focused Systematic Critical Literature Review and the Socio-Technical AI Integration Framework (STAIF) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1833.v1>) | N/A | N/A |
+| 2026 | RAG in Self-Regulated Personalised Learning in Digital Education | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0598.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Advancing Quality Education: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1402.v1>) | N/A | N/A |
+| 2026 | Neuro-Symbolic AI in Education: A Systematic Literature Review of Architectures, Pedagogical Integration, and Trustworthy Intelligent Learning Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0506.v1>) | N/A | N/A |
+| 2026 | Generative AI Acceptance in Higher Education: A Meta-Analysis and Meta-Analytic Structural Equation Model of the 2026 PLS-SEM Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2015.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Literacy in Medical and Health-Professions Education: A Bibliometric Scoping Review of a Rapidly Emerging Literature (2020–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0998.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Literacy in Higher Education (2020–2026): A Bibliometric Scoping Review of a Rapidly Emerging Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0341.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Across the Medical Education Continuum: Institutional, Learning, and Readiness and Safety Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1599.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Higher Education with Opportunities and Threats—Short Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1855.v1>) | N/A | N/A |
+| 2026 | Generative AI, Cognitive Offloading, and Learner Agency in Higher Education: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0881.v1>) | N/A | N/A |
+| 2026 | The Role of Generative Large Language Models in Enhancing Student Engagement in Higher Education: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0717.v1>) | N/A | N/A |
+| 2026 | The Impact of Artificial Intelligence on Self-Regulated Language Learning in Higher Education: A Systematic Review (2022–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1913.v1>) | N/A | N/A |
+| 2026 | The Architectural Shift: Integrating Artificial Intelligence from the Ground Up in Undergraduate Medical Education | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1560.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Respiratory Care: An Educational Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0857.v1>) | N/A | N/A |
+| 2026 | A Survey of Large Language Models in Education: Perspectives from Students and Teachers | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176740291.15895174/v1>) | N/A | N/A |
 | 2024 | Generative AI and Agency in Education: A Critical Scoping Review and Thematic Analysis | arXiv | [paper](<https://arxiv.org/abs/2411.00631>) | N/A | N/A |

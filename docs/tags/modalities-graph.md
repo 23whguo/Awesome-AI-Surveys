@@ -9,7 +9,7 @@
 
 
 
-**166 surveys · Page 1/1**
+**185 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -148,6 +148,7 @@
 | 2025 | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | arXiv | [paper](<https://arxiv.org/abs/2509.20941>) | N/A | [7](<https://openalex.org/W4414789887>) |
 | 2024 | KG-EmpiRE: A Community-Maintainable Knowledge Graph for a Sustainable Literature Review on the State and Evolution of Empirical Research in Requirements Engineering | arXiv | [paper](<https://arxiv.org/abs/2405.08351>) | N/A | [7](<https://openalex.org/W4401719565>) |
 | 2025 | Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.19023>) | N/A | [5](<https://openalex.org/W4416043594>) |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
 | 2025 | Graph-Based Re-ranking in Information Retrieval and Beyond: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.14802>) | N/A | [4](<https://openalex.org/W4414902020>) |
 | 2025 | Medical Applications of Graph Convolutional Networks Using Electronic Health Records: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.09781>) | N/A | [4](<https://openalex.org/W4407632298>) |
 | 2024 | Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning | arXiv | [paper](<https://arxiv.org/abs/2412.18322>) | N/A | [4](<https://openalex.org/W4405783984>) |
@@ -170,10 +171,28 @@
 | 2026 | When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking | arXiv | [paper](<https://arxiv.org/abs/2606.10287>) | N/A | [0](<https://openalex.org/W7164132534>) |
 | 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A | [0](<https://openalex.org/W7162203912>) |
 | 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A | [0](<https://openalex.org/W7159062602>) |
-| 2026 | Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches | arXiv | [paper](<https://arxiv.org/abs/2601.00304>) | N/A | [0](<https://openalex.org/W7118755285>) |
 | 2026 | Test-Time Adaptation for Graph Learning: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/866>) | [code](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>) | [0](<https://openalex.org/W7213429993>) ([⭐ 16](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>)) |
+| 2026 | Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches | arXiv | [paper](<https://arxiv.org/abs/2601.00304>) | N/A | [0](<https://openalex.org/W7118755285>) |
 | 2024 | Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties | arXiv | [paper](<https://arxiv.org/abs/2410.14733>) | N/A | [0](<https://openalex.org/W4404088014>) |
 | 2024 | Review of Digital Asset Development with Graph Neural Network Unlearning | arXiv | [paper](<https://arxiv.org/abs/2409.18455>) | N/A | [0](<https://openalex.org/W4403809346>) |
+| 2026 | Review of Health Knowledge Graphs for Clinical Decision Support: Construction, LLM-Grounded Reasoning, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1625.v1>) | N/A | N/A |
+| 2026 | Dynamic Graphs and Large Language Models: A Survey of Mutual Enhancement | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1895.v1>) | [code](<https://github.com/iliyasbektas/llm-dynamic-graph-survey>) | N/A ([⭐ 1](<https://github.com/iliyasbektas/llm-dynamic-graph-survey>)) |
+| 2026 | Augmenting the Intelligence of Large Language Model-Based Agents with Graphs: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0138.v1>) | [code](<https://github.com/sqs17/GLA>) | N/A ([⭐ 4](<https://github.com/sqs17/GLA>)) |
+| 2026 | Graph Neural Networks for Spatial Transcriptomics: A Review of Graph Design and Downstream Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2240.v1>) | N/A | N/A |
+| 2026 | Are Graphs Useful for LLMs? A Comprehensive Survey of Graph-Enhanced Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1277.v1>) | [code](<https://github.com/BUPT-GAMMA/Awesome-Graph4LLM>) | N/A ([⭐ 11](<https://github.com/BUPT-GAMMA/Awesome-Graph4LLM>)) |
+| 2026 | Time-Dependent Graph Generation: A Survey of Discrete-Time and Continuous-Time Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1019.v1>) | N/A | N/A |
+| 2026 | Biologically Informed Graph Contrastive Learning for Microbiome Data Analysis: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0621.v1>) | N/A | N/A |
+| 2026 | A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1532.v1>) | N/A | N/A |
+| 2026 | From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1393>) | [code](<https://github.com/IBM/awesome-agentic-workflow-optimization>) | N/A ([⭐ 88](<https://github.com/IBM/awesome-agentic-workflow-optimization>)) |
+| 2026 | A Survey of Unifying Large Language Models with Graph Learning: Concepts, Methods, and Recent Advancements for Text-attributed Graph | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272839.92930143/v1>) | N/A | N/A |
+| 2026 | Differentially Private Graph Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220347.77114729/v1>) | N/A | N/A |
+| 2026 | Graphs for LLMs: A Survey of Graph-Assisted Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177162088.88045561/v1>) | N/A | N/A |
+| 2026 | Graph4LLM: A Systematic Survey of Graph-Enhanced Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/902>) | N/A | N/A |
+| 2026 | When Vision Meets Graphs: A Survey on Graph Reasoning and Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/898>) | N/A | N/A |
+| 2026 | Systematic Literature Review on Evolvable Knowledge Graphs in Manufacturing | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.172054425.55676002/v2>) | N/A | N/A |
+| 2026 | A Comprehensive Review on Graph-Based Anomaly Detection: Approaches for Intrusion Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1466.v1>) | N/A | N/A |
+| 2026 | Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176800867.72049627/v1>) | N/A | N/A |
+| 2026 | A Survey of Recent Graph-Based Methods for Skeleton-Based Action Recognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784417.76917906/v1>) | N/A | N/A |
 | 2025 | Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications | arXiv | [paper](<https://arxiv.org/abs/2510.21131>) | N/A | N/A |
 | 2025 | Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey | arXiv | [paper](<https://arxiv.org/abs/2506.17234>) | N/A | N/A |
 | 2024 | A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs | arXiv | [paper](<https://arxiv.org/abs/2406.07402>) | N/A | N/A |

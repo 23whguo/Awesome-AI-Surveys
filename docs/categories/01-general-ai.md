@@ -9,12 +9,12 @@ AI 综合与研究概览
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**88 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**115 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>01.1 AI Landscapes & Foundation Models · AI 全景与基础模型 (88)</b></summary>
+<summary><b>01.1 AI Landscapes & Foundation Models · AI 全景与基础模型 (115)</b></summary>
 
-[Browse all 88 surveys →](../papers/01-general-ai-general.md)
+[Browse all 115 surveys →](../papers/01-general-ai-general.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

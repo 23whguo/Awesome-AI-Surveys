@@ -9,9 +9,9 @@
 
 
 
-**2411 surveys · Page 8/13**
+**2699 surveys · Page 8/14**
 
-Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · 8 · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)
+Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · 8 · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md) · [14](review_type-survey-14.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -39,6 +39,7 @@ Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_
 | 2020 | Context Dependent Semantic Parsing: A Survey | COLING | [paper](<https://aclanthology.org/2020.coling-main.226>) | [code](<https://github.com/zhuang-li/Contextual-Semantic-Parsing-Paper-List>) | [16](<https://openalex.org/W3115585256>) ([⭐ 20](<https://github.com/zhuang-li/Contextual-Semantic-Parsing-Paper-List>)) |
 | 2017 | Universal Reinforcement Learning Algorithms: Survey and Experiments | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2017/194>) | [code](<https://github.com/aslanides/aixijs>) | [16](<https://openalex.org/W2617173417>) ([⭐ 152](<https://github.com/aslanides/aixijs>)) |
 | 2026 | Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses | arXiv | [paper](<https://arxiv.org/abs/2605.02900>) | N/A | [15](<https://openalex.org/W7160403351>) |
+| 2026 | Federated Learning: A Survey of Core Challenges, Current Methods, and Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0271.v1>) | N/A | [15](<https://openalex.org/W7133255133>) |
 | 2025 | MRI Super-Resolution with Deep Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2511.16854>) | [code](<https://github.com/mkhateri/Awesome-MRI-Super-Resolution>) | [15](<https://openalex.org/W4416594396>) ([⭐ 40](<https://github.com/mkhateri/Awesome-MRI-Super-Resolution>)) |
 | 2025 | Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI | arXiv | [paper](<https://arxiv.org/abs/2510.04978>) | [code](<https://github.com/AI4Phys/Awesome-AI-for-Physics>) | [15](<https://openalex.org/W4414972786>) ([⭐ 82](<https://github.com/AI4Phys/Awesome-AI-for-Physics>)) |
 | 2025 | Generalizability of Large Language Model-Based Agents: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2509.16330>) | N/A | [15](<https://openalex.org/W7128401262>) |
@@ -116,7 +117,7 @@ Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_
 | 2024 | A Survey of Privacy Threats and Defense in Vertical Federated Learning: From Model Life Cycle Perspective | arXiv | [paper](<https://arxiv.org/abs/2402.03688>) | N/A | [14](<https://openalex.org/W4391631667>) |
 | 2024 | A Complete Survey on Contemporary Methods, Emerging Paradigms and Hybrid Approaches for Few-Shot Learning | arXiv | [paper](<https://arxiv.org/abs/2402.03017>) | N/A | [14](<https://openalex.org/W4391622119>) |
 | 2026 | Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application | arXiv | [paper](<https://arxiv.org/abs/2606.12191>) | N/A | [13](<https://openalex.org/W7164415632>) |
-| 2026 | Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs | arXiv | [paper](<https://arxiv.org/abs/2601.17058>) | N/A | [13](<https://openalex.org/W7125821617>) |
+| 2026 | Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs | arXiv | [paper](<https://arxiv.org/abs/2601.17058>) | [code](<https://github.com/weAIDB/awesome-data-llm>) | [13](<https://openalex.org/W7125821617>) ([⭐ 834](<https://github.com/OpenDataBox/awesome-data-llm>)) |
 | 2025 | Safe Learning for Contact-Rich Robot Tasks: A Survey from Classical Learning-Based Methods to Safe Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2512.11908>) | [code](<https://github.com/jack-sherman01/Awesome-Learning4Safe-Contact-rich-tasks>) | [13](<https://openalex.org/W4416932056>) ([⭐ 55](<https://github.com/jack-sherman01/Awesome-Learning4Safe-Contact-rich-tasks>)) |
 | 2025 | A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection | arXiv | [paper](<https://arxiv.org/abs/2510.26307>) | N/A | [13](<https://openalex.org/W7165957813>) |
 | 2025 | Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps | arXiv | [paper](<https://arxiv.org/abs/2510.13430>) | N/A | [13](<https://openalex.org/W4415275957>) |
@@ -214,6 +215,5 @@ Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_
 | 2024 | A Survey of Neural Network Robustness Assessment in Image Recognition | arXiv | [paper](<https://arxiv.org/abs/2404.08285>) | N/A | [11](<https://openalex.org/W4394867172>) |
 | 2024 | Semi-Supervised Semantic Segmentation Based on Pseudo-Labels: A Survey | arXiv | [paper](<https://arxiv.org/abs/2403.01909>) | N/A | [11](<https://openalex.org/W4392488796>) |
 | 2021 | Bayesian Nonparametric Space Partitions: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/602>) | N/A | [11](<https://openalex.org/W3192832578>) |
-| 2020 | A Survey of Unsupervised Dependency Parsing | COLING | [paper](<https://aclanthology.org/2020.coling-main.227>) | N/A | [11](<https://openalex.org/W3117798239>) |
 
-Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · 8 · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)
+Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · [6](review_type-survey-6.md) · [7](review_type-survey-7.md) · 8 · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md) · [14](review_type-survey-14.md)

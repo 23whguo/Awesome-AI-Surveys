@@ -9,16 +9,23 @@
 
 
 
-**59 surveys · Page 1/1**
+**66 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Diffusion-Based World Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1022.v1>) | N/A | N/A |
 | 2026 | Ergodic Control and Controlled Diffusion for Robot Learning: Review and Tutorial | arXiv | [paper](<https://arxiv.org/abs/2609.13295>) | N/A | [0](<https://openalex.org/W7213246438>) |
 | 2026 | Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis | arXiv | [paper](<https://arxiv.org/abs/2608.20743>) | N/A | [1](<https://openalex.org/W7204089399>) |
 | 2026 | Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.21904>) | N/A | [0](<https://openalex.org/W7171393229>) |
 | 2026 | Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/873>) | N/A | [1](<https://openalex.org/W7168340407>) |
+| 2026 | Generative AI and Diffusion Models in Geophysics: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2101.v1>) | N/A | N/A |
 | 2026 | Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2606.26566>) | N/A | [1](<https://openalex.org/W7165652367>) |
+| 2026 | Consistency in Diffusion-Based Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0870.v1>) | N/A | N/A |
 | 2026 | From Denoising to Decision Making: A Survey on Diffusion Model-Enabled Deep Reinforcement Learning for Wireless Networks | arXiv | [paper](<https://arxiv.org/abs/2605.25531>) | N/A | [1](<https://openalex.org/W7162399430>) |
+| 2026 | Human-Centric Content Generation with Diffusion Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138906.63173113/v1>) | N/A | N/A |
+| 2026 | Video Editing Meets Diffusion Models: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177129952.23796356/v1>) | N/A | N/A |
+| 2026 | Accelerating Inference in Diffusion Large Language Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177102145.58136415/v1>) | N/A | N/A |
+| 2026 | Generative AI for Medical Image Synthesis: GANs, Diffusion Models, and Data Augmentation Techniques | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784492.29866965/v1>) | N/A | N/A |
 | 2026 | A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control | arXiv | [paper](<https://arxiv.org/abs/2601.06133>) | N/A | [2](<https://openalex.org/W7123740009>) |
 | 2026 | Controllable Generation With Text-to-Image Diffusion Models: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3646548>) | [code](<https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models>) | [113](<https://openalex.org/W4417508717>) ([⭐ 1,111](<https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models>)) |
 | 2026 | Efficient Diffusion Language Models: A Comprehensive Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1074>) | N/A | [0](<https://openalex.org/W7125531142>) |

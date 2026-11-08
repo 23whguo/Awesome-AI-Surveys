@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**76 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**78 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>07.1 Speech Recognition, Synthesis & Translation · 语音识别、合成与翻译 (27)</b></summary>
+<summary><b>07.1 Speech Recognition, Synthesis & Translation · 语音识别、合成与翻译 (28)</b></summary>
 
-[Browse all 27 surveys →](../papers/07-audio-speech.md)
+[Browse all 28 surveys →](../papers/07-audio-speech.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>07.3 Music Understanding & Generation · 音乐理解与生成 (17)</b></summary>
+<summary><b>07.3 Music Understanding & Generation · 音乐理解与生成 (18)</b></summary>
 
-[Browse all 17 surveys →](../papers/07-audio-music.md)
+[Browse all 18 surveys →](../papers/07-audio-music.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

@@ -9,14 +9,22 @@
 
 
 
-**77 surveys · Page 1/1**
+**85 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | From 3D Scene Understanding to Hazard Forecasting: A Critical Review of Remote Sensing–Driven Emergency Digital Twins | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0926.v1>) | N/A | N/A |
+| 2026 | An Architectural Review of the 3D Gaussian Splatting Rendering Pipeline | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1894.v1>) | N/A | N/A |
+| 2026 | WiFi-Based 3D Reconstruction: A Survey with Insights from Vision-Based Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2267.v1>) | N/A | N/A |
+| 2026 | 3D Gaussian Splatting Rasterization: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0776.v1>) | [code](<https://github.com/3DAgentWorld/Advanced3DGS>) | N/A ([⭐ 28](<https://github.com/3DAgentWorld/Advanced3DGS>)) |
 | 2026 | Advances in Neural 3D Mesh Texturing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2606.00137>) | N/A | [1](<https://openalex.org/W7160083806>) |
 | 2026 | A Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation | arXiv | [paper](<https://arxiv.org/abs/2605.17131>) | N/A | [1](<https://openalex.org/W7161236486>) |
 | 2026 | 3D Generation for Embodied AI and Robotic Simulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2604.26509>) | N/A | [1](<https://openalex.org/W7158681643>) |
+| 2026 | Unraveling Noise in 3D Point Clouds: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177281447.78646347/v1>) | N/A | N/A |
+| 2026 | Targeting p53 Dysfunction in Hepatocellular Carcinoma: Translational Barriers and Opportunities for AI-Driven Precision Medicine | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1888.v1>) | N/A | [0](<https://openalex.org/W7131883768>) |
 | 2026 | Overview and Comparison of AVS Point Cloud Compression Standard | arXiv | [paper](<https://arxiv.org/abs/2602.08613>) | N/A | [22](<https://openalex.org/W4409038875>) |
+| 2026 | A Survey on Pose-Free Neural Radiance Fields and 3D Gaussian Splatting | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948383.37482954/v1>) | N/A | N/A |
+| 2026 | A Survey on Large Multimodal Models for 3D Vision and Scene Understanding | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784330.01281926/v1>) | N/A | N/A |
 | 2026 | Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and Taxonomy | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02723-w>) | [code](<https://github.com/yxzhang15/pcr>) | [30](<https://openalex.org/W7134117188>) ([⭐ 221](<https://github.com/yxzhang15/PCR>)) |
 | 2026 | A Comprehensive Survey of Interaction Techniques in 3D Scene Generation | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/878>) | N/A | [19](<https://openalex.org/W7213410964>) |
 | 2026 | A Survey on 3D Skeleton Based Person Re-Identification: Taxonomy, Advances, Challenges, and Interdisciplinary Prospects | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/888>) | [code](<https://github.com/Kali-Hac/3D-SRID-Survey>) | [5](<https://openalex.org/W4391417837>) ([⭐ 13](<https://github.com/Kali-Hac/3D-SRID-Survey>)) |

@@ -15,118 +15,122 @@ Tags use explicit title evidence. Missing tags do not establish absence; no inci
 
 | Tag | Surveys |
 | --- | ---: |
-| [alignment](tags/tasks-alignment.by-time.md) | 30 |
-| [anomaly-detection](tags/tasks-anomaly-detection.by-time.md) | 32 |
-| [compression](tags/tasks-compression.by-time.md) | 44 |
-| [evaluation](tags/tasks-evaluation.by-time.md) | 240 |
-| [explainability](tags/tasks-explainability.by-time.md) | 102 |
-| [fairness](tags/tasks-fairness.by-time.md) | 67 |
-| [forecasting](tags/tasks-forecasting.by-time.md) | 29 |
-| [generation](tags/tasks-generation.by-time.md) | 369 |
-| [hallucination](tags/tasks-hallucination.by-time.md) | 29 |
-| [object-detection](tags/tasks-object-detection.by-time.md) | 36 |
-| [planning](tags/tasks-planning.by-time.md) | 18 |
-| [privacy](tags/tasks-privacy.by-time.md) | 66 |
-| [reasoning](tags/tasks-reasoning.by-time.md) | 113 |
-| [recommendation](tags/tasks-recommendation.by-time.md) | 126 |
-| [retrieval](tags/tasks-retrieval.by-time.md) | 78 |
-| [safety](tags/tasks-safety.by-time.md) | 178 |
-| [segmentation](tags/tasks-segmentation.by-time.md) | 72 |
+| [alignment](tags/tasks-alignment.by-time.md) | 40 |
+| [anomaly-detection](tags/tasks-anomaly-detection.by-time.md) | 37 |
+| [compression](tags/tasks-compression.by-time.md) | 49 |
+| [evaluation](tags/tasks-evaluation.by-time.md) | 301 |
+| [explainability](tags/tasks-explainability.by-time.md) | 123 |
+| [fairness](tags/tasks-fairness.by-time.md) | 71 |
+| [forecasting](tags/tasks-forecasting.by-time.md) | 40 |
+| [generation](tags/tasks-generation.by-time.md) | 441 |
+| [hallucination](tags/tasks-hallucination.by-time.md) | 34 |
+| [object-detection](tags/tasks-object-detection.by-time.md) | 37 |
+| [planning](tags/tasks-planning.by-time.md) | 23 |
+| [privacy](tags/tasks-privacy.by-time.md) | 72 |
+| [reasoning](tags/tasks-reasoning.by-time.md) | 130 |
+| [recommendation](tags/tasks-recommendation.by-time.md) | 138 |
+| [retrieval](tags/tasks-retrieval.by-time.md) | 80 |
+| [safety](tags/tasks-safety.by-time.md) | 224 |
+| [segmentation](tags/tasks-segmentation.by-time.md) | 79 |
 | [tool-use](tags/tasks-tool-use.by-time.md) | 6 |
 
 ## review_type
 
 | Tag | Surveys |
 | --- | ---: |
-| [meta-analysis](tags/review_type-meta-analysis.by-time.md) | 53 |
-| [overview](tags/review_type-overview.by-time.md) | 110 |
-| [review](tags/review_type-review.by-time.md) | 873 |
-| [scoping-review](tags/review_type-scoping-review.by-time.md) | 83 |
-| [survey](tags/review_type-survey.by-time.md) | 2411 |
-| [systematic-review](tags/review_type-systematic-review.by-time.md) | 306 |
-| [systematic-survey](tags/review_type-systematic-survey.by-time.md) | 46 |
-| [taxonomy](tags/review_type-taxonomy.by-time.md) | 36 |
+| [bibliometric-review](tags/review_type-bibliometric-review.by-time.md) | 8 |
+| [meta-analysis](tags/review_type-meta-analysis.by-time.md) | 63 |
+| [overview](tags/review_type-overview.by-time.md) | 299 |
+| [review](tags/review_type-review.by-time.md) | 1035 |
+| [scientometric-review](tags/review_type-scientometric-review.by-time.md) | 1 |
+| [scoping-review](tags/review_type-scoping-review.by-time.md) | 111 |
+| [survey](tags/review_type-survey.by-time.md) | 2699 |
+| [systematic-mapping](tags/review_type-systematic-mapping.by-time.md) | 4 |
+| [systematic-review](tags/review_type-systematic-review.by-time.md) | 395 |
+| [systematic-survey](tags/review_type-systematic-survey.by-time.md) | 58 |
+| [taxonomy](tags/review_type-taxonomy.by-time.md) | 47 |
+| [tutorial](tags/review_type-tutorial.by-time.md) | 6 |
 
 ## subjects
 
 | Tag | Surveys |
 | --- | ---: |
-| [agent](tags/subjects-agent.by-time.md) | 251 |
-| [foundation-model](tags/subjects-foundation-model.by-time.md) | 106 |
-| [gnn](tags/subjects-gnn.by-time.md) | 55 |
-| [knowledge-graph](tags/subjects-knowledge-graph.by-time.md) | 43 |
-| [llm](tags/subjects-llm.by-time.md) | 856 |
-| [multi-agent](tags/subjects-multi-agent.by-time.md) | 57 |
-| [vision-language-model](tags/subjects-vision-language-model.by-time.md) | 99 |
-
-## domains
-
-| Tag | Surveys |
-| --- | ---: |
-| [agriculture](tags/domains-agriculture.by-time.md) | 21 |
-| [autonomous-driving](tags/domains-autonomous-driving.by-time.md) | 45 |
-| [biology](tags/domains-biology.by-time.md) | 30 |
-| [cybersecurity](tags/domains-cybersecurity.by-time.md) | 47 |
-| [education](tags/domains-education.by-time.md) | 36 |
-| [energy](tags/domains-energy.by-time.md) | 38 |
-| [finance](tags/domains-finance.by-time.md) | 38 |
-| [healthcare](tags/domains-healthcare.by-time.md) | 213 |
-| [human-ai-interaction](tags/domains-human-ai-interaction.by-time.md) | 33 |
-| [industry](tags/domains-industry.by-time.md) | 32 |
-| [law](tags/domains-law.by-time.md) | 11 |
-| [networks](tags/domains-networks.by-time.md) | 36 |
-| [remote-sensing](tags/domains-remote-sensing.by-time.md) | 103 |
-| [robotics](tags/domains-robotics.by-time.md) | 175 |
-| [science](tags/domains-science.by-time.md) | 21 |
-| [software-engineering](tags/domains-software-engineering.by-time.md) | 51 |
-
-## settings
-
-| Tag | Surveys |
-| --- | ---: |
-| [continual](tags/settings-continual.by-time.md) | 34 |
-| [federated](tags/settings-federated.by-time.md) | 81 |
-| [few-shot](tags/settings-few-shot.by-time.md) | 15 |
-| [low-resource](tags/settings-low-resource.by-time.md) | 12 |
-| [on-device](tags/settings-on-device.by-time.md) | 18 |
-| [real-time](tags/settings-real-time.by-time.md) | 4 |
-| [zero-shot](tags/settings-zero-shot.by-time.md) | 10 |
+| [agent](tags/subjects-agent.by-time.md) | 373 |
+| [foundation-model](tags/subjects-foundation-model.by-time.md) | 139 |
+| [gnn](tags/subjects-gnn.by-time.md) | 57 |
+| [knowledge-graph](tags/subjects-knowledge-graph.by-time.md) | 46 |
+| [llm](tags/subjects-llm.by-time.md) | 999 |
+| [multi-agent](tags/subjects-multi-agent.by-time.md) | 69 |
+| [vision-language-model](tags/subjects-vision-language-model.by-time.md) | 122 |
 
 ## modalities
 
 | Tag | Surveys |
 | --- | ---: |
-| [3d](tags/modalities-3d.by-time.md) | 77 |
-| [action](tags/modalities-action.by-time.md) | 180 |
-| [audio](tags/modalities-audio.by-time.md) | 114 |
-| [graph](tags/modalities-graph.by-time.md) | 166 |
-| [image](tags/modalities-image.by-time.md) | 451 |
-| [multimodal](tags/modalities-multimodal.by-time.md) | 207 |
-| [tabular](tags/modalities-tabular.by-time.md) | 14 |
-| [text](tags/modalities-text.by-time.md) | 1180 |
-| [time-series](tags/modalities-time-series.by-time.md) | 84 |
-| [video](tags/modalities-video.by-time.md) | 60 |
+| [3d](tags/modalities-3d.by-time.md) | 85 |
+| [action](tags/modalities-action.by-time.md) | 234 |
+| [audio](tags/modalities-audio.by-time.md) | 119 |
+| [graph](tags/modalities-graph.by-time.md) | 185 |
+| [image](tags/modalities-image.by-time.md) | 507 |
+| [multimodal](tags/modalities-multimodal.by-time.md) | 254 |
+| [tabular](tags/modalities-tabular.by-time.md) | 17 |
+| [text](tags/modalities-text.by-time.md) | 1353 |
+| [time-series](tags/modalities-time-series.by-time.md) | 98 |
+| [video](tags/modalities-video.by-time.md) | 69 |
+
+## domains
+
+| Tag | Surveys |
+| --- | ---: |
+| [agriculture](tags/domains-agriculture.by-time.md) | 35 |
+| [autonomous-driving](tags/domains-autonomous-driving.by-time.md) | 52 |
+| [biology](tags/domains-biology.by-time.md) | 47 |
+| [cybersecurity](tags/domains-cybersecurity.by-time.md) | 62 |
+| [education](tags/domains-education.by-time.md) | 58 |
+| [energy](tags/domains-energy.by-time.md) | 48 |
+| [finance](tags/domains-finance.by-time.md) | 49 |
+| [healthcare](tags/domains-healthcare.by-time.md) | 293 |
+| [human-ai-interaction](tags/domains-human-ai-interaction.by-time.md) | 41 |
+| [industry](tags/domains-industry.by-time.md) | 50 |
+| [law](tags/domains-law.by-time.md) | 12 |
+| [networks](tags/domains-networks.by-time.md) | 40 |
+| [remote-sensing](tags/domains-remote-sensing.by-time.md) | 113 |
+| [robotics](tags/domains-robotics.by-time.md) | 227 |
+| [science](tags/domains-science.by-time.md) | 29 |
+| [software-engineering](tags/domains-software-engineering.by-time.md) | 55 |
+
+## settings
+
+| Tag | Surveys |
+| --- | ---: |
+| [continual](tags/settings-continual.by-time.md) | 45 |
+| [federated](tags/settings-federated.by-time.md) | 91 |
+| [few-shot](tags/settings-few-shot.by-time.md) | 16 |
+| [low-resource](tags/settings-low-resource.by-time.md) | 14 |
+| [on-device](tags/settings-on-device.by-time.md) | 18 |
+| [real-time](tags/settings-real-time.by-time.md) | 8 |
+| [zero-shot](tags/settings-zero-shot.by-time.md) | 10 |
 
 ## methods
 
 | Tag | Surveys |
 | --- | ---: |
-| [causal-inference](tags/methods-causal-inference.by-time.md) | 39 |
-| [continual-learning](tags/methods-continual-learning.by-time.md) | 27 |
-| [contrastive-learning](tags/methods-contrastive-learning.by-time.md) | 3 |
-| [diffusion](tags/methods-diffusion.by-time.md) | 59 |
-| [distillation](tags/methods-distillation.by-time.md) | 22 |
-| [evolutionary-computation](tags/methods-evolutionary-computation.by-time.md) | 24 |
-| [federated-learning](tags/methods-federated-learning.by-time.md) | 60 |
-| [fine-tuning](tags/methods-fine-tuning.by-time.md) | 20 |
+| [causal-inference](tags/methods-causal-inference.by-time.md) | 43 |
+| [continual-learning](tags/methods-continual-learning.by-time.md) | 33 |
+| [contrastive-learning](tags/methods-contrastive-learning.by-time.md) | 4 |
+| [diffusion](tags/methods-diffusion.by-time.md) | 66 |
+| [distillation](tags/methods-distillation.by-time.md) | 25 |
+| [evolutionary-computation](tags/methods-evolutionary-computation.by-time.md) | 28 |
+| [federated-learning](tags/methods-federated-learning.by-time.md) | 67 |
+| [fine-tuning](tags/methods-fine-tuning.by-time.md) | 21 |
 | [mixture-of-experts](tags/methods-mixture-of-experts.by-time.md) | 7 |
-| [neuro-symbolic](tags/methods-neuro-symbolic.by-time.md) | 9 |
-| [prompting](tags/methods-prompting.by-time.md) | 32 |
+| [neuro-symbolic](tags/methods-neuro-symbolic.by-time.md) | 10 |
+| [prompting](tags/methods-prompting.by-time.md) | 35 |
 | [pruning](tags/methods-pruning.by-time.md) | 4 |
 | [quantization](tags/methods-quantization.by-time.md) | 9 |
-| [rag](tags/methods-rag.by-time.md) | 47 |
-| [reinforcement-learning](tags/methods-reinforcement-learning.by-time.md) | 156 |
+| [rag](tags/methods-rag.by-time.md) | 50 |
+| [reinforcement-learning](tags/methods-reinforcement-learning.by-time.md) | 179 |
 | [self-supervised-learning](tags/methods-self-supervised-learning.by-time.md) | 33 |
-| [state-space-model](tags/methods-state-space-model.by-time.md) | 14 |
-| [transformer](tags/methods-transformer.by-time.md) | 77 |
-| [unlearning](tags/methods-unlearning.by-time.md) | 15 |
+| [state-space-model](tags/methods-state-space-model.by-time.md) | 15 |
+| [transformer](tags/methods-transformer.by-time.md) | 82 |
+| [unlearning](tags/methods-unlearning.by-time.md) | 17 |

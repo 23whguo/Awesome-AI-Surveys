@@ -9,7 +9,9 @@
 
 
 
-**175 surveys · Page 1/1**
+**227 surveys · Page 1/2**
+
+Pages: 1 · [2](domains-robotics-2.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -36,7 +38,7 @@
 | 2024 | 3D Gaussian Splatting in Robotics: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.12262>) | N/A | [75](<https://openalex.org/W4403577748>) |
 | 2024 | Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.11840>) | N/A | [70](<https://openalex.org/W4409076757>) |
 | 2025 | Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks | arXiv | [paper](<https://arxiv.org/abs/2502.13175>) | N/A | [67](<https://openalex.org/W7148573600>) |
-| 2026 | World Model for Robot Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.00080>) | N/A | [66](<https://openalex.org/W7160063469>) |
+| 2026 | World Model for Robot Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.00080>) | [code](<https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy>) | [66](<https://openalex.org/W7160063469>) ([⭐ 879](<https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy>)) |
 | 2025 | Diffusion Models for Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.08438>) | N/A | [65](<https://openalex.org/W4414219384>) |
 | 2025 | Edge Computing and its Application in Robotics: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.00523>) | N/A | [64](<https://openalex.org/W4411614560>) |
 | 2024 | Deep Learning for Surgical Instrument Recognition and Segmentation in Robotic-Assisted Surgeries: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2410.07269>) | N/A | [62](<https://openalex.org/W4404018144>) |
@@ -111,7 +113,7 @@
 | 2025 | Safety of Embodied Navigation: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1189>) | N/A | [9](<https://openalex.org/W4415191868>) |
 | 2025 | Robot-assisted Transcranial Magnetic Stimulation (Robo-TMS): A Review | arXiv | [paper](<https://arxiv.org/abs/2507.04345>) | N/A | [9](<https://openalex.org/W4412030565>) |
 | 2024 | On the impact of robot personalization on human-robot interaction: A review | arXiv | [paper](<https://arxiv.org/abs/2401.11776>) | N/A | [9](<https://openalex.org/W4391210591>) |
-| 2026 | Progress Reward Modeling for Robotic Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.21655>) | N/A | [8](<https://openalex.org/W7171376342>) |
+| 2026 | Progress Reward Modeling for Robotic Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.21655>) | [code](<https://github.com/sterzhang/Awesome-Progress-Models>) | [8](<https://openalex.org/W7171376342>) ([⭐ 89](<https://github.com/andyzworks/Awesome-Progress-Models>)) |
 | 2025 | The Safety Challenge of World Models for Embodied AI Agents: A Review | arXiv | [paper](<https://arxiv.org/abs/2510.05865>) | N/A | [8](<https://openalex.org/W4414979685>) |
 | 2025 | A Review of Personalisation in Human-Robot Collaboration and Future Perspectives Towards Industry 5.0 | arXiv | [paper](<https://arxiv.org/abs/2506.20447>) | N/A | [8](<https://openalex.org/W4415821807>) |
 | 2025 | A Comprehensive Survey on Physical Risk Control in the Era of Foundation Model-enabled Robotics | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1168>) | N/A | [8](<https://openalex.org/W4414359493>) |
@@ -147,9 +149,9 @@
 | 2025 | Towards Human-AI-Robot Collaboration and AI-Agent based Digital Twins for Parkinson's Disease Management: Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2511.06036>) | N/A | [2](<https://openalex.org/W4416157079>) |
 | 2025 | Task Allocation in Mobile Robot Fleets: A review | arXiv | [paper](<https://arxiv.org/abs/2501.08726>) | N/A | [2](<https://openalex.org/W4406483991>) |
 | 2024 | Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2405.15777>) | [code](<https://github.com/synapsemobility/synapseBEV>) | [2](<https://openalex.org/W4399114763>) ([⭐ 3](<https://github.com/synapsemobility/synapseBEV>)) |
-| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
 | 2026 | 3D Generation for Embodied AI and Robotic Simulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2604.26509>) | N/A | [1](<https://openalex.org/W7158681643>) |
 | 2026 | A Survey of Spatial Memory Representations for Efficient Robot Navigation | arXiv | [paper](<https://arxiv.org/abs/2604.16482>) | N/A | [1](<https://openalex.org/W7155079299>) |
+| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
 | 2026 | Robotic Foundation Models for Industrial Control: A Comprehensive Survey and Readiness Assessment Framework | arXiv | [paper](<https://arxiv.org/abs/2603.06749>) | N/A | [1](<https://openalex.org/W7134820619>) |
 | 2025 | A Survey on Improving Human Robot Collaboration through Vision-and-Language Navigation | arXiv | [paper](<https://arxiv.org/abs/2512.00027>) | N/A | [1](<https://openalex.org/W4416931979>) |
 | 2025 | A Nascent Taxonomy of Machine Learning in Intelligent Robotic Process Automation | arXiv | [paper](<https://arxiv.org/abs/2509.15730>) | N/A | [1](<https://openalex.org/W4402018142>) |
@@ -160,7 +162,7 @@
 | 2026 | A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration | arXiv | [paper](<https://arxiv.org/abs/2610.09891>) | N/A | [0](<https://openalex.org/W7221021311>) |
 | 2026 | Recent Advances in Agentic Agri-Robotic Phenotyping: A Perspective Review from Fragmented Multimodal Sensing to Unified PhenoAgent Intelligence | arXiv | [paper](<https://arxiv.org/abs/2609.34567>) | N/A | [0](<https://openalex.org/W7214802792>) |
 | 2026 | Simulation for Planetary Robotic Perception and Autonomy: A Concise Survey of Recent Capabilities and Gaps | arXiv | [paper](<https://arxiv.org/abs/2609.34743>) | N/A | [0](<https://openalex.org/W7214727147>) |
-| 2026 | Embedding Physics Priors in Robot Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2609.22319>) | N/A | [0](<https://openalex.org/W7214049543>) |
+| 2026 | Embedding Physics Priors in Robot Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2609.22319>) | [code](<https://github.com/TUM-AVS/survey-physics-embedded-robot-learning>) | [0](<https://openalex.org/W7214049543>) ([⭐ 38](<https://github.com/TUM-AVS/survey-physics-embedded-robot-learning>)) |
 | 2026 | Ergodic Control and Controlled Diffusion for Robot Learning: Review and Tutorial | arXiv | [paper](<https://arxiv.org/abs/2609.13295>) | N/A | [0](<https://openalex.org/W7213246438>) |
 | 2026 | Benchmarking Dexterity of Multifingered Robot Hands: A Review and Perspective | arXiv | [paper](<https://arxiv.org/abs/2609.05585>) | N/A | [0](<https://openalex.org/W7212060226>) |
 | 2026 | Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence | arXiv | [paper](<https://arxiv.org/abs/2609.29669>) | N/A | [0](<https://openalex.org/W7214285830>) |
@@ -169,22 +171,49 @@
 | 2026 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | arXiv | [paper](<https://arxiv.org/abs/2607.11792>) | N/A | [0](<https://openalex.org/W7168273145>) |
 | 2026 | A Comprehensive Survey and Systematic Real-World Evaluation of Embodied Vision-and-Language Navigation | arXiv | [paper](<https://arxiv.org/abs/2607.09792>) | N/A | [0](<https://openalex.org/W7167809489>) |
 | 2026 | Split and Aggregation Learning for Foundation Models Over Mobile Embodied AI Network (MEAN): A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.00970>) | N/A | [0](<https://openalex.org/W7160296255>) |
+| 2026 | Next-Generation Liver Surgery: Integrating Artificial Intelligence, Robotics, and Nanotechnology, A Narrative Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1961.v1>) | N/A | [0](<https://openalex.org/W7125968310>) |
 | 2026 | Advancing Improvisation in Human-Robot Construction Collaboration: Taxonomy and Research Roadmap | arXiv | [paper](<https://arxiv.org/abs/2601.17219>) | N/A | [0](<https://openalex.org/W7125799332>) |
 | 2026 | Towards Generalist Robot Learning from Internet Video: A Survey (Abstract Reprint) | AAAI | [paper](<https://doi.org/10.1609/aaai.v40i47.41397>) | N/A | [0](<https://openalex.org/W7139137847>) |
 | 2025 | Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024) | arXiv | [paper](<https://arxiv.org/abs/2508.12170>) | N/A | [0](<https://openalex.org/W4414460477>) |
 | 2025 | Survey on safe robot control via learning | arXiv | [paper](<https://arxiv.org/abs/2501.01432>) | N/A | [0](<https://openalex.org/W4406092515>) |
 | 2024 | Toward Improving Binary Program Comprehension via Embodied Immersion: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.17051>) | N/A | [0](<https://openalex.org/W4396243528>) |
-| 2025 | A short methodological review on social robot navigation benchmarking | arXiv | [paper](<https://arxiv.org/abs/2510.22448>) | N/A | N/A |
-| 2025 | Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.10903>) | [code](<https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation>) | N/A ([⭐ 1,182](<https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation>)) |
-| 2025 | Representing Data in Robotic Tactile Perception -- A Review | arXiv | [paper](<https://arxiv.org/abs/2510.10804>) | N/A | N/A |
-| 2025 | Taxonomy and Trends in Reinforcement Learning for Robotics and Control Systems: A Structured Review | arXiv | [paper](<https://arxiv.org/abs/2510.21758>) | N/A | N/A |
-| 2025 | Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.13073>) | [code](<https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation>) | N/A ([⭐ 472](<https://github.com/iLearn-Lab/Awesome-VLM-based-VLA-for-Robotic-Manipulation>)) |
-| 2025 | Vision Language Action Models in Robotic Manipulation: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.10672>) | N/A | N/A |
-| 2025 | A Tripartite Framework for Understanding the Embodied Mind: A Comprehensive Review of Bodily Map Study | arXiv | [paper](<https://arxiv.org/abs/2504.14865>) | N/A | N/A |
-| 2024 | A Comprehensive Review of Current Robot- Based Pollinators in Greenhouse Farming | arXiv | [paper](<https://arxiv.org/abs/2410.23747>) | N/A | N/A |
-| 2024 | Promoting Reliable Knowledge about Climate Change: A Systematic Review of Effective Measures to Resist Manipulation on Social Media | arXiv | [paper](<https://arxiv.org/abs/2410.23814>) | N/A | N/A |
-| 2024 | Neural Fields in Robotics: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.20220>) | N/A | N/A |
-| 2024 | Social Mediation through Robots -- A Scoping Review on Improving Group Interactions through Directed Robot Action using an Extended Group Process Model | arXiv | [paper](<https://arxiv.org/abs/2409.06557>) | N/A | N/A |
-| 2024 | A Survey on Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms | arXiv | [paper](<https://arxiv.org/abs/2408.14199>) | N/A | N/A |
-| 2024 | Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations | arXiv | [paper](<https://arxiv.org/abs/2408.04380>) | N/A | N/A |
-| 2024 | Towards Massive Interaction with Generalist Robotics: A Systematic Review of XR-enabled Remote Human-Robot Interaction Systems | arXiv | [paper](<https://arxiv.org/abs/2403.11384>) | N/A | N/A |
+| 2026 | From Prediction to Control: A Survey of Closed-Loop World Models for Robot Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0078.v1>) | N/A | N/A |
+| 2026 | A Survey of Agentic Robotics: Toward Continual Self-Improvement | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2747.v1>) | N/A | N/A |
+| 2026 | Towards Human-Centered Safety in Vision-Language-Action Robot Control: A Survey and Outlook | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2762.v1>) | N/A | N/A |
+| 2026 | From Plan Generation to Reliable Execution: An Architecture-Centric Survey of Embodied Long-Horizon LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2483.v1>) | N/A | N/A |
+| 2026 | Recursive Self Improvement for Embodied Agents—A Survey of Foundations Mechanisms Harnesses and Evaluation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2080.v2>) | N/A | N/A |
+| 2026 | Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use | arXiv | [paper](<https://arxiv.org/abs/2610.30108>) | [code](<https://github.com/showlab/Awesome-Multimodal-Embodied-Agent>) | N/A ([⭐ 289](<https://github.com/showlab/Awesome-Multimodal-Embodied-Agent>)) |
+| 2026 | Recursive Self Improvement for Embodied Agents—A Survey of Mechanisms Evaluation and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2080.v1>) | N/A | N/A |
+| 2026 | Behavioral Organization in Embodied AI: A Three-Level Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1493.v1>) | N/A | N/A |
+| 2026 | A Survey of Security in Real-World Agents: From Digital Agents to Embodied AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1303.v1>) | N/A | N/A |
+| 2026 | Agentic Embodied AI for Human–Robot Collaboration: Architectures, Technologies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1213.v1>) | N/A | N/A |
+| 2026 | Error Enhancement in Physical Rehabilitation: From Motor Learning Theory to Robotic Neurorehabilitation– A Comprehensive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1188.v1>) | N/A | N/A |
+| 2026 | From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0392.v1>) | N/A | N/A |
+| 2026 | A Systematic, Taxonomy-Guided Survey of Predictive Maintenance in Robotic Systems: Fault Detection, Diagnosis, Prognosis, and Fault-Tolerant Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2443.v1>) | N/A | N/A |
+| 2026 | Robotic Platforms for Green Vehicle Refueling and Charging Stations: A Critical Review of Fixed, Mobile, Humanoid, and Legged Solutions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2104.v1>) | N/A | N/A |
+| 2026 | Clinical and Functional Outcomes of Contemporary Salvage Robotic-Assisted Radical Prostatectomy for Failed Primary Therapy: A Single Institution Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1693.v1>) | N/A | N/A |
+| 2026 | In-Context Learning from Demonstrations for Robotic Manipulation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0780.v1>) | N/A | N/A |
+| 2026 | A Survey on Evaluation of Embodied AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2328.v1>) | [code](<https://github.com/EmbodiedAISurvey/Embodied-AI-Eval-Survey>) | N/A ([⭐ 12](<https://github.com/EmbodiedAISurvey/Embodied-AI-Eval-Survey>)) |
+| 2026 | Robotic Coronary Artery Bypass Grafting: A Comprehensive Narrative Review of Techniques, Outcomes, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1667.v1>) | N/A | N/A |
+| 2026 | Learning from Demonstration for Robotic Deburring and Polishing: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0774.v1>) | N/A | N/A |
+| 2026 | Toward Clinically Translatable Nanorobots for Cancer: Advances in Design Principles, Navigation Control, AI-Enabled Autonomy, and Post-Treatment Removal Strategies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0432.v1>) | N/A | N/A |
+| 2026 | When LLMs Take Action: A Survey on the Safety and Alignment of Language-Conditioned Embodied Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0061.v1>) | N/A | N/A |
+| 2026 | What Matters: Datasets or Robust Frameworks in Modern Robot Learning? | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1149.v1>) | N/A | N/A |
+| 2026 | Vision-Language-Action and Vision Language Models for Robot Manipulation: A Comprehensive Review Towards Real-World Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0400.v1>) | N/A | N/A |
+| 2026 | A Survey of Physical AI: A History from ChatGPT to World Models and Embodied Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0173.v1>) | [code](<https://github.com/Hai-chao-Zhang/Awesome-Physical-AI>) | N/A ([⭐ 3](<https://github.com/Hai-chao-Zhang/Awesome-Physical-AI>)) |
+| 2026 | A Systematic Review of Supernumerary Robotic Limbs: Design Trade-Offs, Control Strategies, and Application Domains | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0953.v1>) | N/A | N/A |
+| 2026 | World Action Models: The Next Frontier in Embodied AI | arXiv | [paper](<https://arxiv.org/abs/2605.12090>) | [code](<https://github.com/OpenMOSS/Awesome-WAM>) | N/A ([⭐ 1,522](<https://github.com/OpenMOSS/Awesome-WAM>)) |
+| 2026 | Bridging Human Deception to AI Exploitation: A Systematic Review of Psychological Strategies in LLM Model Manipulation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0075.v1>) | N/A | N/A |
+| 2026 | Pneumatics in Service Robotics: A Review Across Application Domains and the Impact of Soft Robotics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0017.v1>) | N/A | N/A |
+| 2026 | A Survey of Embodied World Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0928.v1>) | N/A | N/A |
+| 2026 | Robotic-Assisted, Video-Assisted, and Open Sleeve Lobectomy After Neoadjuvant Therapy for Non-Small Cell Lung Cancer: A Systematic Review and Network Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0957.v1>) | N/A | N/A |
+| 2026 | Optimisation Techniques for Multi‐Robot Path Planning: A Review of Collision Avoidance and Performance Metrics in Connectivity, Efficiency and Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0316.v1>) | N/A | N/A |
+| 2026 | Robotic-Assisted Bronchoscopy for Peripheral Pulmonary Lesions: Current Evidence, Clinical Applications, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0368.v1>) | N/A | N/A |
+| 2026 | AI in Robot Manipulator Control: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2432.v1>) | N/A | N/A |
+| 2026 | Precision-Guided Surgery for Hilar Cholangiocarcinoma: A Network Meta-Analysis of Robotic, Laparoscopic, and Open Resection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2463.v1>) | N/A | N/A |
+| 2026 | Integrating Artificial General Intelligence into Robotic Systems: A Pathway Toward Superintelligent Autonomous Machines | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1607.v1>) | N/A | N/A |
+| 2026 | Use of Robotic Systems in Aesthetic/Cosmetic Plastic Surgery—A Review Article | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1496.v1>) | N/A | N/A |
+| 2026 | Hybrid Reconstruction in Head and Neck Surgery: Integration of Virtual Planning, Navigation, and Robotic Microsurgery | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1247.v1>) | N/A | N/A |
+| 2026 | Toward Human-Robot Sharing Space: A Conceptual Framework and Scoping Review of Spatial Design Knowledge | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0312.v1>) | N/A | N/A |
+
+Pages: 1 · [2](domains-robotics-2.md)

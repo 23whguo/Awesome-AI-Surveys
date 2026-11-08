@@ -9,7 +9,7 @@
 
 
 
-**67 surveys · Page 1/1**
+**71 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,6 +76,10 @@
 | 2026 | Fairness in Multi-Agent Systems for Software Engineering: An SDLC-Oriented Rapid Review | arXiv | [paper](<https://arxiv.org/abs/2604.13103>) | N/A | [0](<https://openalex.org/W7169546925>) |
 | 2025 | An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation | arXiv | [paper](<https://arxiv.org/abs/2512.02689>) | N/A | [0](<https://openalex.org/W4417009244>) |
 | 2025 | Mitigating Bias in Machine Learning: A Comprehensive Review and Novel Approaches | AAAI | [paper](<https://doi.org/10.1609/aaai.v39i27.35107>) | N/A | [0](<https://openalex.org/W4409362090>) |
+| 2026 | Artificial Intelligence and Digital Health for Women's Cardiovascular Health: A Survey of Bias, Equity, and Inclusive Innovation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2232.v1>) | N/A | N/A |
+| 2026 | A Survey on Selection Bias in Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2234.v1>) | N/A | N/A |
+| 2026 | Software Unfairness Detection in Machine Learning-based Systems: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0038.v1>) | N/A | N/A |
+| 2026 | Toward a Philosophical Taxonomy of Bias in Large Language Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177273600.04458982/v1>) | N/A | N/A |
 | 2025 | Datasets for Fairness in Language Models: An In-Depth Survey | arXiv | [paper](<https://arxiv.org/abs/2506.23411>) | [code](<https://github.com/vanbanTruong/Fairness-in-Large-Language-Models>) | N/A ([⭐ 43](<https://github.com/vanbanTruong/Fairness-in-Large-Language-Models>)) |
 | 2025 | Prompt Engineering Techniques for Mitigating Cultural Bias Against Arabs and Muslims in Large Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2506.18199>) | N/A | N/A |
 | 2024 | The Life Cycle of Large Language Models: A Review of Biases in Education | arXiv | [paper](<https://arxiv.org/abs/2407.11203>) | N/A | N/A |

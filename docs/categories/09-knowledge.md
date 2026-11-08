@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**90 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**100 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>09.1 Knowledge Representation & Knowledge Graphs · 知识表示与知识图谱 (48)</b></summary>
+<summary><b>09.1 Knowledge Representation & Knowledge Graphs · 知识表示与知识图谱 (51)</b></summary>
 
-[Browse all 48 surveys →](../papers/09-knowledge-knowledge-graphs.md)
+[Browse all 51 surveys →](../papers/09-knowledge-knowledge-graphs.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>09.2 Graph Representation Learning & Mining · 图表征学习与挖掘 (33)</b></summary>
+<summary><b>09.2 Graph Representation Learning & Mining · 图表征学习与挖掘 (38)</b></summary>
 
-[Browse all 33 surveys →](../papers/09-knowledge-graph-learning.md)
+[Browse all 38 surveys →](../papers/09-knowledge-graph-learning.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>09.3 Logic, Neuro-Symbolic Reasoning, Search & Planning · 逻辑、神经符号推理、搜索与规划 (9)</b></summary>
+<summary><b>09.3 Logic, Neuro-Symbolic Reasoning, Search & Planning · 逻辑、神经符号推理、搜索与规划 (11)</b></summary>
 
-[Browse all 9 surveys →](../papers/09-knowledge-symbolic.md)
+[Browse all 11 surveys →](../papers/09-knowledge-symbolic.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

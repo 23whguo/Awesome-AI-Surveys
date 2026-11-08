@@ -9,10 +9,11 @@
 
 [Speech, Audio & Music](../categories/07-audio.by-time.md)
 
-**17 surveys · Page 1/1**
+**18 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Tutorial on Generative Models for Music Audio | arXiv | [paper](<https://arxiv.org/abs/2610.38252>) | N/A | N/A |
 | 2026 | Neuroscience of Improvisation Across Music and Other Domains: A Survey and Outlook | arXiv | [paper](<https://arxiv.org/abs/2610.37958>) | N/A | [0](<https://openalex.org/W7224877801>) |
 | 2025 | Accessibility and Social Inclusivity: A Literature Review of Music Technology for Blind and Low Vision People | arXiv | [paper](<https://arxiv.org/abs/2508.00929>) | N/A | [3](<https://openalex.org/W4415445046>) |
 | 2025 | Content filtering methods for music recommendation: A review | arXiv | [paper](<https://arxiv.org/abs/2507.02282>) | N/A | N/A |

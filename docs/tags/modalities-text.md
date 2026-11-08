@@ -9,9 +9,9 @@
 
 
 
-**1180 surveys · Page 1/6**
+**1353 surveys · Page 1/7**
 
-Pages: 1 · [2](modalities-text-2.md) · [3](modalities-text-3.md) · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md)
+Pages: 1 · [2](modalities-text-2.md) · [3](modalities-text-3.md) · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md) · [7](modalities-text-7.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -216,4 +216,4 @@ Pages: 1 · [2](modalities-text-2.md) · [3](modalities-text-3.md) · [4](modali
 | 2024 | JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2407.01599>) | N/A | [109](<https://openalex.org/W4400373547>) |
 | 2021 | A Survey on Spoken Language Understanding: Recent Advances and New Frontiers | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/622>) | [code](<https://github.com/yizhen20133868/Awesome-SLU-Survey>) | [109](<https://openalex.org/W3188188945>) ([⭐ 892](<https://github.com/qinlibo-hit/Awesome-SLU-Survey>)) |
 
-Pages: 1 · [2](modalities-text-2.md) · [3](modalities-text-3.md) · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md)
+Pages: 1 · [2](modalities-text-2.md) · [3](modalities-text-3.md) · [4](modalities-text-4.md) · [5](modalities-text-5.md) · [6](modalities-text-6.md) · [7](modalities-text-7.md)

@@ -9,7 +9,7 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.md)
 
-**16 surveys · Page 1/1**
+**18 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -27,5 +27,7 @@
 | 2025 | A Survey and Comparative Analysis of Number Systems for Deep Neural Networks | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2025.3578756>) | N/A | [5](<https://openalex.org/W4411688613>) |
 | 2024 | Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges | arXiv | [paper](<https://arxiv.org/abs/2408.00193>) | N/A | [5](<https://openalex.org/W4401307061>) |
 | 2025 | Runtime Safety Monitoring of Deep Neural Networks for Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2511.05982>) | N/A | [3](<https://openalex.org/W7125939786>) |
+| 2026 | Critical Review of Neural Network Generations and Models Design | Preprints.org | [paper](<https://doi.org/10.20944/preprints202309.1149.v3>) | N/A | [0](<https://openalex.org/W7140043031>) |
 | 2025 | Restoration of contaminated data in an Intensity Mapping survey using deep neural networks | arXiv | [paper](<https://arxiv.org/abs/2506.06386>) | N/A | [0](<https://openalex.org/W4417116248>) |
+| 2026 | Foundation Neural Operators: A Survey on Pretraining Methods, the Data Ecosystem, and Efficient Adaptation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177100284.48520964/v1>) | N/A | N/A |
 | 2024 | A Survey of Trojan Attacks and Defenses to Deep Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2408.08920>) | N/A | N/A |

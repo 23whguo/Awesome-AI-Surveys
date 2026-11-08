@@ -9,7 +9,7 @@
 
 
 
-**72 surveys · Page 1/1**
+**79 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,6 +76,13 @@
 | 2025 | Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging | arXiv | [paper](<https://arxiv.org/abs/2506.19797>) | N/A | [0](<https://openalex.org/W4414684732>) |
 | 2024 | Advancements in Orthopaedic Arm Segmentation: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2406.13266>) | N/A | [0](<https://openalex.org/W4399912631>) |
 | 2013 | A Survey of Cervix Segmentation Methods in Magnetic Resonance Images | MICCAI | [paper](<https://doi.org/10.1007/978-3-642-41083-3_32>) | N/A | [0](<https://openalex.org/W18456513>) |
+| 2026 | A Bibliometric Analysis of CT Image Segmentation for Liver Cancer Screening Using Artificial Intelligence (1998--2026): A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0243.v1>) | N/A | N/A |
+| 2026 | Binding Text to Pixels: A Narrative Review of Supervision Granularity in Language-Guided Chest Radiograph Segmentation and Grounding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0297.v1>) | N/A | N/A |
+| 2026 | Medical Image Segmentation: A Comprehensive Review of Variational Models, Deep Learning, and Hybrid Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0036.v1>) | N/A | N/A |
+| 2026 | Language-Guided Segmentation of Medical Images: A Review of Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1606.v1>) | N/A | N/A |
+| 2026 | A Survey of Image Segmentation for Industrial Applications with a Focus on Quality Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0507.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey on Farmland Segmentation: Methodologies, Applications, and the Road to Agriculture 5.0 | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004901.18423035/v1>) | N/A | N/A |
+| 2026 | Deep Learning Methods for Breast Cancer Classification and Segmentation Using MRI Scans: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2126.v1>) | N/A | N/A |
 | 2025 | Multimodal Referring Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.00265>) | [code](<https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation>) | N/A ([⭐ 260](<https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation>)) |
 | 2025 | SAM2 for Image and Video Segmentation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2503.12781>) | N/A | N/A |
 | 2025 | Point Cloud Based Scene Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.12595>) | N/A | N/A |

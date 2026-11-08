@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**261 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**289 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>06.1 Recognition, Detection & Segmentation · 识别、检测与分割 (91)</b></summary>
+<summary><b>06.1 Recognition, Detection & Segmentation · 识别、检测与分割 (95)</b></summary>
 
-[Browse all 91 surveys →](../papers/06-vision-recognition.md)
+[Browse all 95 surveys →](../papers/06-vision-recognition.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>06.2 3D Vision, Geometry & Reconstruction · 三维视觉、几何与重建 (56)</b></summary>
+<summary><b>06.2 3D Vision, Geometry & Reconstruction · 三维视觉、几何与重建 (63)</b></summary>
 
-[Browse all 56 surveys →](../papers/06-vision-3d.md)
+[Browse all 63 surveys →](../papers/06-vision-3d.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>06.3 Video Understanding & Action Recognition · 视频理解与动作识别 (14)</b></summary>
+<summary><b>06.3 Video Understanding & Action Recognition · 视频理解与动作识别 (16)</b></summary>
 
-[Browse all 14 surveys →](../papers/06-vision-video.md)
+[Browse all 16 surveys →](../papers/06-vision-video.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -60,9 +60,9 @@
 </details>
 
 <details open>
-<summary><b>06.4 Image & Video Generation and Editing · 图像视频生成与编辑 (31)</b></summary>
+<summary><b>06.4 Image & Video Generation and Editing · 图像视频生成与编辑 (39)</b></summary>
 
-[Browse all 31 surveys →](../papers/06-vision-generation.md)
+[Browse all 39 surveys →](../papers/06-vision-generation.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,9 +76,9 @@
 </details>
 
 <details open>
-<summary><b>06.5 Restoration & Computational Imaging · 图像恢复与计算成像 (27)</b></summary>
+<summary><b>06.5 Restoration & Computational Imaging · 图像恢复与计算成像 (30)</b></summary>
 
-[Browse all 27 surveys →](../papers/06-vision-restoration.md)
+[Browse all 30 surveys →](../papers/06-vision-restoration.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -92,9 +92,9 @@
 </details>
 
 <details open>
-<summary><b>06.6 Visual Representations & Other Vision Topics · 视觉表征与其他视觉主题 (42)</b></summary>
+<summary><b>06.6 Visual Representations & Other Vision Topics · 视觉表征与其他视觉主题 (46)</b></summary>
 
-[Browse all 42 surveys →](../papers/06-vision-representation.md)
+[Browse all 46 surveys →](../papers/06-vision-representation.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

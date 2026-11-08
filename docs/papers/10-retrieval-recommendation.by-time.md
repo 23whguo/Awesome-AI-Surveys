@@ -9,11 +9,17 @@
 
 [Information Retrieval, Recommendation & Web Intelligence](../categories/10-retrieval.by-time.md)
 
-**89 surveys · Page 1/1**
+**95 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Evaluating Code Recommender Systems: A Review | arXiv | [paper](<https://arxiv.org/abs/2609.30351>) | N/A | [0](<https://openalex.org/W7214635404>) |
+| 2026 | Generative Recommendation in Dynamic Catalogs: A Survey of Item Admission, Semantic ID Evolution, and Model Adaptation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1676.v1>) | N/A | N/A |
+| 2026 | A Modular Survey for Semantic ID-Based Generative Recommendation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0619.v1>) | [code](<https://github.com/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox>) | N/A ([⭐ 52](<https://github.com/hupeiyu21/GenRec>)) |
+| 2026 | Integrating Large Language Models with Reinforcement Learning: A Survey of LLM-RL Synergistic Recommendation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155631.17855475/v1>) | N/A | N/A |
+| 2026 | A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945895.52184668/v1>) | N/A | N/A |
+| 2026 | Efficient Large Language Models for Recommendation: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.173272687.73188733/v2>) | N/A | N/A |
+| 2026 | A Survey of User Lifelong Behavior Modeling: Perspectives on Efficiency and Effectiveness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1559.v1>) | [code](<https://github.com/Kuaishou-RecModel/Survey>) | N/A ([⭐ N/A](<https://github.com/kuaishou-recmodel/survey>)) |
 | 2026 | A survey on multi-behavior sequential recommendation | SCIS | [paper](<https://doi.org/10.1007/s11432-024-4568-7>) | N/A | [28](<https://openalex.org/W4386346386>) |
 | 2026 | A Survey on Natural Language User Profiles for Recommendation: Methods, Datasets, and Metrics | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2207>) | N/A | [0](<https://openalex.org/W7224307980>) |
 | 2025 | Dataset creation for supervised deep learning-based analysis of microscopic images -- review of important considerations and recommendations | arXiv | [paper](<https://arxiv.org/abs/2512.04564>) | N/A | [2](<https://openalex.org/W4417086781>) |

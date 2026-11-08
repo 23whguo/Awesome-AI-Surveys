@@ -9,24 +9,43 @@
 
 
 
-**166 surveys · Page 1/1**
+**185 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Review of Health Knowledge Graphs for Clinical Decision Support: Construction, LLM-Grounded Reasoning, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1625.v1>) | N/A | N/A |
 | 2026 | Building Knowledge Graphs for Theses: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.28648>) | N/A | [0](<https://openalex.org/W7223207025>) |
+| 2026 | Dynamic Graphs and Large Language Models: A Survey of Mutual Enhancement | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1895.v1>) | [code](<https://github.com/iliyasbektas/llm-dynamic-graph-survey>) | N/A ([⭐ 1](<https://github.com/iliyasbektas/llm-dynamic-graph-survey>)) |
 | 2026 | Dynamic Heterogeneous Graph Representation Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/881>) | N/A | [0](<https://openalex.org/W7211876650>) |
+| 2026 | Augmenting the Intelligence of Large Language Model-Based Agents with Graphs: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0138.v1>) | [code](<https://github.com/sqs17/GLA>) | N/A ([⭐ 4](<https://github.com/sqs17/GLA>)) |
+| 2026 | Graph Neural Networks for Spatial Transcriptomics: A Review of Graph Design and Downstream Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2240.v1>) | N/A | N/A |
+| 2026 | Are Graphs Useful for LLMs? A Comprehensive Survey of Graph-Enhanced Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1277.v1>) | [code](<https://github.com/BUPT-GAMMA/Awesome-Graph4LLM>) | N/A ([⭐ 11](<https://github.com/BUPT-GAMMA/Awesome-Graph4LLM>)) |
 | 2026 | A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs | arXiv | [paper](<https://arxiv.org/abs/2610.08800>) | N/A | [0](<https://openalex.org/W7221199436>) |
+| 2026 | Time-Dependent Graph Generation: A Survey of Discrete-Time and Continuous-Time Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1019.v1>) | N/A | N/A |
 | 2026 | GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1815>) | N/A | [0](<https://openalex.org/W7166883585>) |
 | 2026 | Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective | arXiv | [paper](<https://arxiv.org/abs/2608.18104>) | N/A | [3](<https://openalex.org/W7165751206>) |
 | 2026 | When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking | arXiv | [paper](<https://arxiv.org/abs/2606.10287>) | N/A | [0](<https://openalex.org/W7164132534>) |
+| 2026 | Biologically Informed Graph Contrastive Learning for Microbiome Data Analysis: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0621.v1>) | N/A | N/A |
+| 2026 | A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1532.v1>) | N/A | N/A |
 | 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A | [0](<https://openalex.org/W7162203912>) |
 | 2026 | Attention-based graph neural networks: a survey | arXiv | [paper](<https://arxiv.org/abs/2605.08679>) | [code](<https://github.com/sunxiaobei/awesome-attention-based-gnns>) | [156](<https://openalex.org/W4386028223>) ([⭐ 92](<https://github.com/sunxiaobei/awesome-attention-based-gnns>)) |
 | 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A | [0](<https://openalex.org/W7159062602>) |
+| 2026 | From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1393>) | [code](<https://github.com/IBM/awesome-agentic-workflow-optimization>) | N/A ([⭐ 88](<https://github.com/IBM/awesome-agentic-workflow-optimization>)) |
+| 2026 | A Survey of Unifying Large Language Models with Graph Learning: Concepts, Methods, and Recent Advancements for Text-attributed Graph | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272839.92930143/v1>) | N/A | N/A |
+| 2026 | Differentially Private Graph Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220347.77114729/v1>) | N/A | N/A |
+| 2026 | Graphs for LLMs: A Survey of Graph-Assisted Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177162088.88045561/v1>) | N/A | N/A |
+| 2026 | Test-Time Adaptation for Graph Learning: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/866>) | [code](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>) | [0](<https://openalex.org/W7213429993>) ([⭐ 16](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>)) |
+| 2026 | Graph4LLM: A Systematic Survey of Graph-Enhanced Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/902>) | N/A | N/A |
 | 2026 | Graph-based Agent Memory: Taxonomy, Techniques, and Applications | arXiv | [paper](<https://arxiv.org/abs/2602.05665>) | [code](<https://github.com/DEEP-PolyU/Awesome-GraphMemory>) | [58](<https://openalex.org/W7127926068>) ([⭐ 366](<https://github.com/DEEP-PolyU/Awesome-GraphMemory>)) |
+| 2026 | When Vision Meets Graphs: A Survey on Graph Reasoning and Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/898>) | N/A | N/A |
+| 2026 | Systematic Literature Review on Evolvable Knowledge Graphs in Manufacturing | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.172054425.55676002/v2>) | N/A | N/A |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
+| 2026 | A Comprehensive Review on Graph-Based Anomaly Detection: Approaches for Intrusion Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1466.v1>) | N/A | N/A |
+| 2026 | Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176800867.72049627/v1>) | N/A | N/A |
+| 2026 | A Survey of Recent Graph-Based Methods for Skeleton-Based Action Recognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784417.76917906/v1>) | N/A | N/A |
 | 2026 | Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches | arXiv | [paper](<https://arxiv.org/abs/2601.00304>) | N/A | [0](<https://openalex.org/W7118755285>) |
 | 2026 | A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630673>) | N/A | [123](<https://openalex.org/W4416011383>) |
 | 2026 | A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.135>) | N/A | [3](<https://openalex.org/W4407123927>) |
-| 2026 | Test-Time Adaptation for Graph Learning: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/866>) | [code](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>) | [0](<https://openalex.org/W7213429993>) ([⭐ 16](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>)) |
 | 2025 | A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms | arXiv | [paper](<https://arxiv.org/abs/2512.23777>) | N/A | [2](<https://openalex.org/W4401110704>) |
 | 2025 | A Survey on Spatio-Temporal Knowledge Graph Models | arXiv | [paper](<https://arxiv.org/abs/2512.16487>) | N/A | [7](<https://openalex.org/W4417530320>) |
 | 2025 | Graph Neural Networks for Source Detection: A Review and Benchmark Study | arXiv | [paper](<https://arxiv.org/abs/2512.20657>) | N/A | [2](<https://openalex.org/W7117298457>) |

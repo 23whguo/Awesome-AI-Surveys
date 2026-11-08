@@ -9,14 +9,16 @@
 
 
 
-**55 surveys · Page 1/1**
+**57 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Graph Neural Networks for Spatial Transcriptomics: A Review of Graph Design and Downstream Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2240.v1>) | N/A | N/A |
 | 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A | [0](<https://openalex.org/W7162203912>) |
 | 2026 | Attention-based graph neural networks: a survey | arXiv | [paper](<https://arxiv.org/abs/2605.08679>) | [code](<https://github.com/sunxiaobei/awesome-attention-based-gnns>) | [156](<https://openalex.org/W4386028223>) ([⭐ 92](<https://github.com/sunxiaobei/awesome-attention-based-gnns>)) |
 | 2026 | A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2607.16198>) | N/A | [3](<https://openalex.org/W7160048546>) |
 | 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A | [0](<https://openalex.org/W7159062602>) |
+| 2026 | Addressing GNN Limitations via Deep Reinforcement Learning: Principles, Patterns, and Design Insights | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827256.69159826/v1>) | N/A | N/A |
 | 2026 | A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630673>) | N/A | [123](<https://openalex.org/W4416011383>) |
 | 2025 | A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms | arXiv | [paper](<https://arxiv.org/abs/2512.23777>) | N/A | [2](<https://openalex.org/W4401110704>) |
 | 2025 | Graph Neural Networks for Source Detection: A Review and Benchmark Study | arXiv | [paper](<https://arxiv.org/abs/2512.20657>) | N/A | [2](<https://openalex.org/W7117298457>) |

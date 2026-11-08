@@ -50,6 +50,1376 @@
       "primary_category": "17-applications",
       "primary_topic": "hci",
       "reason": "The review centers human-centered persona design."
+    },
+    "asurveyofnextgenerationaianditsevolvinglandscape": {
+      "primary_category": "01-general-ai",
+      "primary_topic": "general",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 01-general-ai/general. No full-text or peer-review certification is implied."
+    },
+    "criticalreviewofneuralnetworkgenerationsandmodelsdesign": {
+      "primary_category": "04-models",
+      "primary_topic": "other",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 04-models/other. No full-text or peer-review certification is implied."
+    },
+    "asurveyofautomatichumordetectionfromtheoreticalfoundationstolargelanguagemodels": {
+      "primary_category": "05-language",
+      "primary_topic": "understanding",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 05-language/understanding. No full-text or peer-review certification is implied."
+    },
+    "asurveyofgenerativevideomodelsasvisualreasoners": {
+      "primary_category": "06-vision",
+      "primary_topic": "generation",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 06-vision/generation. No full-text or peer-review certification is implied."
+    },
+    "asurveyonthinkinginvisualgenerationreasoningplanningandcognition": {
+      "primary_category": "06-vision",
+      "primary_topic": "generation",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 06-vision/generation. No full-text or peer-review certification is implied."
+    },
+    "characterdesignandanimationinrpgbasedgamesacomprehensivereviewoftraditionalandaidrivenpipelines": {
+      "primary_category": "06-vision",
+      "primary_topic": "generation",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 06-vision/generation. No full-text or peer-review certification is implied."
+    },
+    "acomprehensivesurveyoflogitadjustmentmethodsforlongtailedrecognition": {
+      "primary_category": "06-vision",
+      "primary_topic": "recognition",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 06-vision/recognition. No full-text or peer-review certification is implied."
+    },
+    "persianaccentidentificationareview": {
+      "primary_category": "07-audio",
+      "primary_topic": "speech",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 07-audio/speech. No full-text or peer-review certification is implied."
+    },
+    "algorithmicandlearningbasedapproachestosubgraphmatchingandcountingasurvey": {
+      "primary_category": "09-knowledge",
+      "primary_topic": "graph-learning",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 09-knowledge/graph-learning. No full-text or peer-review certification is implied."
+    },
+    "advancesinaisystemsonislamicknowledgecapabilitiesacriticalsurvey": {
+      "primary_category": "09-knowledge",
+      "primary_topic": "knowledge-graphs",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 09-knowledge/knowledge-graphs. No full-text or peer-review certification is implied."
+    },
+    "connect4aiacomprehensivetaxonomyandcriticalreviewofmethodsandmetrics": {
+      "primary_category": "09-knowledge",
+      "primary_topic": "symbolic",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 09-knowledge/symbolic. No full-text or peer-review certification is implied."
+    },
+    "modelingholidayeffectonretaildemandforecastingasystematicreview": {
+      "primary_category": "11-temporal",
+      "primary_topic": "forecasting",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 11-temporal/forecasting. No full-text or peer-review certification is implied."
+    },
+    "agentbasedhybridaimodelsandtechnologiesasystematicliteraturereview": {
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 13-agents/foundations. No full-text or peer-review certification is implied."
+    },
+    "agentgovernanceforselfevolvingaiagentsaliteraturereviewonruntimeadaptationselfmodificationandsafeautonomy": {
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 13-agents/foundations. No full-text or peer-review certification is implied."
+    },
+    "asurveyonaiforaiwhentheimproverbecomestheimprovee": {
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 13-agents/foundations. No full-text or peer-review certification is implied."
+    },
+    "recursiveselfimprovementinaiasurvey": {
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 13-agents/foundations. No full-text or peer-review certification is implied."
+    },
+    "terminalagentsasurveyofaiagentsincommandlineenvironments": {
+      "primary_category": "13-agents",
+      "primary_topic": "web-gui",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 13-agents/web-gui. No full-text or peer-review certification is implied."
+    },
+    "aifordronewarfareanexperimentalsurvey": {
+      "primary_category": "14-embodied",
+      "primary_topic": "robot-learning",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 14-embodied/robot-learning. No full-text or peer-review certification is implied."
+    },
+    "cognitivehackingandtheevolutionofsemanticattackspsychologicalmechanismsaidriventoolsandcountermeasuresincontemporaryinformationsecurityacomprehensiveliteraturereview": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/security. No full-text or peer-review certification is implied."
+    },
+    "fuzzingaisystemsfoundationstechniquesandopenchallenges": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/security. No full-text or peer-review certification is implied."
+    },
+    "asurveyofsecurityinrealworldagentsfromdigitalagentstoembodiedai": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/security. No full-text or peer-review certification is implied."
+    },
+    "whatdistinguishesaigeneratedfromhumanwritingarapidreviewoftheliterature": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "evaluation",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/evaluation. No full-text or peer-review certification is implied."
+    },
+    "thequantityqualityparadoxexploringartificialintelligenceassistedversushumanapproachesinscientificpublishingaconceptualperspectivereview": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "evaluation",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/evaluation. No full-text or peer-review certification is implied."
+    },
+    "governingenvironmentaldecisionsintheageofaialgorithmicsustainabilityasapolicyreview": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/privacy. No full-text or peer-review certification is implied."
+    },
+    "governingenvironmentaldecisionswithartificialintelligencealgorithmicsustainabilityforaccountabilityandlifecycleimpactapolicyreview": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/privacy. No full-text or peer-review certification is implied."
+    },
+    "thesymbioticmandateontheurgencyofamutuallyupliftingsynergybetweenartificialintelligenceandsustainability": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/privacy. No full-text or peer-review certification is implied."
+    },
+    "areviewofstandardsforartificialintelligencecomplianceinnuclearinstrumentationcontrolsystem": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/privacy. No full-text or peer-review certification is implied."
+    },
+    "algorithmicaccountabilityandcontinuousauditinhighriskpublicaisystemsanarrativereview": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/privacy. No full-text or peer-review certification is implied."
+    },
+    "modernisinghumanityendangeringlifeartificialintelligencenucleartechnologyandconvergingpathwaystothenextmassextinction": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 15-trustworthy/privacy. No full-text or peer-review certification is implied."
+    },
+    "greenaisystematicreviewandguidelinesforsustainabilityinartificialintelligence": {
+      "primary_category": "16-systems",
+      "primary_topic": "hardware",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 16-systems/hardware. No full-text or peer-review certification is implied."
+    },
+    "exploitingstaticconductanceanddynamicswitchingofmemristorsforartificialintelligenceapplications": {
+      "primary_category": "16-systems",
+      "primary_topic": "hardware",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 16-systems/hardware. No full-text or peer-review certification is implied."
+    },
+    "distributedintelligenceintheartificialintelligenceofthingsacomprehensivereviewofarchitecturesapplicationsandchallenges": {
+      "primary_category": "16-systems",
+      "primary_topic": "hardware",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 16-systems/hardware. No full-text or peer-review certification is implied."
+    },
+    "theferrofluidicliquidmetalrevolutionbreakingthe10kwcm2thermalwallwithelectromagneticallyactuatedjetimpingementforaichipsandevinverters": {
+      "primary_category": "16-systems",
+      "primary_topic": "hardware",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 16-systems/hardware. No full-text or peer-review certification is implied."
+    },
+    "binaryandternaryneuralnetworksasurveyoflearningandacceleration": {
+      "primary_category": "16-systems",
+      "primary_topic": "compression",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 16-systems/compression. No full-text or peer-review certification is implied."
+    },
+    "literaturereviewofaidrivenbodyshapeanalysisforsarcopenia": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "geneticsandaidrivensportomicsempoweringparentsandcoachesinguidingathleticperformanceenhancement": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceintegrateddigitaltoolstopromotephysicalactivityinpeoplewithmultimorbidityarapidreviewoftrials": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "anoverviewofexistingapplicationsofartificialintelligenceinhistopathologicaldiagnosticsoflymphomaascopingreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "theroleofartificialintelligenceintheautomatedassessmentofprogressiveneurologicaldisorderswithspeechsignalsasystematicreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "targetednanotechnologyandaidrivenstrategiestopenetratecaseouslesionsandovercomeimmuneevasionintuberculosisacomprehensivereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "applicationofartificialintelligenceinanalysingmeteorologicaldataforhealthresearcharapidreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceforassessingmaximumoxygenconsumptionscopingreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "theuseofartificialintelligenceintuberculosiscareascopingreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "aienhancedelectrocardiographyasadigitalbiomarkerplatformincardiovascularmedicine": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "aidrivendesignofquantumdotsfordrugdeliveryandpharmacologicalapplicationsacomprehensivereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceforthedetectionofsmallbowellesionsanditspotentialimplicationsforneoplasiadetectionascopingreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "advancesininterpretationofelectrocardiogrambyartificialintelligence": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceforpediatricvesicoureteralrefluxassessmentonvoidingcystourethrographyascopingevidencemapofdiagnosticperformanceandclinicianassistedinterpretation": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "goldorsilvernanoparticlesersplatformsforplasmabaseddiagnosticsandaidrivenanalysis": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceinobstetricscurrenttrendsandfuturedirections": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceforlungultrasoundinterpretationasystematicreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "neuroproteomicsandartificialintelligenceinneurologicaldisorderscurrentadvancesinbiomarkerdiscovery": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "aidrivenapproachesforthedetectionclassificationandsurveillanceofviralpathogenscurrentadvanceschallengesandfuturedirections": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceaugmentedepigeneticphenotypinginsepsisapathwaytoprecisionmedicineacomprehensivenarrativereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligencedrivenlaboratorytechnologiesforprecisiondiagnosticsandglobalhealthsurveillancecriticalnarrativereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "revolutionizingvaccinedistributionandsurveillanceincameroonthroughartificialintelligence": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "toofewtoofarcanaiagentsaddresshealthworkforceshortageinpolandandmaldistributioninchinaacomparativenarrativereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceforintraoperativebleedingdetectionanarrativereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "aidrivenonehealthsurveillanceforzoonoticriskmitigationinsightsfromtbeandcchf": {
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "aidrivencellfatepredictioninmicroscopy": {
+      "primary_category": "17-applications",
+      "primary_topic": "science",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/science. No full-text or peer-review certification is implied."
+    },
+    "aidrivencrisprdesignmethodstoolsapplicationsandchallenges": {
+      "primary_category": "17-applications",
+      "primary_topic": "science",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/science. No full-text or peer-review certification is implied."
+    },
+    "howcanartificialintelligenceacceleratetheinsilicoscreeningofmetalorganicframeworks": {
+      "primary_category": "17-applications",
+      "primary_topic": "science",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/science. No full-text or peer-review certification is implied."
+    },
+    "atomicleveldesignandcircularrecyclingoflithiumionbatterymaterialsadvancesinregenerationupcyclingandaidriventechnologies": {
+      "primary_category": "17-applications",
+      "primary_topic": "science",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/science. No full-text or peer-review certification is implied."
+    },
+    "towardsrealtimeearthsystemintelligencethroughadvancementsinonboardaiprocessing": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligencedrivenbiodiversityconservationframeworkaliteraturereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "fromdecisionsupporttoolstodigitaltwinsdigitalfarmingdataplatformsandaiforsustainabledairysystems": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligencetechnologiesinplantfactoriesoverthelastdecademachinevisionnutrientintelligencecontrolanddigitaltwins": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "stateoftheartreviewofartificialintelligenceinenvironmentalgeophysicsandgeotechnicalengineering": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceforwaterqualityimprovementinbangladeshareviewofmethodsapplicationsandanintegratedroadmapforarsenicsalinityandriverpollution": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "integratingartificialintelligenceintomultihazardearlywarningsystems": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "aibasedmethodsforgeomechanicalcontainmentriskassessmentingeologicalco2storageasystematicreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/earth. No full-text or peer-review certification is implied."
+    },
+    "shorttermdemandforecastinginmobilityondemandsystemsasystematicliteraturereviewandresearchagenda": {
+      "primary_category": "17-applications",
+      "primary_topic": "mobility",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/mobility. No full-text or peer-review certification is implied."
+    },
+    "anarrativereviewonaidrivenlearningplatformsandtheirroleinimprovinglearnerautonomy": {
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/education. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceandacademichonestychallengesinthedigitalclassroom": {
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/education. No full-text or peer-review certification is implied."
+    },
+    "aisupportedstudyabroadareviewofemergingevidenceonaffordableinternationalizationathome": {
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/education. No full-text or peer-review certification is implied."
+    },
+    "academicintegrityintheageofartificialintelligenceascopingreview2026": {
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/education. No full-text or peer-review certification is implied."
+    },
+    "bciaiforcognitivelyawarelearningareviewoftechnologiestoolsandapplications": {
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/education. No full-text or peer-review certification is implied."
+    },
+    "integratingartificialintelligenceinauditworkflowopportunitiesarchitectureandchallengesasystematicreview": {
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/finance-law. No full-text or peer-review certification is implied."
+    },
+    "theroleofartificialintelligenceinpovertygovernanceasystematicliteraturereviewofinnovationsandimplementationchallenges": {
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/finance-law. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceandengagementpricinginaccountingfirmsaliteraturereviewandresearchagenda": {
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/finance-law. No full-text or peer-review certification is implied."
+    },
+    "securinglocalareanetworksinaisupercomputingdatacenters": {
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/software. No full-text or peer-review certification is implied."
+    },
+    "aidrivendigitalforensicscapabilitieslimitationsandresearchchallenges": {
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/software. No full-text or peer-review certification is implied."
+    },
+    "aimlford2dcommunicationin5g6gnetworksandbeyondconceptapplicationschallengesandfuturedirections": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceinsoftwaredefinedradioasurvey": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceaideddigitaltwindesignasystematicreviewandfuturedirections": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "intelligenthvaccontrolinresidentialbuildingsasystematicreviewofadvancedtechniquesandaiapplications": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "aidrivenvirtualpowerplantsacomprehensivereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "bridgingtechnologyandnutritionasystematicreviewofaiandxrapplicationsfornutritionalinsightsinrestaurantsandfoodserviceoperations": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "towardintelligentandresilientpublicsafetycommunicationsareviewoffirstnet5gaianddigitaltwintechnologies": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "towardintelligentandresilientpublicsafetycommunicationsacomprehensivereviewoffirstnet5gaiandemergingtechnologies": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceandleadershipinorganizationsaprismasystematicreviewofopportunitieschallengesandemergingrisks": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "acomprehensivereviewonbiomassvalorizationthroughthermochemicalpathwaysproductpropertiesandusageofartificialintelligence": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "reviewofbarrierstoartificialintelligenceincircularityofsociallysustainableconstructionbusinesses": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "digitaltwinsandartificialintelligenceforhazopenhancementinprocesssafetyacriticalliteraturereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "fromdigitaltwintoaiintegratedcontrolareviewandresearchagendaforlargescalepemelectrolyzerplantmanagement": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "acomprehensivereviewofartificialintelligencedrivenhealthmanagementofelectricalmachines": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "aidrivenpredictivemodellingforfoodshelflifeestimationandspoilagedetectionprogresschallengesandfuturedirections": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "investigationonaibaseddeflectorcontrolledverticalaxiswindturbineasystematicliteraturereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "windpowerforecastingarchitecturesincomplexterrainandcoastalenvironmentsasystematicreviewandmetaanalysisofcomparativeperformance": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "thecfointheageofaiexecutiveroletransformationinaienableddigitaltransformationanintegrativereviewandmultilevelresearchagenda": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "theimportanceofartificialintelligenceforleadershipcompetenceandorganizationalcultureinthesportsindustryareviewofrelatedliterature": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "gridformingelectricvehiclesacriticalreviewofbidirectionalchargingaienabledcontrolandgridsupportservices": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "aienabledleadershipanddigitalgovernanceinafricansportorganizationslessonsforinstitutionaltransformation": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceandsustainableentrepreneurshipinterritorialinnovationecosystemsascopingreviewofactorspathwaysandgaps": {
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "socialrelationshipsintheageofartificialintelligenceprofoundshiftsandnewchallengesanintegrativeliteraturereview": {
+      "primary_category": "17-applications",
+      "primary_topic": "hci",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/hci. No full-text or peer-review certification is implied."
+    },
+    "measuringvalueinaigeneratedvisualartastructuredmethodologicalreviewofvaluationmeasures": {
+      "primary_category": "17-applications",
+      "primary_topic": "hci",
+      "reason": "2026 external-source editorial metadata review: title and abstract focus on 17-applications/hci. No full-text or peer-review certification is implied."
+    },
+    "orgpulseaidesignofabilingualsurveyplatformforweightedaxisbasedorganizationalmeasurement": {
+      "decision": "exclude",
+      "reason": "Original employee-survey platform, not a literature survey."
+    },
+    "geoglowsecmwfstreamflowserviceaglobalhydrologyasaserviceplatformforoperationalriverforecastingandwaterresourcesmanagement": {
+      "decision": "exclude",
+      "reason": "Review of an operational hydrological forecasting service; available metadata does not establish an AI/ML literature-synthesis focus."
+    },
+    "advancesinblockchaintechnologyfortheinternetofvehiclesasystematicreview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "mobility",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/mobility. No full-text or peer-review certification is implied."
+    },
+    "asurveyoflinearattentionalgorithmtheoryapplicationandinfrastructure": {
+      "decision": "include",
+      "primary_category": "04-models",
+      "primary_topic": "transformers",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 04-models/transformers. No full-text or peer-review certification is implied."
+    },
+    "asurveyofhumanmotionstylebasedonphysicalperceptiondefinitionscausaltaxonomyandgenerativeparadigms": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "generation",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 06-vision/generation. No full-text or peer-review certification is implied."
+    },
+    "asurveyofonlinelearningtechniquesforbeammanagementinmmwavemassivesystems": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "postlaboreconomicsasystematicreview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/finance-law. No full-text or peer-review certification is implied."
+    },
+    "contactlessbatterysensingasurvey": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "asurveyofuserlifelongbehaviormodelingperspectivesonefficiencyandeffectiveness": {
+      "decision": "include",
+      "primary_category": "10-retrieval",
+      "primary_topic": "recommendation",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 10-retrieval/recommendation. No full-text or peer-review certification is implied."
+    },
+    "fromscreeningtogenerativedesignadvancesinmlassistedmofsforcarboncapture": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "science",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/science. No full-text or peer-review certification is implied."
+    },
+    "acomprehensivesurveyoffederatedmodelevolutioninopenenvironments": {
+      "decision": "include",
+      "primary_category": "02-learning",
+      "primary_topic": "federated",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 02-learning/federated. No full-text or peer-review certification is implied."
+    },
+    "artificialintelligenceinmacroeconomicsabibliometricanalysisofglobalresearchtrends19752025": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/finance-law. No full-text or peer-review certification is implied."
+    },
+    "frameworksforadaptivesmarturbansystemsabibliometricanalysisandsystematicliteraturereview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "ai4aisurveyfromlonghorizonagentstorecursiveselfimprovementdefinitionsreliablehorizonsandopenproblems": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 13-agents/foundations. No full-text or peer-review certification is implied."
+    },
+    "fromsighttoinsightacomprehensivesurveyoflargemodelsinmedicine": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "fromscorecardstoagentsasurveyofantifraudmodelsacrossthemodelriskboundarywithafocusonevidencetraceability": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/finance-law. No full-text or peer-review certification is implied."
+    },
+    "theaihippocampushowfararewefromhumanmemory": {
+      "decision": "include",
+      "primary_category": "05-language",
+      "primary_topic": "context",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 05-language/context. No full-text or peer-review certification is implied."
+    },
+    "iscollaborationworthitadecisionorientedsurveyinmultiagentsystems": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "collaboration",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 13-agents/collaboration. No full-text or peer-review certification is implied."
+    },
+    "humancentriccontentgenerationwithdiffusionmodelsasurvey": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "generation",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 06-vision/generation. No full-text or peer-review certification is implied."
+    },
+    "recentadvancesinadversarialattacksonmodelutilityprivacyandexplainabilityacomprehensivesurvey": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 15-trustworthy/security. No full-text or peer-review certification is implied."
+    },
+    "whatmakesatransformersolvethetspacomponentwiseanalysis": {
+      "decision": "include",
+      "primary_category": "04-models",
+      "primary_topic": "transformers",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 04-models/transformers. No full-text or peer-review certification is implied."
+    },
+    "transformeralgorithmicsatutorialonefficientimplementationoftransformersonhardware": {
+      "decision": "include",
+      "primary_category": "16-systems",
+      "primary_topic": "hardware",
+      "reason": "Self-contained tutorial synthesizing established methods, architectures and applications; metadata supports 16-systems/hardware. No full-text certification is implied."
+    },
+    "sensingdeepfakedetectionasurveyofdetectionarchitecturesadversarialchallengesandcriticalapplicationsinpoliticaleducationalandmilitarydomains": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 15-trustworthy/security. No full-text or peer-review certification is implied."
+    },
+    "optimisationtechniquesformultirobotpathplanningareviewofcollisionavoidanceandperformancemetricsinconnectivityefficiencyandsafety": {
+      "decision": "include",
+      "primary_category": "14-embodied",
+      "primary_topic": "navigation",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 14-embodied/navigation. No full-text or peer-review certification is implied."
+    },
+    "fromhandcraftedfeaturestovisiontransformersamultidomainsurveyofimageclassificationarchitecturesdatasetsandapplications": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "recognition",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 06-vision/recognition. No full-text or peer-review certification is implied."
+    },
+    "multiagentsystemsandtheirevolutionacomparativesurvey": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "collaboration",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 13-agents/collaboration. No full-text or peer-review certification is implied."
+    },
+    "notjustoneagentmultiagentsystemsformedicinefromanswergenerationtoaccountableworkfloworchestration": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/healthcare. No full-text or peer-review certification is implied."
+    },
+    "asurveyofrecentadvancesinindustrialanomalydetectionfromnormalonlytrainingtofoundationmodelpriors": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/industry. No full-text or peer-review certification is implied."
+    },
+    "mappingthemethodologicalbifurcationofquantitativeportfoliooptimizationaprismacompliantsystematicreviewwithbertopicspecteranalysis20032025": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/finance-law. No full-text or peer-review certification is implied."
+    },
+    "defenseagainstadversarialattacksfoundationsstrategiesandfuturedirections": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 15-trustworthy/security. No full-text or peer-review certification is implied."
+    },
+    "acomprehensivesurveyoftabularanomalydetection": {
+      "decision": "include",
+      "primary_category": "02-learning",
+      "primary_topic": "other",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 02-learning/other. No full-text or peer-review certification is implied."
+    },
+    "raginselfregulatedpersonalisedlearningindigitaleducation": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/education. No full-text or peer-review certification is implied."
+    },
+    "towardthescienceofmultiagentcommunicationacomprehensivesurvey": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "collaboration",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 13-agents/collaboration. No full-text or peer-review certification is implied."
+    },
+    "malwaredetectionwithautonomousagentsareviewoffunctionalrolesdatasetsandcoordinationreadiness": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 17-applications/software. No full-text or peer-review certification is implied."
+    },
+    "governedmemoryforautonomousagentsacriticalreviewofprovenancetemporalvalidityandaccess": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "memory",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 13-agents/memory. No full-text or peer-review certification is implied."
+    },
+    "acomprehensivesurveyof4dgaussiansplattingfordynamicscenereconstruction": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "3d",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 06-vision/3d. No full-text or peer-review certification is implied."
+    },
+    "efficientandprincipledscientificdiscoverythroughbayesianoptimizationatutorial": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "science",
+      "reason": "Self-contained tutorial synthesizing established methods, architectures and applications; metadata supports 17-applications/science. No full-text certification is implied."
+    },
+    "attentionsinkintransformersasurveyonutilizationinterpretationandmitigation": {
+      "decision": "include",
+      "primary_category": "04-models",
+      "primary_topic": "transformers",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 04-models/transformers. No full-text or peer-review certification is implied."
+    },
+    "adversarialattacksforgoodasurveyofproactiveprotectionacrossthevisualcontentlifecycle": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 15-trustworthy/security. No full-text or peer-review certification is implied."
+    },
+    "onesymptomthreeleversacriticalreviewofonpolicyselfdistillation": {
+      "decision": "include",
+      "primary_category": "05-language",
+      "primary_topic": "reasoning",
+      "reason": "2026 external-source editorial metadata review: explicit literature synthesis; title and abstract support 05-language/reasoning. No full-text or peer-review certification is implied."
+    },
+    "manifoldinformedmetalearningforoutofdistributiondetectionandclassificationinsmallscaleindustrialdatasets": {
+      "decision": "exclude",
+      "reason": "Original empirical/method analysis rather than a literature review, confirmed from the abstract."
+    },
+    "diagnosingshortcutlearningincnnbasedphotovoltaicfaultrecognitionfromrgbimagesamultimethodexplainabilityaudit": {
+      "decision": "exclude",
+      "reason": "Original empirical/method analysis rather than a literature review, confirmed from the abstract."
+    },
+    "longvpofromanchoredcuestoselfreasoningforlongformvideopreferenceoptimization": {
+      "decision": "exclude",
+      "reason": "Original empirical/method analysis rather than a literature review, confirmed from the abstract."
+    },
+    "diffusionopdaunifiedperspectiveofonpolicydistillationindiffusionmodels": {
+      "decision": "exclude",
+      "reason": "Original empirical/method analysis rather than a literature review, confirmed from the abstract."
+    },
+    "agradientperspectiveonrlvrstabilityandwinneradvantagepolicyoptimization": {
+      "decision": "exclude",
+      "reason": "Original empirical/method analysis rather than a literature review, confirmed from the abstract."
+    },
+    "diffusionbenchonholisticevaluationofdiffusiontransformers": {
+      "decision": "exclude",
+      "reason": "Original empirical/method analysis rather than a literature review, confirmed from the abstract."
+    },
+    "understandingonpolicydistillationamechanisticinterpretabilityperspectiveviasparsecrosscoders": {
+      "decision": "exclude",
+      "reason": "Original empirical/method analysis rather than a literature review, confirmed from the abstract."
+    },
+    "atutorialoncognitiveoptimizationinexternalmemorysystemsreinterpretingstolfislayersandcurrierspartitionsasretrievalorienteddesignchoicesillustratedbythevoynichmanuscript": {
+      "decision": "exclude",
+      "reason": "Interpretation of a historical manuscript using cognitive/manual retrieval arguments; not an AI literature review."
+    },
+    "asurveyonaunifiedwebbasedplatformforransomwaredetectionandnetworkintrusionanalysis": {
+      "decision": "review",
+      "reason": "Mixed literature survey and proposed cybersecurity architecture; requires full-text confirmation of review contribution."
+    },
+    "nafpetimagingfordetectionofearlyarterialmicrocalcificationandmonitoringoftargetedtherapyanarrativereview": {
+      "decision": "review",
+      "reason": "Broad clinical, policy or engineering review with AI as one component; substantive AI-review focus requires full-text confirmation."
+    },
+    "closingeuropescardiovascularimplementationgapacriticalreviewofthesafeheartsplanandthecyprustestcase": {
+      "decision": "review",
+      "reason": "Broad clinical, policy or engineering review with AI as one component; substantive AI-review focus requires full-text confirmation."
+    },
+    "areviewofreverseelectrodialysisprocesssimulationapproachesappliedtoconcentratedbrines": {
+      "decision": "review",
+      "reason": "Broad clinical, policy or engineering review with AI as one component; substantive AI-review focus requires full-text confirmation."
+    },
+    "smartsustainableandgovernedathematicreviewoftourismmanagementresearchonindia20222026": {
+      "decision": "review",
+      "reason": "Broad clinical, policy or engineering review with AI as one component; substantive AI-review focus requires full-text confirmation."
+    },
+    "machinesurvivalahistoricalperspectiveonembodiedautonomousintelligence": {
+      "decision": "include",
+      "primary_category": "14-embodied",
+      "primary_topic": "robot-learning",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 14-embodied/robot-learning. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "thelandscapeofmedicalagentsasurvey": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "foundationneuraloperatorsasurveyonpretrainingmethodsthedataecosystemandefficientadaptation": {
+      "decision": "include",
+      "primary_category": "04-models",
+      "primary_topic": "other",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 04-models/other. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "adversarialrobustnessinembodiedaiaclosedloopperspectiveonattacksanddefenses": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/security. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "agenticselfevolutionforlargelanguagemodelstaxonomytechniquesandapplications": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 13-agents/foundations. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "toolexecutionhallucinationinllmbasedagentsaunifiedtaxonomywithdetectionmitigationandfuturedirections": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "hallucination",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/hallucination. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "reinforcementlearningparadigmsinautonomousdrivingaperspectiveofdrivingtasksanddesignchoices": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "mobility",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/mobility. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "abrieftutorialonreinforcementlearningfrommdptoddpg": {
+      "decision": "include",
+      "primary_category": "12-decision",
+      "primary_topic": "rl",
+      "reason": "Self-contained tutorial consolidating established AI methods, derivations and practical guidance in 12-decision/rl; not an event announcement or a new-method-only paper. Metadata review only."
+    },
+    "fromterraintospaceasurveyonmultidomaindatalifecycleforurbanembodiedagents": {
+      "decision": "include",
+      "primary_category": "14-embodied",
+      "primary_topic": "robot-learning",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 14-embodied/robot-learning. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "artificialintelligenceincardiacamyloidosisastateoftheartreview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "isstrategicdecisionmakingstillhumanasystemsreviewofagencyalgorithmsandenterprisestrategy": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "agriculturalintelligenceatechnicalreviewwithintheperceptiondecisionexecutionpdeframework": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "bridginglargelanguagemodelsand6gnetworksoverviewandopenissues": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "adetailedreviewofcomputationalmethodsandsignalprocessingtechniquesforautomateddetectionofremsleepbehaviordisorder": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "openclawaslanguageinfrastructureacasecenteredsurveyofapublicagentecosysteminthewild": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 13-agents/foundations. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "roleofartificialintelligenceinmoderndrugdiscoveryaliteratureoverview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "intrusiondetectionsystemsforcloudandiotinfrastructurescomprehensivereviewofchallengesstrategiesandfuturedirections": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/software. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "bridgingtheknowledgevoidasyntheticnearemptyreviewofintelligentevolutionarygamesemploymentinhealthcare": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "asurveyonmachinevisiontechniquesforautomatedqualityinspectioninindustry": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "agenticaiforclimateresilientcitiesaprismaguidedreviewanddigitaltwinframework": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/earth. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "anoverviewofrecentinterpretabilityandexplainabilityapproachesfortreebasedensembles": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "interpretability",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/interpretability. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "fromminimaxtoselfplayataxonomyofdecisionqualityoptimalityandrobustnessingameplayingsearch": {
+      "decision": "include",
+      "primary_category": "09-knowledge",
+      "primary_topic": "symbolic",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 09-knowledge/symbolic. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "toolconditionmonitoringunderdifferentoperatingconditionsusingmlwithscarcedataareview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "hybridquantumclassicalarchitecturesinmedicalimagingataxonomybasedsurveyofcovid19models": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "frequencyinformedvisionandlearningasurvey": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "representation",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 06-vision/representation. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "spikingneuralnetworksatutorialonmodelscodingandtraining": {
+      "decision": "include",
+      "primary_category": "02-learning",
+      "primary_topic": "evolutionary",
+      "reason": "Self-contained tutorial consolidating established AI methods, derivations and practical guidance in 02-learning/evolutionary; not an event announcement or a new-method-only paper. Metadata review only."
+    },
+    "digitaltwinenabledpredictivemaintenanceasystematicreviewofmodelingstrategiesmaintenancefunctionsandapplicationdomains": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "spatialintelligencefromacognitivemapperspectiveasurvey": {
+      "decision": "include",
+      "primary_category": "14-embodied",
+      "primary_topic": "navigation",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 14-embodied/navigation. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "artificialintelligenceinhighereducationwithopportunitiesandthreatsshortreview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/education. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "vehicleautonomytoecosystemintelligenceasystematicreviewofdynamicvisionarchitecturesinsurfaceminingoperations": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "intrusiondetectiondatasetsforiiotandicsataxonomicreviewwithadecisionaidscoringrubric": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/software. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "prospectsforaidesignstrategiesindevelopinghighperformanceadditivemanufacturedcomponentsusinghighentropyalloypowderblendsandprealloyedpowdersanoverview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "science",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/science. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "consistencyindiffusionbasedvisualgenerationasurvey": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "generation",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 06-vision/generation. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "worldactionmodelsasurvey": {
+      "decision": "include",
+      "primary_category": "12-decision",
+      "primary_topic": "world-models",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 12-decision/world-models. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "selfevolvingagentsasdynamicgraphtransformationasurveyandnewperspective": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 13-agents/foundations. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "advancesinsleepstagedetectionusingwearablephysiologicalsignalsasystematicreview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "timedependentgraphgenerationasurveyofdiscretetimeandcontinuoustimeperspectives": {
+      "decision": "include",
+      "primary_category": "09-knowledge",
+      "primary_topic": "graph-learning",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 09-knowledge/graph-learning. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "towardslonghorizonagentsasurvey": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 13-agents/foundations. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "ganbasedbrainmritoctimagesynthesisacomparativereviewofcrossmodalitytranslationmethods": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "alayeredtaxonomyofaidrivenpatienttrialmatchingfromrulestoagentsandtheevaluationvaliditygap": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "howtomaketoolusingllmagentsefficientasurvey": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "tools",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 13-agents/tools. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "metadatabasedmethodstogeneratesynthetichealthdataascopingreview": {
+      "decision": "include",
+      "primary_category": "03-data",
+      "primary_topic": "synthetic",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 03-data/synthetic. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "apracticaltutorialonagenticai": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "Self-contained tutorial consolidating established AI methods, derivations and practical guidance in 13-agents/foundations; not an event announcement or a new-method-only paper. Metadata review only."
+    },
+    "asystematicreviewandunifiedframeworkforpredictivemaintenanceintherailwaydomain": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "deepfakesinthefoundationmodeleraasurveyofforensicsgenerationanddistributionacrosssocialmedialifecycle": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/security. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "pandorastoolboxasurveyofgeneralistagentsecurityfromthelifecycleperspective": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/security. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "wifibased3dreconstructionasurveywithinsightsfromvisionbasedmethods": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "3d",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 06-vision/3d. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "intrusiondetectionunderincompleteinformationastructuredsurveyofexplainabilityrobustnessandoperationaldeployment": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/software. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "syntheticdatainadataintensiveworldaliteraturereviewtoaddressanapplicationdrivenanalysis": {
+      "decision": "include",
+      "primary_category": "03-data",
+      "primary_topic": "synthetic",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 03-data/synthetic. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "benchmarkagentandtooluseharnessesforlargelanguagemodelsataxonomyofevaluationinfrastructure": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "evaluation",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/evaluation. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "areviewofsteelsurfacedefectdetectionforindustrialapplicationsevaluationframeworksdatachallengesandmodelmechanisms": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "asurveyofworldmodelbenchmarks": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "evaluation",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/evaluation. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "diffusionbasedworldmodelsasurvey": {
+      "decision": "include",
+      "primary_category": "12-decision",
+      "primary_topic": "world-models",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 12-decision/world-models. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "bindingtexttopixelsanarrativereviewofsupervisiongranularityinlanguageguidedchestradiographsegmentationandgrounding": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "explainablenlpintheeraoflargelanguagemodelsaunifiedtaxonomyevaluationframeworksanddecisionguidance": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "interpretability",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/interpretability. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "anoverviewofknowledgebasedsystemhistoryadvancesandchallengesintheeraoflargelanguagemodels": {
+      "decision": "include",
+      "primary_category": "09-knowledge",
+      "primary_topic": "knowledge-graphs",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 09-knowledge/knowledge-graphs. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "fromperceptionerrorstounsafeactionsasurveyofbehavioralsafetyinmllmagents": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/security. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "positioningmbsesystemarchitecturesintheagentharnesstowardsautomatedproductdevelopmentascopingreview": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "recursiveselfimprovementforembodiedagentsasurveyofmechanismsevaluationandopenchallenges": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 13-agents/foundations. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "accountableenterpriseagentsacriticalreviewofauthorizationexecutionandrecovery": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "security",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/security. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "asystematicreviewoftoolsforattentiondeficithyperactivitydisorderclassification": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/healthcare. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "machinelearningfoundationmodelsskillsandagentsintheenergyindustryasystematicevidencegradedsurvey": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 17-applications/industry. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "guigroundingforcomputeruseagentsasurvey": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "web-gui",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 13-agents/web-gui. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "beyondnl2codeastructuredsurveyofmultimodalcodeintelligence": {
+      "decision": "include",
+      "primary_category": "05-language",
+      "primary_topic": "code",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 05-language/code. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "weightsorskillsasurveyofrobotlearningtechniquesfromactionpredictingweightstorobotsthatwritetheirownskills": {
+      "decision": "include",
+      "primary_category": "14-embodied",
+      "primary_topic": "robot-learning",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 14-embodied/robot-learning. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "arewetestingtoomuchasurveyofbenchmarkcompressionforefficientevaluationoflargelanguagemodels": {
+      "decision": "include",
+      "primary_category": "15-trustworthy",
+      "primary_topic": "evaluation",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 15-trustworthy/evaluation. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "multimodalembodiedagentsaunifiedcapabilitycentricperspectivefromcomputerusetorobotuse": {
+      "decision": "include",
+      "primary_category": "14-embodied",
+      "primary_topic": "robot-learning",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 14-embodied/robot-learning. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "atutorialongenerativemodelsformusicaudio": {
+      "decision": "include",
+      "primary_category": "07-audio",
+      "primary_topic": "music",
+      "reason": "Self-contained tutorial consolidating established AI methods, derivations and practical guidance in 07-audio/music; not an event announcement or a new-method-only paper. Metadata review only."
+    },
+    "fromfragmentationtofusionasurveyandroadmapforomnimodalembeddings": {
+      "decision": "include",
+      "primary_category": "08-multimodal",
+      "primary_topic": "alignment",
+      "reason": "2026 external-source editorial metadata review: title and abstract describe literature/benchmark synthesis of 08-multimodal/alignment. New taxonomies or organizing frameworks do not alone imply an original-method paper. No full-text certification is implied."
+    },
+    "reviewpaperrealtimeengineoilqualitymonitoringusingmicrocontrollerbasedsensorfusionandai": {
+      "decision": "review",
+      "reason": "Literature-review language combined with a proposed engineering/evaluation framework; full-text confirmation of the synthesis contribution is required."
+    },
+    "highvariationdetectioninindustrialsensornetworksareviewanddigitaltwinframework": {
+      "decision": "review",
+      "reason": "Literature-review language combined with a proposed engineering/evaluation framework; full-text confirmation of the synthesis contribution is required."
+    },
+    "aibasedcropdiseasedetectionfromleafimagesafocusedreviewandrobustevaluationframework": {
+      "decision": "review",
+      "reason": "Literature-review language combined with a proposed engineering/evaluation framework; full-text confirmation of the synthesis contribution is required."
+    },
+    "projectimagingxasurveyof1000openaccessmedicalimagingdatasetsforfoundationmodeldevelopment": {
+      "decision": "include",
+      "primary_category": "03-data",
+      "primary_topic": "quality",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 03-data/quality. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "acomparativereviewofmodelingandmetaheuristicparameteridentificationstrategiesforzerodimensionalpemfcpolarizationmodels": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 17-applications/industry. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "advancesinneuralvideocompressionareviewandbenchmarking": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "restoration",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 06-vision/restoration. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "asurveyofagentskillsforfoundationmodelagentsconceptsrepresentationslifecyclesevaluationandapplications": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "foundations",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 13-agents/foundations. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "llmbasedmultiagentorchestrationasurveyofframeworkscommunicationprotocolsandemergingpatterns": {
+      "decision": "include",
+      "primary_category": "13-agents",
+      "primary_topic": "collaboration",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 13-agents/collaboration. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "asystematicreviewofdatadrivenmultimodalfusionmethodsforsimultaneouseegfmri": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "healthcare",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 17-applications/healthcare. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "amodularsurveyforsemanticidbasedgenerativerecommendation": {
+      "decision": "include",
+      "primary_category": "10-retrieval",
+      "primary_topic": "recommendation",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 10-retrieval/recommendation. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "egodatasetsadatasetcentricsurveyandtaxonomyforegocentricvisionandactionanticipation": {
+      "decision": "include",
+      "primary_category": "03-data",
+      "primary_topic": "quality",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 03-data/quality. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "structurelearninginbayesiannetworksasystematicpedagogicalsurvey": {
+      "decision": "include",
+      "primary_category": "02-learning",
+      "primary_topic": "causal",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 02-learning/causal. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "datacentricrecursiveimprovementforfoundationmodelsasurvey": {
+      "decision": "include",
+      "primary_category": "03-data",
+      "primary_topic": "quality",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 03-data/quality. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "neuralquestiongenerationasurveyoftechniquesquestiontypesandapplications": {
+      "decision": "include",
+      "primary_category": "05-language",
+      "primary_topic": "generation",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 05-language/generation. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "fromfactverificationtounderstandingmisleadingnessasurveyandroadmaponreadercentricmultimodalmisinformationdetection": {
+      "decision": "include",
+      "primary_category": "10-retrieval",
+      "primary_topic": "web",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 10-retrieval/web. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "unravelingnoisein3dpointcloudsacomprehensivesurvey": {
+      "decision": "include",
+      "primary_category": "06-vision",
+      "primary_topic": "3d",
+      "reason": "2026 external-source editorial metadata review: explicit comparative literature/dataset synthesis in 06-vision/3d. Dataset or paper counts are not participant-survey evidence. No full-text certification is implied."
+    },
+    "preferenceoptimizationforopenweightlanguagemodelsasurveyandlowresourcerlhfcasestudy": {
+      "decision": "review",
+      "reason": "Explicit literature synthesis combined with an original low-resource RLHF case study; full-text editorial confirmation of the review contribution is required."
+    },
+    "urbandigitaltwinsforsustainablesmartcitiesasystematicliteraturereviewofuavassistedmecfederatedintelligenceandsemanticcommunications": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "industry",
+      "reason": "Systematic synthesis explicitly compares federated learning, federated reinforcement learning, scheduling and semantic methods for urban digital-twin edge systems. Metadata reviewed; no full-text certification is implied."
+    },
+    "fluorescenceguidedsurgeryincolorectalcancerstateoftheartandtranslationalperspectives": {
+      "decision": "review",
+      "reason": "Broad clinical fluorescence-surgery review; AI appears as one translational direction. Substantive AI synthesis requires full-text confirmation."
+    },
+    "technologyassessmenttechnoeconomicevaluationandriskanalysisofdynamiclineratingforoverheadtransmissionlinesaprismabasedsystematicliteraturereview": {
+      "decision": "exclude",
+      "reason": "Review of electrical transmission technology; AI-assisted literature search is a research tool rather than the reviewed AI/ML subject."
+    },
+    "bridgingcontinuousimprovementandsmartmanufacturingacomprehensivereviewoflssandindustry40integration": {
+      "decision": "review",
+      "reason": "Broad operations-management and Industry 4.0 review; substantive AI-method synthesis needs full-text confirmation."
+    },
+    "semanticanalysisoftechnicaldocumentationsystematicreviewformaltaskdefinitionandtransformerbasednerimplementation": {
+      "decision": "review",
+      "reason": "Systematic review combined with an original Transformer-based NER implementation; requires full-text confirmation of the review contribution."
+    },
+    "thermalsingleimagesuperresolutionareviewanddemosaickinginspireddeepfusionframework": {
+      "decision": "review",
+      "reason": "Review combined with a proposed deep-fusion method; full-text confirmation of the synthesis contribution is required."
+    },
+    "decodingquantumcomputingforarvrspaceasystematicreview": {
+      "decision": "review",
+      "reason": "Broad quantum-computing/AR-VR review with quantum AI among several dimensions; substantive AI synthesis needs full-text confirmation."
+    },
+    "leakdetectioninpipesystemsusingtransientsastatisticalandmethodologicalreview": {
+      "decision": "review",
+      "reason": "Broad engineering review with AI-enhanced applications among future directions; core AI-review focus requires full-text confirmation."
+    },
+    "beyondthededicatedsuiteapracticalreviewofsharedimagingplatformsforprecisioninterventionalpulmonology": {
+      "decision": "review",
+      "reason": "Clinical imaging-platform review; robotic hardware and imaging modalities alone do not establish AI-method synthesis."
+    },
+    "drivingsimulatorsforautonomousvehiclescomprehensivereviewofcurrentapplicationsandresearchtrends": {
+      "decision": "include",
+      "primary_category": "17-applications",
+      "primary_topic": "mobility",
+      "reason": "Systematic literature review of simulation environments for autonomous-driving development, testing and validation; metadata-based classification."
     }
   }
 }

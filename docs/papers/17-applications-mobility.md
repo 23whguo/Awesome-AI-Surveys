@@ -9,7 +9,7 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.md)
 
-**49 surveys · Page 1/1**
+**60 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -59,6 +59,17 @@
 | 2026 | Neural Architecture Search for Traffic Prediction: A Survey of Methods, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2607.26467>) | N/A | [0](<https://openalex.org/W7171870358>) |
 | 2026 | A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving | arXiv | [paper](<https://arxiv.org/abs/2602.15904>) | N/A | [0](<https://openalex.org/W7171835864>) |
 | 2026 | Towards Vision-Spatiotemporal Fusion in Traffic Forecasting: A Survey on Cross-Modal Alignment | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/891>) | N/A | [0](<https://openalex.org/W7213435699>) |
+| 2026 | Artificial Intelligence in Vehicular Networks: A Comprehensive Review of Security Challenges and Defenses | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2569.v1>) | N/A | N/A |
+| 2026 | Sensor Fusion and Perception for Autonomous Driving: A Critical Review of Modalities, AI Models, Algorithms, and Industry Configurations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0908.v1>) | N/A | N/A |
+| 2026 | Short-Term Demand Forecasting in Mobility-on-Demand Systems: A Systematic Literature Review and Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1278.v1>) | N/A | N/A |
+| 2026 | Driving Simulators for Autonomous Vehicles: Comprehensive Review of Current Applications and Research Trends | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177273746.67258655/v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning Paradigms in Autonomous Driving: A Perspective of Driving Tasks and Design Choices | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177273700.07234611/v1>) | N/A | N/A |
+| 2026 | A Survey of Robust Autonomous Driving: Interaction Modeling, Uncertainty Handling and Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177205001.16989017/v1>) | N/A | N/A |
+| 2026 | Beyond Perception: A Survey and Future Directions of VLM-based Autonomous Driving Datasets | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203266.67901185/v1>) | N/A | N/A |
+| 2026 | A Survey of LLMs for Autonomous Driving | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177130702.26072919/v1>) | N/A | N/A |
+| 2026 | Explainable and Safe Learning-Based Autonomous Driving: A Survey from Modular to End-to-End Planning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177084714.46890967/v1>) | N/A | N/A |
+| 2026 | Advances in Blockchain Technology for the Internet of Vehicles: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945850.08661867/v1>) | N/A | N/A |
+| 2026 | Lane Change Prediction in Autonomous Driving: A Statistical Survey on Intention and Trajectory Forecasting | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176761699.98887344/v1>) | N/A | N/A |
 | 2025 | Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances, Resources, and Future Directions | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.683>) | [code](<https://github.com/Yaozuwu/LLM-based_Multi-agent_ADS>) | N/A ([⭐ 0](<https://github.com/Yaozuwu/LLM-based_Multi-agent_ADS>)) |
 | 2024 | A Survey on Federated Learning in Intelligent Transportation Systems | arXiv | [paper](<https://arxiv.org/abs/2403.07444>) | N/A | N/A |
 | 2024 | Data-driven Camera and Lidar Simulation Models for Autonomous Driving: A Review from Generative Models to Volume Renderers | arXiv | [paper](<https://arxiv.org/abs/2402.10079>) | N/A | N/A |

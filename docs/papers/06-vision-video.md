@@ -9,7 +9,7 @@
 
 [Computer Vision](../categories/06-vision.md)
 
-**14 surveys · Page 1/1**
+**16 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -26,4 +26,6 @@
 | 2024 | A Review of Human-Object Interaction Detection | arXiv | [paper](<https://arxiv.org/abs/2408.10641>) | N/A | [19](<https://openalex.org/W4407467080>) |
 | 2025 | 3D Skeleton-Based Action Recognition: A Review | arXiv | [paper](<https://arxiv.org/abs/2506.00915>) | N/A | [14](<https://openalex.org/W4414893803>) |
 | 2024 | A Survey on Backbones for Deep Video Action Recognition | arXiv | [paper](<https://arxiv.org/abs/2405.05584>) | N/A | [8](<https://openalex.org/W4401991044>) |
+| 2026 | Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1674.v1>) | [code](<https://github.com/sotayang/Awesome-Streaming-Video-Understanding>) | N/A ([⭐ 494](<https://github.com/sotayang/Awesome-Streaming-Video-Understanding>)) |
+| 2026 | A Survey of Recent Graph-Based Methods for Skeleton-Based Action Recognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784417.76917906/v1>) | N/A | N/A |
 | 2025 | A Review on Coarse to Fine-Grained Animal Action Recognition | arXiv | [paper](<https://arxiv.org/abs/2506.01214>) | N/A | N/A |

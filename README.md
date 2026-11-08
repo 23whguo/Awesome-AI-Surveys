@@ -7,13 +7,13 @@
 
 <p align="center"><strong>A navigable collection of AI surveys, reviews and research overviews</strong></p>
 
-<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <img src="https://img.shields.io/badge/surveys-3918-2563eb" alt="Survey count"> <img src="https://img.shields.io/badge/categories-17-0f766e" alt="17 categories"> <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"></a></p>
+<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <img src="https://img.shields.io/badge/surveys-4726-2563eb" alt="Survey count"> <img src="https://img.shields.io/badge/categories-17-0f766e" alt="17 categories"> <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"></a></p>
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**3,918 surveys · 17 primary categories · 524 with repository links supplied by source metadata or abstracts.**
+**4,726 surveys · 17 primary categories · 596 with repository links supplied by source metadata or abstracts.**
 
-Built from PaperVault venue records and local 2024–2026 arXiv snapshots. 1,572,700 source records scanned; snapshot date: **2026-11-08**. Each work has one primary category and multiple orthogonal tags.
+Built from PaperVault venue records and local 2024–2026 arXiv snapshots. 1,609,409 source records scanned; snapshot date: **2026-11-08**. Each work has one primary category and multiple orthogonal tags.
 
 Entries are screened from metadata, not independently audited full-text reviews. Venue labels and years follow the source records; arXiv entries do not imply peer review. Ambiguous article types and unresolved subjects remain in the [review queue](data/review_queue.jsonl).
 
@@ -21,34 +21,38 @@ Entries are screened from metadata, not independently audited full-text reviews.
 
 Each category previews six papers in the selected order. Switch between citations (high to low) and time (newest source date first) at the top of any page. Time uses supplied submission dates within the displayed year; year-only records follow dated records in that year. Unknown counts sort last in citation views. Tables use Year / Title / Venue / Paper / Code / 引用; parenthesized stars refer to the linked GitHub repository.
 
-**Metric coverage:** citation counts for 3,607 / 3,918 papers; GitHub Stars for 516 papers. [CSV with metrics](data/surveys-with-metrics.csv).
+**Metric coverage:** citation counts for 3,675 / 4,726 papers; GitHub Stars for 587 papers. [CSV with metrics](data/surveys-with-metrics.csv).
+
+**2026 expansion:** 808 added surveys from TechRxiv, Preprints.org and HF Daily Papers. [Coverage report](docs/EXPANSION_2026.md) · [Full discovery index](data/discovery-index/manifest.json) · [695 pending candidate groups](docs/EXTERNAL_PENDING_2026.md). API enumeration does not establish exhaustive platform coverage.
+
+**Coverage warning:** TechRxiv registry queries returned zero records for 2026-04, 2026-05, 2026-06, 2026-07, 2026-08, 2026-09, 2026-10, 2026-11; this does not establish that no papers were published. HF Daily Papers is a selected arXiv index.
 
 ## Contents
 
-- [01. General AI & Research Overviews](#01-general-ai) (88)
-- [02. Learning Theory & Methods](#02-learning) (543)
-- [03. Data & Data-Centric AI](#03-data) (37)
-- [04. Model Architectures & Generative Modeling](#04-models) (123)
-- [05. Language, NLP & Large Language Models](#05-language) (666)
-- [06. Computer Vision](#06-vision) (261)
-- [07. Speech, Audio & Music](#07-audio) (76)
-- [08. Multimodal Learning & Models](#08-multimodal) (82)
-- [09. Knowledge, Graph Learning & Symbolic Reasoning](#09-knowledge) (90)
-- [10. Information Retrieval, Recommendation & Web Intelligence](#10-retrieval) (113)
-- [11. Time Series & Spatio-Temporal Learning](#11-temporal) (60)
-- [12. Reinforcement Learning & Sequential Decision Making](#12-decision) (115)
-- [13. Agents & Multi-Agent Systems](#13-agents) (142)
-- [14. Robotics & Embodied Intelligence](#14-embodied) (152)
-- [15. Trustworthy AI, Alignment & Evaluation](#15-trustworthy) (479)
-- [16. Efficient AI & Machine Learning Systems](#16-systems) (70)
-- [17. Domain Applications & Human-AI Interaction](#17-applications) (821)
+- [01. General AI & Research Overviews](#01-general-ai) (115)
+- [02. Learning Theory & Methods](#02-learning) (610)
+- [03. Data & Data-Centric AI](#03-data) (48)
+- [04. Model Architectures & Generative Modeling](#04-models) (132)
+- [05. Language, NLP & Large Language Models](#05-language) (712)
+- [06. Computer Vision](#06-vision) (289)
+- [07. Speech, Audio & Music](#07-audio) (78)
+- [08. Multimodal Learning & Models](#08-multimodal) (96)
+- [09. Knowledge, Graph Learning & Symbolic Reasoning](#09-knowledge) (100)
+- [10. Information Retrieval, Recommendation & Web Intelligence](#10-retrieval) (120)
+- [11. Time Series & Spatio-Temporal Learning](#11-temporal) (66)
+- [12. Reinforcement Learning & Sequential Decision Making](#12-decision) (136)
+- [13. Agents & Multi-Agent Systems](#13-agents) (214)
+- [14. Robotics & Embodied Intelligence](#14-embodied) (188)
+- [15. Trustworthy AI, Alignment & Evaluation](#15-trustworthy) (584)
+- [16. Efficient AI & Machine Learning Systems](#16-systems) (83)
+- [17. Domain Applications & Human-AI Interaction](#17-applications) (1155)
 
 ## Survey collection
 
 <a id="01-general-ai"></a>
 
 <details open>
-<summary><b>01. General AI & Research Overviews (88)</b></summary>
+<summary><b>01. General AI & Research Overviews (115)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/01-general-ai.md)
 
@@ -66,7 +70,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="02-learning"></a>
 
 <details open>
-<summary><b>02. Learning Theory & Methods (543)</b></summary>
+<summary><b>02. Learning Theory & Methods (610)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/02-learning.md)
 
@@ -84,7 +88,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="03-data"></a>
 
 <details open>
-<summary><b>03. Data & Data-Centric AI (37)</b></summary>
+<summary><b>03. Data & Data-Centric AI (48)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/03-data.md)
 
@@ -102,7 +106,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="04-models"></a>
 
 <details open>
-<summary><b>04. Model Architectures & Generative Modeling (123)</b></summary>
+<summary><b>04. Model Architectures & Generative Modeling (132)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/04-models.md)
 
@@ -120,7 +124,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="05-language"></a>
 
 <details open>
-<summary><b>05. Language, NLP & Large Language Models (666)</b></summary>
+<summary><b>05. Language, NLP & Large Language Models (712)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/05-language.md)
 
@@ -138,7 +142,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="06-vision"></a>
 
 <details open>
-<summary><b>06. Computer Vision (261)</b></summary>
+<summary><b>06. Computer Vision (289)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/06-vision.md)
 
@@ -156,7 +160,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="07-audio"></a>
 
 <details open>
-<summary><b>07. Speech, Audio & Music (76)</b></summary>
+<summary><b>07. Speech, Audio & Music (78)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/07-audio.md)
 
@@ -174,7 +178,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="08-multimodal"></a>
 
 <details open>
-<summary><b>08. Multimodal Learning & Models (82)</b></summary>
+<summary><b>08. Multimodal Learning & Models (96)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/08-multimodal.md)
 
@@ -192,7 +196,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="09-knowledge"></a>
 
 <details open>
-<summary><b>09. Knowledge, Graph Learning & Symbolic Reasoning (90)</b></summary>
+<summary><b>09. Knowledge, Graph Learning & Symbolic Reasoning (100)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/09-knowledge.md)
 
@@ -210,7 +214,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="10-retrieval"></a>
 
 <details open>
-<summary><b>10. Information Retrieval, Recommendation & Web Intelligence (113)</b></summary>
+<summary><b>10. Information Retrieval, Recommendation & Web Intelligence (120)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/10-retrieval.md)
 
@@ -228,7 +232,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="11-temporal"></a>
 
 <details open>
-<summary><b>11. Time Series & Spatio-Temporal Learning (60)</b></summary>
+<summary><b>11. Time Series & Spatio-Temporal Learning (66)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/11-temporal.md)
 
@@ -246,7 +250,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="12-decision"></a>
 
 <details open>
-<summary><b>12. Reinforcement Learning & Sequential Decision Making (115)</b></summary>
+<summary><b>12. Reinforcement Learning & Sequential Decision Making (136)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/12-decision.md)
 
@@ -264,7 +268,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="13-agents"></a>
 
 <details open>
-<summary><b>13. Agents & Multi-Agent Systems (142)</b></summary>
+<summary><b>13. Agents & Multi-Agent Systems (214)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/13-agents.md)
 
@@ -282,7 +286,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="14-embodied"></a>
 
 <details open>
-<summary><b>14. Robotics & Embodied Intelligence (152)</b></summary>
+<summary><b>14. Robotics & Embodied Intelligence (188)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/14-embodied.md)
 
@@ -300,7 +304,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="15-trustworthy"></a>
 
 <details open>
-<summary><b>15. Trustworthy AI, Alignment & Evaluation (479)</b></summary>
+<summary><b>15. Trustworthy AI, Alignment & Evaluation (584)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/15-trustworthy.md)
 
@@ -318,7 +322,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="16-systems"></a>
 
 <details open>
-<summary><b>16. Efficient AI & Machine Learning Systems (70)</b></summary>
+<summary><b>16. Efficient AI & Machine Learning Systems (83)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/16-systems.md)
 
@@ -336,7 +340,7 @@ Each category previews six papers in the selected order. Switch between citation
 <a id="17-applications"></a>
 
 <details open>
-<summary><b>17. Domain Applications & Human-AI Interaction (821)</b></summary>
+<summary><b>17. Domain Applications & Human-AI Interaction (1155)</b></summary>
 
 [Browse the complete category and subtopics →](docs/categories/17-applications.md)
 
@@ -355,6 +359,7 @@ Each category previews six papers in the selected order. Switch between citation
 
 - [PaperVault](https://github.com/youngfish42/PaperVault) / [Hugging Face dataset](https://huggingface.co/datasets/youngfish42/PaperVault): conference and journal metadata.
 - Local arXiv 2024 / 2025 / 2026 CSV-derived snapshots: identifiers, titles, abstracts and category metadata used for screening; original raw files are not uploaded.
+- 2026 external metadata: TechRxiv / Preprints.org via Crossref with a DataCite check; Hugging Face Daily Papers via its official date/month API. [Coverage, limitations and audit files](docs/EXPANSION_2026.md).
 - [Methodology, limitations and arXiv policy](docs/METHODOLOGY.md) · [Source manifest and checksums](data/manifest.json) · [Data schema](docs/DATA_SCHEMA.md).
 
 ## Maintenance & contributions

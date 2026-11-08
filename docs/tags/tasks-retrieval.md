@@ -9,7 +9,7 @@
 
 
 
-**78 surveys · Page 1/1**
+**80 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -82,6 +82,8 @@
 | 2025 | Optimizing Retrieval-Augmented Generation (RAG) for Colloquial Cantonese: A LoRA-Based Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2508.08610>) | N/A | [0](<https://openalex.org/W4416167864>) |
 | 2024 | Machine Learning Information Retrieval and Summarisation to Support Systematic Review on Outcomes Based Contracting | arXiv | [paper](<https://arxiv.org/abs/2412.08578>) | N/A | [0](<https://openalex.org/W4405309088>) |
 | 2018 | Improving Systematic Review Creation With Information Retrieval | SIGIR | [paper](<https://doi.org/10.1145/3209978.3210226>) | N/A | [0](<https://openalex.org/W2798484899>) |
+| 2026 | A Survey of (Deep RAG) Deep Retrieval Augmented Generation and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272838.89432844/v1>) | N/A | N/A |
+| 2026 | Small Language Models as Autonomous Agents: Architectures, Retrieval Strategies, and Applications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155639.91955081/v1>) | N/A | N/A |
 | 2025 | A Survey of Long-Document Retrieval in the PLM and LLM Era | arXiv | [paper](<https://arxiv.org/abs/2509.07759>) | N/A | N/A |
 | 2025 | Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.23952>) | N/A | N/A |
 | 2025 | Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.14891>) | N/A | N/A |

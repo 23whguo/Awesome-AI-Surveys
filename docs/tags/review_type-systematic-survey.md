@@ -9,7 +9,7 @@
 
 
 
-**46 surveys · Page 1/1**
+**58 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -45,16 +45,28 @@
 | 2025 | Generative Artificial Intelligence for Internet of Things Computing: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2504.07635>) | N/A | [7](<https://openalex.org/W7167645598>) |
 | 2025 | Understanding PII Leakage in Large Language Models: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1156>) | N/A | [6](<https://openalex.org/W4414359343>) |
 | 2026 | Bidirectional Empowerment of Metamorphic Testing and Large Language Models: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2605.13898>) | N/A | [5](<https://openalex.org/W7161289227>) |
+| 2026 | Towards Fully DL-Driven RF: A Systematic Survey of Deep Learning for Wireless Transceiver Signal Processing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0658.v1>) | N/A | [5](<https://openalex.org/W7128780641>) |
 | 2026 | A Systematic Survey on Event Camera Representation Learning | arXiv | [paper](<https://arxiv.org/abs/2606.23078>) | N/A | [4](<https://openalex.org/W7165678992>) |
 | 2025 | A Systematic Survey on Debugging Techniques for Machine Learning Systems | arXiv | [paper](<https://arxiv.org/abs/2503.03158>) | N/A | [4](<https://openalex.org/W4416083908>) |
+| 2026 | Temporal Adversarial Attacks on Time Series and Reinforcement Learning Systems: A Systematic Survey, Taxonomy, and Benchmarking Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0598.v1>) | N/A | [3](<https://openalex.org/W7119479467>) |
 | 2024 | On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2408.04879>) | N/A | [3](<https://openalex.org/W4404986060>) |
 | 2026 | A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security | arXiv | [paper](<https://arxiv.org/abs/2608.29596>) | N/A | [2](<https://openalex.org/W7204908635>) |
 | 2026 | Artificial Intelligence Driven Channel Coding and Resource Optimization for Wireless Networks: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2601.06796>) | N/A | [2](<https://openalex.org/W7162865931>) |
 | 2025 | Style-based Composer Identification and Attribution of Symbolic Music Scores: a Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2506.12440>) | N/A | [2](<https://openalex.org/W4412696666>) |
-| 2026 | A Systematic Survey of Large Language Model Routing | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2072>) | [code](<https://github.com/wuxingyu-ai/LLM-Routing>) | [0](<https://openalex.org/W7224214934>) ([⭐ 0](<https://github.com/wuxingyu-ai/LLM-Routing>)) |
 | 2026 | Test-Time Adaptation for Graph Learning: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/866>) | [code](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>) | [0](<https://openalex.org/W7213429993>) ([⭐ 16](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>)) |
+| 2026 | A Systematic Survey of Large Language Model Routing | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2072>) | [code](<https://github.com/wuxingyu-ai/LLM-Routing>) | [0](<https://openalex.org/W7224214934>) ([⭐ 0](<https://github.com/wuxingyu-ai/LLM-Routing>)) |
 | 2026 | Trajectory Self-Feedback in Diffusion Language Models: A Systematic Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1739>) | N/A | [0](<https://openalex.org/W7224653168>) |
 | 2026 | Why and When to Use Statistical Significance in Explanation Evaluation: A Systematic Survey and Guidelines for Explainable NLP | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.504>) | N/A | [0](<https://openalex.org/W7224168584>) |
+| 2026 | Machine Learning, Foundation Models, Skills, and Agents in the Energy Industry: A Systematic, Evidence-Graded Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.3125.v1>) | N/A | N/A |
+| 2026 | Large Video Generative Models: A Systematic Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2442.v1>) | N/A | N/A |
+| 2026 | A Systematic, Taxonomy-Guided Survey of Predictive Maintenance in Robotic Systems: Fault Detection, Diagnosis, Prognosis, and Fault-Tolerant Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2443.v1>) | N/A | N/A |
+| 2026 | Federated Learning Aggregation (FLAg) Strategies in Healthcare: A Systematic Survey and Taxonomy Based on Technical and Data Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2214.v1>) | N/A | N/A |
+| 2026 | Structure Learning in Bayesian Networks: A Systematic Pedagogical Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1322.v1>) | N/A | N/A |
+| 2026 | AI for Science: A Systematic Survey of Architectures, Autonomy, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0102.v1>) | N/A | N/A |
+| 2026 | Agentic AI and Large Language Models for Autonomous IoT Cybersecurity: A Systematic Survey, Taxonomy, and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0142.v1>) | [code](<https://github.com/vnageshwaran-de/agentic-iot-security>) | N/A ([⭐ 1](<https://github.com/vnageshwaran-de/agentic-iot-security>)) |
+| 2026 | A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203250.05832634/v2>) | [code](<https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents>) | N/A ([⭐ 482](<https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents>)) |
+| 2026 | Graph4LLM: A Systematic Survey of Graph-Enhanced Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/902>) | N/A | N/A |
+| 2026 | Privacy-Preserving LLM Preference Alignment: A Systematic Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978434.43544529/v1>) | N/A | N/A |
 | 2025 | A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.08660>) | N/A | N/A |
 | 2024 | Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2406.10628>) | [code](<https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey>) | N/A ([⭐ 39](<https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey>)) |
 | 2024 | A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications | arXiv | [paper](<https://arxiv.org/abs/2402.07927>) | N/A | N/A |

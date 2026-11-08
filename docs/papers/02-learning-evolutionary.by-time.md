@@ -9,11 +9,15 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**34 surveys · Page 1/1**
+**38 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Comprehensive Survey on LLM-Guided Evolutionary Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1122.v1>) | N/A | N/A |
+| 2026 | Spiking Neural Networks from Signals to Silicon:An End-to-End Survey of Dynamics, Learning,Architectures, Toolchains, Neuromorphic Hardware,and Deployment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0164.v1>) | N/A | N/A |
 | 2026 | Single-Entity Spiking Neuron Models: Survey | arXiv | [paper](<https://arxiv.org/abs/2607.07429>) | N/A | [0](<https://openalex.org/W4388192683>) |
+| 2026 | Evolutionary Algorithms and Engineering Applications: A Comprehensive Survey of Classical Methods and Emerging Trends | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0126.v1>) | N/A | N/A |
+| 2026 | Spiking Neural Networks: A Tutorial on Models, Coding, and Training | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0827.v1>) | N/A | N/A |
 | 2026 | Survey of Various Fuzzy and Uncertain Decision-Making Methods | arXiv | [paper](<https://arxiv.org/abs/2603.15709>) | N/A | [0](<https://openalex.org/W7136107118>) |
 | 2026 | A Dynamic Survey of Fuzzy, Intuitionistic Fuzzy, Neutrosophic, Plithogenic, and Extensional Sets | arXiv | [paper](<https://arxiv.org/abs/2603.15667>) | N/A | [2](<https://openalex.org/W7135009747>) |
 | 2026 | Uncertainty in visibility: a scoping review of the probable and fuzzy viewshed for observer location optimization | IJGIS | [paper](<https://doi.org/10.1080/13658816.2025.2581833>) | N/A | [0](<https://openalex.org/W4416392335>) |

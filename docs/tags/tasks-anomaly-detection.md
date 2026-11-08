@@ -9,7 +9,7 @@
 
 
 
-**32 surveys · Page 1/1**
+**37 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -42,6 +42,11 @@
 | 2025 | Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2510.14462>) | N/A | [2](<https://openalex.org/W4414988554>) |
 | 2026 | Deep Learning for Anomaly Detection in Railway Systems: A Structured Survey | arXiv | [paper](<https://arxiv.org/abs/2610.00363>) | N/A | [0](<https://openalex.org/W7171666116>) |
 | 2026 | Multi-Modal Anomaly Detection: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.24937>) | N/A | [0](<https://openalex.org/W7204438162>) |
+| 2026 | Quantum Machine Learning for Anomaly Detection: Algorithms, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2472.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey of Tabular Anomaly Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1125.v1>) | N/A | N/A |
+| 2026 | A Survey of Recent Advances in Industrial Anomaly Detection: From Normal-Only Training to Foundation-Model Priors | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0719.v1>) | N/A | N/A |
+| 2026 | Continual Anomaly Detection: A Comprehensive Survey and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1931.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Review on Graph-Based Anomaly Detection: Approaches for Intrusion Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1466.v1>) | N/A | N/A |
 | 2025 | Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study | arXiv | [paper](<https://arxiv.org/abs/2507.05730>) | N/A | N/A |
 | 2024 | A Review of Physics-Informed Machine Learning Methods with Applications to Condition Monitoring and Anomaly Detection | arXiv | [paper](<https://arxiv.org/abs/2401.11860>) | N/A | N/A |
 | 2024 | Advancing Video Anomaly Detection: A Concise Review and a New Dataset | NeurIPS | [paper](<https://papers.nips.cc/paper_files/paper/2024/hash/a3c5af1f56fc73eef1ba0f442739f5ca-Abstract-Datasets_and_Benchmarks_Track.html>) | N/A | N/A |

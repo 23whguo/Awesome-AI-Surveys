@@ -9,16 +9,31 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.by-time.md)
 
-**48 surveys · Page 1/1**
+**63 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Deep Learning Approaches for Financial Time Series Change Detection: Algorithms and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0295.v1>) | N/A | N/A |
 | 2026 | The More the Better? A Comparison of Single- and Multi-Agent LLM Setups on a Financial Review Task | arXiv | [paper](<https://arxiv.org/abs/2610.27488>) | N/A | [0](<https://openalex.org/W7223103623>) |
+| 2026 | From Scorecards to Agents: A Survey of Anti-Fraud Models Across the Model-Risk Boundary, with a Focus on Evidence Traceability | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1839.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Engagement Pricing in Accounting Firms: A Literature Review and Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1291.v1>) | N/A | N/A |
+| 2026 | From Detection to Investigation: A Survey of Foundation Models and Agents for Financial Fraud and Financial Crime | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0912.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning in Recommender Systems for Personalized Financial Decision Support: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0315.v1>) | N/A | N/A |
 | 2026 | Semantics of Subterfuge: Benchmarking Legal Deception Detection Against General-domain State-of-the-Art | arXiv | [paper](<https://arxiv.org/abs/2607.29066>) | N/A | [0](<https://openalex.org/W7172250072>) |
+| 2026 | Mapping the Methodological Bifurcation of Quantitative Portfolio Optimization: A PRISMA-Compliant Systematic Review with BERTopic–SPECTER Analysis (2003–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1491.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Macroeconomics: A Bibliometric Analysis of Global Research Trends (1975–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1142.v1>) | N/A | N/A |
 | 2026 | Tabular Foundation Models for Credit Risk Prediction: A Dedicated Review and Empirical Comparison | arXiv | [paper](<https://arxiv.org/abs/2605.18147>) | N/A | [4](<https://openalex.org/W7161719155>) |
+| 2026 | AI-Driven Food Fraud Detection Systems: A Critical Systematic Review of the Detection–Prevention Gap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0467.v1>) | N/A | N/A |
 | 2026 | Agentic Artificial Intelligence in Finance: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2604.21672>) | N/A | [9](<https://openalex.org/W4416811114>) |
 | 2026 | A Review of Large Language Models for Stock Price Forecasting from a Hedge-Fund Perspective | arXiv | [paper](<https://arxiv.org/abs/2605.05211>) | N/A | [2](<https://openalex.org/W7163048091>) |
 | 2026 | Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security | arXiv | [paper](<https://arxiv.org/abs/2604.08180>) | N/A | [2](<https://openalex.org/W7153343777>) |
+| 2026 | AI and Data Analytics in Sustainable Financial Reporting and ESG Disclosure: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1378.v1>) | N/A | N/A |
+| 2026 | The Role of Artificial Intelligence in Poverty Governance: A Systematic Literature Review of Innovations and Implementation Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0642.v1>) | N/A | N/A |
+| 2026 | Trustworthy Legal Reasoning: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0870.v1>) | N/A | [0](<https://openalex.org/W7128628788>) |
+| 2026 | Post-Labor Economics: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202504.0444.v4>) | N/A | N/A |
+| 2026 | A Systematic Review on the Application of Artificial Intelligence in Decentralized Finance | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.175099684.47325415/v3>) | N/A | N/A |
+| 2026 | Integrating Artificial Intelligence in Audit Workflow: Opportunities, Architecture, and Challenges: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2060.v1>) | N/A | [18](<https://openalex.org/W7134281677>) |
+| 2026 | Explainable and Hybrid AI Approaches for Corporate Financial Performance Forecasting: A Structured Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1215.v1>) | N/A | [0](<https://openalex.org/W7124761743>) |
 | 2026 | A Deep Dive into Feature Engineering and Class Imbalance in Customer Purchase Prediction: A Systematic Literature Review | MLJ | [paper](<https://doi.org/10.1007/s10994-025-06991-y>) | N/A | [3](<https://openalex.org/W7132831471>) |
 | 2026 | FinanceLLM: A Survey of Large Language Models in Finance | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2265>) | N/A | [0](<https://openalex.org/W7224426193>) |
 | 2025 | A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms | arXiv | [paper](<https://arxiv.org/abs/2512.23777>) | N/A | [2](<https://openalex.org/W4401110704>) |

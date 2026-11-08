@@ -9,9 +9,9 @@
 
 
 
-**2411 surveys · Page 6/13**
+**2699 surveys · Page 6/14**
 
-Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · 6 · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)
+Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · 6 · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md) · [14](review_type-survey-14.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -22,7 +22,7 @@ Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_
 | 2024 | Unveiling the Spectrum of Data Contamination in Language Model: A Survey from Detection to Remediation | ACL | [paper](<https://aclanthology.org/2024.findings-acl.951>) | N/A | [34](<https://openalex.org/W4402670521>) |
 | 2023 | Deep Learning Approaches for Similarity Computation: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3422484>) | N/A | [34](<https://openalex.org/W4400275701>) |
 | 2020 | A Survey on Representation Learning for User Modeling | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2020/695>) | N/A | [34](<https://openalex.org/W3041535480>) |
-| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | N/A | [33](<https://openalex.org/W7130824376>) |
+| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | [code](<https://github.com/ymoslem/awesome-llm-routing-cascading>) | [33](<https://openalex.org/W7130824376>) ([⭐ 4](<https://github.com/ymoslem/awesome-llm-routing-cascading>)) |
 | 2025 | A Survey on Agent Workflow -- Status and Future | arXiv | [paper](<https://arxiv.org/abs/2508.01186>) | N/A | [33](<https://openalex.org/W4412537083>) |
 | 2025 | The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.11840>) | N/A | [33](<https://openalex.org/W7117474416>) |
 | 2025 | Discrete Audio Tokens: More Than a Survey! | arXiv | [paper](<https://arxiv.org/abs/2506.10274>) | N/A | [33](<https://openalex.org/W4415330272>) |
@@ -216,4 +216,4 @@ Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_
 | 2024 | Graph Reinforcement Learning for Power Grids: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2407.04522>) | N/A | [24](<https://openalex.org/W4400434805>) |
 | 2024 | A Survey on Data Quality Dimensions and Tools for Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2406.19614>) | [code](<https://github.com/haihua0913/awesome-dq4ml>) | [24](<https://openalex.org/W4400222618>) ([⭐ 23](<https://github.com/haihua0913/awesome-dq4ml>)) |
 
-Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · 6 · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md)
+Pages: [1](review_type-survey.md) · [2](review_type-survey-2.md) · [3](review_type-survey-3.md) · [4](review_type-survey-4.md) · [5](review_type-survey-5.md) · 6 · [7](review_type-survey-7.md) · [8](review_type-survey-8.md) · [9](review_type-survey-9.md) · [10](review_type-survey-10.md) · [11](review_type-survey-11.md) · [12](review_type-survey-12.md) · [13](review_type-survey-13.md) · [14](review_type-survey-14.md)

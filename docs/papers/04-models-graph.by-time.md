@@ -9,10 +9,11 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.by-time.md)
 
-**25 surveys · Page 1/1**
+**26 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Graph Neural Networks for Spatial Transcriptomics: A Review of Graph Design and Downstream Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2240.v1>) | N/A | N/A |
 | 2026 | Attention-based graph neural networks: a survey | arXiv | [paper](<https://arxiv.org/abs/2605.08679>) | [code](<https://github.com/sunxiaobei/awesome-attention-based-gnns>) | [156](<https://openalex.org/W4386028223>) ([⭐ 92](<https://github.com/sunxiaobei/awesome-attention-based-gnns>)) |
 | 2026 | A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630673>) | N/A | [123](<https://openalex.org/W4416011383>) |
 | 2025 | Graph Neural Networks for Source Detection: A Review and Benchmark Study | arXiv | [paper](<https://arxiv.org/abs/2512.20657>) | N/A | [2](<https://openalex.org/W7117298457>) |

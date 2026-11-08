@@ -9,7 +9,7 @@
 
 
 
-**36 surveys · Page 1/1**
+**40 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -34,6 +34,7 @@
 | 2024 | Survey of Graph Neural Network for Internet of Things and NextG Networks | arXiv | [paper](<https://arxiv.org/abs/2405.17309>) | N/A | [9](<https://openalex.org/W4399115079>) |
 | 2024 | Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms | arXiv | [paper](<https://arxiv.org/abs/2404.16787>) | N/A | [9](<https://openalex.org/W4395687447>) |
 | 2025 | Generative Artificial Intelligence for Internet of Things Computing: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2504.07635>) | N/A | [7](<https://openalex.org/W7167645598>) |
+| 2026 | Towards Fully DL-Driven RF: A Systematic Survey of Deep Learning for Wireless Transceiver Signal Processing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0658.v1>) | N/A | [5](<https://openalex.org/W7128780641>) |
 | 2025 | Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.00747>) | N/A | [4](<https://openalex.org/W4414768957>) |
 | 2026 | Artificial Intelligence Driven Channel Coding and Resource Optimization for Wireless Networks: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2601.06796>) | N/A | [2](<https://openalex.org/W7162865931>) |
 | 2026 | A Comprehensive Survey of Wireless Foundation Models for AI-Native 6G Networks | arXiv | [paper](<https://arxiv.org/abs/2608.14694>) | N/A | [1](<https://openalex.org/W7203705966>) |
@@ -45,6 +46,9 @@
 | 2026 | Explainable AI for Next-Generation Wireless Physical Layer: Basics, State-of-the-Art, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2606.24424>) | N/A | [0](<https://openalex.org/W7165733380>) |
 | 2026 | Comprehensive Review of Advances and Challenges in Next Generation Wireless Networks: From Novel Hardware Technologies to Learning Based Resource Allocation in 6G | arXiv | [paper](<https://arxiv.org/abs/2605.08951>) | N/A | [0](<https://openalex.org/W7160948615>) |
 | 2025 | A Survey of Freshness-Aware Wireless Networking with Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2512.21412>) | N/A | [0](<https://openalex.org/W7117571358>) |
+| 2026 | AI-Driven Mobility Management in 5G and 6G Wireless Networks: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1358.v1>) | N/A | N/A |
+| 2026 | LLMs and IoT: A Comprehensive Survey on Large Language Models and the Internet of Things | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.174063060.01215875/v4>) | N/A | N/A |
+| 2026 | Security and Privacy Challenges in Healthcare Internet of Things Applications in the Era of Agentic AI | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176740429.99079587/v1>) | N/A | N/A |
 | 2025 | Large Language Models for Next-Generation Wireless Network Management: A Survey and Tutorial | arXiv | [paper](<https://arxiv.org/abs/2509.05946>) | N/A | N/A |
 | 2025 | AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design | arXiv | [paper](<https://arxiv.org/abs/2509.04805>) | N/A | N/A |
 | 2025 | LLM-Driven Adaptive 6G-Ready Wireless Body Area Networks: Survey and Framework | arXiv | [paper](<https://arxiv.org/abs/2508.08535>) | N/A | N/A |

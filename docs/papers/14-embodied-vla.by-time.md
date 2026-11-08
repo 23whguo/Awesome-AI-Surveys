@@ -9,14 +9,20 @@
 
 [Robotics & Embodied Intelligence](../categories/14-embodied.by-time.md)
 
-**24 surveys · Page 1/1**
+**30 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
-| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
+| 2026 | Vision-Language-Action and Vision Language Models for Robot Manipulation: A Comprehensive Review Towards Real-World Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0400.v1>) | N/A | N/A |
 | 2026 | Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines | arXiv | [paper](<https://arxiv.org/abs/2604.23001>) | N/A | [9](<https://openalex.org/W7156894990>) |
 | 2026 | Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2604.15395>) | N/A | [2](<https://openalex.org/W7154964872>) |
+| 2026 | A Survey of Embodied World Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0928.v1>) | N/A | N/A |
+| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
 | 2026 | Embodied Foundation Models at the Edge: A Survey of Deployment Constraints and Mitigation Strategies | arXiv | [paper](<https://arxiv.org/abs/2603.16952>) | N/A | [16](<https://openalex.org/W7136753838>) |
+| 2026 | From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/871>) | [code](<https://github.com/AaronFengZY/HumanCentricToVLA-Survey>) | [7](<https://openalex.org/W7129045487>) ([⭐ 18](<https://github.com/AaronFengZY/HumanCentricToVLA-Survey>)) |
+| 2026 | A Survey of Continual Learning for Robotics in the Foundation Model Era | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972367.76460794/v1>) | N/A | N/A |
+| 2026 | Towards Generalist Embodied AI: A Survey on World Models for VLA Agents | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948355.54623875/v1>) | N/A | N/A |
+| 2026 | Embodied Intelligence in Multi-Robot Systems: Foundations, Applications, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176611774.47340823/v2>) | N/A | N/A |
 | 2026 | A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3649177>) | [code](<https://github.com/yuanmingqi/awesome-bfm-papers>) | [20](<https://openalex.org/W7117530735>) ([⭐ 349](<https://github.com/friedrichyuan/awesome-bfm-papers>)) |
 | 2025 | A Survey on Efficient Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2510.24795>) | N/A | N/A |
 | 2025 | Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2510.17111>) | N/A | [30](<https://openalex.org/W4416057686>) |

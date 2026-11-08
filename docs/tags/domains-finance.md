@@ -9,7 +9,7 @@
 
 
 
-**38 surveys · Page 1/1**
+**49 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -46,7 +46,18 @@
 | 2025 | A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms | arXiv | [paper](<https://arxiv.org/abs/2512.23777>) | N/A | [2](<https://openalex.org/W4401110704>) |
 | 2025 | MetaGraph: A Large-Scale Meta-Analysis of GenAI in Financial NLP (2022-2025) | arXiv | [paper](<https://arxiv.org/abs/2509.09544>) | N/A | [2](<https://openalex.org/W7166873412>) |
 | 2026 | The More the Better? A Comparison of Single- and Multi-Agent LLM Setups on a Financial Review Task | arXiv | [paper](<https://arxiv.org/abs/2610.27488>) | N/A | [0](<https://openalex.org/W7223103623>) |
+| 2026 | Explainable and Hybrid AI Approaches for Corporate Financial Performance Forecasting: A Structured Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1215.v1>) | N/A | [0](<https://openalex.org/W7124761743>) |
 | 2026 | FinanceLLM: A Survey of Large Language Models in Finance | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2265>) | N/A | [0](<https://openalex.org/W7224426193>) |
+| 2026 | Deep Learning Approaches for Financial Time Series Change Detection: Algorithms and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0295.v1>) | N/A | N/A |
+| 2026 | From Scorecards to Agents: A Survey of Anti-Fraud Models Across the Model-Risk Boundary, with a Focus on Evidence Traceability | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1839.v1>) | N/A | N/A |
+| 2026 | Knowing When to Hand Over: A Survey of Uncertainty, Deferral, and Escalation in Human–AI Fraud Investigation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1933.v1>) | N/A | N/A |
+| 2026 | From Detection to Investigation: A Survey of Foundation Models and Agents for Financial Fraud and Financial Crime | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0912.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning in Recommender Systems for Personalized Financial Decision Support: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0315.v1>) | N/A | N/A |
+| 2026 | AI-Driven Food Fraud Detection Systems: A Critical Systematic Review of the Detection–Prevention Gap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0467.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence (AI) E-Banking in Bangladesh: An Integrated Model of Consumer Decision-Making, Ethical Trust, and Fraud Prevention | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2057.v1>) | N/A | N/A |
+| 2026 | A Decade of Applied Quantitative Analytics for Philippine Policy: Forecasting, Statistical Forensics, and Predictive Modeling Across Education, Energy, Agriculture, Health, and Finance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1811.v1>) | N/A | N/A |
+| 2026 | AI and Data Analytics in Sustainable Financial Reporting and ESG Disclosure: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1378.v1>) | N/A | N/A |
+| 2026 | A Systematic Review on the Application of Artificial Intelligence in Decentralized Finance | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.175099684.47325415/v3>) | N/A | N/A |
 | 2025 | Machine learning for fraud detection in digital banking: a systematic literature review REVIEW | arXiv | [paper](<https://arxiv.org/abs/2510.05167>) | N/A | N/A |
 | 2025 | Integrating Large Language Models in Financial Investments and Market Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2507.01990>) | N/A | N/A |
 | 2024 | A Brief Review of Quantum Machine Learning for Financial Services | arXiv | [paper](<https://arxiv.org/abs/2407.12618>) | N/A | N/A |

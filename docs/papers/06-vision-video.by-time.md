@@ -9,10 +9,12 @@
 
 [Computer Vision](../categories/06-vision.by-time.md)
 
-**14 surveys · Page 1/1**
+**16 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1674.v1>) | [code](<https://github.com/sotayang/Awesome-Streaming-Video-Understanding>) | N/A ([⭐ 494](<https://github.com/sotayang/Awesome-Streaming-Video-Understanding>)) |
+| 2026 | A Survey of Recent Graph-Based Methods for Skeleton-Based Action Recognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784417.76917906/v1>) | N/A | N/A |
 | 2025 | 3D Skeleton-Based Action Recognition: A Review | arXiv | [paper](<https://arxiv.org/abs/2506.00915>) | N/A | [14](<https://openalex.org/W4414893803>) |
 | 2025 | A Review on Coarse to Fine-Grained Animal Action Recognition | arXiv | [paper](<https://arxiv.org/abs/2506.01214>) | N/A | N/A |
 | 2025 | A Comprehensive Review of Few-Shot Action Recognition | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02503-6>) | N/A | [33](<https://openalex.org/W4411750547>) |

@@ -9,7 +9,7 @@
 
 
 
-**60 surveys · Page 1/1**
+**69 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -62,11 +62,20 @@
 | 2026 | The Gap Is in the Geometry: A Convergent Meta-Analysis of Multi-Facet Aerial and Remote Sensing Video Understanding | arXiv | [paper](<https://arxiv.org/abs/2610.19102>) | N/A | [0](<https://openalex.org/W7221914767>) |
 | 2026 | Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs | arXiv | [paper](<https://arxiv.org/abs/2609.10355>) | [code](<https://github.com/momentslab/awesome-efficient-videollm>) | [0](<https://openalex.org/W7212148774>) ([⭐ 11](<https://github.com/momentslab/awesome-efficient-videollm>)) |
 | 2026 | Deep Learning-based Filtering for Video Coding: A Survey on Architectures, Algorithms, and Complexity Analysis | arXiv | [paper](<https://arxiv.org/abs/2607.16319>) | N/A | [0](<https://openalex.org/W7167832464>) |
-| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | Multimodal Large Language Model-Enabled Video Translation: A Role-Oriented Survey | arXiv | [paper](<https://arxiv.org/abs/2604.11283>) | N/A | [0](<https://openalex.org/W7154375666>) |
+| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | A comprehensive overview of deep learning models for object detection from videos/images | arXiv | [paper](<https://arxiv.org/abs/2601.14677>) | N/A | [0](<https://openalex.org/W7125390985>) |
 | 2026 | Towards Generalist Robot Learning from Internet Video: A Survey (Abstract Reprint) | AAAI | [paper](<https://doi.org/10.1609/aaai.v40i47.41397>) | N/A | [0](<https://openalex.org/W7139137847>) |
 | 2025 | A Survey on Efficiency Optimization Techniques for DNN-based Video Analytics: Process Systems, Algorithms, and Applications | arXiv | [paper](<https://arxiv.org/abs/2507.15628>) | N/A | [0](<https://openalex.org/W4417496767>) |
+| 2026 | Large Video Generative Models: A Systematic Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2442.v1>) | N/A | N/A |
+| 2026 | Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1674.v1>) | [code](<https://github.com/sotayang/Awesome-Streaming-Video-Understanding>) | N/A ([⭐ 494](<https://github.com/sotayang/Awesome-Streaming-Video-Understanding>)) |
+| 2026 | Predicting the World via Video Representation: A Comprehensive Survey on Video World Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0435.v1>) | N/A | N/A |
+| 2026 | Robotic-Assisted, Video-Assisted, and Open Sleeve Lobectomy After Neoadjuvant Therapy for Non-Small Cell Lung Cancer: A Systematic Review and Network Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0957.v1>) | N/A | N/A |
+| 2026 | Advances in Neural Video Compression: A Review and Benchmarking | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0035.v1>) | N/A | N/A |
+| 2026 | Video Generation Models: A Survey of Post-Training and Alignment | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220111.17351887/v1>) | [code](<https://github.com/CyL97/Awesome-Video-Generation-Post-Training>) | N/A ([⭐ 215](<https://github.com/people-robots/Awesome-Video-Generation-Post-Training>)) |
+| 2026 | Video Editing Meets Diffusion Models: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177129952.23796356/v1>) | N/A | N/A |
+| 2026 | A Survey of Generative Video Models as Visual Reasoners | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176857888.84304881/v1>) | N/A | N/A |
+| 2026 | Generative AI for Video Trailer Synthesis: From Extractive Heuristics to Autoregressive Creativity | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176790925.53094581/v1>) | N/A | N/A |
 | 2025 | Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.10671>) | N/A | N/A |
 | 2025 | Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2507.02074>) | N/A | N/A |
 | 2025 | Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review | arXiv | [paper](<https://arxiv.org/abs/2505.23952>) | N/A | N/A |

@@ -9,12 +9,73 @@
 
 
 
-**240 surveys · Page 2/2**
+**301 surveys · Page 2/2**
 
 Pages: [1](tasks-evaluation.by-time.md) · 2
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2025 | A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3638174>) | N/A | [35](<https://openalex.org/W4416748949>) |
+| 2025 | Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.83>) | N/A | [32](<https://openalex.org/W4416037345>) |
+| 2025 | Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.291>) | N/A | [17](<https://openalex.org/W4411120124>) |
+| 2025 | Human-Centered Design for AI-based Automatically Generated Assessment Reports: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.00081>) | N/A | [10](<https://openalex.org/W4406052019>) |
+| 2025 | How do Language Models Reshape Entity Alignment? A Survey of LM-Driven EA Methods: Advances, Benchmarks, and Future | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1184>) | N/A | [4](<https://openalex.org/W4416035766>) |
+| 2024 | Whom do Explanations Serve? A Systematic Literature Survey of User Characteristics in Explainable Recommender Systems Evaluation | arXiv | [paper](<https://arxiv.org/abs/2412.14193>) | N/A | [28](<https://openalex.org/W4407184412>) |
+| 2024 | LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods | arXiv | [paper](<https://arxiv.org/abs/2412.05579>) | [code](<https://github.com/CSHaitao/Awesome-LLMs-as-Judges>) | [747](<https://openalex.org/W4405253355>) ([⭐ 629](<https://github.com/CSHaitao/Awesome-LLMs-as-Judges>)) |
+| 2024 | A Survey of Large Language Model-Based Generative AI for Text-to-SQL: Benchmarks, Applications, Use Cases, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.05208>) | N/A | [31](<https://openalex.org/W4413948746>) |
+| 2024 | Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.03220>) | N/A | [128](<https://openalex.org/W4403447496>) |
+| 2024 | Can GNNs Learn Link Heuristics? A Concise Review and Evaluation of Link Prediction Methods | arXiv | [paper](<https://arxiv.org/abs/2411.14711>) | N/A | [7](<https://openalex.org/W4413318883>) |
+| 2024 | Empirical Privacy Evaluations of Generative and Predictive Machine Learning Models -- A review and challenges for practice | arXiv | [paper](<https://arxiv.org/abs/2411.12451>) | N/A | [1](<https://openalex.org/W4404573906>) |
+| 2024 | Countering Backdoor Attacks in Image Recognition: A Survey and Evaluation of Mitigation Strategies | arXiv | [paper](<https://arxiv.org/abs/2411.11200>) | N/A | [4](<https://openalex.org/W4404570680>) |
+| 2024 | A Survey of Event Causality Identification: Taxonomy, Challenges, Assessment, and Prospects | arXiv | [paper](<https://arxiv.org/abs/2411.10371>) | N/A | [19](<https://openalex.org/W4412841493>) |
+| 2024 | A Survey on Automatic Credibility Assessment Using Textual Credibility Signals in the Era of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2410.21360>) | N/A | [26](<https://openalex.org/W4414654425>) |
+| 2024 | A Survey of AI-Generated Video Evaluation | arXiv | [paper](<https://arxiv.org/abs/2410.19884>) | N/A | [27](<https://openalex.org/W4404313781>) |
+| 2024 | Hallucination in Multimodal Foundation Models: A Survey on Causes, Corrections, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2410.15359>) | N/A | [20](<https://openalex.org/W4404088620>) |
+| 2024 | Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations | arXiv | [paper](<https://arxiv.org/abs/2410.11381>) | N/A | [3](<https://openalex.org/W4413007914>) |
+| 2024 | A Comprehensive Survey and Classification of Evaluation Criteria for Trustworthy Artificial Intelligence | arXiv | [paper](<https://arxiv.org/abs/2410.17281>) | N/A | [19](<https://openalex.org/W4403609260>) |
+| 2024 | SouLLMate: An Adaptive LLM-Driven System for Advanced Mental Health Support and Assessment, Based on a Systematic Application Survey | arXiv | [paper](<https://arxiv.org/abs/2410.11859>) | N/A | [15](<https://openalex.org/W4403577031>) |
+| 2024 | A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends | arXiv | [paper](<https://arxiv.org/abs/2409.19629>) | [code](<https://github.com/Frank-Wang-oss/GNN>) | [96](<https://openalex.org/W4407960730>) ([⭐ N/A](<https://github.com/frank-wang-oss/gnn>)) |
+| 2024 | Bias Assessment and Data Drift Detection in Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2409.17800>) | N/A | [10](<https://openalex.org/W4403796283>) |
+| 2024 | Evaluation of Large Language Models for Summarization Tasks in the Medical Domain: A Narrative Review | arXiv | [paper](<https://arxiv.org/abs/2409.18170>) | N/A | [6](<https://openalex.org/W4403794932>) |
+| 2024 | A Survey on Multimodal Benchmarks: In the Era of Large AI Models | arXiv | [paper](<https://arxiv.org/abs/2409.18142>) | N/A | [36](<https://openalex.org/W4403794826>) |
+| 2024 | Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness | arXiv | [paper](<https://arxiv.org/abs/2409.01249>) | [code](<https://github.com/pralab/AdversarialPruningBenchmark>) | [17](<https://openalex.org/W4410335192>) ([⭐ 17](<https://github.com/pralab/AdversarialPruningBenchmark>)) |
+| 2024 | AI-powered software testing tools: A systematic review and empirical assessment of their features and limitations | arXiv | [paper](<https://arxiv.org/abs/2409.00411>) | N/A | [41](<https://openalex.org/W4402953496>) |
+| 2024 | A Survey on Evaluation of Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.15769>) | N/A | [63](<https://openalex.org/W4402706006>) |
+| 2024 | From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2408.14825>) | N/A | [46](<https://openalex.org/W4402017565>) |
+| 2024 | What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation | arXiv | [paper](<https://arxiv.org/abs/2408.14622>) | N/A | [22](<https://openalex.org/W4402704281>) |
+| 2024 | Gender Bias Evaluation in Text-to-image Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.11358>) | N/A | [5](<https://openalex.org/W4405426004>) |
+| 2024 | A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation | arXiv | [paper](<https://arxiv.org/abs/2408.11210>) | [code](<https://github.com/Project-MONAI/VISTA>) | [6](<https://openalex.org/W4405425586>) ([⭐ 299](<https://github.com/Project-MONAI/VISTA>)) |
+| 2024 | Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices | arXiv | [paper](<https://arxiv.org/abs/2408.09169>) | N/A | [32](<https://openalex.org/W4411113270>) |
+| 2024 | A Survey on Benchmarks of Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.08632>) | [code](<https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey>) | [155](<https://openalex.org/W4403584058>) ([⭐ 161](<https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey>)) |
+| 2024 | Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy, Trends and Metrics Analysis | arXiv | [paper](<https://arxiv.org/abs/2408.04909>) | N/A | [13](<https://openalex.org/W4416653059>) |
+| 2024 | A Survey and Evaluation of Adversarial Attacks for Object Detection | arXiv | [paper](<https://arxiv.org/abs/2408.01934>) | N/A | [43](<https://openalex.org/W4410115164>) |
+| 2024 | Deep Time Series Models: A Comprehensive Survey and Benchmark | arXiv | [paper](<https://arxiv.org/abs/2407.13278>) | [code](<https://github.com/thuml/Time-Series-Library>) | [290](<https://openalex.org/W4406059106>) ([⭐ 13,054](<https://github.com/thuml/Time-Series-Library>)) |
+| 2024 | Comprehensive Review and Empirical Evaluation of Causal Discovery Algorithms for Numerical Data | arXiv | [paper](<https://arxiv.org/abs/2407.13054>) | N/A | [16](<https://openalex.org/W4406058750>) |
+| 2024 | Grounding and Evaluation for Large Language Models: Practical Challenges and Lessons Learned (Survey) | KDD | [paper](<https://doi.org/10.1145/3637528.3671467>) | N/A | [46](<https://openalex.org/W4401863475>) |
+| 2024 | Benchmarking LLMs for Environmental Review and Permitting | arXiv | [paper](<https://arxiv.org/abs/2407.07321>) | N/A | [15](<https://openalex.org/W4400600739>) |
+| 2024 | A Critical Review of Causal Reasoning Benchmarks for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2407.08029>) | N/A | [11](<https://openalex.org/W4400611324>) |
+| 2024 | Advances in Diffusion Models for Image Data Augmentation: A Review of Methods, Models, Evaluation Metrics and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2407.04103>) | N/A | [96](<https://openalex.org/W4406938298>) |
+| 2024 | Scoping Review of Active Learning Strategies and their Evaluation Environments for Entity Recognition Tasks | arXiv | [paper](<https://arxiv.org/abs/2407.03895>) | N/A | [2](<https://openalex.org/W4400434154>) |
+| 2024 | Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application | arXiv | [paper](<https://arxiv.org/abs/2407.01885>) | N/A | [125](<https://openalex.org/W4403221502>) |
+| 2024 | Early Classification of Time Series: A Survey and Benchmark | arXiv | [paper](<https://arxiv.org/abs/2406.18332>) | [code](<https://github.com/ML-EDM/ml_edm>) | [8](<https://openalex.org/W4400104795>) ([⭐ 19](<https://github.com/ML-EDM/ml_edm>)) |
+| 2024 | Benchmarks and Metrics for Evaluations of Code Generation: A Critical Review | arXiv | [paper](<https://arxiv.org/abs/2406.12655>) | N/A | [52](<https://openalex.org/W4402835407>) |
+| 2024 | On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey | ACL | [paper](<https://aclanthology.org/2024.findings-acl.658>) | N/A | [338](<https://openalex.org/W4402684073>) |
+| 2024 | A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2406.10303>) | N/A | [21](<https://openalex.org/W7127160573>) |
+| 2024 | A Review of 315 Benchmark and Test Functions for Machine Learning Optimization Algorithms and Metaheuristics with Mathematical and Visual Descriptions | arXiv | [paper](<https://arxiv.org/abs/2406.09581>) | N/A | [10](<https://openalex.org/W4399758669>) |
+| 2024 | Learning Outcomes, Assessment, and Evaluation in Educational Recommender Systems: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2407.09500>) | N/A | [6](<https://openalex.org/W4400702579>) |
+| 2024 | Benchmark Data Contamination of Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.04244>) | N/A | [277](<https://openalex.org/W4399453666>) |
+| 2024 | A Survey of Useful LLM Evaluation | arXiv | [paper](<https://arxiv.org/abs/2406.00936>) | N/A | [53](<https://openalex.org/W4399399885>) |
+| 2024 | Recent Trends in Personalized Dialogue Generation: A Review of Datasets, Methodologies, and Evaluations | arXiv | [paper](<https://arxiv.org/abs/2405.17974>) | N/A | [34](<https://openalex.org/W7131904554>) |
+| 2024 | Text Generation: A Systematic Literature Review of Tasks, Evaluation, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2405.15604>) | N/A | [41](<https://openalex.org/W4399061435>) |
+| 2024 | Review of deep learning models for crypto price prediction: implementation and evaluation | arXiv | [paper](<https://arxiv.org/abs/2405.11431>) | N/A | [42](<https://openalex.org/W7135083528>) |
+| 2024 | Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges | arXiv | [paper](<https://arxiv.org/abs/2405.10630>) | N/A | [24](<https://openalex.org/W4402670788>) |
+| 2024 | A review on machine learning for arterial extraction and quantitative assessment on invasive coronary angiograms | arXiv | [paper](<https://arxiv.org/abs/2405.08474>) | N/A | [4](<https://openalex.org/W4402692892>) |
+| 2024 | Evaluation of Retrieval-Augmented Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.07437>) | N/A | [369](<https://openalex.org/W4406771321>) |
+| 2024 | Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview | arXiv | [paper](<https://arxiv.org/abs/2405.05526>) | N/A | [29](<https://openalex.org/W4404875197>) |
+| 2024 | A Survey on Contribution Evaluation in Vertical Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2405.02364>) | [code](<https://github.com/cuiyuebing/VFL_CE>) | [14](<https://openalex.org/W4396715253>) ([⭐ 9](<https://github.com/cuiyuebing/VFL_CE>)) |
+| 2024 | Towards Robust Recommendation: A Review and an Adversarial Robustness Evaluation Library | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3581553>) | [code](<https://github.com/chengleileilei/shillingrec>) | [6](<https://openalex.org/W4411550851>) ([⭐ 8](<https://github.com/chengleileilei/ShillingREC>)) |
+| 2024 | A Survey of Automatic Hallucination Evaluation on Natural Language Generation | arXiv | [paper](<https://arxiv.org/abs/2404.12041>) | N/A | [15](<https://openalex.org/W4394973527>) |
+| 2024 | Low-Cost Language Models: Survey and Performance Evaluation on Python Code Generation | arXiv | [paper](<https://arxiv.org/abs/2404.11160>) | N/A | [15](<https://openalex.org/W4404875179>) |
 | 2024 | A Survey of Neural Network Robustness Assessment in Image Recognition | arXiv | [paper](<https://arxiv.org/abs/2404.08285>) | N/A | [11](<https://openalex.org/W4394867172>) |
 | 2024 | Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation | arXiv | [paper](<https://arxiv.org/abs/2404.01030>) | N/A | [95](<https://openalex.org/W4393924367>) |
 | 2024 | A Survey on Evaluation of Out-of-Distribution Generalization | arXiv | [paper](<https://arxiv.org/abs/2403.01874>) | N/A | [39](<https://openalex.org/W4392488868>) |

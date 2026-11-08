@@ -9,9 +9,9 @@
 
 
 
-**1180 surveys · Page 4/6**
+**1353 surveys · Page 4/7**
 
-Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-text-3.md) · 4 · [5](modalities-text-5.md) · [6](modalities-text-6.md)
+Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-text-3.md) · 4 · [5](modalities-text-5.md) · [6](modalities-text-6.md) · [7](modalities-text-7.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -106,7 +106,7 @@ Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-te
 | 2024 | CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support | ACL | [paper](<https://aclanthology.org/2024.findings-acl.8>) | N/A | [14](<https://openalex.org/W4402671071>) |
 | 2024 | Related Work and Citation Text Generation: A Survey | EMNLP | [paper](<https://aclanthology.org/2024.emnlp-main.767>) | N/A | [14](<https://openalex.org/W4404782225>) |
 | 2026 | Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application | arXiv | [paper](<https://arxiv.org/abs/2606.12191>) | N/A | [13](<https://openalex.org/W7164415632>) |
-| 2026 | Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs | arXiv | [paper](<https://arxiv.org/abs/2601.17058>) | N/A | [13](<https://openalex.org/W7125821617>) |
+| 2026 | Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs | arXiv | [paper](<https://arxiv.org/abs/2601.17058>) | [code](<https://github.com/weAIDB/awesome-data-llm>) | [13](<https://openalex.org/W7125821617>) ([⭐ 834](<https://github.com/OpenDataBox/awesome-data-llm>)) |
 | 2025 | Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps | arXiv | [paper](<https://arxiv.org/abs/2510.13430>) | N/A | [13](<https://openalex.org/W4415275957>) |
 | 2025 | Vision Language Models: A Survey of 26K Papers | arXiv | [paper](<https://arxiv.org/abs/2510.09586>) | N/A | [13](<https://openalex.org/W4417136542>) |
 | 2025 | Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey | arXiv | [paper](<https://arxiv.org/abs/2510.01925>) | N/A | [13](<https://openalex.org/W4414819524>) |
@@ -162,8 +162,8 @@ Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-te
 | 2024 | Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey | arXiv | [paper](<https://arxiv.org/abs/2409.18214>) | [code](<https://github.com/wellzline/Trustworthy_T2I_DMs>) | [11](<https://openalex.org/W7133328630>) ([⭐ 14](<https://github.com/wellzline/Trustworthy_T2I_DMs>)) |
 | 2024 | A Critical Review of Causal Reasoning Benchmarks for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2407.08029>) | N/A | [11](<https://openalex.org/W4400611324>) |
 | 2024 | The Human Factor in Detecting Errors of Large Language Models: A Systematic Literature Review and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2403.09743>) | N/A | [11](<https://openalex.org/W4392934678>) |
-| 2026 | Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1916>) | N/A | [10](<https://openalex.org/W4415159602>) |
 | 2026 | Large Language Model-Assisted UAV Operations and Communications: A Multifaceted Survey and Tutorial | arXiv | [paper](<https://arxiv.org/abs/2602.19534>) | N/A | [10](<https://openalex.org/W7131413087>) |
+| 2026 | Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1916>) | N/A | [10](<https://openalex.org/W4415159602>) |
 | 2026 | Trust in LLM-controlled Robotics: a Survey of Security Threats, Defenses and Challenges | arXiv | [paper](<https://arxiv.org/abs/2601.02377>) | N/A | [10](<https://openalex.org/W7117581752>) |
 | 2025 | Review of Tools for Zero-Code LLM Based Application Development | arXiv | [paper](<https://arxiv.org/abs/2510.19747>) | N/A | [10](<https://openalex.org/W7125799414>) |
 | 2025 | Automatic Speech Recognition (ASR) for African Low-Resource Languages: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.01145>) | N/A | [10](<https://openalex.org/W4414810696>) |
@@ -185,8 +185,10 @@ Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-te
 | 2026 | Execution Realism and Reproducibility in LLM-Based Trading Systems: A Systematic Scoping Review and Evidence Audit | arXiv | [paper](<https://arxiv.org/abs/2606.08285>) | N/A | [9](<https://openalex.org/W7164014362>) |
 | 2026 | A Survey on LLM-based Conversational User Simulation | EACL | [paper](<https://aclanthology.org/2026.eacl-long.200>) | N/A | [9](<https://openalex.org/W7140137267>) |
 | 2026 | Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines | arXiv | [paper](<https://arxiv.org/abs/2604.23001>) | N/A | [9](<https://openalex.org/W7156894990>) |
+| 2026 | Tool and Agent Selection for Large Language Model Agents in Production: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.1050.v2>) | N/A | [9](<https://openalex.org/W4417309755>) |
 | 2026 | A Survey on Evaluating Quality and Trustworthiness in LLM-Generated Data | arXiv | [paper](<https://arxiv.org/abs/2601.17717>) | N/A | [9](<https://openalex.org/W7125803282>) |
 | 2026 | LLM-Generated or Human-Written? Comparing Review and Non-Review Papers on ArXiv | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2365>) | [code](<https://github.com/yanaiela/llm-review-arxiv>) | [9](<https://openalex.org/W7125793443>) ([⭐ 2](<https://github.com/yanaiela/llm-review-arxiv>)) |
+| 2026 | An Overview of Recent Advances in Natural Language Processing for Information Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.2126.v1>) | N/A | [9](<https://openalex.org/W7125527579>) |
 | 2026 | Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation | ACL | [paper](<https://aclanthology.org/2026.acl-long.557>) | N/A | [9](<https://openalex.org/W7166847711>) |
 | 2025 | Information Security Based on LLM Approaches: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.18215>) | N/A | [9](<https://openalex.org/W4415233184>) |
 | 2025 | Expediting data extraction using a large language model (LLM) and scoping review protocol: a methodological study within a complex scoping review | arXiv | [paper](<https://arxiv.org/abs/2507.06623>) | N/A | [9](<https://openalex.org/W4416102871>) |
@@ -213,7 +215,5 @@ Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-te
 | 2025 | Biological Sequence with Language Model Prompting: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.04135>) | N/A | [8](<https://openalex.org/W4416112627>) |
 | 2025 | Survey on Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2502.06851>) | N/A | [8](<https://openalex.org/W4407423029>) |
 | 2025 | A Survey on Foundation Language Models for Single-cell Biology | ACL | [paper](<https://aclanthology.org/2025.acl-long.26>) | N/A | [8](<https://openalex.org/W4412886921>) |
-| 2025 | Explainability and Interpretability of Multilingual Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1033>) | N/A | [8](<https://openalex.org/W4416036449>) |
-| 2024 | From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2409.18996>) | [code](<https://github.com/ZuyiZhou/Awesome-Cross-modal-Reasoning-with-LLMs>) | [8](<https://openalex.org/W4403810016>) ([⭐ 16](<https://github.com/ZuyiZhou/Awesome-Cross-modal-Reasoning-with-LLMs>)) |
 
-Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-text-3.md) · 4 · [5](modalities-text-5.md) · [6](modalities-text-6.md)
+Pages: [1](modalities-text.md) · [2](modalities-text-2.md) · [3](modalities-text-3.md) · 4 · [5](modalities-text-5.md) · [6](modalities-text-6.md) · [7](modalities-text-7.md)

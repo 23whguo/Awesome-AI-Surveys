@@ -9,7 +9,7 @@
 
 
 
-**14 surveys · Page 1/1**
+**15 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -27,3 +27,4 @@
 | 2025 | A Survey on Mamba Architecture for Vision Applications | arXiv | [paper](<https://arxiv.org/abs/2502.07161>) | N/A | [12](<https://openalex.org/W4407424193>) |
 | 2024 | Deep Learning-based Approaches for State Space Models: A Selective Review | arXiv | [paper](<https://arxiv.org/abs/2412.11211>) | N/A | [7](<https://openalex.org/W4405469890>) |
 | 2024 | Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning | arXiv | [paper](<https://arxiv.org/abs/2412.18322>) | N/A | [4](<https://openalex.org/W4405783984>) |
+| 2026 | Mamba for Time Series Analysis: A Contemporary Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0995.v1>) | [code](<https://github.com/tamlhp/awesome-mamba-ts>) | N/A ([⭐ 7](<https://github.com/tamlhp/awesome-mamba-ts>)) |

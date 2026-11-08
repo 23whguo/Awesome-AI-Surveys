@@ -9,7 +9,7 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**113 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**120 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
 <summary><b>10.1 Retrieval, Search & Ranking · 检索、搜索与排序 (18)</b></summary>
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>10.2 Recommender Systems & Personalization · 推荐系统与个性化 (89)</b></summary>
+<summary><b>10.2 Recommender Systems & Personalization · 推荐系统与个性化 (95)</b></summary>
 
-[Browse all 89 surveys →](../papers/10-retrieval-recommendation.md)
+[Browse all 95 surveys →](../papers/10-retrieval-recommendation.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>10.3 Web, Social & User Modeling · Web、社交与用户建模 (6)</b></summary>
+<summary><b>10.3 Web, Social & User Modeling · Web、社交与用户建模 (7)</b></summary>
 
-[Browse all 6 surveys →](../papers/10-retrieval-web.md)
+[Browse all 7 surveys →](../papers/10-retrieval-web.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -55,6 +55,6 @@
 | 2019 | Social Media-based User Embedding: A Literature Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2019/881>) | N/A | [43](<https://openalex.org/W2966775979>) |
 | 2024 | A Systematic Review of Machine Learning Approaches for Detecting Deceptive Activities on Social Media: Methods, Challenges, and Biases | arXiv | [paper](<https://arxiv.org/abs/2410.20293>) | N/A | [36](<https://openalex.org/W4404313913>) |
 | 2020 | A Survey on Representation Learning for User Modeling | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2020/695>) | N/A | [34](<https://openalex.org/W3041535480>) |
-| 2024 | A Survey of Stance Detection on Social Media: New Directions and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2409.15690>) | N/A | N/A |
+| 2026 | From Fact Verification to Understanding Misleadingness: A Survey and Roadmap on Reader-Centric Multimodal Misinformation Detection | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138874.48176003/v1>) | N/A | N/A |
 
 </details>

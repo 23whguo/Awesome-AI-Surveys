@@ -9,7 +9,7 @@
 
 [Data & Data-Centric AI](../categories/03-data.md)
 
-**14 surveys · Page 1/1**
+**19 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -27,3 +27,8 @@
 | 2024 | Towards Data-centric Machine Learning on Directed Graphs: a Survey | arXiv | [paper](<https://arxiv.org/abs/2412.01849>) | N/A | [4](<https://openalex.org/W4405035525>) |
 | 2026 | What Shapes Participant Data Quality? A Scoping Review and Case Study of Crowdsourced Webcam Eye Tracking in AI Interviews | arXiv | [paper](<https://arxiv.org/abs/2605.02898>) | N/A | [3](<https://openalex.org/W7160537857>) |
 | 2026 | From Data Heterogeneity to Convergence: A Data-Centric Review of Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2606.10595>) | N/A | [1](<https://openalex.org/W7164195153>) |
+| 2026 | Data-Centric Recursive Improvement for Foundation Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0154.v2>) | [code](<https://github.com/zoezou2015/Awesome-Data-Centric-Recursive-Improvement>) | N/A ([⭐ 68](<https://github.com/zoezou2015/Awesome-Data-Centric-Recursive-Improvement>)) |
+| 2026 | EgoDatasets: A Dataset-Centric Survey and Taxonomy for Egocentric Vision and Action Anticipation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0778.v1>) | N/A | N/A |
+| 2026 | Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development | arXiv | [paper](<https://arxiv.org/abs/2603.27460>) | [code](<https://github.com/uni-medical/Project-Imaging-X>) | N/A ([⭐ 494](<https://github.com/uni-medical/Project-Imaging-X>)) |
+| 2026 | Federated Learning, Mobile Emotion Recognition, and Client-Side Data Quality: A Survey and Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2175.v1>) | N/A | N/A |
+| 2026 | A Comprehensive AI-Powered Survey Platform for Streamlining Data Collection,Analytical Power for Smart E-Governance | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177282363.36315627/v1>) | N/A | N/A |

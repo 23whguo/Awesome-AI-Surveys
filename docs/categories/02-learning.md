@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**543 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**610 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>02.1 Theory, Optimization & Probabilistic Learning · 理论、优化与概率学习 (71)</b></summary>
+<summary><b>02.1 Theory, Optimization & Probabilistic Learning · 理论、优化与概率学习 (81)</b></summary>
 
-[Browse all 71 surveys →](../papers/02-learning-theory.md)
+[Browse all 81 surveys →](../papers/02-learning-theory.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>02.2 Self-Supervised & Representation Learning · 自监督与表征学习 (21)</b></summary>
+<summary><b>02.2 Self-Supervised & Representation Learning · 自监督与表征学习 (22)</b></summary>
 
-[Browse all 21 surveys →](../papers/02-learning-representation.md)
+[Browse all 22 surveys →](../papers/02-learning-representation.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>02.3 Transfer, Adaptation & Meta-Learning · 迁移、适应与元学习 (30)</b></summary>
+<summary><b>02.3 Transfer, Adaptation & Meta-Learning · 迁移、适应与元学习 (33)</b></summary>
 
-[Browse all 30 surveys →](../papers/02-learning-transfer.md)
+[Browse all 33 surveys →](../papers/02-learning-transfer.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -60,9 +60,9 @@
 </details>
 
 <details open>
-<summary><b>02.4 Continual Learning & Unlearning · 持续学习与机器遗忘 (37)</b></summary>
+<summary><b>02.4 Continual Learning & Unlearning · 持续学习与机器遗忘 (40)</b></summary>
 
-[Browse all 37 surveys →](../papers/02-learning-continual.md)
+[Browse all 40 surveys →](../papers/02-learning-continual.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,9 +76,9 @@
 </details>
 
 <details open>
-<summary><b>02.5 Causal Learning & Discovery · 因果学习与发现 (25)</b></summary>
+<summary><b>02.5 Causal Learning & Discovery · 因果学习与发现 (29)</b></summary>
 
-[Browse all 25 surveys →](../papers/02-learning-causal.md)
+[Browse all 29 surveys →](../papers/02-learning-causal.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -92,9 +92,9 @@
 </details>
 
 <details open>
-<summary><b>02.6 Federated & Decentralized Learning · 联邦与去中心化学习 (30)</b></summary>
+<summary><b>02.6 Federated & Decentralized Learning · 联邦与去中心化学习 (34)</b></summary>
 
-[Browse all 30 surveys →](../papers/02-learning-federated.md)
+[Browse all 34 surveys →](../papers/02-learning-federated.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -108,9 +108,9 @@
 </details>
 
 <details open>
-<summary><b>02.7 Evolutionary, Fuzzy & Neuromorphic Learning · 进化、模糊与神经形态学习 (34)</b></summary>
+<summary><b>02.7 Evolutionary, Fuzzy & Neuromorphic Learning · 进化、模糊与神经形态学习 (38)</b></summary>
 
-[Browse all 34 surveys →](../papers/02-learning-evolutionary.md)
+[Browse all 38 surveys →](../papers/02-learning-evolutionary.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -124,9 +124,9 @@
 </details>
 
 <details open>
-<summary><b>02.8 Other Learning Methods · 其他学习方法 (295)</b></summary>
+<summary><b>02.8 Other Learning Methods · 其他学习方法 (333)</b></summary>
 
-[Browse all 295 surveys →](../papers/02-learning-other.md)
+[Browse all 333 surveys →](../papers/02-learning-other.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

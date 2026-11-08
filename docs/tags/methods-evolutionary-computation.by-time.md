@@ -9,11 +9,15 @@
 
 
 
-**24 surveys · Page 1/1**
+**28 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | The ALMA-QUARKS Survey. IV. Core Mass Function and Evolutionary Trends in Core Formation Efficiency and Chemistry | arXiv | [paper](<https://arxiv.org/abs/2610.20738>) | N/A | [0](<https://openalex.org/W7222629348>) |
+| 2026 | A Comprehensive Survey on LLM-Guided Evolutionary Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1122.v1>) | N/A | N/A |
+| 2026 | Evolutionary Algorithms and Engineering Applications: A Comprehensive Survey of Classical Methods and Emerging Trends | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0126.v1>) | N/A | N/A |
+| 2026 | Bridging the Knowledge Void: A Synthetic Near-Empty Review of Intelligent Evolutionary Games Employment in Healthcare | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2271.v1>) | N/A | N/A |
+| 2026 | Secure Recommender Systems: A Co-evolutionary Survey of Vulnerabilities, Attacks, and Defenses | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220005.50171723/v1>) | N/A | N/A |
 | 2026 | A brief review of evolutionary game dynamics in the reinforcement learning paradigm | arXiv | [paper](<https://arxiv.org/abs/2602.04150>) | N/A | [5](<https://openalex.org/W7134886431>) |
 | 2026 | The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1210>) | [code](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>) | [0](<https://openalex.org/W7224361794>) ([⭐ 6](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>)) |
 | 2025 | Evolutionary Map of the Universe: A pilot survey to detect high Galactic latitude pulsars in variance images with ASKAP | arXiv | [paper](<https://arxiv.org/abs/2511.10886>) | N/A | [3](<https://openalex.org/W4416307855>) |

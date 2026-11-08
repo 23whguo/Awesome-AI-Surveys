@@ -9,7 +9,7 @@
 
 
 
-**213 surveys · Page 1/2**
+**293 surveys · Page 1/2**
 
 Pages: 1 · [2](domains-healthcare-2.md)
 
@@ -108,6 +108,7 @@ Pages: 1 · [2](domains-healthcare-2.md)
 | 2025 | The Transition from Centralized Machine Learning to Federated Learning for Mental Health in Education: A Survey of Current Methods and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.11714>) | N/A | [17](<https://openalex.org/W4406730425>) |
 | 2024 | Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.05517>) | N/A | [17](<https://openalex.org/W4399158279>) |
 | 2024 | Evaluating large language models in medical applications: a survey | arXiv | [paper](<https://arxiv.org/abs/2405.07468>) | N/A | [17](<https://openalex.org/W4396913745>) |
+| 2026 | Organs-on-Chips in Drug Development: Engineering Foundations, Artificial Intelligence, and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0931.v1>) | N/A | [16](<https://openalex.org/W7134956925>) |
 | 2024 | A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2408.14496>) | N/A | [16](<https://openalex.org/W4403709429>) |
 | 2025 | DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.01257>) | N/A | [15](<https://openalex.org/W4414895666>) |
 | 2024 | Navigating Distribution Shifts in Medical Image Analysis: A Survey | arXiv | [paper](<https://arxiv.org/abs/2411.05824>) | N/A | [15](<https://openalex.org/W4404400257>) |
@@ -162,6 +163,7 @@ Pages: 1 · [2](domains-healthcare-2.md)
 | 2024 | The Role of Language Models in Modern Healthcare: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2409.16860>) | N/A | [4](<https://openalex.org/W4403784594>) |
 | 2026 | Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning | arXiv | [paper](<https://arxiv.org/abs/2607.07761>) | N/A | [3](<https://openalex.org/W4414190075>) |
 | 2026 | Toward Robust, Reproducible, and Widely Accessible Intracranial Speech Brain-Computer Interfaces: A Comprehensive Narrative Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12279>) | N/A | [3](<https://openalex.org/W7222837109>) |
+| 2026 | Healthcare Providers' Perspectives on Generative Artificial Intelligence (GenAI) Adoption, Adaptation, Assimilation, and Use in the United States | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1298.v1>) | N/A | [3](<https://openalex.org/W7138992613>) |
 | 2025 | Challenges, Advances, and Evaluation Metrics in Medical Image Enhancement: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.13638>) | N/A | [3](<https://openalex.org/W4415276846>) |
 | 2025 | Trustworthy Medical Question Answering: An Evaluation-Centric Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1398>) | N/A | [3](<https://openalex.org/W4416073431>) |
 | 2025 | Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2504.21189>) | N/A | [3](<https://openalex.org/W4417522044>) |
@@ -170,7 +172,9 @@ Pages: 1 · [2](domains-healthcare-2.md)
 | 2024 | A Review on the Integration of Artificial Intelligence and Medical Imaging in IVF Ovarian Stimulation | arXiv | [paper](<https://arxiv.org/abs/2412.19688>) | N/A | [3](<https://openalex.org/W4405903455>) |
 | 2024 | Clinical Document Corpora -- Real Ones, Translated and Synthetic Substitutes, and Assorted Domain Proxies: A Survey of Diversity in Corpus Design, with Focus on German Text Data | arXiv | [paper](<https://arxiv.org/abs/2412.00230>) | N/A | [3](<https://openalex.org/W4410364240>) |
 | 2024 | A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic | arXiv | [paper](<https://arxiv.org/abs/2405.18387>) | N/A | [3](<https://openalex.org/W4296886576>) |
+| 2026 | Multimodal Machine Learning in Healthcare: A Tutorial and Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.1445.v2>) | N/A | [2](<https://openalex.org/W4417445713>) |
 | 2026 | Towards Next-Generation Healthcare: A Survey of Medical Embodied AI for Perception, Decision-Making, and Action | arXiv | [paper](<https://arxiv.org/abs/2606.15647>) | [code](<https://github.com/VMVLab/Medical_Embodied_AI_Paper_List>) | [2](<https://openalex.org/W7164884989>) ([⭐ 16](<https://github.com/VMVLab/Medical_Embodied_AI_Paper_List>)) |
+| 2026 | Deep Learning Architectures for Multi-Omics Data Integration: Bridging Biomarker Discovery and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1884.v1>) | N/A | [2](<https://openalex.org/W7125712164>) |
 | 2025 | Towards Human-AI-Robot Collaboration and AI-Agent based Digital Twins for Parkinson's Disease Management: Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2511.06036>) | N/A | [2](<https://openalex.org/W4416157079>) |
 | 2025 | Efficacy Analysis in Clinical Trials: A Comprehensive Review of Statistical and Machine Learning Approaches | arXiv | [paper](<https://arxiv.org/abs/2511.04903>) | N/A | [2](<https://openalex.org/W4416269553>) |
 | 2025 | Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications | arXiv | [paper](<https://arxiv.org/abs/2510.17764>) | N/A | [2](<https://openalex.org/W4415966329>) |
@@ -206,14 +210,10 @@ Pages: 1 · [2](domains-healthcare-2.md)
 | 2026 | LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals | ACL | [paper](<https://aclanthology.org/2026.acl-long.2123>) | N/A | [0](<https://openalex.org/W7168895940>) |
 | 2026 | The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1210>) | [code](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>) | [0](<https://openalex.org/W7224361794>) ([⭐ 6](<https://github.com/Tiany1Yu/Medical_Multi_Agent_Systems_Survey_Papers>)) |
 | 2025 | A Large Language Model Based Pipeline for Review of Systems Entity Recognition from Clinical Notes | arXiv | [paper](<https://arxiv.org/abs/2506.11067>) | N/A | [0](<https://openalex.org/W4415067967>) |
-| 2025 | Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2510.16973>) | N/A | N/A |
-| 2025 | A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2510.12444>) | N/A | N/A |
-| 2025 | Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2507.16876>) | N/A | N/A |
-| 2025 | Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.18378>) | [code](<https://github.com/haonenglin/Awesome-VLM-for-MIA>) | N/A ([⭐ 35](<https://github.com/haonenglin/Awesome-VLM-for-MIA>)) |
-| 2025 | AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol | arXiv | [paper](<https://arxiv.org/abs/2503.07540>) | N/A | N/A |
-| 2025 | The order in speech disorder: a scoping review of state of the art machine learning methods for clinical speech classification | arXiv | [paper](<https://arxiv.org/abs/2503.04802>) | N/A | N/A |
-| 2025 | Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection | arXiv | [paper](<https://arxiv.org/abs/2501.09506>) | N/A | N/A |
-| 2024 | U-Net in Medical Image Segmentation: A Review of Its Applications Across Modalities | arXiv | [paper](<https://arxiv.org/abs/2412.02242>) | N/A | N/A |
-| 2024 | Natural Language Processing for Analyzing Electronic Health Records and Clinical Notes in Cancer Research: A Review | arXiv | [paper](<https://arxiv.org/abs/2410.22180>) | N/A | N/A |
+| 2026 | Integrating Imaging and Clinical Information With Artificial Intelligence When Data Are Missing or Uncertain | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0417.v1>) | N/A | N/A |
+| 2026 | The Bench-to-Bedside Journey of Deep Learning in Dermato-Oncology: A Systematic Review of Clinical Readiness Across the Translational Continuum | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.3057.v1>) | N/A | N/A |
+| 2026 | EEG Biomarkers for Neurodegenerative Diseases: Machine Learning Applications and Clinical Trial Insights | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2249.v1>) | N/A | N/A |
+| 2026 | Review of Health Knowledge Graphs for Clinical Decision Support: Construction, LLM-Grounded Reasoning, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1625.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Health Time Series: Physiological Signals, Clinical Records, and Epidemic Dynamics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0067.v1>) | N/A | N/A |
 
 Pages: 1 · [2](domains-healthcare-2.md)

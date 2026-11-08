@@ -9,7 +9,7 @@
 
 [Trustworthy AI, Alignment & Evaluation](../categories/15-trustworthy.md)
 
-**138 surveys · Page 1/1**
+**179 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -78,6 +78,7 @@
 | 2024 | A Survey of Automatic Hallucination Evaluation on Natural Language Generation | arXiv | [paper](<https://arxiv.org/abs/2404.12041>) | N/A | [15](<https://openalex.org/W4394973527>) |
 | 2025 | Benchmarking Post-Training Quantization in LLMs: Comprehensive Taxonomy, Unified Evaluation, and Comparative Analysis | arXiv | [paper](<https://arxiv.org/abs/2502.13178>) | [code](<https://github.com/zjq0455/PTQ_Benchmark>) | [14](<https://openalex.org/W4407764014>) ([⭐ N/A](<https://github.com/zjq0455/ptq_benchmark>)) |
 | 2024 | A Survey on Contribution Evaluation in Vertical Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2405.02364>) | [code](<https://github.com/cuiyuebing/VFL_CE>) | [14](<https://openalex.org/W4396715253>) ([⭐ 9](<https://github.com/cuiyuebing/VFL_CE>)) |
+| 2026 | Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application | arXiv | [paper](<https://arxiv.org/abs/2606.12191>) | N/A | [13](<https://openalex.org/W7164415632>) |
 | 2025 | Secure and Robust Watermarking for AI-generated Images: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.02384>) | N/A | [13](<https://openalex.org/W4416368225>) |
 | 2025 | Watermarking for AI Content Detection: A Review on Text, Visual, and Audio Modalities | arXiv | [paper](<https://arxiv.org/abs/2504.03765>) | N/A | [13](<https://openalex.org/W4416123808>) |
 | 2025 | Reference-free Evaluation Metrics for Text Generation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.12011>) | N/A | [13](<https://openalex.org/W4406745597>) |
@@ -91,6 +92,7 @@
 | 2025 | Display Content, Display Methods and Evaluation Methods of the HCI in Explainable Recommender Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.09065>) | N/A | [10](<https://openalex.org/W4417168944>) |
 | 2024 | A Review of 315 Benchmark and Test Functions for Machine Learning Optimization Algorithms and Metaheuristics with Mathematical and Visual Descriptions | arXiv | [paper](<https://arxiv.org/abs/2406.09581>) | N/A | [10](<https://openalex.org/W4399758669>) |
 | 2026 | Execution Realism and Reproducibility in LLM-Based Trading Systems: A Systematic Scoping Review and Evidence Audit | arXiv | [paper](<https://arxiv.org/abs/2606.08285>) | N/A | [9](<https://openalex.org/W7164014362>) |
+| 2026 | What Distinguishes AI-Generated from Human Writing? A Rapid Review of the Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0350.v1>) | N/A | [9](<https://openalex.org/W7128302738>) |
 | 2025 | Evaluation and Facilitation of Online Discussions in the LLM Era: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1243>) | N/A | [9](<https://openalex.org/W4416035578>) |
 | 2024 | Evaluation Metrics for Intelligent Generation of Graphical Game Assets: A Systematic Survey-Based Framework | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3398998>) | N/A | [9](<https://openalex.org/W4396782800>) |
 | 2023 | Application and Evaluation of Large Language Models for the Generation of Survey Questions | CIKM | [paper](<https://doi.org/10.1145/3583780.3615506>) | N/A | [9](<https://openalex.org/W4387846667>) |
@@ -105,6 +107,8 @@
 | 2026 | A Unified Study of LoRA Variants: Taxonomy, Review, Codebase, and Empirical Evaluation | arXiv | [paper](<https://arxiv.org/abs/2601.22708>) | N/A | [4](<https://openalex.org/W7127143063>) |
 | 2026 | Benchmarking Federated Learning in Edge Computing Environments: A Systematic Review and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2603.08735>) | N/A | [3](<https://openalex.org/W7133323550>) |
 | 2026 | A Survey of Code Review Benchmarks and Evaluation Practices in Pre-LLM and LLM Era | arXiv | [paper](<https://arxiv.org/abs/2602.13377>) | N/A | [3](<https://openalex.org/W7129701496>) |
+| 2026 | Vision–Language Foundation Models and Multimodal Large Language Models: A Comprehensive Survey of Architectures, Benchmarks, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0467.v1>) | N/A | [3](<https://openalex.org/W7128545496>) |
+| 2026 | Temporal Adversarial Attacks on Time Series and Reinforcement Learning Systems: A Systematic Survey, Taxonomy, and Benchmarking Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0598.v1>) | N/A | [3](<https://openalex.org/W7119479467>) |
 | 2025 | A Brief Review for Compression and Transfer Learning Techniques in DeepFake Detection | arXiv | [paper](<https://arxiv.org/abs/2504.21066>) | N/A | [3](<https://openalex.org/W4412446537>) |
 | 2025 | The Good, the Bad and the Ugly: Meta-Analysis of Watermarks, Transferable Attacks and Adversarial Defenses | NeurIPS | [paper](<https://papers.nips.cc/paper_files/paper/2025/hash/736f811dffcd2cb1150d82417a0bd70b-Abstract-Conference.html>) | N/A | [3](<https://openalex.org/W7196952662>) |
 | 2024 | Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations | arXiv | [paper](<https://arxiv.org/abs/2410.11381>) | N/A | [3](<https://openalex.org/W4413007914>) |
@@ -140,10 +144,47 @@
 | 2026 | Bias in Filter Feature Selection Evaluation: A Meta-Analysis of Datasets, Baselines, and Experimental Design Choices | arXiv | [paper](<https://arxiv.org/abs/2606.07068>) | N/A | [0](<https://openalex.org/W7163922358>) |
 | 2026 | The LLM Effect on IR Benchmarks: A Meta-Analysis of Effectiveness, Baselines, and Contamination | SIGIR | [paper](<https://doi.org/10.1145/3805712.3809901>) | N/A | [0](<https://openalex.org/W7168343197>) |
 | 2026 | Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health | arXiv | [paper](<https://arxiv.org/abs/2602.20303>) | N/A | [0](<https://openalex.org/W7131428062>) |
+| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | A Systematic Review of Analogy Generation and Evaluation: Methods, Metrics, and Challenges | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.463>) | N/A | [0](<https://openalex.org/W7224516224>) |
 | 2026 | Procedural Blind Spots in Agent Evaluation: A Survey, Coverage Analysis, and New Missions for NLP | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1162>) | N/A | [0](<https://openalex.org/W7224500611>) |
 | 2026 | Why and When to Use Statistical Significance in Explanation Evaluation: A Systematic Survey and Guidelines for Explainable NLP | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.504>) | N/A | [0](<https://openalex.org/W7224168584>) |
 | 2025 | Survey of NLU Benchmarks Diagnosing Linguistic Phenomena: Why not Standardize Diagnostics Benchmarks? | arXiv | [paper](<https://arxiv.org/abs/2507.20419>) | N/A | [0](<https://openalex.org/W7155059195>) |
+| 2026 | Deep Learning for Multi-Component Gearbox Fault Diagnosis on the PHM 2009 Benchmark: A Critical Review and Comparative Evaluation of Time–Frequency Representations and Network Architectures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2964.v1>) | N/A | N/A |
+| 2026 | Efficient On-Policy Distillation for Language Models: A Survey of Costs, Trade-Offs, and Evaluation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2702.v1>) | N/A | N/A |
+| 2026 | Recursive Self Improvement for Embodied Agents—A Survey of Foundations Mechanisms Harnesses and Evaluation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2080.v2>) | N/A | N/A |
+| 2026 | Self-Evolving Recommender Systems: A Survey and an Evaluation Audit | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2336.v2>) | N/A | N/A |
+| 2026 | Cold-Start and Skill-Aware Job Recommender Systems: A Scoping Review of Data, Models, and Evaluation Evidence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2100.v1>) | N/A | N/A |
+| 2026 | Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2610.18248>) | [code](<https://github.com/MilkThink-Lab/Awesome-Benchmark-Compression>) | N/A ([⭐ 4](<https://github.com/MilkThink-Lab/Awesome-Benchmark-Compression>)) |
+| 2026 | Urban Region Representation Learning: A Survey of Data, Methodological Families, Applications, and Evaluation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0468.v1>) | N/A | N/A |
+| 2026 | Harness-Aware Evaluation of LLM Agents: Systems, Benchmarks, and Protocols | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2140.v1>) | N/A | N/A |
+| 2026 | Evaluation of Systematic Review Methodological Quality with Large Language Models Versus Human Reviewers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1913.v1>) | N/A | N/A |
+| 2026 | Large Language Models for African Languages: Systematic Review of Adaptation Strategies, Evaluation Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1768.v1>) | N/A | N/A |
+| 2026 | Beyond Utility Evaluation for LLM-Based and Generative Recommender Systems: A Focused Survey of Offline Protocols | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1653.v1>) | N/A | N/A |
+| 2026 | Reproducibility Challenges, Solutions, and Future Directions in Recommender Systems: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1665.v1>) | N/A | N/A |
+| 2026 | Communication of Internet of Agents (IoA): A Survey on Transmission, Interaction, and Evaluation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1300.v1>) | N/A | N/A |
+| 2026 | Deepfake Detection Beyond Benchmark Accuracy: Generalization, Robustness, and Reproducibility | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1394.v1>) | N/A | N/A |
+| 2026 | Trustworthy Medical Multimodal Large Language Models: Taxonomy, Evaluation, and Benchmarks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0962.v1>) | [code](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>) | N/A ([⭐ 1](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>)) |
+| 2026 | A Survey of World Model Benchmarks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0665.v2>) | N/A | N/A |
+| 2026 | Benchmark, Agent, and Tool-Use Harnesses for Large Language Models: A Taxonomy of Evaluation Infrastructure | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0236.v1>) | N/A | N/A |
+| 2026 | A Survey on Evaluation of Embodied AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2328.v1>) | [code](<https://github.com/EmbodiedAISurvey/Embodied-AI-Eval-Survey>) | N/A ([⭐ 12](<https://github.com/EmbodiedAISurvey/Embodied-AI-Eval-Survey>)) |
+| 2026 | Object Detection in Computer Vision: A Comprehensive Review of Algorithms, Datasets, and Evaluation Techniques | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2288.v1>) | N/A | N/A |
+| 2026 | Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities | arXiv | [paper](<https://arxiv.org/abs/2608.28122>) | [code](<https://github.com/GeminiLight/awesome-agentic-artifact-creation>) | N/A ([⭐ 29](<https://github.com/GeminiLight/awesome-agentic-artifact-creation>)) |
+| 2026 | The Quantity–Quality Paradox: Exploring Artificial Intelligence Assisted Versus Human Approaches in Scientific Publishing: A Conceptual Perspective Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0209.v1>) | N/A | N/A |
+| 2026 | Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2607.19011>) | N/A | N/A |
+| 2026 | Harness Engineering for LLM Agents: A Survey of Harness Component Taxonomy, Evaluation, and Model–Harness Coevolution | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2203.v1>) | N/A | N/A |
+| 2026 | Continual Test-Time Adaptation in Computer Vision: Methods, Benchmarks, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1578.v2>) | [code](<https://github.com/sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation>) | N/A ([⭐ 26](<https://github.com/sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation>)) |
+| 2026 | The Evaluation Bottleneck of Vision-Language-Action Models: A Evaluation-Centric Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0425.v1>) | N/A | N/A |
+| 2026 | Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2396>) | [code](<https://github.com/YerbaPage/Awesome-Context-Compression>) | N/A ([⭐ 100](<https://github.com/YerbaPage/Awesome-Agent-Context-Compression>)) |
+| 2026 | Modern Continual Learning with Foundation Models, Evaluation Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1234.v1>) | N/A | N/A |
+| 2026 | Rethinking Benchmark Comparability: A Survey of Reasoning Benchmarks for Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0806.v1>) | [code](<https://github.com/chenyuanTKCY/Awesome-Benchmarks-for-LLM-Reasoning>) | N/A ([⭐ 2](<https://github.com/chenyuanTKCY/Awesome-Benchmarks-for-LLM-Reasoning>)) |
+| 2026 | Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms | arXiv | [paper](<https://arxiv.org/abs/2604.23775>) | [code](<https://github.com/LiQiiiii/Awesome-VLA-Safety>) | N/A ([⭐ 153](<https://github.com/LiQiiiii/Awesome-VLA-Safety>)) |
+| 2026 | Artificial Intelligence for Imperfect-Information Card Games:A Survey Using DouDiZhu as Benchmark | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177281409.97588134/v1>) | N/A | N/A |
+| 2026 | Evaluating Agentic Artificial Intelligence: A Comprehensive Survey of Metrics, Benchmarks, and Methodologies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177162480.04513202/v1>) | N/A | N/A |
+| 2026 | Improving Reproducibility in Machine Learning: Overview, Barriers, and Drivers | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155769.94899097/v1>) | N/A | N/A |
+| 2026 | Kolmogorov-Arnold Networks for Time Series Forecasting: Architectures, Implementation, and Evaluation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177130591.14244418/v1>) | N/A | N/A |
+| 2026 | Dynamic Evaluation of Medical Large Language Models: A Survey Beyond Static Benchmarks | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177034797.75476270/v1>) | N/A | N/A |
+| 2026 | COMPOSITIONALITY IN CONTRASTIVE VISION-LANGUAGE MODELS: A SURVEY OF METHODS AND BENCHMARKS | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004940.09969046/v1>) | N/A | N/A |
+| 2026 | Jailbreaking LLMs: A Survey of Attacks, Defenses and Evaluation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176773228.86819800/v1>) | N/A | N/A |
 | 2025 | A short methodological review on social robot navigation benchmarking | arXiv | [paper](<https://arxiv.org/abs/2510.22448>) | N/A | N/A |
 | 2025 | Data-Driven Meta-Analysis and Public-Dataset Evaluation for Sensor-Based Gait Age Estimation | arXiv | [paper](<https://arxiv.org/abs/2507.11571>) | N/A | N/A |
 | 2025 | Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.14891>) | N/A | N/A |

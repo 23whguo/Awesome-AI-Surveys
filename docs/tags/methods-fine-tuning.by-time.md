@@ -9,13 +9,14 @@
 
 
 
-**20 surveys · Page 1/1**
+**21 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Supervised Fine-Tuning for Reasoning Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1189>) | N/A | [0](<https://openalex.org/W7224408794>) |
 | 2026 | A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations | arXiv | [paper](<https://arxiv.org/abs/2604.24468>) | N/A | [1](<https://openalex.org/W7156964661>) |
 | 2026 | Fine-Tuning A Large Language Model for Systematic Review Screening | arXiv | [paper](<https://arxiv.org/abs/2603.24767>) | N/A | [1](<https://openalex.org/W7141008388>) |
+| 2026 | Instruction Tuning for Large Language Models: RLHF, Supervised Fine-Tuning, and Alignment Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.43758400/v1>) | N/A | N/A |
 | 2026 | Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2026.3657354>) | N/A | [564](<https://openalex.org/W7125799258>) |
 | 2026 | A Survey of Joint Online-Offline Fine-tuning for Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/899>) | N/A | [0](<https://openalex.org/W7213428674>) |
 | 2025 | Evolution of meta's llama models and parameter-efficient fine-tuning of large language models: a survey | arXiv | [paper](<https://arxiv.org/abs/2510.12178>) | N/A | [26](<https://openalex.org/W4415269742>) |

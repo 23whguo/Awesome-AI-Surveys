@@ -9,12 +9,101 @@
 
 
 
-**306 surveys · Page 2/2**
+**395 surveys · Page 2/2**
 
 Pages: [1](review_type-systematic-review.by-time.md) · 2
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2025 | Systematic Review of Pituitary Gland and Pituitary Adenoma Automatic Segmentation Techniques in Magnetic Resonance Imaging | arXiv | [paper](<https://arxiv.org/abs/2506.19797>) | N/A | [0](<https://openalex.org/W4414684732>) |
+| 2025 | Prompt Engineering Techniques for Mitigating Cultural Bias Against Arabs and Muslims in Large Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2506.18199>) | N/A | N/A |
+| 2025 | Large Language Models for Unit Testing: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2506.15227>) | [code](<https://github.com/iSEngLab/AwesomeLLM4UT>) | [36](<https://openalex.org/W4415333602>) ([⭐ 26](<https://github.com/iSEngLab/AwesomeLLM4UT>)) |
+| 2025 | Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2506.15506>) | N/A | [5](<https://openalex.org/W4415334116>) |
+| 2025 | A Systematic Review of User-Centred Evaluation of Explainable AI in Healthcare | arXiv | [paper](<https://arxiv.org/abs/2506.13904>) | N/A | [9](<https://openalex.org/W4415109412>) |
+| 2025 | AI-Based Software Vulnerability Detection: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2506.10280>) | N/A | [12](<https://openalex.org/W4417349486>) |
+| 2025 | A Systematic Review of Poisoning Attacks Against Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.06518>) | N/A | [16](<https://openalex.org/W4417118608>) |
+| 2025 | Interpretable LLMs for Credit Risk: A Systematic Review and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2506.04290>) | N/A | [23](<https://openalex.org/W7117116773>) |
+| 2025 | FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2506.03938>) | [code](<https://github.com/CedricLeon/Survey_RS-ML-FPGA>) | [10](<https://openalex.org/W4416074449>) ([⭐ 3](<https://github.com/CedricLeon/Survey_RS-ML-FPGA>)) |
+| 2025 | From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins | arXiv | [paper](<https://arxiv.org/abs/2506.06359>) | N/A | N/A |
+| 2025 | A systematic review of metaheuristics-based and machine learning-driven intrusion detection systems in IoT | arXiv | [paper](<https://arxiv.org/abs/2506.00377>) | N/A | [31](<https://openalex.org/W4410709101>) |
+| 2025 | Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.20503>) | N/A | [31](<https://openalex.org/W4415035887>) |
+| 2025 | LLM-Driven APT Detection for 6G Wireless Networks: A Systematic Review and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2505.18846>) | N/A | [10](<https://openalex.org/W4412985063>) |
+| 2025 | Software Architecture Meets LLMs: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2505.16697>) | N/A | [32](<https://openalex.org/W4416452806>) |
+| 2025 | Fashion Industry in the Age of Generative Artificial Intelligence and Metaverse: A systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.17141>) | N/A | N/A |
+| 2025 | Acoustic and Machine Learning Methods for Speech-Based Suicide Risk Assessment: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.18195>) | N/A | [10](<https://openalex.org/W4415929420>) |
+| 2025 | Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement | arXiv | [paper](<https://arxiv.org/abs/2505.08245>) | [code](<https://github.com/valuebyte-ai/Awesome-LLM-Psychometrics>) | N/A ([⭐ 142](<https://github.com/ValueByte-AI/Awesome-LLM-Psychometrics>)) |
+| 2025 | Challenges and proposed solutions in modeling multimodal medical data: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2505.06945>) | N/A | [9](<https://openalex.org/W4415276199>) |
+| 2025 | The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.06118>) | N/A | [8](<https://openalex.org/W4410949697>) |
+| 2025 | Safety by Measurement: A Systematic Literature Review of AI Safety Evaluation Methods | arXiv | [paper](<https://arxiv.org/abs/2505.05541>) | N/A | [24](<https://openalex.org/W4417084817>) |
+| 2025 | Would You Rely on an Eerie Agent? A Systematic Review of the Impact of the Uncanny Valley Effect on Trust in Human-Agent Interaction | arXiv | [paper](<https://arxiv.org/abs/2505.05543>) | N/A | [8](<https://openalex.org/W4417084818>) |
+| 2025 | Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2505.04531>) | N/A | [33](<https://openalex.org/W4416014152>) |
+| 2025 | Comparing Uncertainty Measurement and Mitigation Methods for Large Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.18346>) | N/A | N/A |
+| 2025 | Synergizing RAG and Reasoning: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.15909>) | N/A | N/A |
+| 2025 | Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions | arXiv | [paper](<https://arxiv.org/abs/2504.15327>) | N/A | [34](<https://openalex.org/W4417438919>) |
+| 2025 | Application of Deep Reinforcement Learning for Intrusion Detection in Internet of Things: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.14436>) | N/A | [64](<https://openalex.org/W4407366087>) |
+| 2025 | Scalability and Maintainability Challenges and Solutions in Machine Learning: Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2504.11079>) | N/A | [25](<https://openalex.org/W4416052415>) |
+| 2025 | A systematic review of research on large language models for computer programming education | arXiv | [paper](<https://arxiv.org/abs/2506.21818>) | N/A | [7](<https://openalex.org/W4416081581>) |
+| 2025 | Linguistic Interpretability of Transformer-based Language Models: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2504.08001>) | N/A | [14](<https://openalex.org/W4414792191>) |
+| 2025 | Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective | arXiv | [paper](<https://arxiv.org/abs/2504.04631>) | N/A | [5](<https://openalex.org/W4416167634>) |
+| 2025 | Bias in Large Language Models Across Clinical Applications: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.02917>) | N/A | [28](<https://openalex.org/W4415976151>) |
+| 2025 | Context in object detection: a systematic literature review | arXiv | [paper](<https://arxiv.org/abs/2503.23249>) | N/A | [46](<https://openalex.org/W4408633158>) |
+| 2025 | Conversational Agents for Older Adults' Health: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2503.23153>) | N/A | [7](<https://openalex.org/W4417068749>) |
+| 2025 | Clarifying Misconceptions in COVID-19 Vaccine Sentiment and Stance Analysis and Their Implications for Vaccine Hesitancy Mitigation: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.18095>) | N/A | N/A |
+| 2025 | Novice Developers' Perspectives on Adopting LLMs for Software Development: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2503.07556>) | [code](<https://github.com/Samuellucas97/SupplementaryInfoPackage-SLR>) | [26](<https://openalex.org/W7133610361>) ([⭐ 0](<https://github.com/Samuellucas97/SupplementaryInfoPackage-SLR>)) |
+| 2025 | Human-AI Experience in Integrated Development Environments: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2503.06195>) | N/A | [38](<https://openalex.org/W7118075625>) |
+| 2025 | Explaining the Unexplainable: A Systematic Review of Explainable AI in Finance | arXiv | [paper](<https://arxiv.org/abs/2503.05966>) | N/A | [7](<https://openalex.org/W4408833790>) |
+| 2025 | Large Language Models for Healthcare Text Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.01159>) | N/A | [55](<https://openalex.org/W4415084322>) |
+| 2025 | Machine Learning Applications to Diffuse Reflectance Spectroscopy in Optical Diagnosis; A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.02905>) | N/A | [14](<https://openalex.org/W4412426909>) |
+| 2025 | The Role of Deep Learning in Financial Asset Management: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2503.01591>) | N/A | [6](<https://openalex.org/W4415085071>) |
+| 2025 | Systematic Literature Review on Clinical Trial Eligibility Matching | arXiv | [paper](<https://arxiv.org/abs/2503.00863>) | N/A | [2](<https://openalex.org/W4415083486>) |
+| 2025 | Systematic Review of Cybersecurity in Banking: Evolution from Pre-Industry 4.0 to Post-Industry 4.0 in Artificial Intelligence, Blockchain, Policies and Practice | arXiv | [paper](<https://arxiv.org/abs/2503.00070>) | N/A | [6](<https://openalex.org/W4415080884>) |
+| 2025 | Bridging Gaps in Natural Language Processing for Yor\`ub\'a: A Systematic Review of a Decade of Progress and Prospects | arXiv | [paper](<https://arxiv.org/abs/2502.17364>) | N/A | [19](<https://openalex.org/W4416058784>) |
+| 2025 | A Systematic Review of Open Datasets Used in Text-to-Image (T2I) Gen AI Model Safety | arXiv | [paper](<https://arxiv.org/abs/2503.00020>) | N/A | [6](<https://openalex.org/W4407247055>) |
+| 2025 | Generative Multi-Agent Collaboration in Embodied AI: A Systematic Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1190>) | N/A | [34](<https://openalex.org/W4414359154>) |
+| 2025 | Generative AI &amp; Changing Work: Systematic Review of Practitioner-led Work Transformations through the Lens of Job Crafting | arXiv | [paper](<https://arxiv.org/abs/2502.08854>) | N/A | [8](<https://openalex.org/W4407571093>) |
+| 2025 | A Systematic Review on the Evaluation of Large Language Models in Theory of Mind Tasks | arXiv | [paper](<https://arxiv.org/abs/2502.08796>) | N/A | [17](<https://openalex.org/W4407571040>) |
+| 2025 | Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2502.08353>) | N/A | [4](<https://openalex.org/W4407570381>) |
+| 2025 | Can Machine Learning Support the Selection of Studies for Systematic Literature Review Updates? | arXiv | [paper](<https://arxiv.org/abs/2502.08050>) | N/A | [2](<https://openalex.org/W4407569719>) |
+| 2025 | AI-driven Personalized Privacy Assistants: a Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2502.07693>) | N/A | [17](<https://openalex.org/W4414155403>) |
+| 2025 | DenseReviewer: A Screening Prioritisation Tool for Systematic Review Based on Dense Retrieval | ECIR | [paper](<https://doi.org/10.1007/978-3-031-88720-8_11>) | [code](<https://github.com/ielab/densereviewer>) | [4](<https://openalex.org/W4409166588>) ([⭐ 4](<https://github.com/ielab/densereviewer>)) |
+| 2025 | Deep Learning-Based Facial Expression Recognition for the Elderly: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2502.02618>) | N/A | [24](<https://openalex.org/W4407208748>) |
+| 2025 | Year-over-Year Developments in Financial Fraud Detection via Deep Learning: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2502.00201>) | N/A | [76](<https://openalex.org/W4407123316>) |
+| 2025 | Mechanical Properties of the Meninges: Large Language Model Assisted Systematic Review of over 25,000 Studies | arXiv | [paper](<https://arxiv.org/abs/2501.19359>) | N/A | N/A |
+| 2025 | Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Systematic Literature Review | CHI | [paper](<https://doi.org/10.1145/3706598.3713726>) | [code](<https://github.com/rrrrrrockpang/llm-chi>) | [112](<https://openalex.org/W4409885603>) ([⭐ 8](<https://github.com/rrrrrrockpang/llm-chi>)) |
+| 2025 | Synthetic CT image generation from CBCT: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.13972>) | N/A | [25](<https://openalex.org/W4406793953>) |
+| 2025 | AI-based Identity Fraud Detection: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.09239>) | N/A | [29](<https://openalex.org/W4406548192>) |
+| 2025 | Physics-Informed Machine Learning for Microscale Drying of Plant-Based Foods: A Systematic Review of Computational Models and Experimental Insights | arXiv | [paper](<https://arxiv.org/abs/2501.09034>) | N/A | [7](<https://openalex.org/W4406511786>) |
+| 2025 | Neuro-Symbolic AI in 2024: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.05435>) | N/A | [127](<https://openalex.org/W4406273454>) |
+| 2025 | Online Continual Learning: A Systematic Literature Review of Approaches, Challenges, and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2501.04897>) | N/A | [17](<https://openalex.org/W4406271683>) |
+| 2025 | A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision | arXiv | [paper](<https://arxiv.org/abs/2501.05147>) | N/A | [11](<https://openalex.org/W4406273018>) |
+| 2025 | Large language models streamline automated systematic review: A preliminary study | arXiv | [paper](<https://arxiv.org/abs/2502.15702>) | N/A | [11](<https://openalex.org/W4414834072>) |
+| 2025 | Designing Conversational AI for Aging: A Systematic Review of Older Adults' Perceptions and Needs | CHI | [paper](<https://doi.org/10.1145/3706598.3713578>) | N/A | [62](<https://openalex.org/W4409766762>) |
+| 2025 | Survey of Natural Language Processing for Education: Taxonomy, Systematic Review, and Future Trends | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3621181>) | [code](<https://github.com/LiXinyuan1015/NLP-for-Education>) | [52](<https://openalex.org/W4415179152>) ([⭐ 11](<https://github.com/LiXinyuan1015/NLP-for-Education>)) |
+| 2025 | A Systematic Review of Skeleton-Based Action Recognition: Methods, Challenges, and Future Directions | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3632689>) | N/A | [19](<https://openalex.org/W4417131453>) |
+| 2025 | Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review | CHI | [paper](<https://doi.org/10.1145/3706598.3713438>) | N/A | [16](<https://openalex.org/W4406744153>) |
+| 2025 | A Systematic Review of Machine Learning Methods for Multimodal EEG Data in Clinical Application | arXiv | [paper](<https://arxiv.org/abs/2501.08585>) | N/A | [13](<https://openalex.org/W4406483015>) |
+| 2025 | Human-Centered Design for AI-based Automatically Generated Assessment Reports: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.00081>) | N/A | [10](<https://openalex.org/W4406052019>) |
+| 2025 | Mitigating Hallucination by Integrating Knowledge Graphs into LLM Inference – a Systematic Literature Review | ACL | [paper](<https://aclanthology.org/2025.acl-srw.53>) | N/A | [9](<https://openalex.org/W4412889428>) |
+| 2025 | A Comprehensive and Systematic Review for Deep Learning-Based De Novo Peptide Sequencing | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1191>) | N/A | [2](<https://openalex.org/W4414360177>) |
+| 2025 | CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization (Abstract Reprint) | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1226>) | N/A | [1](<https://openalex.org/W4414359883>) |
+| 2025 | Exploring the Role of Mental Health Conversational Agents in Training Medical Students and Professionals: A Systematic Literature Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1069>) | N/A | [1](<https://openalex.org/W4412887887>) |
+| 2024 | Navigating AI to Unpack Youth Privacy Concerns: An In-Depth Exploration and Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2412.16369>) | N/A | [40](<https://openalex.org/W4412742116>) |
+| 2024 | From Vulnerabilities to Remediation: A Systematic Literature Review of LLMs in Code Security | arXiv | [paper](<https://arxiv.org/abs/2412.15004>) | N/A | [49](<https://openalex.org/W4405646968>) |
+| 2024 | Decade of Natural Language Processing in Chronic Pain: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2412.15360>) | N/A | [5](<https://openalex.org/W4405713958>) |
+| 2024 | A systematic review of norm emergence in multi-agent systems | arXiv | [paper](<https://arxiv.org/abs/2412.10609>) | N/A | [11](<https://openalex.org/W4405468227>) |
+| 2024 | A Systematic Review of Knowledge Tracing and Large Language Models in Education: Opportunities, Issues, and Future Research | arXiv | [paper](<https://arxiv.org/abs/2412.09248>) | N/A | [20](<https://openalex.org/W4405355204>) |
+| 2024 | Machine Learning Information Retrieval and Summarisation to Support Systematic Review on Outcomes Based Contracting | arXiv | [paper](<https://arxiv.org/abs/2412.08578>) | N/A | [0](<https://openalex.org/W4405309088>) |
+| 2024 | Generative artificial intelligence in fifth-generation education systems: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2412.08666>) | N/A | [64](<https://openalex.org/W4405354185>) |
+| 2024 | Machine learning algorithms to predict the risk of rupture of intracranial aneurysms: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2412.04749>) | N/A | [22](<https://openalex.org/W4404394249>) |
+| 2024 | The ethical landscape of robot-assisted surgery. A systematic review | arXiv | [paper](<https://arxiv.org/abs/2411.11637>) | N/A | [78](<https://openalex.org/W4408174162>) |
+| 2024 | Leveraging AI and NLP for Bank Marketing: A Systematic Review and Gap Analysis | arXiv | [paper](<https://arxiv.org/abs/2411.14463>) | N/A | [13](<https://openalex.org/W4404985444>) |
+| 2024 | Trends, Challenges, and Future Directions in Deep Learning for Glaucoma: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2411.05876>) | N/A | [1](<https://openalex.org/W4404390554>) |
+| 2024 | Collective dynamics in spiking neural networks: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2410.23876>) | N/A | [0](<https://openalex.org/W4404347861>) |
+| 2024 | Promoting Reliable Knowledge about Climate Change: A Systematic Review of Effective Measures to Resist Manipulation on Social Media | arXiv | [paper](<https://arxiv.org/abs/2410.23814>) | N/A | N/A |
+| 2024 | A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification | arXiv | [paper](<https://arxiv.org/abs/2410.22377>) | [code](<https://github.com/FlaGer99/SLR-Spatio-Temporal-GNN.git>) | [47](<https://openalex.org/W4415824512>) ([⭐ 28](<https://github.com/FlaGer99/SLR-Spatio-Temporal-GNN>)) |
+| 2024 | A Systematic Review of Machine Learning in Sports Betting: Techniques, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2410.21484>) | N/A | [11](<https://openalex.org/W4404340766>) |
+| 2024 | A Systematic Review of Machine Learning Approaches for Detecting Deceptive Activities on Social Media: Methods, Challenges, and Biases | arXiv | [paper](<https://arxiv.org/abs/2410.20293>) | N/A | [36](<https://openalex.org/W4404313913>) |
+| 2024 | Large Language Models in Computer Science Education: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2410.16349>) | N/A | [162](<https://openalex.org/W4407681574>) |
 | 2024 | Machine Learning Approaches for Mental Illness Detection on Social Media: A Systematic Review of Biases and Methodological Challenges | arXiv | [paper](<https://arxiv.org/abs/2410.16204>) | N/A | [62](<https://openalex.org/W4407574066>) |
 | 2024 | Whither Bias Goes, I Will Go: An Integrative, Systematic Review of Algorithmic Bias Mitigation | arXiv | [paper](<https://arxiv.org/abs/2410.19003>) | N/A | [36](<https://openalex.org/W4404355635>) |
 | 2024 | Security of Language Models for Code: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2410.15631>) | N/A | [32](<https://openalex.org/W4413105341>) |

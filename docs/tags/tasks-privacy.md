@@ -9,7 +9,7 @@
 
 
 
-**66 surveys · Page 1/1**
+**72 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -70,8 +70,14 @@
 | 2024 | A Multivocal Literature Review on Privacy and Fairness in Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2408.08666>) | N/A | [1](<https://openalex.org/W4402501030>) |
 | 2026 | Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness | arXiv | [paper](<https://arxiv.org/abs/2610.38793>) | N/A | [0](<https://openalex.org/W7221561349>) |
 | 2026 | Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI | arXiv | [paper](<https://arxiv.org/abs/2609.16232>) | N/A | [0](<https://openalex.org/W7213869887>) |
+| 2026 | A Systematic Review of Privacy-Enhancing Technologies (PETs) for Securing Personally Identifiable Information in Public Cloud Architectures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0303.v1>) | N/A | [0](<https://openalex.org/W7127944597>) |
 | 2026 | LLM-Based Agents on the Edge: A Survey of Privacy, Scalability, Heterogeneity, and Autonomy | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/858>) | N/A | [0](<https://openalex.org/W7213434187>) |
 | 2024 | A Novel Review of Stability Techniques for Improved Privacy-Preserving Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2406.00073>) | N/A | [0](<https://openalex.org/W4399354194>) |
+| 2026 | Attacks and Defenses in Differentially Private Deep Learning: New Security Risks in New Era | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1179.v1>) | N/A | N/A |
+| 2026 | Recent Advances in Adversarial Attacks on Model Utility, Privacy, and Explainability: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272853.30003431/v1>) | N/A | N/A |
+| 2026 | Differentially Private Graph Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220347.77114729/v1>) | N/A | N/A |
+| 2026 | Privacy-Preserving LLM Preference Alignment: A Systematic Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978434.43544529/v1>) | N/A | N/A |
+| 2026 | Security and Privacy Challenges in Healthcare Internet of Things Applications in the Era of Agentic AI | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176740429.99079587/v1>) | N/A | N/A |
 | 2025 | A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness | arXiv | [paper](<https://arxiv.org/abs/2510.13890>) | [code](<https://github.com/FairyFali/SLMs-Survey>) | N/A ([⭐ 262](<https://github.com/FairyFali/SLMs-Survey>)) |
 | 2025 | Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives | arXiv | [paper](<https://arxiv.org/abs/2507.14519>) | [code](<https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers>) | N/A ([⭐ 90](<https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers>)) |
 | 2025 | SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation | USS | [paper](<https://www.usenix.org/conference/usenixsecurity25/presentation/chung-yunsung>) | N/A | N/A |

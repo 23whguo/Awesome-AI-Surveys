@@ -9,7 +9,7 @@
 
 [Computer Vision](../categories/06-vision.md)
 
-**42 surveys · Page 1/1**
+**46 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -51,6 +51,10 @@
 | 2025 | Automatic Intermodal Loading Unit Identification using Computer Vision: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2509.17707>) | N/A | [1](<https://openalex.org/W4414749796>) |
 | 2025 | Survey of image processing settings used for mammography systems in the United Kingdom: how variable is it? | arXiv | [paper](<https://arxiv.org/abs/2501.13595>) | N/A | [1](<https://openalex.org/W4399120460>) |
 | 2024 | A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches | arXiv | [paper](<https://arxiv.org/abs/2409.01219>) | N/A | [1](<https://openalex.org/W4402954467>) |
+| 2026 | Microscopy and Image Processing Techniques Using Artificial Intelligence for the Analysis of the Impact of Corrosion in Pipelines in the Oil and Gas Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2196.v1>) | N/A | N/A |
+| 2026 | Light-Assisted Computer Vision for Non-Destructive Assessment of Meat Quality: Intramuscular Fat and Freshness Estimation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0519.v1>) | N/A | N/A |
+| 2026 | Frequency-Informed Vision and Learning: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0650.v1>) | N/A | N/A |
+| 2026 | Interpretable Athlete Performance Modelling in Collegiate Basketball: A Review of Machine Learning and Computer Vision Methods | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177006540.07826863/v1>) | N/A | N/A |
 | 2025 | Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies | arXiv | [paper](<https://arxiv.org/abs/2508.10523>) | N/A | N/A |
 | 2024 | Public Computer Vision Datasets for Precision Livestock Farming: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2406.10628>) | [code](<https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey>) | N/A ([⭐ 39](<https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey>)) |
 | 2024 | Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey | arXiv | [paper](<https://arxiv.org/abs/2402.02941>) | N/A | N/A |

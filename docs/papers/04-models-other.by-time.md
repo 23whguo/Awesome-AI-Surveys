@@ -9,10 +9,12 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.by-time.md)
 
-**16 surveys · Page 1/1**
+**18 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Critical Review of Neural Network Generations and Models Design | Preprints.org | [paper](<https://doi.org/10.20944/preprints202309.1149.v3>) | N/A | [0](<https://openalex.org/W7140043031>) |
+| 2026 | Foundation Neural Operators: A Survey on Pretraining Methods, the Data Ecosystem, and Efficient Adaptation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177100284.48520964/v1>) | N/A | N/A |
 | 2025 | Runtime Safety Monitoring of Deep Neural Networks for Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2511.05982>) | N/A | [3](<https://openalex.org/W7125939786>) |
 | 2025 | A Survey on LUT-based Deep Neural Networks Implemented in FPGAs | arXiv | [paper](<https://arxiv.org/abs/2506.07367>) | N/A | [6](<https://openalex.org/W4417129306>) |
 | 2025 | Restoration of contaminated data in an Intensity Mapping survey using deep neural networks | arXiv | [paper](<https://arxiv.org/abs/2506.06386>) | N/A | [0](<https://openalex.org/W4417116248>) |

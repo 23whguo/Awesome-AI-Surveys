@@ -9,13 +9,13 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**354 surveys · Page 2/2**
+**378 surveys · Page 2/2**
 
 Pages: [1](05-language-llm.md) · 2
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
-| 2026 | Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs | arXiv | [paper](<https://arxiv.org/abs/2601.17058>) | N/A | [13](<https://openalex.org/W7125821617>) |
+| 2026 | Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs | arXiv | [paper](<https://arxiv.org/abs/2601.17058>) | [code](<https://github.com/weAIDB/awesome-data-llm>) | [13](<https://openalex.org/W7125821617>) ([⭐ 834](<https://github.com/OpenDataBox/awesome-data-llm>)) |
 | 2025 | Evaluating Arabic Large Language Models: A Survey of Benchmarks, Methods, and Gaps | arXiv | [paper](<https://arxiv.org/abs/2510.13430>) | N/A | [13](<https://openalex.org/W4415275957>) |
 | 2025 | Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.22920>) | [code](<https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey>) | [13](<https://openalex.org/W7140163338>) ([⭐ 85](<https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey>)) |
 | 2024 | Scaffolded Language Models with Language Supervision for Mixed-Autonomy: A Survey | arXiv | [paper](<https://arxiv.org/abs/2410.16392>) | N/A | [13](<https://openalex.org/W4404260815>) |
@@ -134,7 +134,31 @@ Pages: [1](05-language-llm.md) · 2
 | 2025 | Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ing\'enieurs du Qu\'ebec (OIQ) | arXiv | [paper](<https://arxiv.org/abs/2506.19775>) | N/A | [0](<https://openalex.org/W4413390597>) |
 | 2025 | A Review on Proprietary Accelerators for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.09650>) | N/A | [0](<https://openalex.org/W4416031996>) |
 | 2025 | Towards Reverse Engineering of Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.395>) | N/A | [0](<https://openalex.org/W4416034973>) |
+| 2026 | End-Edge-Cloud Collaborative Inference for Efficient Large Language Model Services: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0101.v1>) | N/A | N/A |
+| 2026 | Evaluating Quantized Language Model Inference a Critical Review of Quality Memory and Workload Tradeoffs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2733.v1>) | N/A | N/A |
+| 2026 | Large Language Models in Product Design: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2847.v1>) | N/A | N/A |
+| 2026 | Towards Next-Generation Architectures of Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1532.v1>) | N/A | N/A |
+| 2026 | Dissecting Deception in Large Language Models: Mechanisms, Behaviours, and Detection | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0808.v1>) | N/A | N/A |
+| 2026 | Towards In-Parameter Memory Augmentation for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2610.08630>) | [code](<https://github.com/HKUST-KnowComp/Awesome-In-Parameter-Memory>) | N/A ([⭐ 8](<https://github.com/HKUST-KnowComp/Awesome-In-Parameter-Memory>)) |
+| 2026 | A Comprehensive Survey of LLM-Driven Collective Intelligence: Past, Present, and Future | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2069.v1>) | N/A | N/A |
+| 2026 | Are Graphs Useful for LLMs? A Comprehensive Survey of Graph-Enhanced Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1277.v1>) | [code](<https://github.com/BUPT-GAMMA/Awesome-Graph4LLM>) | N/A ([⭐ 11](<https://github.com/BUPT-GAMMA/Awesome-Graph4LLM>)) |
+| 2026 | Semantic Data Processing with Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1168.v1>) | N/A | N/A |
+| 2026 | The Rules of the Game: A Survey of Rubrics for Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0565.v1>) | N/A | N/A |
+| 2026 | Memory for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2607.25380>) | N/A | N/A |
+| 2026 | A Systematic Review of Large Language Models, 2017 to 2026 | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0296.v1>) | N/A | N/A |
+| 2026 | Large Language Models at Population Scale: A Survey and Taxonomy of Public Health Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2099.v1>) | N/A | N/A |
+| 2026 | From Parameters to Behaviors: A Survey of Model Fusion for Large Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.722>) | [code](<https://github.com/Baicaihaochi/Awesome-Model-Fusion-Survey>) | N/A ([⭐ 4](<https://github.com/Baicaihaochi/Awesome-Model-Fusion-Survey>)) |
 | 2026 | Exploring the Role of LLMs in HPC Programming: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.26110>) | N/A | N/A |
+| 2026 | Augmenting Large Language Models with External Data Sources: A Systematic Review of Methodologies, Performance Metrics, and Information Fidelity | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0717.v1>) | N/A | N/A |
+| 2026 | LLMs in the Loop: A Survey of Language-Driven Driver Monitoring and Assistance Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0903.v1>) | N/A | N/A |
+| 2026 | Hardware Accelerators for Softmax in Large Language Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177208047.71459791/v1>) | N/A | N/A |
+| 2026 | Graphs for LLMs: A Survey of Graph-Assisted Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177162088.88045561/v1>) | N/A | N/A |
+| 2026 | LLM Security in Cloud-Native Architectures: A Comprehensive Survey of Attacks, Defenses, and Operational Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177130593.35890269/v1>) | N/A | N/A |
+| 2026 | Accelerating Inference in Diffusion Large Language Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177102145.58136415/v1>) | N/A | N/A |
+| 2026 | Graph4LLM: A Systematic Survey of Graph-Enhanced Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/902>) | N/A | N/A |
+| 2026 | A Survey of Social Intelligence Dimensions in Large Language Models through Social Deduction Games | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177015965.51417376/v1>) | N/A | N/A |
+| 2026 | Quantum Computing Meets Large Language Models: Insights, Challenges, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004376.69666864/v1>) | N/A | N/A |
+| 2026 | Large Language Models for Interpreting the Earth: A New Paradigm from Perception to Decision Intelligence | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176857876.68610969/v1>) | N/A | N/A |
 | 2025 | The Social Gaze of LLMs: A Literature Review of Multimodal Approaches to Human Behavior Understanding | arXiv | [paper](<https://arxiv.org/abs/2510.23947>) | N/A | N/A |
 | 2025 | A Survey on LLM Mid-Training | arXiv | [paper](<https://arxiv.org/abs/2510.23081>) | N/A | N/A |
 | 2025 | Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications | arXiv | [paper](<https://arxiv.org/abs/2510.21131>) | N/A | N/A |

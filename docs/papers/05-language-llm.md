@@ -9,7 +9,7 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**354 surveys · Page 1/2**
+**378 surveys · Page 1/2**
 
 Pages: 1 · [2](05-language-llm-2.md)
 
@@ -151,7 +151,7 @@ Pages: 1 · [2](05-language-llm-2.md)
 | 2025 | Mid-Training of Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.06826>) | N/A | [34](<https://openalex.org/W4415317404>) |
 | 2025 | Attack and defense techniques in large language models: A survey and new perspectives | arXiv | [paper](<https://arxiv.org/abs/2505.00976>) | N/A | [34](<https://openalex.org/W4416822368>) |
 | 2024 | A Survey of Sustainability in Large Language Models: Applications, Economics, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2412.04782>) | N/A | [34](<https://openalex.org/W4409116517>) |
-| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | N/A | [33](<https://openalex.org/W7130824376>) |
+| 2026 | Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2603.04445>) | [code](<https://github.com/ymoslem/awesome-llm-routing-cascading>) | [33](<https://openalex.org/W7130824376>) ([⭐ 4](<https://github.com/ymoslem/awesome-llm-routing-cascading>)) |
 | 2025 | Taxonomy, Opportunities, and Challenges of Representation Engineering for Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.19649>) | N/A | [33](<https://openalex.org/W4415313826>) |
 | 2024 | Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution | arXiv | [paper](<https://arxiv.org/abs/2408.10548>) | [code](<https://github.com/lanxiang1017/Language-Modeling-on-Tabular-Data-Survey.git>) | [33](<https://openalex.org/W4403007100>) ([⭐ 34](<https://github.com/lanxiang1017/Language-Modeling-on-Tabular-Data-Survey>)) |
 | 2024 | Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies | arXiv | [paper](<https://arxiv.org/abs/2403.03699>) | N/A | [33](<https://openalex.org/W4392576237>) |

@@ -9,12 +9,20 @@
 
 [Computer Vision](../categories/06-vision.by-time.md)
 
-**31 surveys · Page 1/1**
+**39 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications | arXiv | [paper](<https://arxiv.org/abs/2607.25642>) | N/A | [0](<https://openalex.org/W7134051737>) |
+| 2026 | Consistency in Diffusion-Based Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0870.v1>) | N/A | N/A |
 | 2026 | Advances in Neural 3D Mesh Texturing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2606.00137>) | N/A | [1](<https://openalex.org/W7160083806>) |
+| 2026 | Character Design and Animation in RPG-Based Games: A Comprehensive Review of Traditional and AI-Driven Pipelines | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0296.v1>) | N/A | N/A |
+| 2026 | Video Generation Models: A Survey of Post-Training and Alignment | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220111.17351887/v1>) | [code](<https://github.com/CyL97/Awesome-Video-Generation-Post-Training>) | N/A ([⭐ 215](<https://github.com/people-robots/Awesome-Video-Generation-Post-Training>)) |
+| 2026 | A Survey of Human Motion Style Based on Physical Perception: Definitions, Causal Taxonomy, and Generative Paradigms | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177160637.72794468/v1>) | N/A | N/A |
+| 2026 | Human-Centric Content Generation with Diffusion Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138906.63173113/v1>) | N/A | N/A |
+| 2026 | Video Editing Meets Diffusion Models: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177129952.23796356/v1>) | N/A | N/A |
+| 2026 | A Survey on Thinking in Visual Generation: Reasoning, Planning, and Cognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964121.13450493/v1>) | N/A | N/A |
+| 2026 | A Survey of Generative Video Models as Visual Reasoners | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176857888.84304881/v1>) | N/A | N/A |
 | 2026 | Controllable Generation With Text-to-Image Diffusion Models: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3646548>) | [code](<https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models>) | [113](<https://openalex.org/W4417508717>) ([⭐ 1,111](<https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models>)) |
 | 2026 | A Survey on Human Interaction Motion Generation | IJCV | [paper](<https://doi.org/10.1007/s11263-025-02582-5>) | [code](<https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation>) | [20](<https://openalex.org/W4417286512>) ([⭐ 324](<https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation>)) |
 | 2026 | A Comprehensive Survey of Interaction Techniques in 3D Scene Generation | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/878>) | N/A | [19](<https://openalex.org/W7213410964>) |

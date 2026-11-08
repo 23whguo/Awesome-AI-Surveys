@@ -9,11 +9,12 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**21 surveys · Page 1/1**
+**22 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | A Systematic Survey on Event Camera Representation Learning | arXiv | [paper](<https://arxiv.org/abs/2606.23078>) | N/A | [4](<https://openalex.org/W7165678992>) |
+| 2026 | A Survey on Behavioral Data Representation Learning | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945766.69882506/v1>) | N/A | N/A |
 | 2026 | Representation Learning for Tabular Data: A Comprehensive Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2026.3657217>) | [code](<https://github.com/lamda-tabular/tabular-survey>) | [74](<https://openalex.org/W7126150968>) ([⭐ 143](<https://github.com/LAMDA-Tabular/Tabular-Survey>)) |
 | 2025 | A Tutorial-cum-Survey on Self-Supervised Learning for Wi-Fi Sensing: Trends, Challenges, and Outlook | arXiv | [paper](<https://arxiv.org/abs/2506.12052>) | N/A | [25](<https://openalex.org/W4412030422>) |
 | 2025 | A Survey on Self-supervised Contrastive Learning for Multimodal Text-Image Analysis | arXiv | [paper](<https://arxiv.org/abs/2503.11101>) | N/A | [16](<https://openalex.org/W4417282521>) |

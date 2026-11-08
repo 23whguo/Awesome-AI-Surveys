@@ -9,16 +9,26 @@
 
 [Learning Theory & Methods](../categories/02-learning.by-time.md)
 
-**71 surveys · Page 1/1**
+**81 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Transfer Learning for Quality Optimization in Laser and Electron Beam Powder Bed Fusion (PBF-LB/EB) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0449.v1>) | N/A | N/A |
 | 2026 | Integrating Machine Learning and Uncertainty Quantification for Real-Time Decision-Making in Digital Twins: A System-Centric Review and Perspective | arXiv | [paper](<https://arxiv.org/abs/2611.04269>) | N/A | [0](<https://openalex.org/W7225266437>) |
+| 2026 | Quantum Machine Learning for Anomaly Detection: Algorithms, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2472.v1>) | N/A | N/A |
 | 2026 | Data Optimization for LLMs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.33405>) | N/A | [0](<https://openalex.org/W4410534250>) |
+| 2026 | Quantum Machine Learning and Quantum-Assisted Artificial Intelligence Applications in Orthopedics and Medicine: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0570.v1>) | N/A | N/A |
 | 2026 | Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026) | arXiv | [paper](<https://arxiv.org/abs/2607.14035>) | N/A | [14](<https://openalex.org/W7169212596>) |
 | 2026 | A Short Review of Estimators for the GLM predictive of Laplace Bayesian Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2607.00214>) | N/A | [0](<https://openalex.org/W7167016932>) |
+| 2026 | Kubernetes Resource Optimization Using Machine Learning: A Comprehensive Review of Widely Used Techniques | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1718.v1>) | N/A | N/A |
 | 2026 | Feature Encoding in Quantum Machine Learning: A Survey and Practical Guidelines | arXiv | [paper](<https://arxiv.org/abs/2606.05387>) | N/A | [3](<https://openalex.org/W7163710496>) |
 | 2026 | A Survey on Data-Dependent Worst-Case Generalization Bounds | arXiv | [paper](<https://arxiv.org/abs/2605.13913>) | N/A | [0](<https://openalex.org/W7161309002>) |
+| 2026 | Next-Generation Smart Campus Dining: A Survey of Real-Time Resource Allocation, LLM-Driven Menu Optimization, and Access Control Paradigms | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0379.v1>) | N/A | N/A |
+| 2026 | From Grid Search to Modern Deterministic Ideas: A Brief Review of Hyper-Parameter Optimisation in Deep and Foundation Model Era | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2300.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Outdoor Thermal Comfort Assessment and Optimization: Methods, Applications and Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0159.v1>) | N/A | [3](<https://openalex.org/W7134042519>) |
+| 2026 | From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2601.15690>) | N/A | N/A |
+| 2026 | Towards Automated Kernel Generation in the Era of LLMs | arXiv | [paper](<https://arxiv.org/abs/2601.15727>) | [code](<https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation>) | N/A ([⭐ 328](<https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation>)) |
+| 2026 | TOWARDS AUTOMATED KERNEL GENERATION IN THE ERA OF LLMS: A SURVEY | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176823161.17166322/v1>) | N/A | N/A |
 | 2026 | A Comprehensive Survey on Evidential Deep Learning and its Applications | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3625258>) | [code](<https://github.com/mengyuanchen21/awesome-evidential-deep-learning>) | [72](<https://openalex.org/W4415554422>) ([⭐ 192](<https://github.com/MengyuanChen21/Awesome-Evidential-Deep-Learning>)) |
 | 2026 | A Review of Uncertainty Representation and Quantification in Neural Networks | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3626645>) | N/A | [10](<https://openalex.org/W4415695997>) |
 | 2026 | A Survey on Machine Learning-Based HPC I/O Analysis and Optimization | TPDS | [paper](<https://doi.org/10.1109/TPDS.2025.3639682>) | N/A | [2](<https://openalex.org/W4416965758>) |

@@ -9,7 +9,7 @@
 
 [Model Architectures & Generative Modeling](../categories/04-models.md)
 
-**28 surveys · Page 1/1**
+**31 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -36,6 +36,9 @@
 | 2026 | Recent Developments in Transformer Inference Deployment on FPGA Platforms: A Survey | arXiv | [paper](<https://arxiv.org/abs/2609.01212>) | N/A | [2](<https://openalex.org/W7161142939>) |
 | 2026 | The Rise of Sparse Mixture-of-Experts: A Survey from Algorithmic Foundations to Decentralized Architectures and Vertical Domain Applications | arXiv | [paper](<https://arxiv.org/abs/2602.08019>) | N/A | [2](<https://openalex.org/W4417422768>) |
 | 2025 | Transformer-based Spatial Grounding: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.12739>) | N/A | [0](<https://openalex.org/W4415309705>) |
+| 2026 | Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1404.v1>) | N/A | N/A |
+| 2026 | What Makes a Transformer Solve the TSP? A Component-Wise Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0484.v1>) | N/A | N/A |
+| 2026 | A Survey of Linear Attention: Algorithm, Theory, Application, and Infrastructure | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177032877.70562626/v1>) | [code](<https://github.com/btzyd/Awesome-Linear-Attention-Survey>) | N/A ([⭐ 15](<https://github.com/btzyd/Awesome-Linear-Attention-Survey>)) |
 | 2025 | From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins | arXiv | [paper](<https://arxiv.org/abs/2506.06359>) | N/A | N/A |
 | 2025 | A Survey on Transformer Context Extension: Approaches and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2503.13299>) | N/A | N/A |
 | 2025 | A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications | arXiv | [paper](<https://arxiv.org/abs/2503.07137>) | N/A | N/A |

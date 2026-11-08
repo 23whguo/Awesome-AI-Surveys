@@ -9,7 +9,7 @@
 
 
 
-**83 surveys · Page 1/1**
+**111 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -55,6 +55,7 @@
 | 2026 | A Scoping Review of Large Language Model-Based Pedagogical Agents | arXiv | [paper](<https://arxiv.org/abs/2604.12253>) | N/A | [6](<https://openalex.org/W7154500473>) |
 | 2026 | A Scoping Review of LLM-as-a-Judge in Healthcare and the MedJUDGE Framework | arXiv | [paper](<https://arxiv.org/abs/2604.25933>) | N/A | [5](<https://openalex.org/W7159002155>) |
 | 2026 | Artificial Intelligence and Cost Reduction in Public Higher Education: A Scoping Review of Emerging Evidence | arXiv | [paper](<https://arxiv.org/abs/2604.04741>) | N/A | [4](<https://openalex.org/W7151626899>) |
+| 2026 | The Convergence of Federated Learning, Knowledge Graphs, and Large Language Models for Language Learning: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1584.v1>) | N/A | [4](<https://openalex.org/W7134275396>) |
 | 2025 | Toward Responsible ASR for African American English Speakers: A Scoping Review of Bias and Equity in Speech Technology | arXiv | [paper](<https://arxiv.org/abs/2508.18288>) | N/A | [4](<https://openalex.org/W4415230849>) |
 | 2025 | Natural Language Processing in Support of Evidence-based Medicine: A Scoping Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1103>) | N/A | [4](<https://openalex.org/W4412887840>) |
 | 2026 | What Shapes Participant Data Quality? A Scoping Review and Case Study of Crowdsourced Webcam Eye Tracking in AI Interviews | arXiv | [paper](<https://arxiv.org/abs/2605.02898>) | N/A | [3](<https://openalex.org/W7160537857>) |
@@ -70,6 +71,7 @@
 | 2026 | A Scoping Review of Physics Informed Machine Learning for Wave Propagation Modeling in Seismology | arXiv | [paper](<https://arxiv.org/abs/2607.00178>) | N/A | [1](<https://openalex.org/W7167042043>) |
 | 2026 | Survey-aware Machine Learning: A Guideline for Valid Population Health Inference based on Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2605.08963>) | N/A | [1](<https://openalex.org/W7160907321>) |
 | 2026 | A Scoping Review of Deep Learning for Urban Visual Pollution and Proposal of a Real-Time Monitoring Framework with a Visual Pollution Index | arXiv | [paper](<https://arxiv.org/abs/2602.09446>) | N/A | [1](<https://openalex.org/W7128631594>) |
+| 2026 | An Overview of Existing Applications of Artificial Intelligence in Histopathological Diagnostics of Lymphoma: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1263.v1>) | N/A | [1](<https://openalex.org/W7136335564>) |
 | 2026 | Clinical Document Metadata Extraction: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2601.09730>) | N/A | [1](<https://openalex.org/W7155162547>) |
 | 2025 | Automatic Intermodal Loading Unit Identification using Computer Vision: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2509.17707>) | N/A | [1](<https://openalex.org/W4414749796>) |
 | 2026 | A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration | arXiv | [paper](<https://arxiv.org/abs/2610.09891>) | N/A | [0](<https://openalex.org/W7221021311>) |
@@ -84,9 +86,35 @@
 | 2026 | Aligning Stuttered-Speech Research with End-User Needs: Scoping Review, Survey, and Guidelines | INTERSPEECH | [paper](<https://doi.org/10.21437/Interspeech.2026-1704>) | N/A | [0](<https://openalex.org/W7155396021>) |
 | 2026 | Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems | arXiv | [paper](<https://arxiv.org/abs/2604.15078>) | N/A | [0](<https://openalex.org/W7154680839>) |
 | 2026 | An Underexplored Frontier: Large Language Models for Rare Disease Patient Education and Communication -- A scoping review | arXiv | [paper](<https://arxiv.org/abs/2604.14179>) | N/A | [0](<https://openalex.org/W7154681516>) |
+| 2026 | Conversational AI Agents in Physical Rehabilitation: A Scoping Review of Design, Applications, and Future Directions for Greek Physiotherapy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1769.v1>) | N/A | [0](<https://openalex.org/W7131902400>) |
+| 2026 | Documenting Concordance: A Scoping Review of NLP and Text Mining in Oncology EHR Narratives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0751.v1>) | N/A | [0](<https://openalex.org/W7128644379>) |
 | 2026 | Uncertainty in visibility: a scoping review of the probable and fuzzy viewshed for observer location optimization | IJGIS | [paper](<https://doi.org/10.1080/13658816.2025.2581833>) | N/A | [0](<https://openalex.org/W4416392335>) |
 | 2025 | Show Your Title! A Scoping Review on Verbalization in Software Engineering with LLM-Assisted Screening | arXiv | [paper](<https://arxiv.org/abs/2510.12294>) | N/A | [0](<https://openalex.org/W4415269887>) |
+| 2026 | Artificial Intelligence and Sustainable Entrepreneurship in Territorial Innovation Ecosystems: A Scoping Review of Actors, Pathways and Gaps | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0002.v1>) | N/A | N/A |
+| 2026 | LLM-Based Agentic AI in Manufacturing: A Scoping Review of Applications, System Designs and Evaluation Practices | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2479.v1>) | N/A | N/A |
+| 2026 | Cold-Start and Skill-Aware Job Recommender Systems: A Scoping Review of Data, Models, and Evaluation Evidence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2100.v1>) | N/A | N/A |
+| 2026 | Positioning MBSE System Architectures in the Agent Harness Towards Automated Product Development: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2028.v1>) | N/A | N/A |
+| 2026 | Academic Integrity in the Age of Artificial Intelligence: A Scoping Review (2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1305.v1>) | N/A | N/A |
 | 2026 | What Can Component-Replacement Evidence Establish? A Critical Scoping Review of Local Decisions in LLM Agents | arXiv | [paper](<https://arxiv.org/abs/2609.39989>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Climate Change Adaptation in Sustainable Maize Production and Socioeconomic Development in South Africa: A Comprehensive Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1940.v1>) | N/A | N/A |
+| 2026 | Computational Approaches to Cyber-Syndrome: A Scoping Review with Considerations for Adolescent Mental Health | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0218.v1>) | N/A | N/A |
+| 2026 | Metadata-Based Methods to Generate Synthetic Health Data: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1328.v1>) | N/A | N/A |
+| 2026 | Efficient Large Language Models in Biomedicine: A Scoping Review of Techniques, Applications, and Clinical Deployment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1248.v1>) | N/A | N/A |
+| 2026 | Bridging the Implementation Gap: Artificial Intelligence in Periodontology from Proof-of-Concept to Clinical Governance-A Systematic Scoping Review with Evidence from Kazakhstan | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1841.v1>) | N/A | N/A |
+| 2026 | Machine Learning for Heatwave Prediction: A Global Scoping Review of Environmental Predictors and Modelling Practices | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1485.v1>) | N/A | N/A |
+| 2026 | The Role of Generative Artificial Intelligence for Scientific Writing: A Scoping Review of Empirical Evidence (2023-2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1200.v1>) | N/A | N/A |
+| 2026 | Conditional Acceptance and the Optimism–Knowledge Gap: A Scoping Review of Attitudes and Perceptions of Artificial Intelligence in Healthcare in Italy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1210.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Tools in Pre-Travel Health Consultations: A Scoping Review of Clinical Evidence, Implementation Gaps, and Emerging Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0838.v1>) | N/A | N/A |
+| 2026 | Generative AI, Cognitive Offloading, and Learner Agency in Higher Education: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0881.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for the Detection of Small Bowel Lesions and Its Potential Implications for Neoplasia Detection: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0744.v1>) | N/A | N/A |
+| 2026 | Scoping Review of Recent Trends and Challenges in Artificial Intelligence Based Medical Ultrasound Denoising | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0030.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence, Sustainability, and the Development of Mathematical Thinking: A Theory-Grounded Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2391.v1>) | N/A | N/A |
+| 2026 | Informed Consent in Artificial Intelligence-Augmented Dentistry: Clinical Care, Research, and the Dentist–Patient–AI Relationship: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1787.v1>) | N/A | N/A |
+| 2026 | Generative Artificial Intelligence in the Energy Transition: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1432.v1>) | N/A | N/A |
+| 2026 | The Use of Artificial Intelligence in Tuberculosis Care: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1199.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Assessing Maximum Oxygen Consumption: Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1018.v1>) | N/A | N/A |
+| 2026 | Toward Human-Robot Sharing Space: A Conceptual Framework and Scoping Review of Spatial Design Knowledge | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0312.v1>) | N/A | N/A |
+| 2026 | Deep Learning for Predicting Cardiac Procedure Outcomes: a Scoping Review of Recent Advance | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176800927.72032896/v1>) | N/A | N/A |
 | 2025 | Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review | arXiv | [paper](<https://arxiv.org/abs/2503.19626>) | N/A | N/A |
 | 2025 | AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol | arXiv | [paper](<https://arxiv.org/abs/2503.07540>) | N/A | N/A |
 | 2025 | The order in speech disorder: a scoping review of state of the art machine learning methods for clinical speech classification | arXiv | [paper](<https://arxiv.org/abs/2503.04802>) | N/A | N/A |

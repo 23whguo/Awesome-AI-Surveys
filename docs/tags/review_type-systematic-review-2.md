@@ -9,12 +9,15 @@
 
 
 
-**306 surveys · Page 2/2**
+**395 surveys · Page 2/2**
 
 Pages: [1](review_type-systematic-review.md) · 2
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2024 | Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation | SIGIR | [paper](<https://doi.org/10.1145/3626772.3657921>) | [code](<https://github.com/ielab/dense-screening-feedback>) | [5](<https://openalex.org/W4400531211>) ([⭐ 3](<https://github.com/ielab/dense-screening-feedback>)) |
+| 2026 | Large Language Models for Web Accessibility: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2605.13873>) | N/A | [4](<https://openalex.org/W7163129606>) |
+| 2026 | Machine Learning on the Edge for Sustainable IoT Networks: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2601.11326>) | N/A | [4](<https://openalex.org/W4417279878>) |
 | 2025 | Machine learning for violence prediction: a systematic review and critical appraisal | arXiv | [paper](<https://arxiv.org/abs/2511.23118>) | N/A | [4](<https://openalex.org/W4416951125>) |
 | 2025 | Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1246>) | N/A | [4](<https://openalex.org/W4412944675>) |
 | 2025 | Conditional Diffusion Models for CT Image Synthesis from CBCT: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2509.17790>) | N/A | [4](<https://openalex.org/W4415255187>) |
@@ -25,6 +28,8 @@ Pages: [1](review_type-systematic-review.md) · 2
 | 2026 | LLM-Assisted Empirical Software Engineering: Systematic Literature Review and Research Agenda | arXiv | [paper](<https://arxiv.org/abs/2604.26192>) | N/A | [3](<https://openalex.org/W7158894149>) |
 | 2026 | A Systematic Review and Taxonomy of Reinforcement Learning-Model Predictive Control Integration for Linear Systems | arXiv | [paper](<https://arxiv.org/abs/2604.21030>) | N/A | [3](<https://openalex.org/W7155552815>) |
 | 2026 | Benchmarking Federated Learning in Edge Computing Environments: A Systematic Review and Performance Evaluation | arXiv | [paper](<https://arxiv.org/abs/2603.08735>) | N/A | [3](<https://openalex.org/W7133323550>) |
+| 2026 | Green AI: Systematic Review and Guidelines for Sustainability in Artificial Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0411.v1>) | N/A | [3](<https://openalex.org/W7128396520>) |
+| 2026 | Modeling Holiday Effect on Retail Demand Forecasting: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0840.v1>) | N/A | [3](<https://openalex.org/W7123361302>) |
 | 2026 | A Deep Dive into Feature Engineering and Class Imbalance in Customer Purchase Prediction: A Systematic Literature Review | MLJ | [paper](<https://doi.org/10.1007/s10994-025-06991-y>) | N/A | [3](<https://openalex.org/W7132831471>) |
 | 2026 | Agentic Recommender Systems: A Systematic Literature Review | TSE | [paper](<https://doi.org/10.1109/TSE.2026.3657900>) | N/A | [3](<https://openalex.org/W7125834859>) |
 | 2025 | Reinforcement Learning in Financial Decision Making: A Systematic Review of Performance, Challenges, and Implementation Strategies | arXiv | [paper](<https://arxiv.org/abs/2512.10913>) | N/A | [3](<https://openalex.org/W4417297095>) |
@@ -33,6 +38,8 @@ Pages: [1](review_type-systematic-review.md) · 2
 | 2025 | AI in Computational Thinking Education in Higher Education: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.09677>) | N/A | [3](<https://openalex.org/W4411374883>) |
 | 2025 | Machine Learning in Micromobility: A Systematic Review of Datasets, Techniques, and Applications | arXiv | [paper](<https://arxiv.org/abs/2508.16135>) | N/A | [3](<https://openalex.org/W4417058200>) |
 | 2026 | Brain-inspired AI for Edge Intelligence: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2603.26722>) | N/A | [2](<https://openalex.org/W7147354165>) |
+| 2026 | Bridging Technology and Nutrition: A Systematic Review of AI and XR Applications for Nutritional Insights in Restaurants and Foodservice Operations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1590.v1>) | N/A | [2](<https://openalex.org/W7156099876>) |
+| 2026 | Artificial Intelligence and Machine Learning in Pharmacovigilance: A Systematic Review of Models for Drug Safety in Polypharmacy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0477.v1>) | N/A | [2](<https://openalex.org/W7128365332>) |
 | 2026 | From Human Pragmatic Language Skills to Conversational Agent Design: A Systematic Review of Transfer Strategies | CHI | [paper](<https://doi.org/10.1145/3772318.3792787>) | N/A | [2](<https://openalex.org/W7154051631>) |
 | 2026 | Safety of Large Language Models Beyond English: A Systematic Literature Review of Risks, Biases, and Safeguards | EACL | [paper](<https://aclanthology.org/2026.eacl-long.44>) | N/A | [2](<https://openalex.org/W7140105078>) |
 | 2025 | Leveraging LLMs for Title and Abstract Screening for Systematic Review: A Cost-Effective Dynamic Few-Shot Learning Approach | arXiv | [paper](<https://arxiv.org/abs/2512.11261>) | N/A | [2](<https://openalex.org/W7167700814>) |
@@ -65,6 +72,7 @@ Pages: [1](review_type-systematic-review.md) · 2
 | 2024 | Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2406.06041>) | N/A | [1](<https://openalex.org/W4399554010>) |
 | 2026 | Operationalizing Responsible AI in MLOps and ML Production: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2611.06961>) | N/A | [0](<https://openalex.org/W7225430223>) |
 | 2026 | Security in LLM-Assisted Coding: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2610.15482>) | N/A | [0](<https://openalex.org/W7221749344>) |
+| 2026 | Artificial Intelligence-Aided Digital Twin Design: A Systematic Review and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202408.2063.v2>) | N/A | [0](<https://openalex.org/W7204752271>) |
 | 2026 | Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2608.21449>) | N/A | [0](<https://openalex.org/W7204185602>) |
 | 2026 | Energy Efficient AI-Enabled Wireless Sensor Networks for Mission Critical Environments: A Systematic Review across Smart Grid, AI, and Urban Infrastructure Applications | arXiv | [paper](<https://arxiv.org/abs/2608.04499>) | N/A | [0](<https://openalex.org/W7196927746>) |
 | 2026 | Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap | arXiv | [paper](<https://arxiv.org/abs/2608.02699>) | N/A | [0](<https://openalex.org/W7172538308>) |
@@ -84,6 +92,9 @@ Pages: [1](review_type-systematic-review.md) · 2
 | 2026 | Is it Cake or is it AI? A Systematic Review of Human Uncertainty in Distinguishing Generative Artificial Intelligence Content | arXiv | [paper](<https://arxiv.org/abs/2604.03437>) | N/A | [0](<https://openalex.org/W7151479837>) |
 | 2026 | Machine Learning Models for the Early Detection of Burnout in Software Engineering: a Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2603.23063>) | N/A | [0](<https://openalex.org/W7140302873>) |
 | 2026 | Silent Speech Interfaces in the Era of Large Language Models: A Comprehensive Taxonomy and Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2603.11877>) | N/A | [0](<https://openalex.org/W7135233519>) |
+| 2026 | The Role of Artificial Intelligence in the Automated Assessment of Progressive Neurological Disorders with Speech Signals: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1172.v1>) | N/A | [0](<https://openalex.org/W7129027945>) |
+| 2026 | A Systematic Review of Privacy-Enhancing Technologies (PETs) for Securing Personally Identifiable Information in Public Cloud Architectures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0303.v1>) | N/A | [0](<https://openalex.org/W7127944597>) |
+| 2026 | A Systematic Review of Reinforcement Learning for Dynamic Risk Assessment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2192.v1>) | N/A | [0](<https://openalex.org/W7125918953>) |
 | 2026 | Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound Plane Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2601.00990>) | N/A | [0](<https://openalex.org/W7118889148>) |
 | 2026 | A Systematic Literature Review of Distributed Multi-Agent Task Allocation: Core Dimensions, Their Interrelationships, and a Repository | TPDS | [paper](<https://doi.org/10.1109/TPDS.2026.3694097>) | N/A | [0](<https://openalex.org/W7161573740>) |
 | 2026 | A Systematic Review of Analogy Generation and Evaluation: Methods, Metrics, and Challenges | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.463>) | N/A | [0](<https://openalex.org/W7224516224>) |
@@ -95,6 +106,84 @@ Pages: [1](review_type-systematic-review.md) · 2
 | 2024 | Machine Learning Information Retrieval and Summarisation to Support Systematic Review on Outcomes Based Contracting | arXiv | [paper](<https://arxiv.org/abs/2412.08578>) | N/A | [0](<https://openalex.org/W4405309088>) |
 | 2024 | Collective dynamics in spiking neural networks: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2410.23876>) | N/A | [0](<https://openalex.org/W4404347861>) |
 | 2018 | Improving Systematic Review Creation With Information Retrieval | SIGIR | [paper](<https://doi.org/10.1145/3209978.3210226>) | N/A | [0](<https://openalex.org/W2798484899>) |
+| 2026 | Human-AI collaboration and Explainability in Manufacturing Operations: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0263.v1>) | N/A | N/A |
+| 2026 | Explainable AI Driven Frameworks for Real Time Cyber Threat Detection and Response: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0090.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Tools for Attention Deficit/Hyperactivity Disorder Classification | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.3065.v1>) | N/A | N/A |
+| 2026 | The Bench-to-Bedside Journey of Deep Learning in Dermato-Oncology: A Systematic Review of Clinical Readiness Across the Translational Continuum | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.3057.v1>) | N/A | N/A |
+| 2026 | Creative Assignments and Who Gets Left Behind: A Systematic Review of Inclusion Readiness in Generative AI Teaching Practices in Business and Technology Higher Education | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2780.v1>) | N/A | N/A |
+| 2026 | Generative AI in Construction Safety: A Systematic Literature Review of Methods, Evidence, Deployment Gaps, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1503.v1>) | N/A | N/A |
+| 2026 | Assessment in the Age of Generative AI: Academic Integrity, Authentic Learning and Assessment Design in Tanzanian Universities — A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1376.v1>) | N/A | N/A |
+| 2026 | AI-Based Methods for Geomechanical Containment-Risk Assessment in Geological CO₂ Storage: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0553.v1>) | N/A | N/A |
+| 2026 | Quantum Machine Learning and Quantum-Assisted Artificial Intelligence Applications in Orthopedics and Medicine: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0570.v1>) | N/A | N/A |
+| 2026 | Reliability in Emotion Classification, Sentiment Analysis, and AI-Generated Text Detection: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2665.v1>) | N/A | N/A |
+| 2026 | Evaluation of Systematic Review Methodological Quality with Large Language Models Versus Human Reviewers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1913.v1>) | N/A | N/A |
+| 2026 | Large Language Models for African Languages: Systematic Review of Adaptation Strategies, Evaluation Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1768.v1>) | N/A | N/A |
+| 2026 | The Impact of Artificial Intelligence on Education: Opportunities, Challenges, and the Future of Learning in Developing Countries: A Bangladesh-Focused Systematic Critical Literature Review and the Socio-Technical AI Integration Framework (STAIF) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1833.v1>) | N/A | N/A |
+| 2026 | Domain Adaptation and Annotation Efficiency in Remote-Sensing LULC Mapping: A Systematic Review of Active Learning and Vision–Language Models and a Conceptual Framework for the Brazilian Cerrado | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1534.v1>) | N/A | N/A |
+| 2026 | The Rise of Agentic AI in Enterprise Data Workflows: A Systematic Review of Architectures, Applications, and Research Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1481.v1>) | N/A | N/A |
+| 2026 | Moving Explanations Closer to Humans: A Systematic Review of Comparisons of Explainable AI Implementations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0440.v1>) | N/A | N/A |
+| 2026 | Investigation on AI-Based Deflector-Controlled Vertical Axis Wind Turbine a Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2291.v1>) | N/A | N/A |
+| 2026 | A Systematic Review and Unified Framework for Predictive Maintenance in the Railway Domain | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1830.v1>) | N/A | N/A |
+| 2026 | LLM-Based Agents for Cybersecurity: A Systematic Review of Architectures, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1600.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Advancing Quality Education: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1402.v1>) | N/A | N/A |
+| 2026 | Multimodal Artificial Intelligence for Pneumonia Prognosis and Clinical Deterioration: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1307.v1>) | N/A | N/A |
+| 2026 | Talking Face Generation in Socio-Technical Systems: A Systematic Review of Deep Learning Architectures, Deployment Contexts, and Governance Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1135.v1>) | N/A | N/A |
+| 2026 | Neuro-Symbolic AI in Education: A Systematic Literature Review of Architectures, Pedagogical Integration, and Trustworthy Intelligent Learning Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0506.v1>) | N/A | N/A |
+| 2026 | Adaptive Neural Networks for Remote Sensing Imagery: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0448.v1>) | N/A | N/A |
+| 2026 | Geospatial Artificial Intelligence in Precision Agriculture: A Systematic Review of Applications, Multimodal Data Integration, and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0386.v1>) | N/A | N/A |
+| 2026 | Advances in Sleep Stage Detection Using Wearable Physiological Signals: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1006.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Large Language Models, 2017 to 2026 | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0296.v1>) | N/A | N/A |
+| 2026 | Generative AI in Industrial and Manufacturing Contexts: A Systematic Review of Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0119.v1>) | N/A | N/A |
+| 2026 | From Tool to Social Actor: A Systematic Review of the Psychological Mechanisms Through Which Conversational AI Reshapes the Employee Experience | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1797.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Lung Ultrasound Interpretation: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1688.v1>) | N/A | N/A |
+| 2026 | Mapping the Methodological Bifurcation of Quantitative Portfolio Optimization: A PRISMA-Compliant Systematic Review with BERTopic–SPECTER Analysis (2003–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1491.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Low-Dose CT Lung Cancer Screening: A Systematic Review of Deep Learning, Input Dimensionality, Workflow Integration, and Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1208.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Quantum Deep Learning Architectures for Image Classification | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1015.v1>) | N/A | N/A |
+| 2026 | Agentic Artificial Intelligence in Auditing: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0941.v1>) | N/A | N/A |
+| 2026 | Application of Machine Learning Methodologies in Unmanned Aerial Vehicles: A Survey and Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0455.v1>) | N/A | N/A |
+| 2026 | Vehicle Autonomy to Ecosystem Intelligence: A Systematic Review of Dynamic Vision Architectures in Surface Mining Operations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0102.v1>) | N/A | N/A |
+| 2026 | From Telehealth to Artificial Intelligence: Digital Health Technologies for Indigenous Communities—A Systematic Review of Diagnostic Access, Ethical Governance, and Sustainable Health Equity | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1978.v1>) | N/A | N/A |
+| 2026 | Digital Twin Enabled Predictive Maintenance: A Systematic Review of Modeling Strategies, Maintenance Functions, and Application Domains | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1733.v1>) | N/A | N/A |
+| 2026 | A Systematic Literature Review on Generative AI in Software Engineering: Code Generation and Refactoring | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1638.v1>) | N/A | N/A |
+| 2026 | Multi-Agent Systems for Decentralized Control and Management of Active Power Grid Peripheries: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1579.v1>) | N/A | N/A |
+| 2026 | A Systematic Literature Review on Machine Learning for Intrusion Detection Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1231.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Supernumerary Robotic Limbs: Design Trade-Offs, Control Strategies, and Application Domains | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0953.v1>) | N/A | N/A |
+| 2026 | Evaluating the Efficacy of Generative AI in Agricultural Extension Services for Smallholder Farmers: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0864.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Coronary Artery Disease Prediction Using ECG and CCTA: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0681.v1>) | N/A | N/A |
+| 2026 | The Role of Generative Large Language Models in Enhancing Student Engagement in Higher Education: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0717.v1>) | N/A | N/A |
+| 2026 | AI-Driven Food Fraud Detection Systems: A Critical Systematic Review of the Detection–Prevention Gap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0467.v1>) | N/A | N/A |
+| 2026 | Explainable Artificial Intelligence for Tabular Data in Healthcare: A Systematic Review of Methods, Evaluation, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0322.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Data-Driven Multimodal Fusion Methods for Simultaneous EEG-fMRI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0163.v1>) | N/A | N/A |
+| 2026 | Image-Based Air Quality Estimation with Deep Learning: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2212.v1>) | N/A | N/A |
+| 2026 | Bridging Human Deception to AI Exploitation: A Systematic Review of Psychological Strategies in LLM Model Manipulation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0075.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Machine Learning Approaches for ECG-Based Detection of Dysglycemia and Their Translational Readiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1806.v1>) | N/A | N/A |
+| 2026 | From NDVI to Neural Networks: A Systematic Review of Satellite Remote Sensing Methods for Monitoring Vegetation Responses to Climate Change (2000–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1906.v2>) | N/A | N/A |
+| 2026 | Short-Term Demand Forecasting in Mobility-on-Demand Systems: A Systematic Literature Review and Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1278.v1>) | N/A | N/A |
+| 2026 | Advancements in Physics-Informed Neural Networks for Solving Maxwell’s Equations: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0679.v1>) | N/A | N/A |
+| 2026 | Augmenting Large Language Models with External Data Sources: A Systematic Review of Methodologies, Performance Metrics, and Information Fidelity | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0717.v1>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning in Agriculture: A PRISMA Systematic Review of Architectures, Applications, and Open Science Practices (2019–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0648.v2>) | N/A | N/A |
+| 2026 | AI in Robot Manipulator Control: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2432.v1>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2395.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Machine Learning for Economic Crisis Prediction and Early Warning: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2380.v1>) | N/A | N/A |
+| 2026 | The Impact of Artificial Intelligence on Self-Regulated Language Learning in Higher Education: A Systematic Review (2022–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1913.v1>) | N/A | N/A |
+| 2026 | A Systematic Review and Empirical Framework for Human-AI Co-Creation in the Conceptual Design Process | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1431.v1>) | N/A | N/A |
+| 2026 | AI and Data Analytics in Sustainable Financial Reporting and ESG Disclosure: A Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1378.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Leadership in Organizations: A PRISMA Systematic Review of Opportunities, Challenges, and Emerging Risks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0612.v1>) | N/A | N/A |
+| 2026 | The Role of Artificial Intelligence in Poverty Governance: A Systematic Literature Review of Innovations and Implementation Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0642.v1>) | N/A | N/A |
+| 2026 | UAV-Based Remote Sensing and Artificial Intelligence for Climate-Smart Agriculture: A Systematic Review of Technologies, Analytics, and Applications in Smallholder Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0355.v1>) | N/A | N/A |
+| 2026 | Machine Learning in Directed Energy Deposition: A Systematic Literature Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177222631.11146214/v1>) | N/A | N/A |
+| 2026 | Federated Learning for Ophthalmic Imaging: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203265.53959182/v1>) | N/A | N/A |
+| 2026 | Federated Learning in Biomedical and Health Informatics: A Systematic Review and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177162424.47521127/v1>) | N/A | N/A |
+| 2026 | Farm-Scale Autonomous Welfare Monitoring in Smart Livestock Farming: A Systematic Review of Robotics and Multimodal AI with an Emphasis on the Lab-to-Farm Deployment Gap | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138881.15794631/v1>) | N/A | N/A |
+| 2026 | Post-Labor Economics: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202504.0444.v4>) | N/A | N/A |
+| 2026 | A Systematic Review on the Application of Artificial Intelligence in Decentralized Finance | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.175099684.47325415/v3>) | N/A | N/A |
+| 2026 | Machine Learning-Enhanced Clinical Decision Making in Dementia Care – A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978435.57611210/v1>) | N/A | N/A |
+| 2026 | In the Shadow of Judgment: Mapping Out the Landscape of Human-AI Decision-Making Through a Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176963824.45099699/v1>) | N/A | N/A |
+| 2026 | Systematic Literature Review on Evolvable Knowledge Graphs in Manufacturing | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.172054425.55676002/v2>) | N/A | N/A |
+| 2026 | Urban Digital Twins for Sustainable Smart Cities: A Systematic Literature Review of UAV-Assisted MEC, Federated Intelligence, and Semantic Communications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948217.76093650/v1>) | N/A | N/A |
+| 2026 | Advances in Blockchain Technology for the Internet of Vehicles: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945850.08661867/v1>) | N/A | N/A |
+| 2026 | Coronary Artery Disease Assessment with Multimodal Machine Learning: A Systematic Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827284.40717155/v1>) | N/A | N/A |
+| 2026 | Agent-based Hybrid AI Models and Technologies: A systematic Literature Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176761760.06773652/v1>) | N/A | N/A |
 | 2025 | Machine learning for fraud detection in digital banking: a systematic literature review REVIEW | arXiv | [paper](<https://arxiv.org/abs/2510.05167>) | N/A | N/A |
 | 2025 | A systematic review of trial-matching pipelines using large language models | arXiv | [paper](<https://arxiv.org/abs/2509.19327>) | N/A | N/A |
 | 2025 | Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review | arXiv | [paper](<https://arxiv.org/abs/2507.16876>) | N/A | N/A |

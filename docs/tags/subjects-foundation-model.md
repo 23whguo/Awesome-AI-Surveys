@@ -9,7 +9,7 @@
 
 
 
-**106 surveys · Page 1/1**
+**139 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -94,6 +94,7 @@
 | 2024 | A Survey of Foundation Models for Music Understanding | arXiv | [paper](<https://arxiv.org/abs/2409.09601>) | N/A | [6](<https://openalex.org/W4403668204>) |
 | 2026 | Tabular Foundation Models for Credit Risk Prediction: A Dedicated Review and Empirical Comparison | arXiv | [paper](<https://arxiv.org/abs/2605.18147>) | N/A | [4](<https://openalex.org/W7161719155>) |
 | 2025 | Foundation Models For Seismic Data Processing: An Extensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.24166>) | N/A | [4](<https://openalex.org/W4417054873>) |
+| 2026 | Vision–Language Foundation Models and Multimodal Large Language Models: A Comprehensive Survey of Architectures, Benchmarks, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0467.v1>) | N/A | [3](<https://openalex.org/W7128545496>) |
 | 2025 | A Survey of Personalized Federated Foundation Models for Privacy-Preserving Recommendation | arXiv | [paper](<https://arxiv.org/abs/2506.11563>) | N/A | [3](<https://openalex.org/W4415068925>) |
 | 2024 | A Theoretical Survey on Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2410.11444>) | N/A | [3](<https://openalex.org/W4403574084>) |
 | 2026 | Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions | arXiv | [paper](<https://arxiv.org/abs/2604.15395>) | N/A | [2](<https://openalex.org/W7154964872>) |
@@ -110,7 +111,39 @@
 | 2026 | A Review of Deep-learning-based Seismic Data Denoising and Its Promising Paradigm Shift to Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2609.34530>) | N/A | [0](<https://openalex.org/W7214755031>) |
 | 2026 | Split and Aggregation Learning for Foundation Models Over Mobile Embodied AI Network (MEAN): A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.00970>) | N/A | [0](<https://openalex.org/W7160296255>) |
 | 2026 | Unsupervised Post-Training of Foundation Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2044>) | N/A | [0](<https://openalex.org/W7204476104>) |
+| 2026 | Machine Learning, Foundation Models, Skills, and Agents in the Energy Industry: A Systematic, Evidence-Graded Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.3125.v1>) | N/A | N/A |
+| 2026 | A Survey on Side-Tuning for Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1986.v1>) | N/A | N/A |
+| 2026 | From Detection to Investigation: A Survey of Foundation Models and Agents for Financial Fraud and Financial Crime | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0912.v1>) | N/A | N/A |
+| 2026 | Pretrained on Animals, Deployed on Plants: Why RNA Foundation Models Have Not Decoded Plant Regulation or Genome Editing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0255.v1>) | N/A | N/A |
+| 2026 | Earth Observation Foundation Models (EO-FMs): A Review of the Conditions for Transferable and Trustworthy Geospatial Representations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1563.v1>) | N/A | N/A |
+| 2026 | Medical AI in the Waiting Room: A Survey of Foundation Models and Agent Systems Toward Clinical Readiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1384.v1>) | N/A | N/A |
+| 2026 | Data-Centric Recursive Improvement for Foundation Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0154.v2>) | [code](<https://github.com/zoezou2015/Awesome-Data-Centric-Recursive-Improvement>) | N/A ([⭐ 68](<https://github.com/zoezou2015/Awesome-Data-Centric-Recursive-Improvement>)) |
+| 2026 | Foundation Models and AI Agents in Geographic Science: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1861.v1>) | N/A | N/A |
+| 2026 | Worldwide Image Geolocalization in the Foundation Model Era: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1749.v1>) | [code](<https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization>) | N/A ([⭐ 6](<https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization>)) |
+| 2026 | Human-Centric Intelligence in the Era of Foundation Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2608.18184>) | [code](<https://github.com/cseeyangchen/Human-Centric-AI>) | N/A ([⭐ 25](<https://github.com/cseeyangchen/Human-Centric-AI>)) |
+| 2026 | The Landscape of Single-Cell Foundation Models: Design Principles, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1166.v1>) | N/A | N/A |
+| 2026 | Streaming Data Mining and Modeling: A Survey from Deep Learning to the Foundation Model Era | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0456.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Mineral Exploration: Methods, Foundation Models, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2303.v1>) | N/A | N/A |
+| 2026 | The Evolution of Deep Learning: From Perceptrons to Generative Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1764.v1>) | N/A | N/A |
+| 2026 | Continual Learning in Medical Imaging: Methods, Foundation Models, Challenges, and Clinical Translation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1301.v1>) | N/A | N/A |
+| 2026 | Language-Guided Segmentation of Medical Images: A Review of Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1606.v1>) | N/A | N/A |
+| 2026 | Advancements in Multimodal Foundation Models for Healthcare: An In-Depth Review and Future Outlook | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1256.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Low-Dose CT Lung Cancer Screening: A Systematic Review of Deep Learning, Input Dimensionality, Workflow Integration, and Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1208.v1>) | N/A | N/A |
+| 2026 | A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1532.v1>) | N/A | N/A |
 | 2026 | A Survey of Audio Reasoning in Multimodal Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.21008>) | N/A | N/A |
+| 2026 | Modern Continual Learning with Foundation Models, Evaluation Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1234.v1>) | N/A | N/A |
+| 2026 | Audio-Visual Intelligence in Large Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.04045>) | [code](<https://github.com/JavisVerse/Awesome-AVI>) | N/A ([⭐ 93](<https://github.com/JavisVerse/Awesome-AVI>)) |
+| 2026 | Large Language Models and Foundation Models for Petroleum Engineering: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1814.v1>) | N/A | N/A |
+| 2026 | From Grid Search to Modern Deterministic Ideas: A Brief Review of Hyper-Parameter Optimisation in Deep and Foundation Model Era | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2300.v1>) | N/A | N/A |
+| 2026 | Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development | arXiv | [paper](<https://arxiv.org/abs/2603.27460>) | [code](<https://github.com/uni-medical/Project-Imaging-X>) | N/A ([⭐ 494](<https://github.com/uni-medical/Project-Imaging-X>)) |
+| 2026 | Can Large Language Models Diagnose Machine Faults? A Comprehensive Survey from Deep Learning to Foundation Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177281073.38924355/v1>) | N/A | N/A |
+| 2026 | Foundation Models for Scientific Discovery: A Survey of Modalities, Architectures, and Pre-training Paradigms | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177042078.81811026/v1>) | N/A | N/A |
+| 2026 | Comprehensive Review on Deep Learning and Foundation Models in Agriculture: Progress, Benchmarks, and Open Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177031356.68798137/v1>) | N/A | N/A |
+| 2026 | From Pre-training to Post-training: A Survey on Time Series Foundation Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978429.90235801/v2>) | N/A | N/A |
+| 2026 | A Survey of Continual Learning for Robotics in the Foundation Model Era | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176972367.76460794/v1>) | N/A | N/A |
+| 2026 | A Survey of the Recent Foundation Models Based on Their Architectural and Learning Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176834456.68708065/v1>) | N/A | N/A |
+| 2026 | Foundation Models in Omics Research: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827205.56282524/v1>) | N/A | N/A |
+| 2026 | Human Modalities in Human–Robot Interaction: A Review from Multimodal and Foundation Model Perspectives | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176834726.69446413/v1>) | N/A | N/A |
 | 2026 | Deep Learning and Foundation Models for Weather Prediction: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/890>) | [code](<https://github.com/JimengShi/DL-Foundation-Models-Weather>) | N/A ([⭐ 91](<https://github.com/JimengShi/DL-Foundation-Models-Weather>)) |
 | 2025 | Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.22964>) | N/A | N/A |
 | 2025 | Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2510.16973>) | N/A | N/A |

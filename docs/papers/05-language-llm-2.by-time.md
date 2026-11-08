@@ -9,12 +9,36 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.by-time.md)
 
-**354 surveys · Page 2/2**
+**378 surveys · Page 2/2**
 
 Pages: [1](05-language-llm.by-time.md) · 2
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2025 | Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges | ACL | [paper](<https://aclanthology.org/2025.acl-long.425>) | N/A | [52](<https://openalex.org/W4412945592>) |
+| 2025 | PlanGenLLMs: A Modern Survey of LLM Planning Capabilities | ACL | [paper](<https://aclanthology.org/2025.acl-long.958>) | N/A | [101](<https://openalex.org/W4412944859>) |
+| 2025 | A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions | ACL | [paper](<https://aclanthology.org/2025.findings-acl.385>) | N/A | [50](<https://openalex.org/W4412888662>) |
+| 2025 | Performance Review on LLM for solving leetcode problems | arXiv | [paper](<https://arxiv.org/abs/2502.15770>) | N/A | [12](<https://openalex.org/W4408860077>) |
+| 2025 | Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.1379>) | [code](<https://github.com/abilliyb/Knowledge_Injection_Survey_Papers>) | [104](<https://openalex.org/W4416034403>) ([⭐ 67](<https://github.com/abilliyb/Knowledge_Injection_Survey_Papers>)) |
+| 2025 | Game Theory Meets Large Language Models: A Systematic Survey with Taxonomy and New Frontiers | arXiv | [paper](<https://arxiv.org/abs/2502.09053>) | N/A | [37](<https://openalex.org/W4407571724>) |
+| 2025 | LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights | arXiv | [paper](<https://arxiv.org/abs/2502.07049>) | [code](<https://github.com/OwenSanzas/LLM-For-Vulnerability-Detection>) | [153](<https://openalex.org/W4414437166>) ([⭐ 91](<https://github.com/OwenSanzas/LLM-For-Software-Security>)) |
+| 2025 | A Survey of Theory of Mind in Large Language Models: Evaluations, Representations, and Safety Risks | arXiv | [paper](<https://arxiv.org/abs/2502.06470>) | N/A | [14](<https://openalex.org/W4407359161>) |
+| 2025 | A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models | arXiv | [paper](<https://arxiv.org/abs/2502.08660>) | N/A | N/A |
+| 2025 | Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2502.05151>) | N/A | [122](<https://openalex.org/W4407310674>) |
+| 2025 | A Contemporary Survey of Large Language Model Assisted Program Analysis | arXiv | [paper](<https://arxiv.org/abs/2502.18474>) | N/A | [44](<https://openalex.org/W4411001672>) |
+| 2025 | Efficiently Integrate Large Language Models with Visual Perception: A Survey from the Training Paradigm Perspective | arXiv | [paper](<https://arxiv.org/abs/2502.01524>) | N/A | [7](<https://openalex.org/W4411593258>) |
+| 2025 | LLM-based event log analysis techniques: A survey | arXiv | [paper](<https://arxiv.org/abs/2502.00677>) | N/A | [32](<https://openalex.org/W4407123924>) |
+| 2025 | Mechanical Properties of the Meninges: Large Language Model Assisted Systematic Review of over 25,000 Studies | arXiv | [paper](<https://arxiv.org/abs/2501.19359>) | N/A | N/A |
+| 2025 | Survey and Improvement Strategies for Gene Prioritization with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.18794>) | N/A | [9](<https://openalex.org/W4411580404>) |
+| 2025 | Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Systematic Literature Review | CHI | [paper](<https://doi.org/10.1145/3706598.3713726>) | [code](<https://github.com/rrrrrrockpang/llm-chi>) | [112](<https://openalex.org/W4409885603>) ([⭐ 8](<https://github.com/rrrrrrockpang/llm-chi>)) |
+| 2025 | A Comprehensive Survey on Integrating Large Language Models with Knowledge-Based Methods | arXiv | [paper](<https://arxiv.org/abs/2501.13947>) | N/A | [106](<https://openalex.org/W4409385489>) |
+| 2025 | Large language models for automated scholarly paper review: A survey | arXiv | [paper](<https://arxiv.org/abs/2501.10326>) | N/A | [78](<https://openalex.org/W4410883332>) |
+| 2025 | A Survey on Multi-Turn Interaction Capabilities of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.09959>) | N/A | [68](<https://openalex.org/W4406603970>) |
+| 2025 | A Survey of Research in Large Language Models for Electronic Design Automation | arXiv | [paper](<https://arxiv.org/abs/2501.09655>) | N/A | [86](<https://openalex.org/W4407114703>) |
+| 2025 | A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy | arXiv | [paper](<https://arxiv.org/abs/2501.09431>) | N/A | [45](<https://openalex.org/W4406548651>) |
+| 2025 | Large Language Models For Text Classification: Case Study And Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2501.08457>) | N/A | [65](<https://openalex.org/W4406458936>) |
+| 2025 | Harnessing Large Language Models for Disaster Management: A Survey | ACL | [paper](<https://aclanthology.org/2025.findings-acl.750>) | N/A | [32](<https://openalex.org/W4412887995>) |
+| 2025 | Large language models streamline automated systematic review: A preliminary study | arXiv | [paper](<https://arxiv.org/abs/2502.15702>) | N/A | [11](<https://openalex.org/W4414834072>) |
 | 2025 | A survey of textual cyber abuse detection using cutting-edge language models and large language models | arXiv | [paper](<https://arxiv.org/abs/2501.05443>) | N/A | N/A |
 | 2025 | A Survey on Large Language Models with some Insights on their Capabilities and Limitations | arXiv | [paper](<https://arxiv.org/abs/2501.04040>) | N/A | [151](<https://openalex.org/W4406231018>) |
 | 2025 | Small Language Models (SLMs) Can Still Pack a Punch: A survey (updated 2026) | arXiv | [paper](<https://arxiv.org/abs/2501.05465>) | N/A | [65](<https://openalex.org/W4406316538>) |

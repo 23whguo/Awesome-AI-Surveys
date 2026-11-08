@@ -9,7 +9,7 @@
 
 [Computer Vision](../categories/06-vision.md)
 
-**27 surveys · Page 1/1**
+**30 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -38,5 +38,8 @@
 | 2026 | A Review of Deep-learning-based Seismic Data Denoising and Its Promising Paradigm Shift to Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2609.34530>) | N/A | [0](<https://openalex.org/W7214755031>) |
 | 2026 | Survey of Novel Deep Learning Architectures for Denoising Gravitational-wave Signals | arXiv | [paper](<https://arxiv.org/abs/2609.13272>) | N/A | [0](<https://openalex.org/W7213326437>) |
 | 2025 | A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement | arXiv | [paper](<https://arxiv.org/abs/2502.05995>) | N/A | [0](<https://openalex.org/W4407386226>) |
+| 2026 | Advances in Neural Video Compression: A Review and Benchmarking | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0035.v1>) | N/A | N/A |
+| 2026 | Language-Driven Image Restoration and Semantic-Aware Quality Assessment: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2366.v2>) | [code](<https://github.com/MingyuLiu1/Language-Driven-IR-and-IQA>) | N/A ([⭐ 0](<https://github.com/MingyuLiu1/Language-Driven-IR-and-IQA>)) |
+| 2026 | Efficient Image Restoration Using Deep Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177092225.59864833/v1>) | N/A | N/A |
 | 2025 | Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.16161>) | [code](<https://github.com/wlydlut/UHD-Image-Restoration-Survey>) | N/A ([⭐ 27](<https://github.com/wlydlut/UHD-Image-Restoration-Survey>)) |
 | 2025 | State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications | arXiv | [paper](<https://arxiv.org/abs/2501.07855>) | N/A | N/A |

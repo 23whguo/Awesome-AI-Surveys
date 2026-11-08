@@ -9,7 +9,7 @@
 
 
 
-**99 surveys · Page 1/1**
+**122 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -89,11 +89,12 @@
 | 2026 | Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2603.27918>) | N/A | [4](<https://openalex.org/W7147207857>) |
 | 2025 | Multimodal Large Language Models for Text-rich Image Understanding: A Comprehensive Review | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1023>) | N/A | [4](<https://openalex.org/W4414842318>) |
 | 2025 | Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies | NAACL | [paper](<https://aclanthology.org/2025.findings-naacl.29>) | N/A | [4](<https://openalex.org/W4403443655>) |
+| 2026 | Vision–Language Foundation Models and Multimodal Large Language Models: A Comprehensive Survey of Architectures, Benchmarks, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0467.v1>) | N/A | [3](<https://openalex.org/W7128545496>) |
 | 2026 | Data-Driven Vision-Language Models for Remote Sensing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.31304>) | N/A | [2](<https://openalex.org/W7164007915>) |
 | 2026 | Towards Efficient Large Vision-Language Models: A Comprehensive Survey on Inference Strategies | arXiv | [paper](<https://arxiv.org/abs/2603.27960>) | N/A | [2](<https://openalex.org/W7154283588>) |
 | 2024 | A Survey of Low-shot Vision-Language Model Adaptation via Representer Theorem | arXiv | [paper](<https://arxiv.org/abs/2410.11686>) | N/A | [2](<https://openalex.org/W4403575052>) |
-| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
 | 2026 | Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models | arXiv | [paper](<https://arxiv.org/abs/2606.26566>) | N/A | [1](<https://openalex.org/W7165652367>) |
+| 2026 | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review | arXiv | [paper](<https://arxiv.org/abs/2607.06706>) | N/A | [1](<https://openalex.org/W7162431829>) |
 | 2026 | Multimodal Information Fusion for Chart Understanding: A Survey of MLLMs -- Evolution, Limitations, and Cognitive Enhancement | arXiv | [paper](<https://arxiv.org/abs/2602.10138>) | N/A | [1](<https://openalex.org/W7202290923>) |
 | 2026 | Multimodal Large Language Model-Enabled Video Translation: A Role-Oriented Survey | arXiv | [paper](<https://arxiv.org/abs/2604.11283>) | N/A | [0](<https://openalex.org/W7154375666>) |
 | 2026 | Adversarial Defense in Vision-Language Models: An Overview | arXiv | [paper](<https://arxiv.org/abs/2601.12443>) | N/A | [0](<https://openalex.org/W7125259256>) |
@@ -101,6 +102,28 @@
 | 2026 | Roles of MLLMs in Visually Rich Document Retrieval for RAG: A Survey | arXiv | [paper](<https://arxiv.org/abs/2601.03262>) | N/A | [0](<https://openalex.org/W7119472339>) |
 | 2026 | Towards Unified Multimodal Large Language Models: A survey | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1853>) | N/A | [0](<https://openalex.org/W7166838875>) |
 | 2025 | Augmented Vision-Language Models: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2507.22933>) | N/A | [0](<https://openalex.org/W4414930444>) |
+| 2026 | Towards Human-Centered Safety in Vision-Language-Action Robot Control: A Survey and Outlook | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2762.v1>) | N/A | N/A |
+| 2026 | From Perception Errors to Unsafe Actions: A Survey of Behavioral Safety in MLLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1997.v1>) | N/A | N/A |
+| 2026 | Chart Reasoning with Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1869.v1>) | N/A | N/A |
+| 2026 | Alignment in Multimodal Large Language Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1245.v3>) | N/A | N/A |
+| 2026 | From Aligned Embeddings to Instruction-Following Perception: A Survey of Vision–Language Model Development | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1388.v1>) | N/A | N/A |
+| 2026 | Domain Adaptation and Annotation Efficiency in Remote-Sensing LULC Mapping: A Systematic Review of Active Learning and Vision–Language Models and a Conceptual Framework for the Brazilian Cerrado | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1534.v1>) | N/A | N/A |
+| 2026 | Trustworthy Medical Multimodal Large Language Models: Taxonomy, Evaluation, and Benchmarks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0962.v1>) | [code](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>) | N/A ([⭐ 1](<https://github.com/junyuanM/Trustworthy-Medical-MLLMs-Survey>)) |
+| 2026 | A Survey on Post-Training of Multimodal Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1494.v1>) | [code](<https://github.com/zchoi/Awesome-post-training-for-MLLMs>) | N/A ([⭐ 36](<https://github.com/zchoi/Awesome-Post-Training-for-MLLMs>)) |
+| 2026 | Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1539.v1>) | [code](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>) | N/A ([⭐ 31](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>)) |
+| 2026 | Synthetic Data for Multimodal Large Language Models: A Lifecycle-Oriented Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1871.v1>) | N/A | N/A |
+| 2026 | The Evaluation Bottleneck of Vision-Language-Action Models: A Evaluation-Centric Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0425.v1>) | N/A | N/A |
+| 2026 | Vision-Language-Action and Vision Language Models for Robot Manipulation: A Comprehensive Review Towards Real-World Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0400.v1>) | N/A | N/A |
+| 2026 | Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms | arXiv | [paper](<https://arxiv.org/abs/2604.23775>) | [code](<https://github.com/LiQiiiii/Awesome-VLA-Safety>) | N/A ([⭐ 153](<https://github.com/LiQiiiii/Awesome-VLA-Safety>)) |
+| 2026 | From Data to Model: A Survey of the Compression Lifecycle in MLLMs | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220375.55495124/v1>) | [code](<https://github.com/EIT-NLP/Awesome-MLLM-Compression>) | N/A ([⭐ 25](<https://github.com/EIT-NLP/Awesome-MLLM-Compression>)) |
+| 2026 | Multimodal Large Language Models in Biomedicine and Healthcare | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177223091.15657802/v1>) | N/A | N/A |
+| 2026 | Beyond Perception: A Survey and Future Directions of VLM-based Autonomous Driving Datasets | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177203266.67901185/v1>) | N/A | N/A |
+| 2026 | A Survey of Architectural Design in Large Vision-Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176620829.92520878/v2>) | N/A | N/A |
+| 2026 | COMPOSITIONALITY IN CONTRASTIVE VISION-LANGUAGE MODELS: A SURVEY OF METHODS AND BENCHMARKS | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004940.09969046/v1>) | N/A | N/A |
+| 2026 | Efficient Architectures and Learning Strategies for Large Vision Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827296.68744162/v1>) | N/A | N/A |
+| 2026 | Principles and Methods for Building Efficient Large Vision Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176834510.09512317/v1>) | N/A | N/A |
+| 2026 | Towards Computationally Efficient Large Vision Language Models for Scalable Multimodal Intelligence | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827212.22653010/v1>) | N/A | N/A |
+| 2026 | Towards Efficient Multimodal Large Language Models: A Survey on Token Compression | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176823010.07236701/v1>) | [code](<https://github.com/yaolinli/MLLM-Token-Compression>) | N/A ([⭐ 229](<https://github.com/yaolinli/MLLM-Token-Compression>)) |
 | 2025 | A Survey on Efficient Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2510.24795>) | N/A | N/A |
 | 2025 | A Survey on Agentic Multimodal Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2510.10991>) | [code](<https://github.com/HJYao00/Awesome-Agentic-MLLMs>) | N/A ([⭐ 217](<https://github.com/HJYao00/Awesome-Agentic-MLLMs>)) |
 | 2025 | Multilingual Vision-Language Models, A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.22123>) | N/A | N/A |

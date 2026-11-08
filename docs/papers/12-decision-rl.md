@@ -9,7 +9,7 @@
 
 [Reinforcement Learning & Sequential Decision Making](../categories/12-decision.md)
 
-**99 surveys · Page 1/1**
+**112 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -102,9 +102,22 @@
 | 2026 | Reinforcement Learning for Software Vulnerability Analysis: A Systematic Review with Emphasis on C/C++ Source Code and Static Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28403>) | N/A | [0](<https://openalex.org/W7166729288>) |
 | 2026 | A Survey on the Verification of Reinforcement Learning Policies | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/883>) | N/A | [0](<https://openalex.org/W7169852076>) |
 | 2026 | A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions | ACL | [paper](<https://aclanthology.org/2026.acl-long.1045>) | N/A | [0](<https://openalex.org/W7166817977>) |
+| 2026 | A Systematic Review of Reinforcement Learning for Dynamic Risk Assessment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2192.v1>) | N/A | [0](<https://openalex.org/W7125918953>) |
+| 2026 | A Brief Survey of Deep Reinforcement Learning Algorithms for Autonomous Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1653.v1>) | N/A | [0](<https://openalex.org/W7125488159>) |
 | 2026 | A Component-Based Survey of Interactions between Large Language Models and Multi-Armed Bandits | arXiv | [paper](<https://arxiv.org/abs/2601.12945>) | [code](<https://github.com/bucky1119/Awesome-LLM-Bandit-Interaction>) | [0](<https://openalex.org/W7125251258>) ([⭐ 1](<https://github.com/bucky1119/Awesome-LLM-Bandit-Interaction>)) |
 | 2026 | Adaptive Reward Design in Reinforcement Learning: A Taxonomy and Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/863>) | N/A | [0](<https://openalex.org/W7213405780>) |
 | 2025 | A review on reinforcement learning methods for mobility on demand systems | arXiv | [paper](<https://arxiv.org/abs/2501.02569>) | N/A | [0](<https://openalex.org/W4406121819>) |
+| 2026 | Autonomous Space Systems via Reinforcement Learning: Review, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0488.v1>) | N/A | N/A |
+| 2026 | Training–Rollout Mismatch in Low-Precision LLM Reinforcement Learning: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2922.v1>) | N/A | N/A |
+| 2026 | Adaptive Public Transit Scheduling via Reinforcement Learning: A Survey of Techniques, Challenges, and Opportunities | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0014.v1>) | N/A | N/A |
+| 2026 | Foundation-Model-Assisted Reward Design for Reinforcement Learning: A Review of Reward Program Synthesis, Multimodal Feedback, and Trustworthiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0779.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning Without Mathematics: An Intuitive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0373.v1>) | N/A | N/A |
+| 2026 | Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2605.02913>) | N/A | N/A |
+| 2026 | Large Language Models for Reinforcement Learning: A Survey of Intervention Operators and Optimization Effects | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0229.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning in Generative Multimodal AI: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220347.74660208/v1>) | [code](<https://github.com/hu-zijing/Awesome-Multimodal-RL>) | N/A ([⭐ 11](<https://github.com/hu-zijing/Awesome-Multimodal-RL>)) |
+| 2026 | Affective Reinforcement Learning: A Taxonomy and Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945767.76702380/v1>) | N/A | N/A |
+| 2026 | Addressing GNN Limitations via Deep Reinforcement Learning: Principles, Patterns, and Design Insights | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827256.69159826/v1>) | N/A | N/A |
+| 2026 | A Brief Tutorial on Reinforcement Learning: From MDP to DDPG | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0420.v1>) | N/A | N/A |
 | 2025 | Reinforcement Learning for Large Model: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.08189>) | [code](<https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning>) | N/A ([⭐ 458](<https://github.com/weijiawu/Awesome-RL-for-Multimodal-Foundation-Models>)) |
 | 2025 | A Survey of State Representation Learning for Deep Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2506.17518>) | N/A | N/A |
 | 2025 | A Survey of Safe Reinforcement Learning and Constrained MDPs: A Technical Survey on Single-Agent and Multi-Agent Safety | arXiv | [paper](<https://arxiv.org/abs/2505.17342>) | N/A | N/A |

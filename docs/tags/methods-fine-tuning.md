@@ -9,7 +9,7 @@
 
 
 
-**20 surveys · Page 1/1**
+**21 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -31,5 +31,6 @@
 | 2026 | Fine-Tuning A Large Language Model for Systematic Review Screening | arXiv | [paper](<https://arxiv.org/abs/2603.24767>) | N/A | [1](<https://openalex.org/W7141008388>) |
 | 2026 | Supervised Fine-Tuning for Reasoning Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1189>) | N/A | [0](<https://openalex.org/W7224408794>) |
 | 2026 | A Survey of Joint Online-Offline Fine-tuning for Large Language Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/899>) | N/A | [0](<https://openalex.org/W7213428674>) |
+| 2026 | Instruction Tuning for Large Language Models: RLHF, Supervised Fine-Tuning, and Alignment Strategies | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784494.43758400/v1>) | N/A | N/A |
 | 2025 | PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models | arXiv | [paper](<https://arxiv.org/abs/2504.14117>) | N/A | N/A |
 | 2025 | A Survey on Federated Fine-tuning of Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2503.12016>) | [code](<https://github.com/Clin0212/Awesome-Federated-LLM-Learning>) | N/A ([⭐ 114](<https://github.com/Clin0212/Awesome-Federated-LLM-Learning>)) |

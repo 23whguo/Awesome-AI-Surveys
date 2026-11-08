@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**37 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**48 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>03.1 Data Quality, Collection & Annotation · 数据质量、采集与标注 (14)</b></summary>
+<summary><b>03.1 Data Quality, Collection & Annotation · 数据质量、采集与标注 (19)</b></summary>
 
-[Browse all 14 surveys →](../papers/03-data-quality.md)
+[Browse all 19 surveys →](../papers/03-data-quality.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>03.2 Data Selection & Dataset Distillation · 数据选择与数据集蒸馏 (5)</b></summary>
+<summary><b>03.2 Data Selection & Dataset Distillation · 数据选择与数据集蒸馏 (7)</b></summary>
 
-[Browse all 5 surveys →](../papers/03-data-selection.md)
+[Browse all 7 surveys →](../papers/03-data-selection.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -39,13 +39,14 @@
 | 2024 | A Comprehensive Survey of Dataset Distillation | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3322540>) | [code](<https://github.com/Guang000/Awesome-Dataset-Distillation>) | [152](<https://openalex.org/W4387415233>) ([⭐ 1,983](<https://github.com/Guang000/Awesome-Dataset-Distillation>)) |
 | 2024 | A Survey on Data Selection for LLM Instruction Tuning | arXiv | [paper](<https://arxiv.org/abs/2402.05123>) | N/A | [81](<https://openalex.org/W4413299510>) |
 | 2023 | A Survey on Dataset Distillation: Approaches, Applications and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/741>) | [code](<https://github.com/Guang000/Awesome-Dataset-Distillation>) | [39](<https://openalex.org/W4385764183>) ([⭐ 1,983](<https://github.com/Guang000/Awesome-Dataset-Distillation>)) |
+| 2026 | Survey on Coresets for Deep Learning: Methods and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0952.v1>) | N/A | N/A |
 
 </details>
 
 <details open>
-<summary><b>03.3 Synthetic Data & Augmentation · 合成数据与数据增强 (18)</b></summary>
+<summary><b>03.3 Synthetic Data & Augmentation · 合成数据与数据增强 (22)</b></summary>
 
-[Browse all 18 surveys →](../papers/03-data-synthetic.md)
+[Browse all 22 surveys →](../papers/03-data-synthetic.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

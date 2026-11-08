@@ -9,7 +9,7 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**67 surveys · Page 1/1**
+**71 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -73,9 +73,13 @@
 | 2026 | Anthropomorphism in Children's Interactions with LLM Chatbots: A Systematic Review of Drivers and Outcomes | arXiv | [paper](<https://arxiv.org/abs/2607.18250>) | N/A | [1](<https://openalex.org/W7165372415>) |
 | 2025 | CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization (Abstract Reprint) | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1226>) | N/A | [1](<https://openalex.org/W4414359883>) |
 | 2026 | Generative Artificial Intelligence Chatbots for Motivational Interviewing: A Scoping Review From System Design to Intervention Outcomes | arXiv | [paper](<https://arxiv.org/abs/2609.20902>) | N/A | [0](<https://openalex.org/W7213357242>) |
+| 2026 | Conversational AI Agents in Physical Rehabilitation: A Scoping Review of Design, Applications, and Future Directions for Greek Physiotherapy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1769.v1>) | N/A | [0](<https://openalex.org/W7131902400>) |
 | 2026 | Conversational AI for Social Good (CAI4SG): An Overview of Emerging Trends, Applications, and Challenges | AAAI | [paper](<https://doi.org/10.1609/aaai.v40i48.42131>) | N/A | [0](<https://openalex.org/W7139057689>) |
 | 2025 | Design Framework for Conversational Agent in Couple relationships: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2510.17119>) | N/A | [0](<https://openalex.org/W4415961874>) |
 | 2024 | Survey of Pseudonymization, Abstractive Summarization &amp; Spell Checker for Hindi and Marathi | arXiv | [paper](<https://arxiv.org/abs/2412.18163>) | N/A | [0](<https://openalex.org/W4405784063>) |
+| 2026 | Neural Question Generation: A Survey of Techniques, Question Types, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0399.v1>) | N/A | N/A |
+| 2026 | From Tool to Social Actor: A Systematic Review of the Psychological Mechanisms Through Which Conversational AI Reshapes the Employee Experience | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1797.v1>) | N/A | N/A |
+| 2026 | A Survey of LLM-Powered Question Answering Through the Lens of Query Processing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1165.v1>) | N/A | N/A |
 | 2024 | A Complete Survey on LLM-based AI Chatbots | arXiv | [paper](<https://arxiv.org/abs/2406.16937>) | N/A | N/A |
 | 2024 | A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods | arXiv | [paper](<https://arxiv.org/abs/2403.02901>) | N/A | N/A |
 | 2022 | A Survey of Automatic Text Summarization Using Graph Neural Networks | COLING | [paper](<https://aclanthology.org/2022.coling-1.536>) | N/A | N/A |

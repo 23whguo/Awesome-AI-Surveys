@@ -9,7 +9,7 @@
 
 
 
-**126 surveys · Page 1/1**
+**138 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -127,6 +127,18 @@
 | 2026 | Evaluating Code Recommender Systems: A Review | arXiv | [paper](<https://arxiv.org/abs/2609.30351>) | N/A | [0](<https://openalex.org/W7214635404>) |
 | 2026 | Data Processing for Offline Evaluation in Recommender Systems: a Survey | arXiv | [paper](<https://arxiv.org/abs/2609.31696>) | N/A | [0](<https://openalex.org/W7214796331>) |
 | 2026 | A Survey on Natural Language User Profiles for Recommendation: Methods, Datasets, and Metrics | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2207>) | N/A | [0](<https://openalex.org/W7224307980>) |
+| 2026 | Self-Evolving Recommender Systems: A Survey and an Evaluation Audit | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2336.v2>) | N/A | N/A |
+| 2026 | From Prediction to Thinking: A Review of Reasoning in Industrial Recommender System | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2135.v1>) | N/A | N/A |
+| 2026 | Cold-Start and Skill-Aware Job Recommender Systems: A Scoping Review of Data, Models, and Evaluation Evidence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2100.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning in Recommender Systems for Personalized Financial Decision Support: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0315.v1>) | N/A | N/A |
+| 2026 | Beyond Utility Evaluation for LLM-Based and Generative Recommender Systems: A Focused Survey of Offline Protocols | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1653.v1>) | N/A | N/A |
+| 2026 | Generative Recommendation in Dynamic Catalogs: A Survey of Item Admission, Semantic ID Evolution, and Model Adaptation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1676.v1>) | N/A | N/A |
+| 2026 | Reproducibility Challenges, Solutions, and Future Directions in Recommender Systems: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1665.v1>) | N/A | N/A |
+| 2026 | A Modular Survey for Semantic ID-Based Generative Recommendation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0619.v1>) | [code](<https://github.com/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox>) | N/A ([⭐ 52](<https://github.com/hupeiyu21/GenRec>)) |
+| 2026 | Secure Recommender Systems: A Co-evolutionary Survey of Vulnerabilities, Attacks, and Defenses | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177220005.50171723/v1>) | N/A | N/A |
+| 2026 | Integrating Large Language Models with Reinforcement Learning: A Survey of LLM-RL Synergistic Recommendation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155631.17855475/v1>) | N/A | N/A |
+| 2026 | A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945895.52184668/v1>) | N/A | N/A |
+| 2026 | Efficient Large Language Models for Recommendation: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.173272687.73188733/v2>) | N/A | N/A |
 | 2025 | A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2508.19620>) | N/A | N/A |
 | 2025 | Content filtering methods for music recommendation: A review | arXiv | [paper](<https://arxiv.org/abs/2507.02282>) | N/A | N/A |
 | 2025 | International Agreements on AI Safety: Review and Recommendations for a Conditional AI Safety Treaty | arXiv | [paper](<https://arxiv.org/abs/2503.18956>) | N/A | N/A |

@@ -9,9 +9,9 @@
 
 
 
-**873 surveys · Page 1/5**
+**1035 surveys · Page 1/6**
 
-Pages: 1 · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md)
+Pages: 1 · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md) · [6](review_type-review-6.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -149,7 +149,6 @@ Pages: 1 · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](
 | 2025 | An Extensive and Methodical Review of Smart Grids for Sustainable Energy Management-Addressing Challenges with AI, Renewable Energy Integration and Leading-edge Technologies | arXiv | [paper](<https://arxiv.org/abs/2501.14143>) | N/A | [81](<https://openalex.org/W4407098630>) |
 | 2024 | Quantum machine learning algorithms for anomaly detection: A review | arXiv | [paper](<https://arxiv.org/abs/2408.11047>) | N/A | [81](<https://openalex.org/W4405183584>) |
 | 2025 | Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead | TOSEM | [paper](<https://doi.org/10.1145/3708525>) | N/A | [78](<https://openalex.org/W4405640497>) |
-| 2024 | Large Language Models in Biomedical and Health Informatics: A Review with Bibliometric Analysis | arXiv | [paper](<https://arxiv.org/abs/2403.16303>) | N/A | [78](<https://openalex.org/W4402538491>) |
 | 2020 | How Useful are Reviews for Recommendation? A Critical Review and Potential Improvements | SIGIR | [paper](<https://doi.org/10.1145/3397271.3401281>) | [code](<https://github.com/noveens/reviews4rec>) | [77](<https://openalex.org/W3026230850>) ([⭐ 56](<https://github.com/noveens/reviews4rec>)) |
 | 2024 | Explainable Artificial Intelligence for Medical Applications: A Review | arXiv | [paper](<https://arxiv.org/abs/2412.01829>) | N/A | [76](<https://openalex.org/W4405674053>) |
 | 2006 | A Review of Atmospheric Correction Techniques for Hyperspectral Remote Sensing of Land Surfaces and Ocean Color | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2006.512>) | N/A | [75](<https://openalex.org/W2028513126>) |
@@ -189,7 +188,6 @@ Pages: 1 · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](
 | 2024 | A Review of Reward Functions for Reinforcement Learning in the context of Autonomous Driving | arXiv | [paper](<https://arxiv.org/abs/2405.01440>) | N/A | [57](<https://openalex.org/W4400648754>) |
 | 2025 | An in-depth review and analysis of mode collapse in generative adversarial networks | MLJ | [paper](<https://doi.org/10.1007/s10994-025-06772-7>) | N/A | [56](<https://openalex.org/W4409740852>) |
 | 2024 | A Data-Driven Review of Remote Sensing-Based Data Fusion in Precision Agriculture from Foundational to Transformer-Based Techniques | arXiv | [paper](<https://arxiv.org/abs/2410.18353>) | N/A | [56](<https://openalex.org/W4414229157>) |
-| 2024 | Transformational application of Artificial Intelligence and Machine learning in Financial Technologies and Financial services: A bibliometric review | arXiv | [paper](<https://arxiv.org/abs/2401.15710>) | N/A | [56](<https://openalex.org/W4391376287>) |
 | 2001 | On the state of the art in machine learning: A personal review | AI | [paper](<https://doi.org/10.1016/S0004-3702(01)00125-4>) | N/A | [56](<https://openalex.org/W1976998719>) |
 | 2024 | A Review of Reinforcement Learning in Financial Applications | arXiv | [paper](<https://arxiv.org/abs/2411.12746>) | N/A | [55](<https://openalex.org/W4404431993>) |
 | 2024 | A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships | arXiv | [paper](<https://arxiv.org/abs/2408.15178>) | N/A | [54](<https://openalex.org/W4402705238>) |
@@ -215,5 +213,7 @@ Pages: 1 · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](
 | 2024 | Advancing Object Detection in Transportation with Multimodal Large Language Models (MLLMs): A Comprehensive Review and Empirical Testing | arXiv | [paper](<https://arxiv.org/abs/2409.18286>) | N/A | [47](<https://openalex.org/W4411001423>) |
 | 2025 | Generative AI for Crystal Structures: A Review | arXiv | [paper](<https://arxiv.org/abs/2509.02723>) | N/A | [46](<https://openalex.org/W4417070768>) |
 | 2024 | On Explaining Recommendations with Large Language Models: A Review | arXiv | [paper](<https://arxiv.org/abs/2411.19576>) | N/A | [46](<https://openalex.org/W4406849765>) |
+| 2024 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning | arXiv | [paper](<https://arxiv.org/abs/2406.05804>) | [code](<https://github.com/xinzhel/LLM-Agent-Survey>) | [46](<https://openalex.org/W4399555153>) ([⭐ 519](<https://github.com/xinzhel/LLM-Agent-Survey>)) |
+| 2024 | A Review of Data Mining in Personalized Education: Current Trends and Future Prospects | arXiv | [paper](<https://arxiv.org/abs/2402.17236>) | N/A | [46](<https://openalex.org/W4402780341>) |
 
-Pages: 1 · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md)
+Pages: 1 · [2](review_type-review-2.md) · [3](review_type-review-3.md) · [4](review_type-review-4.md) · [5](review_type-review-5.md) · [6](review_type-review-6.md)

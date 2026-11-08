@@ -9,25 +9,30 @@
 
 
 
-**114 surveys · Page 1/1**
+**119 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Tutorial on Generative Models for Music Audio | arXiv | [paper](<https://arxiv.org/abs/2610.38252>) | N/A | N/A |
 | 2026 | Neuroscience of Improvisation Across Music and Other Domains: A Survey and Outlook | arXiv | [paper](<https://arxiv.org/abs/2610.37958>) | N/A | [0](<https://openalex.org/W7224877801>) |
 | 2026 | From Acoustic Sensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents | arXiv | [paper](<https://arxiv.org/abs/2610.15390>) | N/A | [0](<https://openalex.org/W7221779555>) |
 | 2026 | Automatic Speech Recognition for Low-Resource Sinhala: A Critical Review of Methods, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2610.05681>) | N/A | [0](<https://openalex.org/W7220710247>) |
 | 2026 | Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs | arXiv | [paper](<https://arxiv.org/abs/2609.10355>) | [code](<https://github.com/momentslab/awesome-efficient-videollm>) | [0](<https://openalex.org/W7212148774>) ([⭐ 11](<https://github.com/momentslab/awesome-efficient-videollm>)) |
 | 2026 | AI-Based Sound Effect Generation: A Narrative Review of Generative Models Across Input Modalities | arXiv | [paper](<https://arxiv.org/abs/2608.03742>) | N/A | [0](<https://openalex.org/W7172513711>) |
 | 2026 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | arXiv | [paper](<https://arxiv.org/abs/2607.11792>) | N/A | [0](<https://openalex.org/W7168273145>) |
-| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
+| 2026 | Artificial Intelligence for Lung Ultrasound Interpretation: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1688.v1>) | N/A | N/A |
 | 2026 | Audio Editing in the Era of Foundation Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2606.23139>) | [code](<https://github.com/DaViD-Pigeon/AudioEditSurvey>) | [6](<https://openalex.org/W7165681618>) ([⭐ 43](<https://github.com/MM-Speech/AudioEditSurvey>)) |
 | 2026 | A Survey of Audio Reasoning in Multimodal Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.21008>) | N/A | N/A |
 | 2026 | A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook | arXiv | [paper](<https://arxiv.org/abs/2605.20266>) | [code](<https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs>) | [12](<https://openalex.org/W7161997837>) ([⭐ 211](<https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs>)) |
 | 2026 | A Survey of Advancing Audio Super-Resolution and Bandwidth Extension from Discriminative to Generative Models | arXiv | [paper](<https://arxiv.org/abs/2605.16681>) | N/A | [8](<https://openalex.org/W7161733373>) |
+| 2026 | Audio-Visual Intelligence in Large Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.04045>) | [code](<https://github.com/JavisVerse/Awesome-AVI>) | N/A ([⭐ 93](<https://github.com/JavisVerse/Awesome-AVI>)) |
 | 2026 | Aligning Stuttered-Speech Research with End-User Needs: Scoping Review, Survey, and Guidelines | INTERSPEECH | [paper](<https://doi.org/10.21437/Interspeech.2026-1704>) | N/A | [0](<https://openalex.org/W7155396021>) |
+| 2026 | Scoping Review of Recent Trends and Challenges in Artificial Intelligence Based Medical Ultrasound Denoising | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0030.v1>) | N/A | N/A |
 | 2026 | Silent Speech Interfaces in the Era of Large Language Models: A Comprehensive Taxonomy and Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2603.11877>) | N/A | [0](<https://openalex.org/W7135233519>) |
 | 2026 | Toward Robust, Reproducible, and Widely Accessible Intracranial Speech Brain-Computer Interfaces: A Comprehensive Narrative Review of Neural Mechanisms, Hardware, Algorithms, Evaluation, Clinical Pathways and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.12279>) | N/A | [3](<https://openalex.org/W7222837109>) |
 | 2026 | Multilingual Hate Speech Detection and Counterspeech Generation: A Comprehensive Survey and Practical Guide | arXiv | [paper](<https://arxiv.org/abs/2603.19279>) | N/A | [5](<https://openalex.org/W7140130835>) |
+| 2026 | The Role of Artificial Intelligence in the Automated Assessment of Progressive Neurological Disorders with Speech Signals: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1172.v1>) | N/A | [0](<https://openalex.org/W7129027945>) |
+| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | Uncertainty-Calibrated Explainable Artificial Intelligence for Fetal Ultrasound Plane Classification: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2601.00990>) | N/A | [0](<https://openalex.org/W7118889148>) |
 | 2026 | A Survey of Audio Reasoning in Audio Foundation Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.349>) | N/A | [6](<https://openalex.org/W7161979303>) |
 | 2026 | Gaze and Speech in Multimodal Human-Computer Interaction: A Scoping Review | CHI | [paper](<https://doi.org/10.1145/3772318.3791662>) | N/A | [3](<https://openalex.org/W7154088680>) |

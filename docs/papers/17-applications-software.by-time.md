@@ -9,28 +9,46 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.by-time.md)
 
-**81 surveys · Page 1/1**
+**99 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Large Language Models for Cybersecurity: A Survey of Data, Training, Models, Agent Systems, Evaluation, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2235.v1>) | N/A | N/A |
+| 2026 | Cyberattack Dataset Engineering and Benchmarking for Realistic Intrusion Detection: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2047.v1>) | N/A | N/A |
+| 2026 | Malware Detection with Autonomous Agents: A Review of Functional Roles, Datasets, and Coordination Readiness | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0904.v1>) | N/A | N/A |
+| 2026 | Reinforcement Learning in the Software Development Lifecycle: Methods, Applications, and Reward Design | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0764.v1>) | N/A | N/A |
+| 2026 | Design Problems, Decisions, and Evidence in Agentic Software Engineering: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2404.v1>) | N/A | N/A |
+| 2026 | AI-Driven Digital Forensics: Capabilities, Limitations, and Research Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1806.v1>) | N/A | N/A |
+| 2026 | Securing Local-Area Networks in AI Supercomputing Data Centers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1533.v1>) | N/A | N/A |
 | 2026 | Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2609.13731>) | N/A | [0](<https://openalex.org/W7213259375>) |
 | 2026 | Test-Driven Approaches to Software Engineering with Large Language Models: A Survey of Phases, Tasks, and Agent Skills | arXiv | [paper](<https://arxiv.org/abs/2609.12012>) | N/A | N/A |
+| 2026 | Intrusion Detection under Incomplete Information: A Structured Survey of Explainability, Robustness, and Operational Deployment | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0001.v1>) | N/A | N/A |
+| 2026 | LLM-Based Agents for Cybersecurity: A Systematic Review of Architectures, Applications, and Open Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1600.v1>) | N/A | N/A |
 | 2026 | Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda | arXiv | [paper](<https://arxiv.org/abs/2608.21107>) | N/A | [0](<https://openalex.org/W7204096532>) |
 | 2026 | Large Language Models for Software Engineering Diagrams: A Systematic Review of UML and ER modelling | arXiv | [paper](<https://arxiv.org/abs/2607.26100>) | N/A | [0](<https://openalex.org/W7171820009>) |
 | 2026 | AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement by using AI for analyzing psychology of Victims, Attackers, and Defenders | arXiv | [paper](<https://arxiv.org/abs/2607.13123>) | N/A | [0](<https://openalex.org/W7168836574>) |
 | 2026 | Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies | arXiv | [paper](<https://arxiv.org/abs/2607.06963>) | N/A | [16](<https://openalex.org/W4413755618>) |
 | 2026 | Generative AI and Federated Learning for Intrusion Detection Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2607.01305>) | N/A | [1](<https://openalex.org/W7167265271>) |
 | 2026 | Faster Code, Deeper Debt? A Multivocal Literature Review on Technical Debt and Its Early Signs in LLM-Assisted Software Development | arXiv | [paper](<https://arxiv.org/abs/2606.14796>) | N/A | [7](<https://openalex.org/W7164057147>) |
+| 2026 | From AI Strategy to Executable Controls: A PRISMA-Guided Review of AI Governance for Cybersecurity Efficiency in Azerbaijan | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0428.v1>) | N/A | N/A |
+| 2026 | Intrusion Detection Datasets for IIoT and ICS: A Taxonomic Review with a Decision-Aid Scoring Rubric | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0145.v1>) | N/A | N/A |
+| 2026 | A Systematic Literature Review on Generative AI in Software Engineering: Code Generation and Refactoring | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1638.v1>) | N/A | N/A |
+| 2026 | A Systematic Literature Review on Machine Learning for Intrusion Detection Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1231.v1>) | N/A | N/A |
 | 2026 | Assistance to Autonomy: A Systematic Literature Review of Agentic AI across the Software Development Life Cycle | arXiv | [paper](<https://arxiv.org/abs/2605.15245>) | N/A | [0](<https://openalex.org/W7161553010>) |
 | 2026 | A meta-analysis of the effect of generative AI on productivity and learning in programming | arXiv | [paper](<https://arxiv.org/abs/2605.04779>) | N/A | [6](<https://openalex.org/W7160551821>) |
 | 2026 | LLM-Assisted Empirical Software Engineering: Systematic Literature Review and Research Agenda | arXiv | [paper](<https://arxiv.org/abs/2604.26192>) | N/A | [3](<https://openalex.org/W7158894149>) |
 | 2026 | A systematic review of generative AI usage for IT project management | arXiv | [paper](<https://arxiv.org/abs/2604.21958>) | N/A | [1](<https://openalex.org/W7156037011>) |
+| 2026 | Artificial Intelligence Methods for Unmanned Aerial Vehicles Cybersecurity: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1384.v1>) | N/A | N/A |
 | 2026 | Fairness in Multi-Agent Systems for Software Engineering: An SDLC-Oriented Rapid Review | arXiv | [paper](<https://arxiv.org/abs/2604.13103>) | N/A | [0](<https://openalex.org/W7169546925>) |
+| 2026 | Generative AI in Cybersecurity: A Systematic Literature Review and Meta-Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0324.v1>) | N/A | N/A |
 | 2026 | Machine Learning Models for the Early Detection of Burnout in Software Engineering: a Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2603.23063>) | N/A | [0](<https://openalex.org/W7140302873>) |
+| 2026 | Intrusion Detection Systems for Cloud and IoT Infrastructures: Comprehensive Review of Challenges, Strategies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1817.v1>) | N/A | N/A |
 | 2026 | The State of Generative AI in Software Development: Insights from Literature and a Developer Survey | arXiv | [paper](<https://arxiv.org/abs/2603.16975>) | N/A | [8](<https://openalex.org/W7139009345>) |
 | 2026 | AI-driven Intrusion Detection for UAV in Smart Urban Ecosystems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2601.19345>) | N/A | [6](<https://openalex.org/W7125958244>) |
 | 2026 | Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2601.11655>) | [code](<https://github.com/DeepSoftwareAnalytics/Awesome-Issue-Resolution>) | [11](<https://openalex.org/W7125273073>) ([⭐ 89](<https://github.com/DeepSoftwareAnalytics/Awesome-Issue-Resolution>)) |
+| 2026 | Understanding the Adversary: A Survey of Adversarial Machine Learning in Network Intrusion Detection | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176703966.68193688/v2>) | N/A | N/A |
 | 2026 | A Survey of Agentic AI and Cybersecurity: Challenges, Opportunities and Use-case Prototypes | arXiv | [paper](<https://arxiv.org/abs/2601.05293>) | N/A | [55](<https://openalex.org/W7123244786>) |
+| 2026 | Trustworthy Machine Learning for Cybersecurity:A Decision-Centric Survey of Explainability, Uncertainty, and Human Factors | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784242.23575739/v1>) | N/A | N/A |
 | 2026 | AI-Driven Cybersecurity Threats: A Survey of Emerging Risks and Defensive Strategies | arXiv | [paper](<https://arxiv.org/abs/2601.03304>) | N/A | [16](<https://openalex.org/W7117980638>) |
 | 2026 | A survey on large language models for software engineering | SCIS | [paper](<https://doi.org/10.1007/s11432-025-4670-0>) | [code](<https://github.com/iSEngLab/AwesomeLLM4SE>) | [226](<https://openalex.org/W7136464128>) ([⭐ 350](<https://github.com/iSEngLab/AwesomeLLM4SE>)) |
 | 2026 | On the Need to Rethink Trust in AI Assistants for Software Development: A Critical Review | TSE | [paper](<https://doi.org/10.1109/TSE.2026.3659804>) | N/A | [13](<https://openalex.org/W7126171853>) |

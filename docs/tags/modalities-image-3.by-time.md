@@ -9,12 +9,68 @@
 
 
 
-**451 surveys · Page 3/3**
+**507 surveys · Page 3/3**
 
 Pages: [1](modalities-image.by-time.md) · [2](modalities-image-2.by-time.md) · 3
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2024 | Deep Learning-Based Image and Video Inpainting: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-023-01977-6>) | N/A | [104](<https://openalex.org/W4391035760>) |
+| 2024 | Systematic review of image segmentation using complex networks | arXiv | [paper](<https://arxiv.org/abs/2401.02758>) | N/A | [9](<https://openalex.org/W4390690428>) |
+| 2024 | Image-based Deep Learning for Smart Digital Twins: a Review | arXiv | [paper](<https://arxiv.org/abs/2401.02523>) | N/A | [25](<https://openalex.org/W4407883570>) |
+| 2024 | Diffusion Models, Image Super-Resolution, and Everything: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3476671>) | N/A | [151](<https://openalex.org/W4403863649>) |
+| 2024 | Vision-Language Models for Vision Tasks: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3369699>) | [code](<https://github.com/jingyi0000/vlm_survey>) | [1,249](<https://openalex.org/W4392172801>) ([⭐ 3,132](<https://github.com/jingyi0000/VLM_survey>)) |
+| 2024 | Software Testing With Large Language Models: Survey, Landscape, and Vision | TSE | [paper](<https://doi.org/10.1109/TSE.2024.3368208>) | N/A | [821](<https://openalex.org/W4391974543>) |
+| 2024 | Transformer-Based Visual Segmentation: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3434373>) | [code](<https://github.com/lxtgh/awesome-segmenation-with-transformer>) | [305](<https://openalex.org/W4401070841>) ([⭐ 753](<https://github.com/lxtGH/Awesome-Segmentation-With-Transformer>)) |
+| 2024 | Semi-Supervised and Unsupervised Deep Visual Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3201576>) | N/A | [257](<https://openalex.org/W4293057377>) |
+| 2024 | A Survey on Efficient Vision Transformers: Algorithms, Techniques, and Performance Benchmarking | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3392941>) | N/A | [199](<https://openalex.org/W4395113676>) |
+| 2024 | A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3445463>) | N/A | [198](<https://openalex.org/W4401692204>) |
+| 2024 | Deep-Learning-Based Semantic Segmentation of Remote Sensing Images: A Survey | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2023.3335891>) | N/A | [195](<https://openalex.org/W4389104786>) |
+| 2024 | 3D Object Detection From Images for Autonomous Driving: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3346386>) | [code](<https://github.com/xinzhuma/3dodi-survey>) | [164](<https://openalex.org/W4213402071>) ([⭐ 148](<https://github.com/xinzhuma/3dodi-survey>)) |
+| 2024 | Domain Generalization for Medical Image Analysis: A Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2024.3507831>) | N/A | [153](<https://openalex.org/W4405092793>) |
+| 2024 | Physical Adversarial Attack Meets Computer Vision: A Decade Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3430860>) | [code](<https://github.com/weihui1308/paa>) | [146](<https://openalex.org/W4400772240>) ([⭐ 100](<https://github.com/weihui1308/PAA>)) |
+| 2024 | Conventional to Deep Ensemble Methods for Hyperspectral Image Classification: A Comprehensive Survey | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3353551>) | N/A | [120](<https://openalex.org/W4390817508>) |
+| 2024 | A Review of Optical and SAR Image Deep Feature Fusion in Semantic Segmentation | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3424831>) | N/A | [115](<https://openalex.org/W4400448116>) |
+| 2024 | Multimodal Machine Learning in Image-Based and Clinical Biomedicine: Survey and Prospects | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02032-8>) | N/A | [112](<https://openalex.org/W4395037541>) |
+| 2024 | Hyperbolic Deep Learning in Computer Vision: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02043-5>) | N/A | [102](<https://openalex.org/W4393182987>) |
+| 2024 | Deep Learning for Visual Speech Analysis: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3376710>) | N/A | [84](<https://openalex.org/W4392780157>) |
+| 2024 | A review of deep learning techniques for detecting animals in aerial and satellite images | IJAEO | [paper](<https://doi.org/10.1016/j.jag.2024.103732>) | N/A | [74](<https://openalex.org/W4392436373>) |
+| 2024 | Vision-Based Multi-Future Trajectory Prediction: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3550350>) | N/A | [56](<https://openalex.org/W4408780032>) |
+| 2024 | Visual Analytics for Machine Learning: A Data Perspective Survey | TVCG | [paper](<https://doi.org/10.1109/TVCG.2024.3357065>) | N/A | [55](<https://openalex.org/W4391128914>) |
+| 2024 | Deep Interactive Segmentation of Medical Images: A Systematic Review and Taxonomy | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3452629>) | N/A | [50](<https://openalex.org/W4402040378>) |
+| 2024 | A Survey on Text-Guided 3-D Visual Grounding: Elements, Recent Advances, and Future Directions | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3584895>) | [code](<https://github.com/liudaizong/awesome-3d-visual-grounding>) | [46](<https://openalex.org/W4412623461>) ([⭐ 287](<https://github.com/liudaizong/Awesome-3D-Visual-Grounding>)) |
+| 2024 | Synthetic Data for Video Surveillance Applications of Computer Vision: A Review | IJCV | [paper](<https://doi.org/10.1007/s11263-024-02102-x>) | N/A | [41](<https://openalex.org/W4397023171>) |
+| 2024 | Fine-Grained Image Recognition Methods and Their Applications in Remote Sensing Images: A Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3482348>) | N/A | [35](<https://openalex.org/W4403446585>) |
+| 2024 | Deep Learning for Low-Light Vision: A Comprehensive Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3566647>) | N/A | [27](<https://openalex.org/W4410949906>) |
+| 2024 | When Multitask Learning Meets Partial Supervision: A Computer Vision Review | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2024.3435012>) | [code](<https://github.com/Klodivio355/MTL-CV-Review>) | [27](<https://openalex.org/W4401387266>) ([⭐ 0](<https://github.com/Klodivio355/MTL-CV-Review>)) |
+| 2024 | Monitoring Waste From Uncrewed Aerial Vehicles and Satellite Imagery Using Deep Learning Techniques: A Review | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3488056>) | N/A | [20](<https://openalex.org/W4403919945>) |
+| 2024 | Review of Zero-Shot Remote Sensing Image Scene Classification | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2024.3410995>) | N/A | [14](<https://openalex.org/W4399426040>) |
+| 2024 | Adventures of Trustworthy Vision-Language Models: A Survey | AAAI | [paper](<https://doi.org/10.1609/aaai.v38i20.30275>) | N/A | [10](<https://openalex.org/W4393146351>) |
+| 2023 | A Survey on Vision Transformer | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3152247>) | N/A | [5,066](<https://openalex.org/W3187418919>) |
+| 2023 | Diffusion Models in Vision: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3261988>) | N/A | [2,167](<https://openalex.org/W4360884927>) |
+| 2023 | Class-Incremental Learning: Survey and Performance Evaluation on Image Classification | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3213473>) | [code](<https://github.com/mmasana/FACIL>) | [939](<https://openalex.org/W3163939464>) ([⭐ 570](<https://github.com/mmasana/FACIL>)) |
+| 2023 | A Survey of Visual Transformers | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2022.3227717>) | [code](<https://github.com/liuyang-ict/awesome-visual-transformers>) | [652](<https://openalex.org/W4226512186>) ([⭐ 279](<https://github.com/liuyang-ict/awesome-visual-transformers>)) |
+| 2023 | Towards Natural Language Interfaces for Data Visualization: A Survey | TVCG | [paper](<https://doi.org/10.1109/TVCG.2022.3148007>) | N/A | [234](<https://openalex.org/W3198767185>) |
+| 2023 | Blind Image Super-Resolution: A Survey and Beyond | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3203009>) | N/A | [215](<https://openalex.org/W3180712890>) |
+| 2023 | Visual Object Tracking With Discriminative Filters and Siamese Networks: A Survey and Outlook | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3212594>) | N/A | [201](<https://openalex.org/W4304481542>) |
+| 2023 | A Survey on Label-Efficient Deep Image Segmentation: Bridging the Gap Between Weak Supervision and Dense Prediction | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3246102>) | N/A | [154](<https://openalex.org/W4321194933>) |
+| 2023 | Deep Learning for Visual Localization and Mapping: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3309809>) | N/A | [106](<https://openalex.org/W4386973845>) |
+| 2023 | DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization | TVCG | [paper](<https://doi.org/10.1109/TVCG.2022.3167896>) | N/A | [71](<https://openalex.org/W4224006294>) |
+| 2023 | Image Feature Information Extraction for Interest Point Detection: A Comprehensive Review | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3201185>) | N/A | [66](<https://openalex.org/W3170373133>) |
+| 2023 | Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3400824>) | N/A | [65](<https://openalex.org/W4396886508>) |
+| 2023 | A Survey of Automated Data Augmentation for Image Classification: Learning to Compose, Mix, and Generate | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3282258>) | N/A | [59](<https://openalex.org/W4381598199>) |
+| 2023 | A survey on hyperspectral image restoration: from the view of low-rank tensor approximation | SCIS | [paper](<https://doi.org/10.1007/s11432-022-3609-4>) | N/A | [52](<https://openalex.org/W4362582380>) |
+| 2023 | A Survey on Masked Autoencoder for Visual Self-supervised Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/762>) | N/A | [39](<https://openalex.org/W4385764089>) |
+| 2023 | Survey on leveraging pre-trained generative adversarial networks for image editing and restoration | SCIS | [paper](<https://doi.org/10.1007/s11432-022-3679-0>) | [code](<https://github.com/csmliu/pretrained-GANs>) | [38](<https://openalex.org/W4365450082>) ([⭐ 17](<https://github.com/csmliu/pretrained-GANs>)) |
+| 2023 | A Review and Collation of Graphical Perception Knowledge for Visualization Recommendation | CHI | [paper](<https://doi.org/10.1145/3544548.3581349>) | [code](<https://github.com/zehua-zeng/graphical-perception-knowledge>) | [30](<https://openalex.org/W4366583080>) ([⭐ 3](<https://github.com/Zehua-Zeng/graphical-perception-knowledge>)) |
+| 2023 | Review of Serial and Parallel Min-Cut/Max-Flow Algorithms for Computer Vision | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3170096>) | [code](<https://github.com/patmjen/maxflow_algorithms>) | [23](<https://openalex.org/W4226262044>) ([⭐ 53](<https://github.com/patmjen/maxflow_algorithms>)) |
+| 2023 | A Review of Nuclei Detection and Segmentation on Microscopy Images Using Deep Learning With Applications to Unbiased Stereology Counting | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2022.3213407>) | N/A | [15](<https://openalex.org/W4308366198>) |
+| 2023 | A Survey on Hyperspectral Remote Sensig Image Compression | IGARSS | [paper](<https://doi.org/10.1109/IGARSS52108.2023.10281919>) | N/A | [5](<https://openalex.org/W4387802441>) |
+| 2023 | Neural Ranking with Weak Supervision for Open-Domain Question Answering : A Survey | EACL | [paper](<https://aclanthology.org/2023.findings-eacl.129>) | N/A | [2](<https://openalex.org/W4386566597>) |
+| 2022 | Image Segmentation Using Deep Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2021.3059968>) | N/A | [4,106](<https://openalex.org/W2999607073>) |
+| 2022 | Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2021.3055564>) | [code](<https://github.com/FLHonker/Awesome-Knowledge-Distillation>) | [965](<https://openalex.org/W3015735225>) ([⭐ 2,694](<https://github.com/FLHonker/Awesome-Knowledge-Distillation>)) |
+| 2022 | Hyperspectral Image Classification - Traditional to Deep Models: A Survey for Future Prospects | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2021.3133021>) | N/A | [478](<https://openalex.org/W3122028341>) |
+| 2022 | Deep Image Deblurring: A Survey | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01633-5>) | N/A | [436](<https://openalex.org/W4226453196>) |
 | 2022 | A Review of Single-Source Deep Unsupervised Visual Domain Adaptation | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.3028503>) | [code](<https://github.com/zhaoxin94/awesome-domain-adaptation>) | [361](<https://openalex.org/W3094277917>) ([⭐ 5,463](<https://github.com/zhaoxin94/awesome-domain-adaptation>)) |
 | 2022 | A Survey of Vision-Language Pre-Trained Models | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/762>) | N/A | [313](<https://openalex.org/W4225683910>) |
 | 2022 | Explainability of Deep Vision-Based Autonomous Driving Systems: Review and Challenges | IJCV | [paper](<https://doi.org/10.1007/s11263-022-01657-x>) | N/A | [296](<https://openalex.org/W4290375100>) |

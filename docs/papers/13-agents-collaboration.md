@@ -9,7 +9,7 @@
 
 [Agents & Multi-Agent Systems](../categories/13-agents.md)
 
-**32 surveys · Page 1/1**
+**44 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -43,5 +43,17 @@
 | 2026 | LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28362>) | N/A | [0](<https://openalex.org/W7166642608>) |
 | 2026 | A Systematic Literature Review of Distributed Multi-Agent Task Allocation: Core Dimensions, Their Interrelationships, and a Repository | TPDS | [paper](<https://doi.org/10.1109/TPDS.2026.3694097>) | N/A | [0](<https://openalex.org/W7161573740>) |
 | 2024 | The Problem of Social Cost in Multi-Agent General Reinforcement Learning: Survey and Synthesis | arXiv | [paper](<https://arxiv.org/abs/2412.02091>) | N/A | [0](<https://openalex.org/W4405037371>) |
+| 2026 | Efficiency in LLM Multi-Agent Systems: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1639.v1>) | N/A | N/A |
+| 2026 | Toward the Science of Multi-Agent Communication: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1298.v1>) | N/A | N/A |
+| 2026 | Not Just One Agent: LLM-Based Multi-Agent Systems for Medicine from Answer Generation to Accountable Workflow Orchestration | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0640.v2>) | N/A | N/A |
+| 2026 | Multi-Agent Systems and Their Evolution: A Comparative Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0358.v1>) | N/A | N/A |
+| 2026 | The Evolving Blueprint: A Survey on Automated Optimization of LLM-Based Multi-Agent Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.2011.v1>) | N/A | N/A |
+| 2026 | Multi-Agent Systems for Decentralized Control and Management of Active Power Grid Peripheries: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1579.v1>) | N/A | N/A |
+| 2026 | Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems | arXiv | [paper](<https://arxiv.org/abs/2605.14892>) | [code](<https://github.com/mira-ai-lab/awesome-mas-life>) | N/A ([⭐ 88](<https://github.com/mira-ai-lab/awesome-mas-life>)) |
+| 2026 | LLM-Based Multi-Agent Orchestration: A Survey of Frameworks, Communication Protocols, and Emerging Patterns | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2147.v1>) | N/A | N/A |
+| 2026 | A Survey on Large Language Model-based Multi-Agent Systems: Paradigms, Applications, and Challenges | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177160638.89229642/v1>) | N/A | N/A |
+| 2026 | Emergent Intelligence in Multi-Agent and LLM Systems: A Survey and Perspective Toward Autonomous, Collaborative, and Generalizable AI | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177092236.62657640/v1>) | N/A | N/A |
+| 2026 | Is Collaboration Worth It? A Decision-Oriented Survey in Multi-Agent Systems | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176978654.41579706/v1>) | N/A | N/A |
+| 2026 | From Fragmentation to Systematic Design: Architecting LLM-Based Multi-Agent Systems | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827304.41872996/v2>) | N/A | N/A |
 | 2025 | Multi-Agent Collaboration Mechanisms: A Survey of LLMs | arXiv | [paper](<https://arxiv.org/abs/2501.06322>) | N/A | N/A |
 | 2024 | Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.17030>) | N/A | N/A |

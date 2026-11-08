@@ -9,7 +9,7 @@
 
 [Home](../../README.by-time.md) · [All categories](../CATEGORIES.by-time.md) · [Tags](../TAGS.by-time.md)
 
-**113 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**120 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
 <summary><b>10.1 Retrieval, Search & Ranking · 检索、搜索与排序 (18)</b></summary>
@@ -28,33 +28,33 @@
 </details>
 
 <details open>
-<summary><b>10.2 Recommender Systems & Personalization · 推荐系统与个性化 (89)</b></summary>
+<summary><b>10.2 Recommender Systems & Personalization · 推荐系统与个性化 (95)</b></summary>
 
-[Browse all 89 surveys →](../papers/10-retrieval-recommendation.by-time.md)
+[Browse all 95 surveys →](../papers/10-retrieval-recommendation.by-time.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Evaluating Code Recommender Systems: A Review | arXiv | [paper](<https://arxiv.org/abs/2609.30351>) | N/A | [0](<https://openalex.org/W7214635404>) |
-| 2026 | A survey on multi-behavior sequential recommendation | SCIS | [paper](<https://doi.org/10.1007/s11432-024-4568-7>) | N/A | [28](<https://openalex.org/W4386346386>) |
-| 2026 | A Survey on Natural Language User Profiles for Recommendation: Methods, Datasets, and Metrics | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.2207>) | N/A | [0](<https://openalex.org/W7224307980>) |
-| 2025 | Dataset creation for supervised deep learning-based analysis of microscopic images -- review of important considerations and recommendations | arXiv | [paper](<https://arxiv.org/abs/2512.04564>) | N/A | [2](<https://openalex.org/W4417086781>) |
-| 2025 | A Survey on Generative Recommendation: Data, Model, and Tasks | arXiv | [paper](<https://arxiv.org/abs/2510.27157>) | N/A | [40](<https://openalex.org/W4415916358>) |
-| 2025 | A Survey of Real-World Recommender Systems: Challenges, Constraints, and Industrial Perspectives | arXiv | [paper](<https://arxiv.org/abs/2509.06002>) | N/A | [22](<https://openalex.org/W4415054673>) |
+| 2026 | Generative Recommendation in Dynamic Catalogs: A Survey of Item Admission, Semantic ID Evolution, and Model Adaptation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1676.v1>) | N/A | N/A |
+| 2026 | A Modular Survey for Semantic ID-Based Generative Recommendation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0619.v1>) | [code](<https://github.com/hupeiyu21/UniGenRec-A-universal-generative-recommendation-toolbox>) | N/A ([⭐ 52](<https://github.com/hupeiyu21/GenRec>)) |
+| 2026 | Integrating Large Language Models with Reinforcement Learning: A Survey of LLM-RL Synergistic Recommendation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177155631.17855475/v1>) | N/A | N/A |
+| 2026 | A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176945895.52184668/v1>) | N/A | N/A |
+| 2026 | Efficient Large Language Models for Recommendation: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.173272687.73188733/v2>) | N/A | N/A |
 
 </details>
 
 <details open>
-<summary><b>10.3 Web, Social & User Modeling · Web、社交与用户建模 (6)</b></summary>
+<summary><b>10.3 Web, Social & User Modeling · Web、社交与用户建模 (7)</b></summary>
 
-[Browse all 6 surveys →](../papers/10-retrieval-web.by-time.md)
+[Browse all 7 surveys →](../papers/10-retrieval-web.by-time.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | From Fact Verification to Understanding Misleadingness: A Survey and Roadmap on Reader-Centric Multimodal Misinformation Detection | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138874.48176003/v1>) | N/A | N/A |
 | 2024 | A Systematic Review of Machine Learning Approaches for Detecting Deceptive Activities on Social Media: Methods, Challenges, and Biases | arXiv | [paper](<https://arxiv.org/abs/2410.20293>) | N/A | [36](<https://openalex.org/W4404313913>) |
 | 2024 | Machine Learning Approaches for Mental Illness Detection on Social Media: A Systematic Review of Biases and Methodological Challenges | arXiv | [paper](<https://arxiv.org/abs/2410.16204>) | N/A | [62](<https://openalex.org/W4407574066>) |
 | 2024 | A Survey of Stance Detection on Social Media: New Directions and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2409.15690>) | N/A | N/A |
 | 2024 | User Modeling and User Profiling: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2402.09660>) | N/A | [96](<https://openalex.org/W4391912563>) |
 | 2020 | A Survey on Representation Learning for User Modeling | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2020/695>) | N/A | [34](<https://openalex.org/W3041535480>) |
-| 2019 | Social Media-based User Embedding: A Literature Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2019/881>) | N/A | [43](<https://openalex.org/W2966775979>) |
 
 </details>

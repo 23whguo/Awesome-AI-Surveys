@@ -9,7 +9,7 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**30 surveys · Page 1/1**
+**32 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -40,6 +40,8 @@
 | 2026 | Attribution Techniques for Mitigating Hallucinated Information in RAG Systems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2601.19927>) | N/A | [4](<https://openalex.org/W7147482316>) |
 | 2026 | Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2604.03174>) | N/A | [2](<https://openalex.org/W7150730858>) |
 | 2025 | Optimizing Retrieval-Augmented Generation (RAG) for Colloquial Cantonese: A LoRA-Based Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2508.08610>) | N/A | [0](<https://openalex.org/W4416167864>) |
+| 2026 | A Survey of (Deep RAG) Deep Retrieval Augmented Generation and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177272838.89432844/v1>) | N/A | N/A |
+| 2026 | A Survey of RAG and Reasoning in Large Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784429.92121712/v1>) | N/A | N/A |
 | 2025 | Synergizing RAG and Reasoning: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2504.15909>) | N/A | N/A |
 | 2025 | Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook | arXiv | [paper](<https://arxiv.org/abs/2503.18016>) | N/A | N/A |
 | 2025 | A Survey on Knowledge-Oriented Retrieval-Augmented Generation | arXiv | [paper](<https://arxiv.org/abs/2503.10677>) | N/A | N/A |

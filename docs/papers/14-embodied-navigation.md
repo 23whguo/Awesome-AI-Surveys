@@ -9,7 +9,7 @@
 
 [Robotics & Embodied Intelligence](../categories/14-embodied.md)
 
-**40 surveys · Page 1/1**
+**49 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -52,4 +52,13 @@
 | 2026 | Grounding Mindfulness in Embodied Tangibles: A Scoping Review &amp; Theoretical Framework for HCI Design | arXiv | [paper](<https://arxiv.org/abs/2608.19673>) | N/A | [0](<https://openalex.org/W7203884679>) |
 | 2026 | Split and Aggregation Learning for Foundation Models Over Mobile Embodied AI Network (MEAN): A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2605.00970>) | N/A | [0](<https://openalex.org/W7160296255>) |
 | 2024 | Toward Improving Binary Program Comprehension via Embodied Immersion: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.17051>) | N/A | [0](<https://openalex.org/W4396243528>) |
+| 2026 | From Plan Generation to Reliable Execution: An Architecture-Centric Survey of Embodied Long-Horizon LLM Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2483.v1>) | N/A | N/A |
+| 2026 | Behavioral Organization in Embodied AI: A Three-Level Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1493.v1>) | N/A | N/A |
+| 2026 | Agentic Embodied AI for Human–Robot Collaboration: Architectures, Technologies, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1213.v1>) | N/A | N/A |
+| 2026 | From Passive Perception to Active Interaction: A Survey of Affordance Learning for Embodied AI | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0392.v1>) | N/A | N/A |
+| 2026 | A Review of Ship Path Planning for Autonomous Navigation: From Model-Driven Methods to Deep Reinforcement Learning | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1541.v1>) | N/A | N/A |
+| 2026 | From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2231.v1>) | N/A | N/A |
+| 2026 | Spatial Intelligence from a Cognitive Map Perspective: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1782.v1>) | [code](<https://github.com/Klingsor-tyx/Awesome-Spatial-Cognitive-Map>) | N/A ([⭐ 26](<https://github.com/Klingsor-tyx/Awesome-Spatial-Cognitive-Map>)) |
+| 2026 | World Action Models: The Next Frontier in Embodied AI | arXiv | [paper](<https://arxiv.org/abs/2605.12090>) | [code](<https://github.com/OpenMOSS/Awesome-WAM>) | N/A ([⭐ 1,522](<https://github.com/OpenMOSS/Awesome-WAM>)) |
+| 2026 | Optimisation Techniques for Multi‐Robot Path Planning: A Review of Collision Avoidance and Performance Metrics in Connectivity, Efficiency and Safety | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0316.v1>) | N/A | N/A |
 | 2025 | A Tripartite Framework for Understanding the Embodied Mind: A Comprehensive Review of Bodily Map Study | arXiv | [paper](<https://arxiv.org/abs/2504.14865>) | N/A | N/A |

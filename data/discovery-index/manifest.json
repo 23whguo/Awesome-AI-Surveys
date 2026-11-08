@@ -1,0 +1,228 @@
+{
+  "techrxiv-2026": {
+    "records": 1520,
+    "records_without_abstract": 5,
+    "status_counts": {
+      "not-discovered-as-review": 1238,
+      "excluded": 40,
+      "included": 185,
+      "pending": 57
+    },
+    "parts": [
+      {
+        "path": "data/discovery-index/techrxiv-2026-001.jsonl",
+        "records": 1000,
+        "sha256": "8efa73c1adc3290b387177146599cbce30df48cb3e6156475b3c52e8c56bf9db"
+      },
+      {
+        "path": "data/discovery-index/techrxiv-2026-002.jsonl",
+        "records": 520,
+        "sha256": "2cc9335d91da8163fa03fbf6d242e20a90807bcdc5bcfc643ff4181f1cccda57"
+      }
+    ]
+  },
+  "preprints-2026": {
+    "records": 26848,
+    "records_without_abstract": 2,
+    "status_counts": {
+      "not-discovered-as-review": 21991,
+      "excluded": 3627,
+      "included": 673,
+      "pending": 557
+    },
+    "parts": [
+      {
+        "path": "data/discovery-index/preprints-2026-001.jsonl",
+        "records": 1000,
+        "sha256": "992038c68047bc30c70da54ec484678b7935326c801706ee86ffb46f35f7e6f8"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-002.jsonl",
+        "records": 1000,
+        "sha256": "f28bb9c8666ad1f648f307c1c1faabae64da6d96ad90be13bab51cc408cec0a1"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-003.jsonl",
+        "records": 1000,
+        "sha256": "f46a7b6274d56c517576adae07458bf3c47e32dccfca264ff6044a631f20492c"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-004.jsonl",
+        "records": 1000,
+        "sha256": "edd7b98bc70ef54a597e8550a149b39f9a9e78991fd47c0045f43b6939b6ba5d"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-005.jsonl",
+        "records": 1000,
+        "sha256": "9e2c40ed8ec2a0d4243852b9c356d0f4ff22cf23ab3eb4ee45e3c2544e9e45cf"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-006.jsonl",
+        "records": 1000,
+        "sha256": "f427fca9bbb0b4988b81cc7cf1fc44136f7a41420c8b68e2c904a5c024dc980e"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-007.jsonl",
+        "records": 1000,
+        "sha256": "5bca8c1dd5d07e8ea50ba3c67f4a8000a91098ec01e6824af06f5827348007bb"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-008.jsonl",
+        "records": 1000,
+        "sha256": "37fa538662a1df9c51a219f8c5b006e561b45f31c94d8717a346aea35a5856c2"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-009.jsonl",
+        "records": 1000,
+        "sha256": "92d00407d0b3629ef3285bbe539065587b1019a2d02de0603bb10b356e027b77"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-010.jsonl",
+        "records": 1000,
+        "sha256": "dd47e4103bcc1693aa674b6a3e5a88c3e02dfd5471fe58e590761eb99e97e9be"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-011.jsonl",
+        "records": 1000,
+        "sha256": "9b86d57a937a5cda48fb2769e6955c3d48409c4baa94bca98b23ab4885ce0b3d"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-012.jsonl",
+        "records": 1000,
+        "sha256": "4690b04e13b28c971486d3cbe735df14a0410becf5cf71c4c785b3069631ef47"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-013.jsonl",
+        "records": 1000,
+        "sha256": "21115cc1dfd5ada2fb7cc94c161f3bb4067d440c6b7550692a1594b0607ad218"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-014.jsonl",
+        "records": 1000,
+        "sha256": "cc875e8a8d1d7fff2d51587eaa3239e816c3b50803704577ad816615ee85d54d"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-015.jsonl",
+        "records": 1000,
+        "sha256": "8bab702fecb3833599bde0c84aae21d721880ead212101cd70d1ef7933c35bca"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-016.jsonl",
+        "records": 1000,
+        "sha256": "212385de1eb692b995daaac11281330a2839ca6db24ec4de1d7be54be5342ac3"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-017.jsonl",
+        "records": 1000,
+        "sha256": "e44dd291e68ed998d9661d734257b6d4cf03f92dcd3362088a15ba1b3526f192"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-018.jsonl",
+        "records": 1000,
+        "sha256": "beca11c6f086338ee5e92808eac828ac9077c28aaf666a30bf3d06910a34210e"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-019.jsonl",
+        "records": 1000,
+        "sha256": "8ba834b3e973d6612dbddcdebdb00bd173aee98dac9e5dbb491564ebb9047986"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-020.jsonl",
+        "records": 1000,
+        "sha256": "2c277ee79efdec89cf1c59accd2adde7a7a0e66fe9b1ac9cbd185454eb0216f7"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-021.jsonl",
+        "records": 1000,
+        "sha256": "65969aa99a65fd6bbfc26d086cac3ffd43c1e3c094e8ce3a7db6f21142641caf"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-022.jsonl",
+        "records": 1000,
+        "sha256": "916641dfd23265acab476dad0db7dfbf44f3662e13274b7fe09be72626146cb8"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-023.jsonl",
+        "records": 1000,
+        "sha256": "75b5f71f5827666c437884995ebf15ecd32fcb0615514e5fb1bf290fdf1fa662"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-024.jsonl",
+        "records": 1000,
+        "sha256": "d18456c205f85028f55c43ed53e6596420a60acfebbbef38fae4b5e11e38a304"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-025.jsonl",
+        "records": 1000,
+        "sha256": "1c687b2354f557eeec4a8038bb2f25e004229a8345af79c290252142aadc2255"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-026.jsonl",
+        "records": 1000,
+        "sha256": "903e204a706be32586c3156818fbf1474ea9467b0ca81bbb1ecfb7578d6b0da9"
+      },
+      {
+        "path": "data/discovery-index/preprints-2026-027.jsonl",
+        "records": 848,
+        "sha256": "8c1320c3d2877d58bdba55a55a0ca8665be0cee9615457c0b998c367925762e7"
+      }
+    ]
+  },
+  "huggingface-daily-2026": {
+    "records": 8341,
+    "records_without_abstract": 0,
+    "status_counts": {
+      "not-discovered-as-review": 8163,
+      "pending": 101,
+      "included": 50,
+      "excluded": 27
+    },
+    "parts": [
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-001.jsonl",
+        "records": 1000,
+        "sha256": "7e2305d5e554f3e52e484adefd6a872bd7af55eebd7f88afeb30b35b6663546b"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-002.jsonl",
+        "records": 1000,
+        "sha256": "3d1f86d51646da3a18afef8844d1000f9c907f2e92e5e6f0833310ebad8e3f54"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-003.jsonl",
+        "records": 1000,
+        "sha256": "146db440fbb80550bd7a7f8d1cceafc0ed9afe48280a2033481f74f03e8e6d04"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-004.jsonl",
+        "records": 1000,
+        "sha256": "c755833504fadef1e148bd0d6d107f4346c1bc8ab807e9b7cd9b998bca43fbef"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-005.jsonl",
+        "records": 1000,
+        "sha256": "31e75c3dd1b6a382be5d73297a3303f51c30d5dfa01e3ed425a559f8d0f68846"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-006.jsonl",
+        "records": 1000,
+        "sha256": "491eaa2c341afe23ba87cc6fb4b2d7656457dc88c418cee78d89c647c53526ae"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-007.jsonl",
+        "records": 1000,
+        "sha256": "b9b785e9f1593e053402c7b1666ecb11c9d46ee15f1839999dc9e2000eea3cd3"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-008.jsonl",
+        "records": 1000,
+        "sha256": "41ba217f5b046db2d0680bdcfc53af725d90548662a420d1e225a2fe42ef4db2"
+      },
+      {
+        "path": "data/discovery-index/huggingface-daily-2026-009.jsonl",
+        "records": 341,
+        "sha256": "3de97252a63319eebc149fabc35c6d4130382e6df815894b89a9a51fa25e20d8"
+      }
+    ]
+  }
+}

@@ -9,21 +9,21 @@
 
 [Home](../../README.by-time.md) · [All categories](../CATEGORIES.by-time.md) · [Tags](../TAGS.by-time.md)
 
-**115 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**136 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>12.1 Reinforcement Learning Foundations & Algorithms · 强化学习基础与算法 (99)</b></summary>
+<summary><b>12.1 Reinforcement Learning Foundations & Algorithms · 强化学习基础与算法 (112)</b></summary>
 
-[Browse all 99 surveys →](../papers/12-decision-rl.by-time.md)
+[Browse all 112 surveys →](../papers/12-decision-rl.by-time.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Autonomous Space Systems via Reinforcement Learning: Review, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0488.v1>) | N/A | N/A |
 | 2026 | From PID to Reinforcement Learning in Building HVAC Control: A Control-Architecture Review of Tuning Strategies, Formulations, and Deployment Trade-offs | arXiv | [paper](<https://arxiv.org/abs/2611.03152>) | N/A | [0](<https://openalex.org/W7225161127>) |
+| 2026 | Training–Rollout Mismatch in Low-Precision LLM Reinforcement Learning: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2922.v1>) | N/A | N/A |
 | 2026 | Reinforcement learning for hardware acceleration and system-level optimization on FPGA and integrated-circuit platforms: A survey | arXiv | [paper](<https://arxiv.org/abs/2610.28699>) | N/A | [4](<https://openalex.org/W7164511522>) |
 | 2026 | A Survey of Flow Matching in Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2610.16275>) | N/A | [0](<https://openalex.org/W7221784393>) |
 | 2026 | Optimal Transport Meets Reinforcement Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.01413>) | N/A | [0](<https://openalex.org/W7216320167>) |
-| 2026 | Reinforcement Learning and Operational Research: A Review of Methodological Integration and Research Directions | arXiv | [paper](<https://arxiv.org/abs/2609.24750>) | N/A | [0](<https://openalex.org/W7214019923>) |
-| 2026 | A Survey on Rubric-guided Reinforcement Learning for Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1599>) | N/A | [5](<https://openalex.org/W7204815970>) |
 
 </details>
 
@@ -58,15 +58,17 @@
 </details>
 
 <details open>
-<summary><b>12.4 Model-Based Decisions & World Models · 基于模型的决策与世界模型 (4)</b></summary>
+<summary><b>12.4 Model-Based Decisions & World Models · 基于模型的决策与世界模型 (12)</b></summary>
 
-[Browse all 4 surveys →](../papers/12-decision-world-models.by-time.md)
+[Browse all 12 surveys →](../papers/12-decision-world-models.by-time.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | World Models for Digital Agents: An Agent-Centric Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0462.v1>) | N/A | N/A |
+| 2026 | Diffusion-Based World Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1022.v1>) | N/A | N/A |
+| 2026 | World Models: Predictive State, Generative Simulation, and Decision-Making Across Artificial Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0639.v1>) | N/A | N/A |
+| 2026 | World Action Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2606.20781>) | [code](<https://github.com/world-action-models/awesome-world-action-models>) | N/A ([⭐ 300](<https://github.com/world-action-models/awesome-world-action-models>)) |
 | 2026 | World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications | arXiv | [paper](<https://arxiv.org/abs/2606.00133>) | N/A | [5](<https://openalex.org/W7160832817>) |
-| 2025 | A Step Toward World Models: A Survey on Robotic Manipulation | arXiv | [paper](<https://arxiv.org/abs/2511.02097>) | N/A | [31](<https://openalex.org/W4415946585>) |
-| 2024 | Understanding World or Predicting Future? A Comprehensive Survey of World Models | arXiv | [paper](<https://arxiv.org/abs/2411.14499>) | [code](<https://github.com/tsinghua-fib-lab/World-Model>) | [169](<https://openalex.org/W4411735734>) ([⭐ 882](<https://github.com/tsinghua-fib-lab/World-Model>)) |
-| 2024 | From Efficient Multimodal Models to World Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.00118>) | N/A | [24](<https://openalex.org/W4400267085>) |
+| 2026 | Predicting the World via Video Representation: A Comprehensive Survey on Video World Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0435.v1>) | N/A | N/A |
 
 </details>

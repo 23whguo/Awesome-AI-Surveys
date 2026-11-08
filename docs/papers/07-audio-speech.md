@@ -9,7 +9,7 @@
 
 [Speech, Audio & Music](../categories/07-audio.md)
 
-**27 surveys · Page 1/1**
+**28 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -39,4 +39,5 @@
 | 2026 | A survey of AI-generated voices and their detection | arXiv | [paper](<https://arxiv.org/abs/2608.15411>) | N/A | [0](<https://openalex.org/W7160629421>) |
 | 2026 | Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems | arXiv | [paper](<https://arxiv.org/abs/2607.11792>) | N/A | [0](<https://openalex.org/W7168273145>) |
 | 2026 | Aligning Stuttered-Speech Research with End-User Needs: Scoping Review, Survey, and Guidelines | INTERSPEECH | [paper](<https://doi.org/10.21437/Interspeech.2026-1704>) | N/A | [0](<https://openalex.org/W7155396021>) |
+| 2026 | Persian Accent Identification: A Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177138919.93178962/v1>) | N/A | N/A |
 | 2025 | Direct Speech to Speech Translation: A Review | arXiv | [paper](<https://arxiv.org/abs/2503.04799>) | N/A | N/A |

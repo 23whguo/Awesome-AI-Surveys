@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**142 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**214 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>13.1 Agent Foundations, Training & Self-Improvement · 智能体基础、训练与自我改进 (98)</b></summary>
+<summary><b>13.1 Agent Foundations, Training & Self-Improvement · 智能体基础、训练与自我改进 (152)</b></summary>
 
-[Browse all 98 surveys →](../papers/13-agents-foundations.md)
+[Browse all 152 surveys →](../papers/13-agents-foundations.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>13.2 Tool Use, Planning & Agentic RAG · 工具使用、规划与智能体 RAG (4)</b></summary>
+<summary><b>13.2 Tool Use, Planning & Agentic RAG · 工具使用、规划与智能体 RAG (6)</b></summary>
 
-[Browse all 4 surveys →](../papers/13-agents-tools.md)
+[Browse all 6 surveys →](../papers/13-agents-tools.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -38,13 +38,15 @@
 | 2024 | Tool Learning with Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2405.17935>) | [code](<https://github.com/quchangle1/LLM-Tool-Survey>) | [261](<https://openalex.org/W4406297511>) ([⭐ 492](<https://github.com/quchangle1/LLM-Tool-Survey>)) |
 | 2025 | A Survey on Agent Workflow -- Status and Future | arXiv | [paper](<https://arxiv.org/abs/2508.01186>) | N/A | [33](<https://openalex.org/W4412537083>) |
 | 2025 | Fast, Slow, and Tool-augmented Thinking for LLMs: A Review | arXiv | [paper](<https://arxiv.org/abs/2508.12265>) | N/A | [2](<https://openalex.org/W4414460958>) |
+| 2026 | How to Make Tool-Using LLM Agents Efficient? A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0365.v1>) | N/A | N/A |
+| 2026 | Code as Agent Harness | arXiv | [paper](<https://arxiv.org/abs/2605.18747>) | [code](<https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers>) | N/A ([⭐ 776](<https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers>)) |
 
 </details>
 
 <details open>
-<summary><b>13.3 Agent Memory & Personalization · 智能体记忆与个性化 (4)</b></summary>
+<summary><b>13.3 Agent Memory & Personalization · 智能体记忆与个性化 (5)</b></summary>
 
-[Browse all 4 surveys →](../papers/13-agents-memory.md)
+[Browse all 5 surveys →](../papers/13-agents-memory.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -52,27 +54,30 @@
 | 2026 | Graph-based Agent Memory: Taxonomy, Techniques, and Applications | arXiv | [paper](<https://arxiv.org/abs/2602.05665>) | [code](<https://github.com/DEEP-PolyU/Awesome-GraphMemory>) | [58](<https://openalex.org/W7127926068>) ([⭐ 366](<https://github.com/DEEP-PolyU/Awesome-GraphMemory>)) |
 | 2024 | A Survey of Personality, Persona, and Profile in Conversational Agents and Chatbots | arXiv | [paper](<https://arxiv.org/abs/2401.00609>) | N/A | [23](<https://openalex.org/W4390529187>) |
 | 2026 | Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization | arXiv | [paper](<https://arxiv.org/abs/2609.02309>) | N/A | [1](<https://openalex.org/W7207614735>) |
+| 2026 | Governed Memory for Autonomous Agents A Critical Review of Provenance Temporal Validity and Access | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2698.v1>) | N/A | N/A |
 
 </details>
 
 <details open>
-<summary><b>13.4 Web, GUI & Software Agents · Web、GUI 与软件智能体 (4)</b></summary>
+<summary><b>13.4 Web, GUI & Software Agents · Web、GUI 与软件智能体 (7)</b></summary>
 
-[Browse all 4 surveys →](../papers/13-agents-web-gui.md)
+[Browse all 7 surveys →](../papers/13-agents-web-gui.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2024 | GUI Agents with Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2411.04890>) | N/A | [145](<https://openalex.org/W4404404752>) |
 | 2025 | GUI Agents: A Survey | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1158>) | N/A | [88](<https://openalex.org/W4405626594>) |
 | 2025 | A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.16150>) | N/A | [68](<https://openalex.org/W4406890265>) |
-| 2025 | A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2504.20464>) | N/A | N/A |
+| 2026 | GUI Grounding for Computer-Use Agents: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0431.v1>) | N/A | N/A |
+| 2026 | Self-Evolving Coding Agents | arXiv | [paper](<https://arxiv.org/abs/2608.03392>) | [code](<https://github.com/zhouhao1024/Awesome-Self-Evolving-Coding-Agents>) | N/A ([⭐ 152](<https://github.com/iSEngLab/Awesome-Self-Evolving-Coding-Agents>)) |
+| 2026 | Terminal Agents: A Survey of AI Agents in Command-Line Environments | arXiv | [paper](<https://arxiv.org/abs/2608.20485>) | N/A | N/A |
 
 </details>
 
 <details open>
-<summary><b>13.5 Multi-Agent Collaboration & Communication · 多智能体协作与通信 (32)</b></summary>
+<summary><b>13.5 Multi-Agent Collaboration & Communication · 多智能体协作与通信 (44)</b></summary>
 
-[Browse all 32 surveys →](../papers/13-agents-collaboration.md)
+[Browse all 44 surveys →](../papers/13-agents-collaboration.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

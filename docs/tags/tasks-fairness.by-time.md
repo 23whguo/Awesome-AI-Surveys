@@ -9,18 +9,22 @@
 
 
 
-**67 surveys · Page 1/1**
+**71 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Artificial Intelligence and Digital Health for Women's Cardiovascular Health: A Survey of Bias, Equity, and Inclusive Innovation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2232.v1>) | N/A | N/A |
 | 2026 | Mapping the Evaluation Frontier: An Empirical Survey of the Bias-Reliability Tradeoff Across Eleven Evaluator-Agent Conditions | arXiv | [paper](<https://arxiv.org/abs/2607.00304>) | N/A | [0](<https://openalex.org/W7167075637>) |
 | 2026 | Bias in Filter Feature Selection Evaluation: A Meta-Analysis of Datasets, Baselines, and Experimental Design Choices | arXiv | [paper](<https://arxiv.org/abs/2606.07068>) | N/A | [0](<https://openalex.org/W7163922358>) |
 | 2026 | Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review | arXiv | [paper](<https://arxiv.org/abs/2606.02902>) | N/A | [0](<https://openalex.org/W7163326740>) |
 | 2026 | Rethinking Fairness in LLM-Based Recommender Systems: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.1197>) | N/A | [2](<https://openalex.org/W7166729978>) |
+| 2026 | A Survey on Selection Bias in Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2234.v1>) | N/A | N/A |
 | 2026 | Does Welsh media need a review? Detecting bias in Nation.Cymru's political reporting | arXiv | [paper](<https://arxiv.org/abs/2604.17628>) | N/A | [0](<https://openalex.org/W7155098501>) |
 | 2026 | Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems | arXiv | [paper](<https://arxiv.org/abs/2604.15078>) | N/A | [0](<https://openalex.org/W7154680839>) |
 | 2026 | Operationalizing Fairness in Text-to-Image Models: A Survey of Bias, Fairness Audits and Mitigation Strategies | arXiv | [paper](<https://arxiv.org/abs/2604.16516>) | N/A | [0](<https://openalex.org/W7155079896>) |
 | 2026 | Fairness in Multi-Agent Systems for Software Engineering: An SDLC-Oriented Rapid Review | arXiv | [paper](<https://arxiv.org/abs/2604.13103>) | N/A | [0](<https://openalex.org/W7169546925>) |
+| 2026 | Software Unfairness Detection in Machine Learning-based Systems: A Systematic Mapping Study | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0038.v1>) | N/A | N/A |
+| 2026 | Toward a Philosophical Taxonomy of Bias in Large Language Models: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177273600.04458982/v1>) | N/A | N/A |
 | 2026 | Queer NLP: A Critical Survey on Literature Gaps, Biases and Trends | arXiv | [paper](<https://arxiv.org/abs/2602.16151>) | N/A | [6](<https://openalex.org/W7130551037>) |
 | 2026 | Trade-offs Between Individual and Group Fairness in Machine Learning: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2602.00094>) | N/A | [1](<https://openalex.org/W7127278209>) |
 | 2026 | Safety of Large Language Models Beyond English: A Systematic Literature Review of Risks, Biases, and Safeguards | EACL | [paper](<https://aclanthology.org/2026.eacl-long.44>) | N/A | [2](<https://openalex.org/W7140105078>) |

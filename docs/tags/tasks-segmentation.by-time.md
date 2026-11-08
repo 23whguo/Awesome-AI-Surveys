@@ -9,13 +9,20 @@
 
 
 
-**72 surveys · Page 1/1**
+**79 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | A Bibliometric Analysis of CT Image Segmentation for Liver Cancer Screening Using Artificial Intelligence (1998--2026): A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0243.v1>) | N/A | N/A |
+| 2026 | Binding Text to Pixels: A Narrative Review of Supervision Granularity in Language-Guided Chest Radiograph Segmentation and Grounding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0297.v1>) | N/A | N/A |
+| 2026 | Medical Image Segmentation: A Comprehensive Review of Variational Models, Deep Learning, and Hybrid Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0036.v1>) | N/A | N/A |
 | 2026 | Automated Cardiac Adipose Tissue Segmentation in Computed Tomography: A Literature Review | arXiv | [paper](<https://arxiv.org/abs/2607.16992>) | N/A | [0](<https://openalex.org/W4411509423>) |
+| 2026 | Language-Guided Segmentation of Medical Images: A Review of Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1606.v1>) | N/A | N/A |
 | 2026 | A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond | arXiv | [paper](<https://arxiv.org/abs/2606.16153>) | [code](<https://github.com/andrew-pengyu/Awsome_MedSeg>) | [0](<https://openalex.org/W7164920974>) ([⭐ 9](<https://github.com/andrew-pengyu/Awsome_MedSeg>)) |
 | 2026 | A Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation | arXiv | [paper](<https://arxiv.org/abs/2605.17131>) | N/A | [1](<https://openalex.org/W7161236486>) |
+| 2026 | A Survey of Image Segmentation for Industrial Applications with a Focus on Quality Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0507.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey on Farmland Segmentation: Methodologies, Applications, and the Road to Agriculture 5.0 | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004901.18423035/v1>) | N/A | N/A |
+| 2026 | Deep Learning Methods for Breast Cancer Classification and Segmentation Using MRI Scans: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2126.v1>) | N/A | N/A |
 | 2025 | Domain Generalization for Semantic Segmentation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2510.03540>) | N/A | [11](<https://openalex.org/W4414198439>) |
 | 2025 | Advances in Medical Image Segmentation: A Comprehensive Survey with a Focus on Lumbar Spine Applications | arXiv | [paper](<https://arxiv.org/abs/2510.03318>) | N/A | [10](<https://openalex.org/W4414873494>) |
 | 2025 | Is the medical image segmentation problem solved? A survey of current developments and future directions | arXiv | [paper](<https://arxiv.org/abs/2508.20139>) | [code](<https://github.com/apple1986/medicalSegReview>) | [5](<https://openalex.org/W4414430483>) ([⭐ 25](<https://github.com/apple1986/medicalSegReview>)) |

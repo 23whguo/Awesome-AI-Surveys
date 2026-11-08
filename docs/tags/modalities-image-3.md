@@ -9,13 +9,14 @@
 
 
 
-**451 surveys · Page 3/3**
+**507 surveys · Page 3/3**
 
 Pages: [1](modalities-image.md) · [2](modalities-image-2.md) · 3
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
 | 2026 | Operationalizing Fairness in Text-to-Image Models: A Survey of Bias, Fairness Audits and Mitigation Strategies | arXiv | [paper](<https://arxiv.org/abs/2604.16516>) | N/A | [0](<https://openalex.org/W7155079896>) |
+| 2026 | Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1379>) | N/A | [0](<https://openalex.org/W7167885568>) |
 | 2026 | A comprehensive overview of deep learning models for object detection from videos/images | arXiv | [paper](<https://arxiv.org/abs/2601.14677>) | N/A | [0](<https://openalex.org/W7125390985>) |
 | 2026 | Adversarial Defense in Vision-Language Models: An Overview | arXiv | [paper](<https://arxiv.org/abs/2601.12443>) | N/A | [0](<https://openalex.org/W7125259256>) |
 | 2026 | A Survey on Knowledge Distillation of Vision-Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.180>) | [code](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>) | [0](<https://openalex.org/W7224499228>) ([⭐ 121](<https://github.com/HoangTran223/Awesome-Knowledge-Distillation-of-VLMs>)) |
@@ -25,6 +26,61 @@ Pages: [1](modalities-image.md) · [2](modalities-image-2.md) · 3
 | 2025 | A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement | arXiv | [paper](<https://arxiv.org/abs/2502.05995>) | N/A | [0](<https://openalex.org/W4407386226>) |
 | 2021 | An Overview of the Contributions of Jose Manuel Bioucas-Dias to Remote Sensing Image Processing | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9554718>) | N/A | [0](<https://openalex.org/W3206509027>) |
 | 2013 | A Survey of Cervix Segmentation Methods in Magnetic Resonance Images | MICCAI | [paper](<https://doi.org/10.1007/978-3-642-41083-3_32>) | N/A | [0](<https://openalex.org/W18456513>) |
+| 2026 | A Bibliometric Analysis of CT Image Segmentation for Liver Cancer Screening Using Artificial Intelligence (1998--2026): A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0243.v1>) | N/A | N/A |
+| 2026 | Towards Human-Centered Safety in Vision-Language-Action Robot Control: A Survey and Outlook | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2762.v1>) | N/A | N/A |
+| 2026 | Visual Generative AI for Extended Reality: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2630.v1>) | N/A | N/A |
+| 2026 | AI-Enabled Smart and Precision Agriculture: Smart Sensors, IoT, Deep Learning, Computer Vision, and Decision Support: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2112.v1>) | N/A | N/A |
+| 2026 | Measuring Value in AI Generated Visual Art: A Structured Methodological Review of Valuation Measures | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2051.v1>) | N/A | N/A |
+| 2026 | Agentic AIGC: A Survey of Visual Generation Agents | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0173.v2>) | N/A | N/A |
+| 2026 | From Aligned Embeddings to Instruction-Following Perception: A Survey of Vision–Language Model Development | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1388.v1>) | N/A | N/A |
+| 2026 | Binding Text to Pixels: A Narrative Review of Supervision Granularity in Language-Guided Chest Radiograph Segmentation and Grounding | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0297.v1>) | N/A | N/A |
+| 2026 | Microscopy and Image Processing Techniques Using Artificial Intelligence for the Analysis of the Impact of Corrosion in Pipelines in the Oil and Gas Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2196.v1>) | N/A | N/A |
+| 2026 | Domain Adaptation and Annotation Efficiency in Remote-Sensing LULC Mapping: A Systematic Review of Active Learning and Vision–Language Models and a Conceptual Framework for the Brazilian Cerrado | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1534.v1>) | N/A | N/A |
+| 2026 | Beyond Visual Generation: Frontiers, Challenges, and Future Directions in Agentic Visual Creation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0682.v1>) | [code](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>) | N/A ([⭐ 21](<https://github.com/ATH-MaaS/Awesome-Agentic-Visual-Creation>)) |
+| 2026 | Agentic Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0173.v1>) | N/A | N/A |
+| 2026 | Object Detection in Computer Vision: A Comprehensive Review of Algorithms, Datasets, and Evaluation Techniques | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2288.v1>) | N/A | N/A |
+| 2026 | WiFi-Based 3D Reconstruction: A Survey with Insights from Vision-Based Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2267.v1>) | N/A | N/A |
+| 2026 | Worldwide Image Geolocalization in the Foundation Model Era: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1749.v1>) | [code](<https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization>) | N/A ([⭐ 6](<https://github.com/Jia-py/Awesome-Worldwide-Image-Geolocalization>)) |
+| 2026 | EgoDatasets: A Dataset-Centric Survey and Taxonomy for Egocentric Vision and Action Anticipation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0778.v1>) | N/A | N/A |
+| 2026 | Light-Assisted Computer Vision for Non-Destructive Assessment of Meat Quality: Intramuscular Fat and Freshness Estimation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0519.v1>) | N/A | N/A |
+| 2026 | Adaptive Neural Networks for Remote Sensing Imagery: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0448.v1>) | N/A | N/A |
+| 2026 | Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle | arXiv | [paper](<https://arxiv.org/abs/2608.04314>) | N/A | N/A |
+| 2026 | Medical Image Segmentation: A Comprehensive Review of Variational Models, Deep Learning, and Hybrid Frameworks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0036.v1>) | N/A | N/A |
+| 2026 | GAN-Based Brain MRI-to-CT Image Synthesis: A Comparative Review of Cross-Modality Translation Methods | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2088.v1>) | N/A | N/A |
+| 2026 | Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.1539.v1>) | [code](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>) | N/A ([⭐ 31](<https://github.com/Xzcv-hub/Awesome-Memory-in-VLM>)) |
+| 2026 | From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.2231.v1>) | N/A | N/A |
+| 2026 | Continual Test-Time Adaptation in Computer Vision: Methods, Benchmarks, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1578.v2>) | [code](<https://github.com/sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation>) | N/A ([⭐ 26](<https://github.com/sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation>)) |
+| 2026 | Language-Guided Segmentation of Medical Images: A Review of Foundation Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1606.v1>) | N/A | N/A |
+| 2026 | A Systematic Review of Quantum Deep Learning Architectures for Image Classification | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1015.v1>) | N/A | N/A |
+| 2026 | Consistency in Diffusion-Based Visual Generation: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0870.v1>) | N/A | N/A |
+| 2026 | The Evaluation Bottleneck of Vision-Language-Action Models: A Evaluation-Centric Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0425.v1>) | N/A | N/A |
+| 2026 | Vision-Language-Action and Vision Language Models for Robot Manipulation: A Comprehensive Review Towards Real-World Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0400.v1>) | N/A | N/A |
+| 2026 | Vehicle Autonomy to Ecosystem Intelligence: A Systematic Review of Dynamic Vision Architectures in Surface Mining Operations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0102.v1>) | N/A | N/A |
+| 2026 | Frequency-Informed Vision and Learning: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0650.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Technologies in Plant Factories over the Last Decade: Machine Vision, Nutrient Intelligence, Control, and Digital Twins | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0438.v1>) | N/A | N/A |
+| 2026 | Audio-Visual Intelligence in Large Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2605.04045>) | [code](<https://github.com/JavisVerse/Awesome-AVI>) | N/A ([⭐ 93](<https://github.com/JavisVerse/Awesome-AVI>)) |
+| 2026 | Image-Based Air Quality Estimation with Deep Learning: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2212.v1>) | N/A | N/A |
+| 2026 | From Seeing to Knowing the World: A Survey of Vision World Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.2072.v1>) | N/A | N/A |
+| 2026 | Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms | arXiv | [paper](<https://arxiv.org/abs/2604.23775>) | [code](<https://github.com/LiQiiiii/Awesome-VLA-Safety>) | N/A ([⭐ 153](<https://github.com/LiQiiiii/Awesome-VLA-Safety>)) |
+| 2026 | From Handcrafted Features to Vision Transformers: A Multi-Domain Survey of Image Classification Architectures, Datasets, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1416.v1>) | N/A | N/A |
+| 2026 | A Survey of Image Segmentation for Industrial Applications with a Focus on Quality Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0507.v1>) | N/A | N/A |
+| 2026 | A Survey on Machine Vision Techniques for Automated Quality Inspection in Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0501.v1>) | N/A | N/A |
+| 2026 | Language-Driven Image Restoration and Semantic-Aware Quality Assessment: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2366.v2>) | [code](<https://github.com/MingyuLiu1/Language-Driven-IR-and-IQA>) | N/A ([⭐ 0](<https://github.com/MingyuLiu1/Language-Driven-IR-and-IQA>)) |
+| 2026 | Efficient Image Restoration Using Deep Learning: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177092225.59864833/v1>) | N/A | N/A |
+| 2026 | A Survey of Architectural Design in Large Vision-Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176620829.92520878/v2>) | N/A | N/A |
+| 2026 | Autonomous Robotic Surgery Guided by Images in the Context of Therapies Managed by Intelligent Digital Technologies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0027.v1>) | N/A | N/A |
+| 2026 | COMPOSITIONALITY IN CONTRASTIVE VISION-LANGUAGE MODELS: A SURVEY OF METHODS AND BENCHMARKS | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177004940.09969046/v1>) | N/A | N/A |
+| 2026 | Interpretable Athlete Performance Modelling in Collegiate Basketball: A Review of Machine Learning and Computer Vision Methods | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177006540.07826863/v1>) | N/A | N/A |
+| 2026 | When Vision Meets Graphs: A Survey on Graph Reasoning and Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/898>) | N/A | N/A |
+| 2026 | A Survey on Thinking in Visual Generation: Reasoning, Planning, and Cognition | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964121.13450493/v1>) | N/A | N/A |
+| 2026 | From Factors to Methods: A Comprehensive Survey on Visual Instruction Tuning Data Selection | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176963563.34993183/v1>) | N/A | N/A |
+| 2026 | Towards Visual Chain-of-Thought Reasoning: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964090.06440051/v1>) | N/A | N/A |
+| 2026 | A Survey of Generative Video Models as Visual Reasoners | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176857888.84304881/v1>) | N/A | N/A |
+| 2026 | Efficient Architectures and Learning Strategies for Large Vision Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827296.68744162/v1>) | N/A | N/A |
+| 2026 | Principles and Methods for Building Efficient Large Vision Language Models | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176834510.09512317/v1>) | N/A | N/A |
+| 2026 | Towards Computationally Efficient Large Vision Language Models for Scalable Multimodal Intelligence | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176827212.22653010/v1>) | N/A | N/A |
+| 2026 | A Survey on Large Multimodal Models for 3D Vision and Scene Understanding | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784330.01281926/v1>) | N/A | N/A |
+| 2026 | Generative AI for Medical Image Synthesis: GANs, Diffusion Models, and Data Augmentation Techniques | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784492.29866965/v1>) | N/A | N/A |
 | 2025 | A Survey on Efficient Vision-Language-Action Models | arXiv | [paper](<https://arxiv.org/abs/2510.24795>) | N/A | N/A |
 | 2025 | Foundation Models in Medical Image Analysis: A Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2510.16973>) | N/A | N/A |
 | 2025 | Image-to-Video Transfer Learning based on Image-Language Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2510.10671>) | N/A | N/A |

@@ -9,7 +9,7 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.md)
 
-**121 surveys · Page 1/1**
+**127 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -93,6 +93,7 @@
 | 2025 | A Survey on Stereotype Detection in Natural Language Processing | arXiv | [paper](<https://arxiv.org/abs/2505.17642>) | N/A | [10](<https://openalex.org/W4414863587>) |
 | 2024 | Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.00252>) | N/A | [10](<https://openalex.org/W4405719044>) |
 | 2013 | Survey on parsing three dependency representations for English | ACL | [paper](<https://aclanthology.org/P13-3005>) | N/A | [10](<https://openalex.org/W2252217223>) |
+| 2026 | An Overview of Recent Advances in Natural Language Processing for Information Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202512.2126.v1>) | N/A | [9](<https://openalex.org/W7125527579>) |
 | 2025 | How to Enable Effective Cooperation Between Humans and NLP Models: A Survey of Principles, Formalizations, and Beyond | ACL | [paper](<https://aclanthology.org/2025.acl-long.22>) | N/A | [9](<https://openalex.org/W4412886871>) |
 | 2024 | From Linguistic Giants to Sensory Maestros: A Survey on Cross-Modal Reasoning with Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2409.18996>) | [code](<https://github.com/ZuyiZhou/Awesome-Cross-modal-Reasoning-with-LLMs>) | [8](<https://openalex.org/W4403810016>) ([⭐ 16](<https://github.com/ZuyiZhou/Awesome-Cross-modal-Reasoning-with-LLMs>)) |
 | 2024 | A Systematic Review of NLP for Ghanaian Languages: Datasets, Models, and a Research Roadmap | arXiv | [paper](<https://arxiv.org/abs/2405.06818>) | N/A | [7](<https://openalex.org/W4396913065>) |
@@ -116,15 +117,20 @@
 | 2025 | A Structured Literature Review on Traditional Approaches in Current Natural Language Processing | arXiv | [paper](<https://arxiv.org/abs/2505.12970>) | N/A | [2](<https://openalex.org/W4417286968>) |
 | 2024 | Responsible Multilingual Large Language Models: A Survey of Development, Applications, and Societal Impact | arXiv | [paper](<https://arxiv.org/abs/2410.17532>) | N/A | [2](<https://openalex.org/W4404305059>) |
 | 2024 | Towards Compositionally Generalizable Semantic Parsing in Large Language Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.13074>) | N/A | [2](<https://openalex.org/W4395064692>) |
+| 2026 | Neural Machine Translation and Multilingual NLP: A Survey of Methods, Architectures, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0244.v1>) | N/A | [1](<https://openalex.org/W7118471204>) |
 | 2025 | E-ARMOR: Edge case Assessment and Review of Multilingual Optical Character Recognition | arXiv | [paper](<https://arxiv.org/abs/2509.03615>) | N/A | [1](<https://openalex.org/W7124972083>) |
 | 2025 | A Survey of Cognitive Distortion Detection and Classification in NLP | EMNLP | [paper](<https://aclanthology.org/2025.findings-emnlp.804>) | N/A | [1](<https://openalex.org/W4416034216>) |
 | 2025 | Can NLP Tackle Hate Speech in the Real World? Stakeholder-Informed Feedback and Survey on Counterspeech | arXiv | [paper](<https://arxiv.org/abs/2508.04638>) | N/A | [1](<https://openalex.org/W7160128095>) |
 | 2025 | Natural Language Generation from Visual Events: State-of-the-Art and Key Open Questions | arXiv | [paper](<https://arxiv.org/abs/2502.13034>) | N/A | [1](<https://openalex.org/W4407760028>) |
 | 2024 | Domain Adaptation of Multilingual Semantic Search -- Literature Review | arXiv | [paper](<https://arxiv.org/abs/2402.02932>) | N/A | [1](<https://openalex.org/W4391621849>) |
 | 2026 | A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models | arXiv | [paper](<https://arxiv.org/abs/2606.25380>) | N/A | [0](<https://openalex.org/W7165905721>) |
+| 2026 | Documenting Concordance: A Scoping Review of NLP and Text Mining in Oncology EHR Narratives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0751.v1>) | N/A | [0](<https://openalex.org/W7128644379>) |
 | 2026 | A Survey of Toxicity Mitigation Strategies for Multilingual Language Models | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1780>) | N/A | [0](<https://openalex.org/W7166819979>) |
 | 2026 | A Survey on Representing Linguistic Style: Challenges and Opportunities | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.295>) | N/A | [0](<https://openalex.org/W7149226804>) |
 | 2025 | Coordinating Chaos: A Structured Review of Linguistic Coordination Methodologies | ACL | [paper](<https://aclanthology.org/2025.acl-long.1216>) | N/A | [0](<https://openalex.org/W4412889973>) |
+| 2026 | A Survey of Automatic Humor Detection: From Theoretical Foundations to Large Language Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1390.v1>) | N/A | N/A |
+| 2026 | Reliability in Emotion Classification, Sentiment Analysis, and AI-Generated Text Detection: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2665.v1>) | N/A | N/A |
+| 2026 | Cross-Lingual Transfer Learning in Large Language Models: Multilingual Representations and Low-Resource Adaptation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176799777.79169627/v1>) | N/A | N/A |
 | 2025 | Multilingual Vision-Language Models, A Survey | arXiv | [paper](<https://arxiv.org/abs/2509.22123>) | N/A | N/A |
 | 2025 | A meta-analysis on the performance of machine-learning based language models for sentiment analysis | arXiv | [paper](<https://arxiv.org/abs/2509.09728>) | N/A | N/A |
 | 2025 | Moving beyond harm. A critical review of how NLP research approaches discrimination | arXiv | [paper](<https://arxiv.org/abs/2508.04504>) | N/A | N/A |

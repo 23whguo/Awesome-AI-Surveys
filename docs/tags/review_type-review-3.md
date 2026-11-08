@@ -9,16 +9,12 @@
 
 
 
-**873 surveys · Page 3/5**
+**1035 surveys · Page 3/6**
 
-Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](review_type-review-4.md) · [5](review_type-review-5.md)
+Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](review_type-review-4.md) · [5](review_type-review-5.md) · [6](review_type-review-6.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
-| 2024 | A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision | arXiv | [paper](<https://arxiv.org/abs/2412.08148>) | N/A | [15](<https://openalex.org/W4405301175>) |
-| 2024 | Multiscale Simulation and Machine Learning Facilitated Design of Two-Dimensional Nanomaterials-Based Tunnel Field-Effect Transistors: A Review | arXiv | [paper](<https://arxiv.org/abs/2409.18965>) | N/A | [15](<https://openalex.org/W4408525742>) |
-| 2024 | Benchmarking LLMs for Environmental Review and Permitting | arXiv | [paper](<https://arxiv.org/abs/2407.07321>) | N/A | [15](<https://openalex.org/W4400600739>) |
-| 2024 | A Review on Discriminative Self-supervised Learning Methods in Computer Vision | arXiv | [paper](<https://arxiv.org/abs/2405.04969>) | N/A | [15](<https://openalex.org/W4396816783>) |
 | 2024 | Waves, patterns and bifurcations: a tutorial review on the vertebrate segmentation clock | arXiv | [paper](<https://arxiv.org/abs/2403.00457>) | N/A | [15](<https://openalex.org/W4399060660>) |
 | 2023 | A Review of Nuclei Detection and Segmentation on Microscopy Images Using Deep Learning With Applications to Unbiased Stereology Counting | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2022.3213407>) | N/A | [15](<https://openalex.org/W4308366198>) |
 | 2026 | A Review of Incorporating Psychological Theories in LLMs | EACL | [paper](<https://aclanthology.org/2026.eacl-long.350>) | N/A | [14](<https://openalex.org/W7140095450>) |
@@ -102,7 +98,9 @@ Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](re
 | 2024 | Distributed Compression in the Era of Machine Learning: A Review of Recent Advances | arXiv | [paper](<https://arxiv.org/abs/2402.07997>) | N/A | [10](<https://openalex.org/W4393407049>) |
 | 2020 | Application of machine learning method in optical molecular imaging: a review | SCIS | [paper](<https://doi.org/10.1007/s11432-019-2708-1>) | N/A | [10](<https://openalex.org/W2997558062>) |
 | 2026 | Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.26169>) | N/A | [9](<https://openalex.org/W4408852068>) |
+| 2026 | Generative AI to Foster Computational Thinking in Initial Teacher Education: A Thematic Literature Review and Model | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1017.v1>) | N/A | [9](<https://openalex.org/W7154054932>) |
 | 2026 | LLM-Generated or Human-Written? Comparing Review and Non-Review Papers on ArXiv | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.2365>) | [code](<https://github.com/yanaiela/llm-review-arxiv>) | [9](<https://openalex.org/W7125793443>) ([⭐ 2](<https://github.com/yanaiela/llm-review-arxiv>)) |
+| 2026 | What Distinguishes AI-Generated from Human Writing? A Rapid Review of the Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0350.v1>) | N/A | [9](<https://openalex.org/W7128302738>) |
 | 2025 | Generative AI for Software Project Management: Insights from a Review of Software Practitioner Literature | arXiv | [paper](<https://arxiv.org/abs/2510.10887>) | N/A | [9](<https://openalex.org/W4415124229>) |
 | 2025 | Information Security Based on LLM Approaches: A Review | arXiv | [paper](<https://arxiv.org/abs/2507.18215>) | N/A | [9](<https://openalex.org/W4415233184>) |
 | 2025 | Robot-assisted Transcranial Magnetic Stimulation (Robo-TMS): A Review | arXiv | [paper](<https://arxiv.org/abs/2507.04345>) | N/A | [9](<https://openalex.org/W4412030565>) |
@@ -128,6 +126,7 @@ Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](re
 | 2024 | On the impact of robot personalization on human-robot interaction: A review | arXiv | [paper](<https://arxiv.org/abs/2401.11776>) | N/A | [9](<https://openalex.org/W4391210591>) |
 | 2014 | On Using Information Retrieval for the Selection and Sensitivity Review of Digital Public Records | SIGIR | [paper](<https://ceur-ws.org/Vol-1225/pir2014_submission_9.pdf>) | N/A | [9](<https://openalex.org/W2400737117>) |
 | 2026 | Deep learning-based astronomical multimodal data fusion: A comprehensive review | arXiv | [paper](<https://arxiv.org/abs/2603.00699>) | N/A | [8](<https://openalex.org/W7117369618>) |
+| 2026 | AI Driven Virtual Power Plants: A Comprehensive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1691.v1>) | N/A | [8](<https://openalex.org/W7130828561>) |
 | 2025 | Machine Learning for RNA Secondary Structure Prediction: a review of current methods and challenges | arXiv | [paper](<https://arxiv.org/abs/2511.02622>) | N/A | [8](<https://openalex.org/W7125484332>) |
 | 2025 | The Safety Challenge of World Models for Embodied AI Agents: A Review | arXiv | [paper](<https://arxiv.org/abs/2510.05865>) | N/A | [8](<https://openalex.org/W4414979685>) |
 | 2025 | Physics-informed machine learning for combustion: A review | arXiv | [paper](<https://arxiv.org/abs/2509.03347>) | N/A | [8](<https://openalex.org/W4416716965>) |
@@ -168,6 +167,7 @@ Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](re
 | 2024 | KG-EmpiRE: A Community-Maintainable Knowledge Graph for a Sustainable Literature Review on the State and Evolution of Empirical Research in Requirements Engineering | arXiv | [paper](<https://arxiv.org/abs/2405.08351>) | N/A | [7](<https://openalex.org/W4401719565>) |
 | 2024 | Review of Methods for Automatic Speaker Verification | TASLP | [paper](<https://doi.org/10.1109/TASLP.2023.3346293>) | N/A | [7](<https://openalex.org/W4390187207>) |
 | 2017 | Surgical Action Retrieval for Assisting Video Review of Laparoscopic Skills | MM | [paper](<https://doi.org/10.1145/3132390.3132395>) | N/A | [7](<https://openalex.org/W2765334359>) |
+| 2026 | Lightweight Deep Learning Models for Face Mask Detection in Real-Time Edge Environments: A Review and Future Research Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0505.v1>) | N/A | [6](<https://openalex.org/W7154466628>) |
 | 2025 | A Structured Review and Quantitative Profiling of Public Brain MRI Datasets for Foundation Model Development | arXiv | [paper](<https://arxiv.org/abs/2510.20196>) | N/A | [6](<https://openalex.org/W4417466485>) |
 | 2025 | From 2D to 3D, Deep Learning-based Shape Reconstruction in Magnetic Resonance Imaging: A Review | arXiv | [paper](<https://arxiv.org/abs/2510.01296>) | N/A | [6](<https://openalex.org/W4414815231>) |
 | 2025 | Federated Learning for Large Models in Medical Imaging: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2508.20414>) | N/A | [6](<https://openalex.org/W4414448420>) |
@@ -208,12 +208,12 @@ Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](re
 | 2026 | Review of Machine Learning Models for Solar Energetic Particle Prediction | arXiv | [paper](<https://arxiv.org/abs/2606.19539>) | N/A | [4](<https://openalex.org/W7165400731>) |
 | 2026 | Tabular Foundation Models for Credit Risk Prediction: A Dedicated Review and Empirical Comparison | arXiv | [paper](<https://arxiv.org/abs/2605.18147>) | N/A | [4](<https://openalex.org/W7161719155>) |
 | 2026 | Towards Secure Retrieval-Augmented Generation: A Comprehensive Review of Threats, Defenses and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2603.21654>) | N/A | [4](<https://openalex.org/W7140221703>) |
+| 2026 | Connect-4 AI: A Comprehensive Taxonomy and Critical Review of Methods and Metrics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2416.v1>) | N/A | [4](<https://openalex.org/W7127985204>) |
 | 2026 | A Unified Study of LoRA Variants: Taxonomy, Review, Codebase, and Empirical Evaluation | arXiv | [paper](<https://arxiv.org/abs/2601.22708>) | N/A | [4](<https://openalex.org/W7127143063>) |
 | 2025 | Machine Learning for Scheduling Decision Systems: A Critical Review of Architecture, Assurance, and Deployment | arXiv | [paper](<https://arxiv.org/abs/2512.22642>) | N/A | [4](<https://openalex.org/W7117691484>) |
 | 2025 | Generative Model Predictive Control in Manufacturing Processes: A Review | arXiv | [paper](<https://arxiv.org/abs/2511.17865>) | N/A | [4](<https://openalex.org/W7158825654>) |
 | 2025 | A Review of Machine Learning for Cavitation Intensity Recognition in Complex Industrial Systems | arXiv | [paper](<https://arxiv.org/abs/2511.15497>) | N/A | [4](<https://openalex.org/W7106255202>) |
 | 2025 | LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases | arXiv | [paper](<https://arxiv.org/abs/2511.02203>) | N/A | [4](<https://openalex.org/W4417287532>) |
 | 2025 | The Evolution of Probabilistic Price Forecasting Techniques: A Review of the Day-Ahead, Intra-Day, and Balancing Markets | arXiv | [paper](<https://arxiv.org/abs/2511.05523>) | N/A | [4](<https://openalex.org/W7154561719>) |
-| 2025 | AI Ethics Education in India: A Syllabus-Level Review of Computing Courses | arXiv | [paper](<https://arxiv.org/abs/2509.22329>) | N/A | [4](<https://openalex.org/W4417351032>) |
 
-Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](review_type-review-4.md) · [5](review_type-review-5.md)
+Pages: [1](review_type-review.md) · [2](review_type-review-2.md) · 3 · [4](review_type-review-4.md) · [5](review_type-review-5.md) · [6](review_type-review-6.md)

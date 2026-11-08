@@ -9,20 +9,27 @@
 
 [Language, NLP & Large Language Models](../categories/05-language.by-time.md)
 
-**67 surveys · Page 1/1**
+**74 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | Can Hidden Reasoning Stay Hidden? A Survey of Chain-of-Thought Extraction Attacks on Large Reasoning Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2022.v1>) | N/A | N/A |
 | 2026 | Supervised Fine-Tuning for Reasoning Large Language Models: A Survey | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1189>) | N/A | [0](<https://openalex.org/W7224408794>) |
+| 2026 | One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation | arXiv | [paper](<https://arxiv.org/abs/2608.25936>) | N/A | N/A |
 | 2026 | GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1815>) | N/A | [0](<https://openalex.org/W7166883585>) |
 | 2026 | The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes | arXiv | [paper](<https://arxiv.org/abs/2606.11470>) | N/A | [1](<https://openalex.org/W7164377990>) |
 | 2026 | Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery | arXiv | [paper](<https://arxiv.org/abs/2606.08728>) | [code](<https://github.com/Starscream-11813/awesome-AI4Math>) | [4](<https://openalex.org/W7163990527>) ([⭐ 3](<https://github.com/Starscream-11813/awesome-AI4Math>)) |
 | 2026 | A Survey of Reasoning-Intensive Retrieval: Progress and Challenges | ACL | [paper](<https://aclanthology.org/2026.acl-long.1949>) | N/A | [0](<https://openalex.org/W7166852561>) |
 | 2026 | A Systematic Review of Recent Advancements in PINN Augmented Deep Learning and Mathematical Modeling for Efficient Portfolio Management | arXiv | [paper](<https://arxiv.org/abs/2604.27610>) | N/A | [0](<https://openalex.org/W7159626346>) |
 | 2026 | Wiring the 'Why': A Unified Taxonomy and Survey of Abductive Reasoning in LLMs | arXiv | [paper](<https://arxiv.org/abs/2604.08016>) | N/A | [6](<https://openalex.org/W7153042752>) |
+| 2026 | Artificial Intelligence, Sustainability, and the Development of Mathematical Thinking: A Theory-Grounded Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2391.v1>) | N/A | N/A |
 | 2026 | The ARC of Progress towards AGI: A Living Survey of Abstraction and Reasoning | arXiv | [paper](<https://arxiv.org/abs/2603.13372>) | N/A | [5](<https://openalex.org/W7138142412>) |
+| 2026 | When Vision Meets Graphs: A Survey on Graph Reasoning and Learning | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/898>) | N/A | N/A |
+| 2026 | Towards Visual Chain-of-Thought Reasoning: A Comprehensive Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176964090.06440051/v1>) | N/A | N/A |
 | 2026 | Barriers to Discrete Reasoning with Transformers: A Survey Across Depth, Exactness, and Bandwidth | EACL | [paper](<https://aclanthology.org/2026.eacl-long.87>) | N/A | [1](<https://openalex.org/W7140108538>) |
 | 2026 | Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures | ACL | [paper](<https://aclanthology.org/2026.acl-long.889>) | N/A | [7](<https://openalex.org/W7125925189>) |
+| 2026 | Emergent Abilities in Large Language Models: In-Context Learning, Chain-of-Thought Reasoning, and Scaling Laws | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176784493.33333564/v1>) | N/A | N/A |
+| 2026 | Opening the Black Box: A Survey on the Mechanisms of Multi-Step Reasoning in Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2601.14270>) | N/A | [4](<https://openalex.org/W7118197387>) |
 | 2026 | Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.55>) | [code](<https://github.com/EIT-NLP/Awesome-Latent-CoT>) | [92](<https://openalex.org/W4416452771>) ([⭐ 399](<https://github.com/EIT-NLP/Awesome-Latent-CoT>)) |
 | 2026 | A Survey of Inductive Reasoning for Large Language Models | ACL | [paper](<https://aclanthology.org/2026.acl-long.1447>) | N/A | [14](<https://openalex.org/W4417100126>) |
 | 2026 | Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey | EACL | [paper](<https://aclanthology.org/2026.findings-eacl.7>) | N/A | [4](<https://openalex.org/W7140121408>) |

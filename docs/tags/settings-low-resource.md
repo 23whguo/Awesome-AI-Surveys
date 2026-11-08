@@ -9,7 +9,7 @@
 
 
 
-**12 surveys · Page 1/1**
+**14 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -25,3 +25,5 @@
 | 2026 | LLM Safety Alignment in Low-Resource Languages: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2608.14626>) | N/A | [1](<https://openalex.org/W7203670031>) |
 | 2025 | QA Analysis in Medical and Legal Domains: A Survey of Data Augmentation in Low-Resource Settings | ACL | [paper](<https://aclanthology.org/2025.acl-srw.89>) | [code](<https://github.com/kentrachmat/survey-da>) | [1](<https://openalex.org/W4412889371>) ([⭐ 0](<https://github.com/kentrachmat/survey-da>)) |
 | 2026 | Automatic Speech Recognition for Low-Resource Sinhala: A Critical Review of Methods, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2610.05681>) | N/A | [0](<https://openalex.org/W7220710247>) |
+| 2026 | AT(N)-Anchored Multimodal Deep Learning for Alzheimer’s Staging: A Taxonomy and Continuous Burden Index for Low-Resource Settings | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2240.v1>) | N/A | N/A |
+| 2026 | Cross-Lingual Transfer Learning in Large Language Models: Multilingual Representations and Low-Resource Adaptation | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176799777.79169627/v1>) | N/A | N/A |

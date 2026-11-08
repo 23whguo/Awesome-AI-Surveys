@@ -9,10 +9,12 @@
 
 [Knowledge, Graph Learning & Symbolic Reasoning](../categories/09-knowledge.by-time.md)
 
-**9 surveys · Page 1/1**
+**11 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
+| 2026 | From Minimax to Self-Play: A Taxonomy of Decision Quality, Optimality, and Robustness in Game-Playing Search | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0057.v1>) | N/A | N/A |
+| 2026 | Connect-4 AI: A Comprehensive Taxonomy and Critical Review of Methods and Metrics | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2416.v1>) | N/A | [4](<https://openalex.org/W7127985204>) |
 | 2025 | Integrating Neurosymbolic AI in Advanced Air Mobility: A Comprehensive Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1151>) | N/A | [4](<https://openalex.org/W4414360200>) |
 | 2025 | A Survey on Large Language Models for Automated Planning | arXiv | [paper](<https://arxiv.org/abs/2502.12435>) | N/A | [25](<https://openalex.org/W4407759444>) |
 | 2025 | Neuro-Symbolic AI in 2024: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2501.05435>) | N/A | [127](<https://openalex.org/W4406273454>) |

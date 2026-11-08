@@ -9,7 +9,7 @@
 
 
 
-**103 surveys · Page 1/1**
+**113 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -103,6 +103,7 @@
 | 2026 | Survey on Remote Sensing Scene Classification: From Traditional Methods to Large Generative AI Models | arXiv | [paper](<https://arxiv.org/abs/2603.26751>) | N/A | [3](<https://openalex.org/W7140281874>) |
 | 2019 | Detection of Methane and Heavy Hydrocarbon Gases in the Infrared Range Using Hyperspectral Airborne Remote Sensing: an Overview | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2019.8900556>) | N/A | [3](<https://openalex.org/W2986098632>) |
 | 2026 | Data-Driven Vision-Language Models for Remote Sensing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.31304>) | N/A | [2](<https://openalex.org/W7164007915>) |
+| 2026 | A Comprehensive Survey of Agentic AI for Geospatial Data | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2236.v2>) | [code](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>) | [2](<https://openalex.org/W7202255257>) ([⭐ 42](<https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data>)) |
 | 2025 | Feature Extraction in the Remote Sensing Data Value Chain: A Systematic Review of Methods and Applications | arXiv | [paper](<https://arxiv.org/abs/2510.18935>) | N/A | [2](<https://openalex.org/W4416245693>) |
 | 2017 | Hyperspectral and geophysical survey for the development of new exploration approaches in the Iberian Pyrite Belt/Spain | IGARSS | [paper](<https://doi.org/10.1109/IGARSS.2017.8127998>) | N/A | [1](<https://openalex.org/W2775381183>) |
 | 2026 | The Gap Is in the Geometry: A Convergent Meta-Analysis of Multi-Facet Aerial and Remote Sensing Video Understanding | arXiv | [paper](<https://arxiv.org/abs/2610.19102>) | N/A | [0](<https://openalex.org/W7221914767>) |
@@ -113,6 +114,15 @@
 | 2025 | AI and Remote Sensing for Resilient and Sustainable Built Environments: A Review of Current Methods, Open Data and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2507.01547>) | N/A | [0](<https://openalex.org/W4417183069>) |
 | 2024 | Overview of the Main Activities of Hyperhealth Project - Results of Hyperspectral Prisma Data Exploitation | IGARSS | [paper](<https://doi.org/10.1109/IGARSS53475.2024.10641467>) | N/A | [0](<https://openalex.org/W4402261167>) |
 | 2021 | An Overview of the Contributions of Jose Manuel Bioucas-Dias to Remote Sensing Image Processing | IGARSS | [paper](<https://doi.org/10.1109/IGARSS47720.2021.9554718>) | N/A | [0](<https://openalex.org/W3206509027>) |
+| 2026 | From 3D Scene Understanding to Hazard Forecasting: A Critical Review of Remote Sensing–Driven Emergency Digital Twins | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0926.v1>) | N/A | N/A |
+| 2026 | Earth Observation Foundation Models (EO-FMs): A Review of the Conditions for Transferable and Trustworthy Geospatial Representations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1563.v1>) | N/A | N/A |
+| 2026 | Adaptive Neural Networks for Remote Sensing Imagery: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0448.v1>) | N/A | N/A |
+| 2026 | Geospatial Artificial Intelligence in Precision Agriculture: A Systematic Review of Applications, Multimodal Data Integration, and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0386.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence for Coastal Resilience and Environmental Sustainability: A Review of Remote Sensing and Geospatial Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0260.v1>) | N/A | N/A |
+| 2026 | Advances in Multi-Scale Remote Sensing and Machine Learning for Canopy-to-Root Phenotyping of Drought Adaptation in Sorghum: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1083.v1>) | N/A | N/A |
+| 2026 | From NDVI to Neural Networks: A Systematic Review of Satellite Remote Sensing Methods for Monitoring Vegetation Responses to Climate Change (2000–2025) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1906.v2>) | N/A | N/A |
+| 2026 | Machine Learning and Deep Learning Approaches in Thermal Remote Sensing: A Systematic Review (2018–2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.2395.v1>) | N/A | N/A |
+| 2026 | UAV-Based Remote Sensing and Artificial Intelligence for Climate-Smart Agriculture: A Systematic Review of Technologies, Analytics, and Applications in Smallholder Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0355.v1>) | N/A | N/A |
 | 2025 | Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.22964>) | N/A | N/A |
 | 2025 | From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion | arXiv | [paper](<https://arxiv.org/abs/2507.09081>) | N/A | N/A |
 | 2025 | Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study | arXiv | [paper](<https://arxiv.org/abs/2507.05730>) | N/A | N/A |

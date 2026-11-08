@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**115 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**136 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>12.1 Reinforcement Learning Foundations & Algorithms · 强化学习基础与算法 (99)</b></summary>
+<summary><b>12.1 Reinforcement Learning Foundations & Algorithms · 强化学习基础与算法 (112)</b></summary>
 
-[Browse all 99 surveys →](../papers/12-decision-rl.md)
+[Browse all 112 surveys →](../papers/12-decision-rl.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -58,9 +58,9 @@
 </details>
 
 <details open>
-<summary><b>12.4 Model-Based Decisions & World Models · 基于模型的决策与世界模型 (4)</b></summary>
+<summary><b>12.4 Model-Based Decisions & World Models · 基于模型的决策与世界模型 (12)</b></summary>
 
-[Browse all 4 surveys →](../papers/12-decision-world-models.md)
+[Browse all 12 surveys →](../papers/12-decision-world-models.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -68,5 +68,7 @@
 | 2025 | A Step Toward World Models: A Survey on Robotic Manipulation | arXiv | [paper](<https://arxiv.org/abs/2511.02097>) | N/A | [31](<https://openalex.org/W4415946585>) |
 | 2024 | From Efficient Multimodal Models to World Models: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.00118>) | N/A | [24](<https://openalex.org/W4400267085>) |
 | 2026 | World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications | arXiv | [paper](<https://arxiv.org/abs/2606.00133>) | N/A | [5](<https://openalex.org/W7160832817>) |
+| 2026 | World Models for Digital Agents: An Agent-Centric Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0462.v1>) | N/A | N/A |
+| 2026 | Diffusion-Based World Models: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1022.v1>) | N/A | N/A |
 
 </details>

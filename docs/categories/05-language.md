@@ -9,12 +9,12 @@
 
 [Home](../../README.md) · [All categories](../CATEGORIES.md) · [Tags](../TAGS.md)
 
-**666 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
+**712 surveys.** Topic previews below; each full list contains every included work and is paginated for GitHub rendering.
 
 <details open>
-<summary><b>05.1 LLM Foundations, Training & Adaptation · 大语言模型基础、训练与适配 (354)</b></summary>
+<summary><b>05.1 LLM Foundations, Training & Adaptation · 大语言模型基础、训练与适配 (378)</b></summary>
 
-[Browse all 354 surveys →](../papers/05-language-llm.md)
+[Browse all 378 surveys →](../papers/05-language-llm.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -28,9 +28,9 @@
 </details>
 
 <details open>
-<summary><b>05.2 Retrieval-Augmented Generation · 检索增强生成 (30)</b></summary>
+<summary><b>05.2 Retrieval-Augmented Generation · 检索增强生成 (32)</b></summary>
 
-[Browse all 30 surveys →](../papers/05-language-rag.md)
+[Browse all 32 surveys →](../papers/05-language-rag.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -44,9 +44,9 @@
 </details>
 
 <details open>
-<summary><b>05.3 Reasoning, Mathematics & Self-Correction · 推理、数学与自我纠正 (67)</b></summary>
+<summary><b>05.3 Reasoning, Mathematics & Self-Correction · 推理、数学与自我纠正 (74)</b></summary>
 
-[Browse all 67 surveys →](../papers/05-language-reasoning.md)
+[Browse all 74 surveys →](../papers/05-language-reasoning.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -60,9 +60,9 @@
 </details>
 
 <details open>
-<summary><b>05.4 Long Context, Memory & Knowledge Editing · 长上下文、记忆与知识编辑 (10)</b></summary>
+<summary><b>05.4 Long Context, Memory & Knowledge Editing · 长上下文、记忆与知识编辑 (11)</b></summary>
 
-[Browse all 10 surveys →](../papers/05-language-context.md)
+[Browse all 11 surveys →](../papers/05-language-context.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -76,9 +76,9 @@
 </details>
 
 <details open>
-<summary><b>05.5 Generation, Summarization & Dialogue · 生成、摘要与对话 (67)</b></summary>
+<summary><b>05.5 Generation, Summarization & Dialogue · 生成、摘要与对话 (71)</b></summary>
 
-[Browse all 67 surveys →](../papers/05-language-generation.md)
+[Browse all 71 surveys →](../papers/05-language-generation.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -92,9 +92,9 @@
 </details>
 
 <details open>
-<summary><b>05.6 Language Understanding & Information Extraction · 语言理解与信息抽取 (121)</b></summary>
+<summary><b>05.6 Language Understanding & Information Extraction · 语言理解与信息抽取 (127)</b></summary>
 
-[Browse all 121 surveys →](../papers/05-language-understanding.md)
+[Browse all 127 surveys →](../papers/05-language-understanding.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -108,9 +108,9 @@
 </details>
 
 <details open>
-<summary><b>05.7 Code Models & Program Intelligence · 代码模型与程序智能 (17)</b></summary>
+<summary><b>05.7 Code Models & Program Intelligence · 代码模型与程序智能 (19)</b></summary>
 
-[Browse all 17 surveys →](../papers/05-language-code.md)
+[Browse all 19 surveys →](../papers/05-language-code.md)
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |

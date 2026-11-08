@@ -9,7 +9,7 @@
 
 [Domain Applications & Human-AI Interaction](../categories/17-applications.md)
 
-**126 surveys · Page 1/1**
+**193 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -65,6 +65,7 @@
 | 2024 | Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2407.18096>) | N/A | [18](<https://openalex.org/W4403938224>) |
 | 2025 | Discovering Strong Gravitational Lenses in the Dark Energy Survey with Interactive Machine Learning and Crowd-sourced Inspection with Space Warps | arXiv | [paper](<https://arxiv.org/abs/2501.15679>) | N/A | [17](<https://openalex.org/W4406880929>) |
 | 2024 | Evaluating the Energy Consumption of Machine Learning: Systematic Literature Review and Experiments | arXiv | [paper](<https://arxiv.org/abs/2408.15128>) | N/A | [17](<https://openalex.org/W4402705196>) |
+| 2026 | Intelligent HVAC Control in Residential Buildings: A Systematic Review of Advanced Techniques and AI Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0386.v1>) | N/A | [16](<https://openalex.org/W7130413799>) |
 | 2025 | AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2509.09193>) | N/A | [16](<https://openalex.org/W4417071390>) |
 | 2025 | AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends | arXiv | [paper](<https://arxiv.org/abs/2504.05071>) | N/A | [16](<https://openalex.org/W4416118437>) |
 | 2025 | On-device edge learning for IoT data streams: a survey | arXiv | [paper](<https://arxiv.org/abs/2502.17788>) | N/A | [16](<https://openalex.org/W4415186964>) |
@@ -84,11 +85,13 @@
 | 2024 | Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.00516>) | N/A | [9](<https://openalex.org/W4401307395>) |
 | 2024 | Survey of Graph Neural Network for Internet of Things and NextG Networks | arXiv | [paper](<https://arxiv.org/abs/2405.17309>) | N/A | [9](<https://openalex.org/W4399115079>) |
 | 2024 | Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms | arXiv | [paper](<https://arxiv.org/abs/2404.16787>) | N/A | [9](<https://openalex.org/W4395687447>) |
+| 2026 | AI Driven Virtual Power Plants: A Comprehensive Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.1691.v1>) | N/A | [8](<https://openalex.org/W7130828561>) |
 | 2025 | Graph Neural Networks for Databases: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1172>) | N/A | [8](<https://openalex.org/W4414359555>) |
 | 2024 | Advanced Intelligent Optimization Algorithms for Multi-Objective Optimal Power Flow in Future Power Systems: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.09203>) | N/A | [8](<https://openalex.org/W4394867858>) |
 | 2026 | AI-IoT-Robotics Integration: Survey of Frameworks, Emerging Trends, and the Path Toward Connected Robotics | arXiv | [paper](<https://arxiv.org/abs/2606.01015>) | N/A | [7](<https://openalex.org/W7133327113>) |
 | 2025 | Generative Artificial Intelligence for Internet of Things Computing: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2504.07635>) | N/A | [7](<https://openalex.org/W7167645598>) |
 | 2024 | A Survey of Open-Source Power System Dynamic Simulators with Grid-Forming Inverter for Machine Learning Applications | arXiv | [paper](<https://arxiv.org/abs/2412.08065>) | N/A | [6](<https://openalex.org/W4416136875>) |
+| 2026 | Towards Fully DL-Driven RF: A Systematic Survey of Deep Learning for Wireless Transceiver Signal Processing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0658.v1>) | N/A | [5](<https://openalex.org/W7128780641>) |
 | 2024 | Image and Point-cloud Classification for Jet Analysis in High-Energy Physics: A survey | arXiv | [paper](<https://arxiv.org/abs/2403.11934>) | N/A | [5](<https://openalex.org/W4408457244>) |
 | 2026 | Machine Learning on the Edge for Sustainable IoT Networks: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2601.11326>) | N/A | [4](<https://openalex.org/W4417279878>) |
 | 2026 | Embodied Intelligence for Flexible Manufacturing: A Survey | arXiv | [paper](<https://arxiv.org/abs/2602.06966>) | N/A | [4](<https://openalex.org/W7128520469>) |
@@ -97,10 +100,13 @@
 | 2025 | Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.00747>) | N/A | [4](<https://openalex.org/W4414768957>) |
 | 2024 | A Systematic Review of Available Datasets in Additive Manufacturing | arXiv | [paper](<https://arxiv.org/abs/2401.15448>) | N/A | [4](<https://openalex.org/W4391376087>) |
 | 2026 | Natural Language Interfaces for Spatial and Temporal Databases: A Comprehensive Overview of Methods, Taxonomy, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2603.23375>) | N/A | [3](<https://openalex.org/W7155206520>) |
+| 2026 | Responsive Architecture and Fire Safety: A Comparative Review of Regulatory Regimes in the USA, Asia, and the EU/UK, with Implications for Poland in the Context of BIM/DT/AI/IoT | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1202.v1>) | N/A | [3](<https://openalex.org/W7153973767>) |
 | 2026 | Neuro-symbolic AI for Predictive Maintenance (PdM) -- review and recommendations | arXiv | [paper](<https://arxiv.org/abs/2602.00731>) | N/A | [3](<https://openalex.org/W7127313629>) |
+| 2026 | A Review of Artificial Intelligence Techniques for Ferroresonance Detection and Mitigation in Power Systems | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2101.v1>) | N/A | [3](<https://openalex.org/W7134839183>) |
 | 2024 | Review of Cloud Service Composition for Intelligent Manufacturing | arXiv | [paper](<https://arxiv.org/abs/2408.01795>) | N/A | [3](<https://openalex.org/W4403367744>) |
 | 2026 | Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness | arXiv | [paper](<https://arxiv.org/abs/2609.05314>) | N/A | [2](<https://openalex.org/W7211885610>) |
 | 2026 | Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics | arXiv | [paper](<https://arxiv.org/abs/2604.25244>) | N/A | [2](<https://openalex.org/W7157574397>) |
+| 2026 | Bridging Technology and Nutrition: A Systematic Review of AI and XR Applications for Nutritional Insights in Restaurants and Foodservice Operations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1590.v1>) | N/A | [2](<https://openalex.org/W7156099876>) |
 | 2026 | Artificial Intelligence Driven Channel Coding and Resource Optimization for Wireless Networks: A Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2601.06796>) | N/A | [2](<https://openalex.org/W7162865931>) |
 | 2024 | A Survey on the Use of Partitioning in IoT-Edge-AI Applications | arXiv | [paper](<https://arxiv.org/abs/2406.00301>) | N/A | [2](<https://openalex.org/W4399355249>) |
 | 2026 | A Comprehensive Survey of Wireless Foundation Models for AI-Native 6G Networks | arXiv | [paper](<https://arxiv.org/abs/2608.14694>) | N/A | [1](<https://openalex.org/W7203705966>) |
@@ -114,6 +120,7 @@
 | 2026 | Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection | arXiv | [paper](<https://arxiv.org/abs/2610.23809>) | N/A | [0](<https://openalex.org/W7222929540>) |
 | 2026 | Machine Learning for Underwater Optical Wireless Communication Systems: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2609.22294>) | N/A | [0](<https://openalex.org/W7214001717>) |
 | 2026 | Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges | arXiv | [paper](<https://arxiv.org/abs/2609.00171>) | N/A | [0](<https://openalex.org/W7206150980>) |
+| 2026 | Artificial Intelligence-Aided Digital Twin Design: A Systematic Review and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202408.2063.v2>) | N/A | [0](<https://openalex.org/W7204752271>) |
 | 2026 | Energy Efficient AI-Enabled Wireless Sensor Networks for Mission Critical Environments: A Systematic Review across Smart Grid, AI, and Urban Infrastructure Applications | arXiv | [paper](<https://arxiv.org/abs/2608.04499>) | N/A | [0](<https://openalex.org/W7196927746>) |
 | 2026 | Explainable AI for Next-Generation Wireless Physical Layer: Basics, State-of-the-Art, and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2606.24424>) | N/A | [0](<https://openalex.org/W7165733380>) |
 | 2026 | AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2606.23125>) | N/A | [0](<https://openalex.org/W7165627401>) |
@@ -123,6 +130,66 @@
 | 2026 | Forecasting Oil Consumption: The Statistical Review of World Energy Meets Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2602.01963>) | N/A | [0](<https://openalex.org/W7127318134>) |
 | 2025 | A Survey of Freshness-Aware Wireless Networking with Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2512.21412>) | N/A | [0](<https://openalex.org/W7117571358>) |
 | 2025 | Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024) | arXiv | [paper](<https://arxiv.org/abs/2508.12170>) | N/A | [0](<https://openalex.org/W4414460477>) |
+| 2026 | Artificial Intelligence and Sustainable Entrepreneurship in Territorial Innovation Ecosystems: A Scoping Review of Actors, Pathways and Gaps | Preprints.org | [paper](<https://doi.org/10.20944/preprints202611.0002.v1>) | N/A | N/A |
+| 2026 | Machine Learning, Foundation Models, Skills, and Agents in the Energy Industry: A Systematic, Evidence-Graded Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.3125.v1>) | N/A | N/A |
+| 2026 | LLM-Based Agentic AI in Manufacturing: A Scoping Review of Applications, System Designs and Evaluation Practices | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2479.v1>) | N/A | N/A |
+| 2026 | From Prediction to Thinking: A Review of Reasoning in Industrial Recommender System | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2135.v1>) | N/A | N/A |
+| 2026 | Positioning MBSE System Architectures in the Agent Harness Towards Automated Product Development: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.2028.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Machine Learning in Composite Manufacturing: Recent Advances, Emerging Trends, Digital Twins, and Future Perspectives | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1865.v1>) | N/A | N/A |
+| 2026 | AI-Enabled Leadership and Digital Governance in African Sport Organizations: Lessons for Institutional Transformation | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1513.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Machine Learning in Stem Cell Bioprocessing: From Monitoring to Autonomous Manufacturing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1488.v1>) | N/A | N/A |
+| 2026 | Grid-Forming Electric Vehicles: A Critical Review of Bidirectional Charging, AI-Enabled Control, and Grid-Support Services | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.0814.v1>) | N/A | N/A |
+| 2026 | A Systematic, Taxonomy-Guided Survey of Predictive Maintenance in Robotic Systems: Fault Detection, Diagnosis, Prognosis, and Fault-Tolerant Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2443.v1>) | N/A | N/A |
+| 2026 | Explainable Artificial Intelligence for Manufacturing and Materials Processing: A Review of Engineering Validation and Decision Support | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.2243.v1>) | N/A | N/A |
+| 2026 | The Importance of Artificial Intelligence for Leadership Competence and Organizational Culture in the Sports Industry: A Review of Related Literature | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1414.v1>) | N/A | N/A |
+| 2026 | The CFO in the Age of AI: Executive Role Transformation in AI-Enabled Digital Transformation—An Integrative Review and Multilevel Research Agenda | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.1378.v1>) | N/A | N/A |
+| 2026 | Wind Power Forecasting Architectures in Complex Terrain and Coastal Environments: A Systematic Review and Meta-Analysis of Comparative Performance | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0967.v1>) | N/A | N/A |
+| 2026 | A Review of Steel Surface Defect Detection for Industrial Applications: Evaluation Frameworks, Data Challenges, and Model Mechanisms | Preprints.org | [paper](<https://doi.org/10.20944/preprints202609.0355.v1>) | N/A | N/A |
+| 2026 | Investigation on AI-Based Deflector-Controlled Vertical Axis Wind Turbine a Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.2291.v1>) | N/A | N/A |
+| 2026 | A Systematic Review and Unified Framework for Predictive Maintenance in the Railway Domain | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1830.v1>) | N/A | N/A |
+| 2026 | AI-Driven Predictive Modelling for Food Shelf-Life Estimation and Spoilage Detection: Progress, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.1652.v1>) | N/A | N/A |
+| 2026 | Explainable and Prescriptive AI for Cyber-Physical NVH Quality Control in Smart Manufacturing: A Critical Review and Research Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0814.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Review of Artificial Intelligence-Driven Health Management of Electrical Machines | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0329.v1>) | N/A | N/A |
+| 2026 | Smart Textiles for Circular Wearable Systems: Architecture, Energy Harvesting, AI Integration, and Manufacturing Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202608.0196.v1>) | N/A | N/A |
+| 2026 | Green AI for Sustainable Transportation Infrastructure: A Sys-tematic Review of Energy-Efficient Deep Learning in Railway, Highway, and Smart Mobility Systems (2020-2026) | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2242.v1>) | N/A | N/A |
+| 2026 | From Digital Twin to AI-Integrated Control: A Review and Research Agenda for Large-Scale PEM Electrolyzer Plant Management | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.2105.v1>) | N/A | N/A |
+| 2026 | From Predict to Generate: A Cross-Layer Survey of Generative AI for IC Design and Manufacturing | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0874.v1>) | N/A | N/A |
+| 2026 | Frameworks for Adaptive Smart Urban Systems: A Bibliometric Analysis and Systematic Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0501.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Utilization in Renewable Energy System Modeling: Comprehensive Review of Techniques, Applications, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0346.v1>) | N/A | N/A |
+| 2026 | Generative AI in Industrial and Manufacturing Contexts: A Systematic Review of Applications, Challenges, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202607.0119.v1>) | N/A | N/A |
+| 2026 | Digital Twins and Artificial Intelligence for HAZOP Enhancement in Process Safety: A Critical Literature Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1902.v1>) | N/A | N/A |
+| 2026 | Review of Barriers to Artificial Intelligence in Circularity of Socially Sustainable Construction Businesses | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1514.v1>) | N/A | N/A |
+| 2026 | AI-Driven Mobility Management in 5G and 6G Wireless Networks: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.1358.v1>) | N/A | N/A |
+| 2026 | A Survey of Recent Advances in Industrial Anomaly Detection: From Normal-Only Training to Foundation-Model Priors | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0719.v1>) | N/A | N/A |
+| 2026 | Agentic AI and Large Language Models for Autonomous IoT Cybersecurity: A Systematic Survey, Taxonomy, and Research Roadmap | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0142.v1>) | [code](<https://github.com/vnageshwaran-de/agentic-iot-security>) | N/A ([⭐ 1](<https://github.com/vnageshwaran-de/agentic-iot-security>)) |
+| 2026 | Vehicle Autonomy to Ecosystem Intelligence: A Systematic Review of Dynamic Vision Architectures in Surface Mining Operations | Preprints.org | [paper](<https://doi.org/10.20944/preprints202606.0102.v1>) | N/A | N/A |
+| 2026 | Digital Twin Enabled Predictive Maintenance: A Systematic Review of Modeling Strategies, Maintenance Functions, and Application Domains | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.1733.v1>) | N/A | N/A |
+| 2026 | Tool Condition Monitoring Under Different Operating Conditions Using ML with Scarce Data: A Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202605.0129.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Review on Biomass Valorization Through Thermochemical Pathways: Product Properties and Usage of Artificial Intelligence | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1386.v1>) | N/A | N/A |
+| 2026 | A Survey of Image Segmentation for Industrial Applications with a Focus on Quality Control | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0507.v1>) | N/A | N/A |
+| 2026 | A Survey on Machine Vision Techniques for Automated Quality Inspection in Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.0501.v1>) | N/A | N/A |
+| 2026 | Smart IoT-Driven Domestic Water Quality Monitoring Systems: Architecture, Machine Learning Integration, and Implementation Challenges | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1804.v1>) | N/A | N/A |
+| 2026 | Toward Intelligent and Resilient Public Safety Communications: A Comprehensive Review of FirstNet, 5G, AI, and Emerging Technologies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0604.v2>) | N/A | N/A |
+| 2026 | Baseline, Benefits, Barriers, and Beyond: A Review of ISO 50001 Energy Management System Implementation in the AI-Driven Data Center Industry | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1411.v1>) | N/A | N/A |
+| 2026 | Generative Artificial Intelligence in the Energy Transition: A Scoping Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1432.v1>) | N/A | N/A |
+| 2026 | Composite Laminate Manufacturing and Characterization: A Comprehensive Review of Conventional Methods, AI Integration, Standardization Techniques, and Future Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1192.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence Enabling Intelligent Solar Energy Systems: Integration and Emerging Directions | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.1114.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence and Leadership in Organizations: A PRISMA Systematic Review of Opportunities, Challenges, and Emerging Risks | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0612.v1>) | N/A | N/A |
+| 2026 | Bridging Large Language Models and 6G Networks: Overview and Open Issues | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0564.v1>) | N/A | N/A |
+| 2026 | Toward Intelligent and Resilient Public Safety Communications: A Review of FirstNet, 5G, AI, and Digital Twin Technologies | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0604.v1>) | N/A | N/A |
+| 2026 | A Survey of Online Learning Techniques for Beam Management in mmWave Massive Systems | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177222864.42921844/v1>) | N/A | N/A |
+| 2026 | Agricultural Intelligence: A Technical Review Within the Perception-Decision-Execution (PDE) Framework | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1901.v1>) | N/A | N/A |
+| 2026 | Machine Learning in Directed Energy Deposition: A Systematic Literature Review | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177222631.11146214/v1>) | N/A | N/A |
+| 2026 | Is Strategic Decision-Making Still Human? A Systems Review of Agency, Algorithms, and Enterprise Strategy | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.1282.v1>) | N/A | N/A |
+| 2026 | A Comprehensive Survey on IoT Attacks and Defenses: From Side Channels to AI-Driven Threats | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.177127398.80380292/v1>) | N/A | N/A |
+| 2026 | A Comparative Review of Modeling and Metaheuristic Parameter Identification Strategies for Zero-Dimensional PEMFC Polarization Models | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0779.v1>) | N/A | N/A |
+| 2026 | AI/ML for D2D Communication in 5G/6G Networks and Beyond: Concept, Applications, Challenges, and Future Directions | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176619129.98487483/v2>) | N/A | N/A |
+| 2026 | Exploring Scientific Principles and Laws of Artificial Intelligence, World Model, and Artificial General Intelligence (AGI) in Future Intelligence Networking: Paradigms, Architectures, and Innovations | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.175393457.79277555/v2>) | N/A | N/A |
+| 2026 | LLMs and IoT: A Comprehensive Survey on Large Language Models and the Internet of Things | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.174063060.01215875/v4>) | N/A | N/A |
+| 2026 | Systematic Literature Review on Evolvable Knowledge Graphs in Manufacturing | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.172054425.55676002/v2>) | N/A | N/A |
+| 2026 | Urban Digital Twins for Sustainable Smart Cities: A Systematic Literature Review of UAV-Assisted MEC, Federated Intelligence, and Semantic Communications | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176948217.76093650/v1>) | N/A | N/A |
+| 2026 | Contactless Battery Sensing: A Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0937.v1>) | N/A | N/A |
+| 2026 | Artificial Intelligence in Software Defined Radio: A Survey | TechRxiv | [paper](<https://doi.org/10.36227/techrxiv.176823035.55020784/v1>) | N/A | N/A |
 | 2025 | Does Machine Learning Work? A Comparative Analysis of Strong Gravitational Lens Searches in the Dark Energy Survey | arXiv | [paper](<https://arxiv.org/abs/2510.23782>) | N/A | N/A |
 | 2025 | Large Language Models for Next-Generation Wireless Network Management: A Survey and Tutorial | arXiv | [paper](<https://arxiv.org/abs/2509.05946>) | N/A | N/A |
 | 2025 | AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design | arXiv | [paper](<https://arxiv.org/abs/2509.04805>) | N/A | N/A |

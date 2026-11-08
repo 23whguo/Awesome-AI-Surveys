@@ -9,7 +9,7 @@
 
 
 
-**77 surveys · Page 1/1**
+**82 surveys · Page 1/1**
 
 | 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code | 引用 |
 | ---: | --- | --- | :---: | :---: | ---: |
@@ -84,6 +84,11 @@
 | 2026 | Barriers to Discrete Reasoning with Transformers: A Survey Across Depth, Exactness, and Bandwidth | EACL | [paper](<https://aclanthology.org/2026.eacl-long.87>) | N/A | [1](<https://openalex.org/W7140108538>) |
 | 2026 | Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations | arXiv | [paper](<https://arxiv.org/abs/2608.12299>) | N/A | [0](<https://openalex.org/W7202383147>) |
 | 2025 | Transformer-based Spatial Grounding: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2507.12739>) | N/A | [0](<https://openalex.org/W4415309705>) |
+| 2026 | Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers | Preprints.org | [paper](<https://doi.org/10.20944/preprints202610.1404.v1>) | N/A | N/A |
+| 2026 | From Handcrafted Features to Vision Transformers: A Multi-Domain Survey of Image Classification Architectures, Datasets, and Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202604.1416.v1>) | N/A | N/A |
+| 2026 | LSTM vs. Transformer Models in Power Forecasting: A Comprehensive Survey | Preprints.org | [paper](<https://doi.org/10.20944/preprints202603.0624.v1>) | N/A | N/A |
+| 2026 | Transformer Algorithmics: A Tutorial on Efficient Implementation of Transformers on Hardware | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0932.v1>) | N/A | N/A |
+| 2026 | What Makes a Transformer Solve the TSP? A Component-Wise Analysis | Preprints.org | [paper](<https://doi.org/10.20944/preprints202602.0484.v1>) | N/A | N/A |
 | 2025 | From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins | arXiv | [paper](<https://arxiv.org/abs/2506.06359>) | N/A | N/A |
 | 2025 | Image Recognition with Online Lightweight Vision Transformer: A Survey | arXiv | [paper](<https://arxiv.org/abs/2505.03113>) | [code](<https://github.com/ajxklo/Lightweight-VIT>) | N/A ([⭐ 10](<https://github.com/ajxklo/Lightweight-VIT>)) |
 | 2025 | A Survey on Transformer Context Extension: Approaches and Evaluation | arXiv | [paper](<https://arxiv.org/abs/2503.13299>) | N/A | N/A |

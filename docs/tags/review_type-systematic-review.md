@@ -9,7 +9,7 @@
 
 
 
-**306 surveys · Page 1/2**
+**395 surveys · Page 1/2**
 
 Pages: 1 · [2](review_type-systematic-review-2.md)
 
@@ -126,6 +126,7 @@ Pages: 1 · [2](review_type-systematic-review-2.md)
 | 2024 | Diffusion Model for Planning: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2408.10266>) | N/A | [20](<https://openalex.org/W4403006772>) |
 | 2025 | Bridging Gaps in Natural Language Processing for Yor\`ub\'a: A Systematic Review of a Decade of Progress and Prospects | arXiv | [paper](<https://arxiv.org/abs/2502.17364>) | N/A | [19](<https://openalex.org/W4416058784>) |
 | 2025 | A Systematic Review of Skeleton-Based Action Recognition: Methods, Challenges, and Future Directions | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2025.3632689>) | N/A | [19](<https://openalex.org/W4417131453>) |
+| 2026 | Integrating Artificial Intelligence in Audit Workflow: Opportunities, Architecture, and Challenges: A Systematic Review | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.2060.v1>) | N/A | [18](<https://openalex.org/W7134281677>) |
 | 2025 | The role of large language models in UI/UX design: A systematic literature review | arXiv | [paper](<https://arxiv.org/abs/2507.04469>) | N/A | [18](<https://openalex.org/W4416832281>) |
 | 2024 | Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2407.18096>) | N/A | [18](<https://openalex.org/W4403938224>) |
 | 2024 | Discovering robust biomarkers of psychiatric disorders from resting-state functional MRI via graph neural networks: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2405.00577>) | N/A | [18](<https://openalex.org/W4413848314>) |
@@ -135,6 +136,7 @@ Pages: 1 · [2](review_type-systematic-review-2.md)
 | 2025 | Online Continual Learning: A Systematic Literature Review of Approaches, Challenges, and Benchmarks | arXiv | [paper](<https://arxiv.org/abs/2501.04897>) | N/A | [17](<https://openalex.org/W4406271683>) |
 | 2024 | Evaluating the Energy Consumption of Machine Learning: Systematic Literature Review and Experiments | arXiv | [paper](<https://arxiv.org/abs/2408.15128>) | N/A | [17](<https://openalex.org/W4402705196>) |
 | 2024 | Deep Learning based Key Information Extraction from Business Documents: Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2408.06345>) | N/A | [17](<https://openalex.org/W4413060449>) |
+| 2026 | Intelligent HVAC Control in Residential Buildings: A Systematic Review of Advanced Techniques and AI Applications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0386.v1>) | N/A | [16](<https://openalex.org/W7130413799>) |
 | 2025 | Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2509.22271>) | N/A | [16](<https://openalex.org/W7162113886>) |
 | 2025 | A Systematic Review of Poisoning Attacks Against Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2506.06518>) | N/A | [16](<https://openalex.org/W4417118608>) |
 | 2025 | Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review | CHI | [paper](<https://doi.org/10.1145/3706598.3713438>) | N/A | [16](<https://openalex.org/W4406744153>) |
@@ -205,6 +207,7 @@ Pages: 1 · [2](review_type-systematic-review-2.md)
 | 2026 | Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges | arXiv | [paper](<https://arxiv.org/abs/2608.18080>) | N/A | [5](<https://openalex.org/W7117753069>) |
 | 2026 | A Systematic Review of Algorithmic Red Teaming Methodologies for Assurance and Security of AI Applications | arXiv | [paper](<https://arxiv.org/abs/2602.21267>) | N/A | [5](<https://openalex.org/W7131677198>) |
 | 2026 | The Grammar of Transformers: A Systematic Review of Interpretability Research on Syntactic Knowledge in Language Models | EMNLP | [paper](<https://aclanthology.org/2026.emnlp-main.1679>) | N/A | [5](<https://openalex.org/W7126110420>) |
+| 2026 | A Systematic Review on Artificial Intelligence in Education: Opportunities, Challenges, and Ethical Implications | Preprints.org | [paper](<https://doi.org/10.20944/preprints202601.0448.v1>) | N/A | [5](<https://openalex.org/W7119118449>) |
 | 2025 | Impact and Implications of Generative AI for Enterprise Architects in Agile Environments: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2510.22003>) | N/A | [5](<https://openalex.org/W7161494060>) |
 | 2025 | Deep Learning in Dental Image Analysis: A Systematic Review of Datasets, Methodologies, and Emerging Challenges | arXiv | [paper](<https://arxiv.org/abs/2510.20634>) | N/A | [5](<https://openalex.org/W4417042770>) |
 | 2025 | Bias Mitigation for AI-Feedback Loops in Recommender Systems: A Systematic Literature Review and Taxonomy | arXiv | [paper](<https://arxiv.org/abs/2509.00109>) | N/A | [5](<https://openalex.org/W4416681978>) |
@@ -212,8 +215,5 @@ Pages: 1 · [2](review_type-systematic-review-2.md)
 | 2025 | Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2506.15506>) | N/A | [5](<https://openalex.org/W4415334116>) |
 | 2025 | Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective | arXiv | [paper](<https://arxiv.org/abs/2504.04631>) | N/A | [5](<https://openalex.org/W4416167634>) |
 | 2024 | Decade of Natural Language Processing in Chronic Pain: A Systematic Review | arXiv | [paper](<https://arxiv.org/abs/2412.15360>) | N/A | [5](<https://openalex.org/W4405713958>) |
-| 2024 | Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation | SIGIR | [paper](<https://doi.org/10.1145/3626772.3657921>) | [code](<https://github.com/ielab/dense-screening-feedback>) | [5](<https://openalex.org/W4400531211>) ([⭐ 3](<https://github.com/ielab/dense-screening-feedback>)) |
-| 2026 | Large Language Models for Web Accessibility: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2605.13873>) | N/A | [4](<https://openalex.org/W7163129606>) |
-| 2026 | Machine Learning on the Edge for Sustainable IoT Networks: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2601.11326>) | N/A | [4](<https://openalex.org/W4417279878>) |
 
 Pages: 1 · [2](review_type-systematic-review-2.md)
