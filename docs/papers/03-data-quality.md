@@ -1,0 +1,24 @@
+# Data Quality, Collection & Annotation · 数据质量、采集与标注
+
+[Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
+
+[Data & Data-Centric AI](../categories/03-data.md)
+
+**14 surveys · Page 1/1**
+
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
+| ---: | --- | --- | :---: | :---: |
+| 2026 | From Data Heterogeneity to Convergence: A Data-Centric Review of Federated Learning | arXiv | [paper](<https://arxiv.org/abs/2606.10595>) | N/A |
+| 2026 | What Shapes Participant Data Quality? A Scoping Review and Case Study of Crowdsourced Webcam Eye Tracking in AI Interviews | arXiv | [paper](<https://arxiv.org/abs/2605.02898>) | N/A |
+| 2025 | A Survey on Data-Centric AI: Tabular Learning from Reinforcement Learning and Generative AI Perspective | arXiv | [paper](<https://arxiv.org/abs/2502.08828>) | N/A |
+| 2025 | Towards Data-Centric AI: A Comprehensive Survey of Traditional, Reinforcement, and Generative Approaches for Tabular Data Transformation | arXiv | [paper](<https://arxiv.org/abs/2501.10555>) | N/A |
+| 2024 | A Survey on Data Quality Dimensions and Tools for Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2406.19614>) | [code](<https://github.com/haihua0913/awesome-dq4ml>) |
+| 2024 | A Survey on Data-Centric Recommender Systems | arXiv | [paper](<https://arxiv.org/abs/2401.17878>) | N/A |
+| 2024 | Data Quality in Edge Machine Learning: A State-of-the-Art Survey | arXiv | [paper](<https://arxiv.org/abs/2406.02600>) | N/A |
+| 2024 | From Data Quality for AI to AI for Data Quality: A Systematic Review of Tools for AI-Augmented Data Quality Management in Data Warehouses | arXiv | [paper](<https://arxiv.org/abs/2406.10940>) | N/A |
+| 2024 | Large Language Models for Data Annotation and Synthesis: A Survey | EMNLP | [paper](<https://aclanthology.org/2024.emnlp-main.54>) | [code](<https://github.com/zhen-tan-dmml/llm4annotation>) |
+| 2024 | Noisy Label Processing for Classification: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.04159>) | N/A |
+| 2024 | Review of Data-centric Time Series Analysis from Sample, Feature, and Period | arXiv | [paper](<https://arxiv.org/abs/2404.16886>) | N/A |
+| 2024 | Towards Data-centric Machine Learning on Directed Graphs: a Survey | arXiv | [paper](<https://arxiv.org/abs/2412.01849>) | N/A |
+| 2021 | A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective | TKDE | [paper](<https://doi.org/10.1109/TKDE.2019.2946162>) | N/A |
+| 2014 | Classification in the Presence of Label Noise: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2013.2292894>) | N/A |

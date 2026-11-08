@@ -1,0 +1,14 @@
+# Web, GUI & Software Agents · Web、GUI 与软件智能体
+
+[Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
+
+[Agents & Multi-Agent Systems](../categories/13-agents.md)
+
+**4 surveys · Page 1/1**
+
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
+| ---: | --- | --- | :---: | :---: |
+| 2025 | A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2501.16150>) | N/A |
+| 2025 | A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning | arXiv | [paper](<https://arxiv.org/abs/2504.20464>) | N/A |
+| 2025 | GUI Agents: A Survey | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1158>) | N/A |
+| 2024 | GUI Agents with Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2411.04890>) | N/A |

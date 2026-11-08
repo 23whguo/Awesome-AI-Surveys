@@ -1,0 +1,48 @@
+# domains: energy
+
+[Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
+
+
+
+**38 surveys · Page 1/1**
+
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
+| ---: | --- | --- | :---: | :---: |
+| 2026 | AI-Empowered UAV-Assisted Backscatter Localization and ISAC for Zero-Energy IoT: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2606.23125>) | N/A |
+| 2026 | Energy Efficient AI-Enabled Wireless Sensor Networks for Mission Critical Environments: A Systematic Review across Smart Grid, AI, and Urban Infrastructure Applications | arXiv | [paper](<https://arxiv.org/abs/2608.04499>) | N/A |
+| 2026 | Energy-Efficient Code Generation Using Large Language Models: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2603.00989>) | N/A |
+| 2026 | Forecasting Oil Consumption: The Statistical Review of World Energy Meets Machine Learning | arXiv | [paper](<https://arxiv.org/abs/2602.01963>) | N/A |
+| 2026 | Grid Integration of AI Data Centers: A Critical Review of Energy Storage Solutions | arXiv | [paper](<https://arxiv.org/abs/2603.00415>) | N/A |
+| 2026 | Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness | arXiv | [paper](<https://arxiv.org/abs/2609.05314>) | N/A |
+| 2026 | Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics | arXiv | [paper](<https://arxiv.org/abs/2604.25244>) | N/A |
+| 2026 | LLM Agent Based Renewable Energy Forecasting Using Edge and IoT Data A Review of Solar Wind Weather and Grid Aware Decision Support | arXiv | [paper](<https://arxiv.org/abs/2605.25141>) | N/A |
+| 2026 | Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection | arXiv | [paper](<https://arxiv.org/abs/2610.23809>) | N/A |
+| 2026 | Networking-Aware Energy Efficiency in Agentic AI Inference: A Survey | arXiv | [paper](<https://arxiv.org/abs/2604.07857>) | N/A |
+| 2026 | Reinforcement Learning in High-Energy Physics: A Survey from Accelerator Control to Theory Exploration | arXiv | [paper](<https://arxiv.org/abs/2611.02049>) | N/A |
+| 2025 | A Review of Safe Reinforcement Learning Methods for Modern Power Systems | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2025.3584656>) | N/A |
+| 2025 | A Scoping Review of Machine Learning Applications in Power System Protection and Disturbance Management | arXiv | [paper](<https://arxiv.org/abs/2509.09053>) | N/A |
+| 2025 | Agentic AI Systems in Electrical Power Systems Engineering: Current State-of-the-Art and Challenges | arXiv | [paper](<https://arxiv.org/abs/2511.14478>) | N/A |
+| 2025 | An Extensive and Methodical Review of Smart Grids for Sustainable Energy Management-Addressing Challenges with AI, Renewable Energy Integration and Leading-edge Technologies | arXiv | [paper](<https://arxiv.org/abs/2501.14143>) | N/A |
+| 2025 | Discovering Strong Gravitational Lenses in the Dark Energy Survey with Interactive Machine Learning and Crowd-sourced Inspection with Space Warps | arXiv | [paper](<https://arxiv.org/abs/2501.15679>) | N/A |
+| 2025 | Does Machine Learning Work? A Comparative Analysis of Strong Gravitational Lens Searches in the Dark Energy Survey | arXiv | [paper](<https://arxiv.org/abs/2510.23782>) | N/A |
+| 2025 | Energy Efficiency in Robotics Software: A Systematic Literature Review (2020-2024) | arXiv | [paper](<https://arxiv.org/abs/2508.12170>) | N/A |
+| 2025 | Foundation Models for Clean Energy Forecasting: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2507.23147>) | N/A |
+| 2025 | From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins | arXiv | [paper](<https://arxiv.org/abs/2506.06359>) | N/A |
+| 2025 | Large Language Models for Power System Applications: A Comprehensive Literature Survey | arXiv | [paper](<https://arxiv.org/abs/2512.13004>) | N/A |
+| 2025 | Survey on Methods for Detection, Classification and Location of Faults in Power Systems Using Artificial Intelligence | arXiv | [paper](<https://arxiv.org/abs/2507.10011>) | N/A |
+| 2024 | A Review of Scalable and Privacy-Preserving Multi-Agent Frameworks for Distributed Energy Resources | arXiv | [paper](<https://arxiv.org/abs/2409.14499>) | N/A |
+| 2024 | A Scoping Review of Energy-Efficient Driving Behaviors and Applied State-of-the-Art AI Methods | arXiv | [paper](<https://arxiv.org/abs/2403.02053>) | N/A |
+| 2024 | A Survey of Open-Source Power System Dynamic Simulators with Grid-Forming Inverter for Machine Learning Applications | arXiv | [paper](<https://arxiv.org/abs/2412.08065>) | N/A |
+| 2024 | A Survey on AI-driven Energy Optimisation in Terrestrial Next Generation Radio Access Networks | arXiv | [paper](<https://arxiv.org/abs/2411.02164>) | N/A |
+| 2024 | Advanced Intelligent Optimization Algorithms for Multi-Objective Optimal Power Flow in Future Power Systems: A Review | arXiv | [paper](<https://arxiv.org/abs/2404.09203>) | N/A |
+| 2024 | Artificial Intelligence Approaches for Energy Efficiency: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.21726>) | N/A |
+| 2024 | Artificial Intelligence in Power System Security and Stability Analysis: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2408.08914>) | N/A |
+| 2024 | Evaluating the Energy Consumption of Machine Learning: Systematic Literature Review and Experiments | arXiv | [paper](<https://arxiv.org/abs/2408.15128>) | N/A |
+| 2024 | Hitchhiker's guide on the relation of Energy-Based Models with other generative models, sampling and statistical physics: a comprehensive review | arXiv | [paper](<https://arxiv.org/abs/2406.13661>) | N/A |
+| 2024 | Image and Point-cloud Classification for Jet Analysis in High-Energy Physics: A survey | arXiv | [paper](<https://arxiv.org/abs/2403.11934>) | N/A |
+| 2024 | Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC | arXiv | [paper](<https://arxiv.org/abs/2404.01071>) | N/A |
+| 2024 | On-Device Deep Learning: Survey on Techniques Improving Energy Efficiency of DNNs | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3430028>) | N/A |
+| 2024 | Present and Future of AI in Renewable Energy Domain : A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2406.16965>) | N/A |
+| 2024 | Reinforcement Learning for Sustainable Energy: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.18597>) | N/A |
+| 2024 | Safe Reinforcement Learning for Power System Control: A Review | arXiv | [paper](<https://arxiv.org/abs/2407.00681>) | N/A |
+| 2020 | Machine Learning for Power, Energy, and Thermal Management on Multicore Processors: A Survey | TCAD | [paper](<https://doi.org/10.1109/TCAD.2018.2878168>) | N/A |

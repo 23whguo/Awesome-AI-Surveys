@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-08",
+  "sources": [
+    {
+      "id": "papervault-official",
+      "file": "cache.jsonl.gz",
+      "bytes": 310799584,
+      "sha256": "5ff3bce3f2344e974933dad19e7d7d7623c90b2dbb93e058d664a06592bc10b0",
+      "counts": {
+        "records": 722857,
+        "title_candidates": 8287,
+        "review": 2617,
+        "exclude": 4136,
+        "include": 1534
+      },
+      "years": {
+        "1987": 32,
+        "1988": 36,
+        "1989": 28,
+        "1990": 34,
+        "1991": 41,
+        "1992": 42,
+        "1993": 35,
+        "1994": 31,
+        "1995": 36,
+        "1996": 76,
+        "1997": 78,
+        "1998": 62,
+        "1999": 91,
+        "2000": 8368,
+        "2001": 7630,
+        "2002": 9852,
+        "2003": 11565,
+        "2004": 12754,
+        "2005": 13194,
+        "2006": 15218,
+        "2007": 16307,
+        "2008": 16717,
+        "2009": 16620,
+        "2010": 18020,
+        "2011": 18973,
+        "2012": 20343,
+        "2013": 22297,
+        "2014": 21891,
+        "2015": 23214,
+        "2016": 24317,
+        "2017": 25425,
+        "2018": 27798,
+        "2019": 32485,
+        "2020": 35715,
+        "2021": 41750,
+        "2022": 40440,
+        "2023": 51666,
+        "2024": 64397,
+        "2025": 77277,
+        "2026": 48002
+      }
+    },
+    {
+      "id": "arxiv-2024",
+      "file": "arxiv_2024.jsonl.gz",
+      "bytes": 137879432,
+      "sha256": "f868a3bb7a042fa46691cd6ed8bb993b6e3e01aa28826da63f681cf601aa0664",
+      "counts": {
+        "records": 244031,
+        "title_candidates": 5259,
+        "candidate_date_month_mismatch": 395,
+        "include": 1702,
+        "exclude": 2846,
+        "review": 711
+      },
+      "years": {
+        "2024": 244031
+      }
+    },
+    {
+      "id": "arxiv-2025",
+      "file": "arxiv_2025.jsonl.gz",
+      "bytes": 168083361,
+      "sha256": "0b2330c47b07e3848882976734542d98c80ba4c10b4b400ac3ed142f6125926b",
+      "counts": {
+        "records": 284486,
+        "title_candidates": 5636,
+        "candidate_date_month_mismatch": 284,
+        "exclude": 3131,
+        "include": 1619,
+        "review": 886
+      },
+      "years": {
+        "2025": 284486
+      }
+    },
+    {
+      "id": "arxiv-2026",
+      "file": "arxiv_2026.jsonl.gz",
+      "bytes": 200774352,
+      "sha256": "dc1ee79e82811f7719f48e599799d7c21d0b668fb62f1cfb43ae16e1fd8f0cf5",
+      "counts": {
+        "records": 321326,
+        "title_candidates": 4214,
+        "candidate_date_month_mismatch": 371,
+        "review": 962,
+        "exclude": 2603,
+        "include": 649
+      },
+      "years": {
+        "2026": 321326
+      }
+    }
+  ],
+  "source_records": 1572700,
+  "screened_in_source_records": 5504,
+  "unique_surveys": 3918,
+  "merged_duplicate_records": 343,
+  "review_queue_records": 6419,
+  "unresolved_classification_works": 1243,
+  "with_code_links": 524,
+  "cross_source_works": 255,
+  "classification_needs_review": 0,
+  "category_counts": {
+    "01-general-ai": 88,
+    "02-learning": 543,
+    "03-data": 37,
+    "04-models": 123,
+    "05-language": 666,
+    "06-vision": 261,
+    "07-audio": 76,
+    "08-multimodal": 82,
+    "09-knowledge": 90,
+    "10-retrieval": 113,
+    "11-temporal": 60,
+    "12-decision": 115,
+    "13-agents": 142,
+    "14-embodied": 152,
+    "15-trustworthy": 479,
+    "16-systems": 70,
+    "17-applications": 821
+  },
+  "year_counts": {
+    "2000": 1,
+    "2001": 3,
+    "2002": 2,
+    "2004": 2,
+    "2005": 2,
+    "2006": 3,
+    "2007": 3,
+    "2008": 2,
+    "2009": 4,
+    "2010": 4,
+    "2011": 4,
+    "2012": 6,
+    "2013": 9,
+    "2014": 10,
+    "2015": 8,
+    "2016": 6,
+    "2017": 13,
+    "2018": 21,
+    "2019": 19,
+    "2020": 35,
+    "2021": 74,
+    "2022": 101,
+    "2023": 153,
+    "2024": 1461,
+    "2025": 1368,
+    "2026": 604
+  },
+  "notes": [
+    "Metadata-screened collection; not a systematic review or an independently verified publication index.",
+    "ArXiv year follows identifier year. Source submission dates are preserved without correction.",
+    "DOIs, venues, code links and peer-review status are not inferred or fabricated.",
+    "Identifiers in future months and source submission dates after as_of are excluded.",
+    "Original source files, full abstracts and machine-local paths are not redistributed."
+  ]
+}

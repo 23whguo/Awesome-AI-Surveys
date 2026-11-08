@@ -1,0 +1,176 @@
+# modalities: graph
+
+[Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
+
+
+
+**166 surveys · Page 1/1**
+
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
+| ---: | --- | --- | :---: | :---: |
+| 2026 | A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs | arXiv | [paper](<https://arxiv.org/abs/2610.08800>) | N/A |
+| 2026 | A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3630673>) | N/A |
+| 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A |
+| 2026 | A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models | EMNLP | [paper](<https://aclanthology.org/2026.findings-emnlp.135>) | N/A |
+| 2026 | Attention-based graph neural networks: a survey | arXiv | [paper](<https://arxiv.org/abs/2605.08679>) | [code](<https://github.com/sunxiaobei/awesome-attention-based-gnns>) |
+| 2026 | Building Knowledge Graphs for Theses: A Survey | arXiv | [paper](<https://arxiv.org/abs/2610.28648>) | N/A |
+| 2026 | Combining Time-Series and Graph Data: A Survey of Existing Systems and Approaches | arXiv | [paper](<https://arxiv.org/abs/2601.00304>) | N/A |
+| 2026 | Dynamic Heterogeneous Graph Representation Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/881>) | N/A |
+| 2026 | Graph-based Agent Memory: Taxonomy, Techniques, and Applications | arXiv | [paper](<https://arxiv.org/abs/2602.05665>) | [code](<https://github.com/DEEP-PolyU/Awesome-GraphMemory>) |
+| 2026 | GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1815>) | N/A |
+| 2026 | Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2607.09666>) | N/A |
+| 2026 | Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective | arXiv | [paper](<https://arxiv.org/abs/2608.18104>) | N/A |
+| 2026 | Test-Time Adaptation for Graph Learning: A Systematic Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2026/866>) | [code](<https://github.com/jiayichen1121/Test-Time-Adaptation-for-Graph-Learning>) |
+| 2026 | When Metrics Disagree: A Meta-Analysis of Knowledge-Graph-Completion Model Benchmarking | arXiv | [paper](<https://arxiv.org/abs/2606.10287>) | N/A |
+| 2025 | A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3621291>) | [code](<https://github.com/fengwudi/DGNN_model_and_data>) |
+| 2025 | A Survey of Cross-domain Graph Learning: Progress and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2503.11086>) | [code](<https://github.com/cshhzhao/Awesome-Cross-Domain-Graph-Learning>) |
+| 2025 | A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models | arXiv | [paper](<https://arxiv.org/abs/2509.06609>) | N/A |
+| 2025 | A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges | arXiv | [paper](<https://arxiv.org/abs/2509.07887>) | N/A |
+| 2025 | A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models | arXiv | [paper](<https://arxiv.org/abs/2501.13958>) | [code](<https://github.com/DEEP-PolyU/Awesome-GraphRAG>) |
+| 2025 | A Survey of Graph Transformers: Architectures, Theories and Applications | arXiv | [paper](<https://arxiv.org/abs/2502.16533>) | N/A |
+| 2025 | A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection | arXiv | [paper](<https://arxiv.org/abs/2510.26307>) | N/A |
+| 2025 | A Survey of Large Language Models for Data Challenges in Graphs | arXiv | [paper](<https://arxiv.org/abs/2505.18475>) | [code](<https://github.com/limengran98/Awesome-Literature-Graph-Learning-Challenges>) |
+| 2025 | A Survey of Link Prediction in N-ary Knowledge Graphs | EMNLP | [paper](<https://aclanthology.org/2025.emnlp-main.1451>) | [code](<https://github.com/jiyaowei/lp_nkgs>) |
+| 2025 | A Survey of Task-Oriented Knowledge Graph Reasoning: Status, Applications, and Prospects | arXiv | [paper](<https://arxiv.org/abs/2506.11012>) | N/A |
+| 2025 | A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms | arXiv | [paper](<https://arxiv.org/abs/2512.23777>) | N/A |
+| 2025 | A Survey on Multi-View Knowledge Graph: Generation, Fusion, Applications and Future Directions | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1197>) | N/A |
+| 2025 | A Survey on Spatio-Temporal Knowledge Graph Models | arXiv | [paper](<https://arxiv.org/abs/2512.16487>) | N/A |
+| 2025 | A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1166>) | N/A |
+| 2025 | A Survey on Unifying Large Language Models and Knowledge Graphs for Biomedicine and Healthcare | KDD | [paper](<https://doi.org/10.1145/3711896.3736556>) | N/A |
+| 2025 | Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2503.24259>) | N/A |
+| 2025 | Agentic Graph Neural Networks for Wireless Communications and Networking Towards Edge General Intelligence: A Survey | arXiv | [paper](<https://arxiv.org/abs/2508.08620>) | N/A |
+| 2025 | Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications | arXiv | [paper](<https://arxiv.org/abs/2501.11632>) | N/A |
+| 2025 | Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook | arXiv | [paper](<https://arxiv.org/abs/2501.16656>) | N/A |
+| 2025 | Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.19023>) | N/A |
+| 2025 | Decoding the Surgical Scene: A Scoping Review of Scene Graphs in Surgery | arXiv | [paper](<https://arxiv.org/abs/2509.20941>) | N/A |
+| 2025 | Fairness in Augmented Graph Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2504.21296>) | N/A |
+| 2025 | Graph Anomaly Detection in Time Series: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3566620>) | N/A |
+| 2025 | Graph Foundation Models for Recommendation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.08346>) | N/A |
+| 2025 | Graph Foundation Models: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2505.15116>) | [code](<https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs>) |
+| 2025 | Graph Neural Networks for Databases: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2025/1172>) | N/A |
+| 2025 | Graph Neural Networks for Source Detection: A Review and Benchmark Study | arXiv | [paper](<https://arxiv.org/abs/2512.20657>) | N/A |
+| 2025 | Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey | arXiv | [paper](<https://arxiv.org/abs/2506.17234>) | N/A |
+| 2025 | Graph Neural Networks Meet Probabilistic Graphical Models: A Survey | ICASSP | [paper](<https://doi.org/10.1109/ICASSP49660.2025.10889283>) | N/A |
+| 2025 | Graph Retrieval-Augmented Generation: A Survey | TOIS | [paper](<https://doi.org/10.1145/3777378>) | [code](<https://github.com/pengboci/GraphRAG-Survey>) |
+| 2025 | Graph-based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2504.10499>) | N/A |
+| 2025 | Graph-Based Re-ranking in Information Retrieval and Beyond: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.14802>) | N/A |
+| 2025 | Incomplete Graph Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2502.12412>) | [code](<https://github.com/cherry-a11y/Incomplete-graph-learning.git>) |
+| 2025 | Large Language Models for Knowledge Graph Embedding: A Survey | arXiv | [paper](<https://arxiv.org/abs/2501.07766>) | N/A |
+| 2025 | Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications | arXiv | [paper](<https://arxiv.org/abs/2510.21131>) | N/A |
+| 2025 | LLM-empowered knowledge graph construction: A survey | arXiv | [paper](<https://arxiv.org/abs/2510.20345>) | N/A |
+| 2025 | Medical Applications of Graph Convolutional Networks Using Electronic Health Records: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.09781>) | N/A |
+| 2025 | Mitigating Hallucination by Integrating Knowledge Graphs into LLM Inference – a Systematic Literature Review | ACL | [paper](<https://aclanthology.org/2025.acl-srw.53>) | N/A |
+| 2025 | Out-of-Distribution Detection on Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.08105>) | [code](<https://github.com/ca1man-2022/Awesome-GOOD-Detection>) |
+| 2025 | Out-of-Distribution Generalization on Graphs: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2025.3593897>) | N/A |
+| 2025 | Survey on Generalization Theory for Graph Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2503.15650>) | N/A |
+| 2024 | A review of feature selection strategies utilizing graph data structures and knowledge graphs | arXiv | [paper](<https://arxiv.org/abs/2406.14864>) | N/A |
+| 2024 | A review of graph neural network applications in mechanics-related domains | arXiv | [paper](<https://arxiv.org/abs/2407.11060>) | N/A |
+| 2024 | A Review of Graph Neural Networks in Epidemic Modeling | KDD | [paper](<https://doi.org/10.1145/3637528.3671455>) | [code](<https://github.com/emory-melody/awesome-epidemic-modeling-papers>) |
+| 2024 | A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks | arXiv | [paper](<https://arxiv.org/abs/2410.21006>) | N/A |
+| 2024 | A Survey of Data-Efficient Graph Learning | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/896>) | N/A |
+| 2024 | A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation | arXiv | [paper](<https://arxiv.org/abs/2410.19265>) | [code](<https://github.com/kaize0409/Awesome-Graph-OOD>) |
+| 2024 | A survey of dynamic graph neural networks | arXiv | [paper](<https://arxiv.org/abs/2404.18211>) | N/A |
+| 2024 | A Survey of Few-Shot Learning on Graphs: from Meta-Learning to Pre-Training and Prompt Learning | arXiv | [paper](<https://arxiv.org/abs/2402.01440>) | [code](<https://github.com/smufang/fewshotgraph>) |
+| 2024 | A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications | arXiv | [paper](<https://arxiv.org/abs/2403.00485>) | N/A |
+| 2024 | A Survey of Graph Meets Large Language Model: Progress and Future Directions | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/898>) | [code](<https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks>) |
+| 2024 | A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3417451>) | [code](<https://github.com/liangke23/awesome-knowledge-graph-reasoning>) |
+| 2024 | A Survey of Large Language Models for Graphs | KDD | [paper](<https://doi.org/10.1145/3637528.3671460>) | [code](<https://github.com/HKUDS/Awesome-LLM4Graph-Papers>) |
+| 2024 | A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3609877>) | N/A |
+| 2024 | A Survey of Out-of-distribution Generalization for Graph Machine Learning from a Causal View | arXiv | [paper](<https://arxiv.org/abs/2409.09858>) | N/A |
+| 2024 | A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/916>) | N/A |
+| 2024 | A survey on Graph Deep Representation Learning for Facial Expression Recognition | arXiv | [paper](<https://arxiv.org/abs/2411.08472>) | N/A |
+| 2024 | A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3445463>) | N/A |
+| 2024 | A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends | arXiv | [paper](<https://arxiv.org/abs/2409.19629>) | [code](<https://github.com/Frank-Wang-oss/GNN>) |
+| 2024 | A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2024.3443141>) | [code](<https://github.com/kimmeen/awesome-gnn4ts>) |
+| 2024 | A Survey on Knowledge Graph Structure and Knowledge Graph Embeddings | arXiv | [paper](<https://arxiv.org/abs/2412.10092>) | N/A |
+| 2024 | A Survey on Recent Random Walk-based Methods for Embedding Knowledge Graphs | arXiv | [paper](<https://arxiv.org/abs/2406.07402>) | N/A |
+| 2024 | A Survey on Recommender Systems Using Graph Neural Network | TOIS | [paper](<https://doi.org/10.1145/3694784>) | N/A |
+| 2024 | A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective | TKDE | [paper](<https://doi.org/10.1109/TKDE.2025.3568147>) | [code](<https://github.com/newiz430/pretext>) |
+| 2024 | A Survey on Structure-Preserving Graph Transformers | arXiv | [paper](<https://arxiv.org/abs/2401.16176>) | N/A |
+| 2024 | A Survey on Temporal Knowledge Graph: Representation Learning and Applications | arXiv | [paper](<https://arxiv.org/abs/2403.04782>) | N/A |
+| 2024 | A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification | arXiv | [paper](<https://arxiv.org/abs/2410.22377>) | [code](<https://github.com/FlaGer99/SLR-Spatio-Temporal-GNN.git>) |
+| 2024 | Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques | arXiv | [paper](<https://arxiv.org/abs/2402.05952>) | N/A |
+| 2024 | Anomaly Detection in Dynamic Graphs: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2406.00134>) | N/A |
+| 2024 | Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs | arXiv | [paper](<https://arxiv.org/abs/2402.11153>) | [code](<https://github.com/kaize0409/Awesome-Graph-OOD-Adaptation.git>) |
+| 2024 | Blockchain Data Mining With Graph Learning: A Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2023.3327404>) | N/A |
+| 2024 | Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey | NAACL | [paper](<https://aclanthology.org/2024.naacl-long.219>) | N/A |
+| 2024 | Comprehensible Artificial Intelligence on Knowledge Graphs: A survey | arXiv | [paper](<https://arxiv.org/abs/2404.03499>) | N/A |
+| 2024 | Continual Learning on Graphs: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.06330>) | N/A |
+| 2024 | Deep Graph Anomaly Detection: A Survey and New Perspectives | arXiv | [paper](<https://arxiv.org/abs/2409.09957>) | [code](<https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection>) |
+| 2024 | Discovering robust biomarkers of psychiatric disorders from resting-state functional MRI via graph neural networks: A systematic review | arXiv | [paper](<https://arxiv.org/abs/2405.00577>) | N/A |
+| 2024 | Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning | arXiv | [paper](<https://arxiv.org/abs/2412.18322>) | N/A |
+| 2024 | Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review | arXiv | [paper](<https://arxiv.org/abs/2412.03783>) | N/A |
+| 2024 | Federated Graph Neural Networks: Overview, Techniques, and Challenges | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3360429>) | N/A |
+| 2024 | From Graphs to Qubits: A Critical Review of Quantum Graph Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2408.06524>) | N/A |
+| 2024 | Graph and Sequential Neural Networks in Session-based Recommendation: A Survey | arXiv | [paper](<https://arxiv.org/abs/2408.14851>) | N/A |
+| 2024 | Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks | arXiv | [paper](<https://arxiv.org/abs/2412.12456>) | [code](<https://github.com/xkLi-Allen/Awesome-GNN-in-LLMs-Papers>) |
+| 2024 | Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning | arXiv | [paper](<https://arxiv.org/abs/2402.16374>) | N/A |
+| 2024 | Graph Neural Networks for Brain Graph Learning: A Survey | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/903>) | [code](<https://github.com/XuexiongLuoMQ/Awesome-Brain-Graph-Learning-with-GNNs>) |
+| 2024 | Graph Neural Networks for Financial Fraud Detection: A Review | arXiv | [paper](<https://arxiv.org/abs/2411.05815>) | N/A |
+| 2024 | Graph Neural Networks for Job Shop Scheduling Problems: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.14096>) | N/A |
+| 2024 | Graph Neural Networks for Protein-Protein Interactions -- A Short Survey | arXiv | [paper](<https://arxiv.org/abs/2404.10450>) | N/A |
+| 2024 | Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions | arXiv | [paper](<https://arxiv.org/abs/2401.02143>) | N/A |
+| 2024 | Graph Neural Networks in EEG-based Emotion Recognition: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.01138>) | N/A |
+| 2024 | Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective | arXiv | [paper](<https://arxiv.org/abs/2404.06492>) | N/A |
+| 2024 | Graph Reinforcement Learning for Power Grids: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2407.04522>) | N/A |
+| 2024 | Graph Transformers: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.09777>) | N/A |
+| 2024 | KG-EmpiRE: A Community-Maintainable Knowledge Graph for a Sustainable Literature Review on the State and Evolution of Empirical Research in Requirements Engineering | arXiv | [paper](<https://arxiv.org/abs/2405.08351>) | N/A |
+| 2024 | Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties | arXiv | [paper](<https://arxiv.org/abs/2410.14733>) | N/A |
+| 2024 | Knowledge Graphs in the Digital Twin: A Systematic Literature Review About the Combination of Semantic Technologies and Simulation in Industrial Automation | arXiv | [paper](<https://arxiv.org/abs/2406.09042>) | N/A |
+| 2024 | Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2402.05391>) | N/A |
+| 2024 | Machine Learning on Dynamic Graphs: A Survey on Applications | arXiv | [paper](<https://arxiv.org/abs/2401.08147>) | N/A |
+| 2024 | Negative Sampling in Knowledge Graph Representation Learning: A Review | arXiv | [paper](<https://arxiv.org/abs/2402.19195>) | N/A |
+| 2024 | Neural-Symbolic Reasoning over Knowledge Graphs: A Survey from a Query Perspective | arXiv | [paper](<https://arxiv.org/abs/2412.10390>) | N/A |
+| 2024 | Neurosymbolic AI for Reasoning Over Knowledge Graphs: A Survey | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2024.3420218>) | N/A |
+| 2024 | Oversmoothing Alleviation in Graph Neural Networks: A Survey and Unified View | arXiv | [paper](<https://arxiv.org/abs/2405.01663>) | N/A |
+| 2024 | Patient-Centric Knowledge Graphs: A Survey of Current Methods, Challenges, and Applications | arXiv | [paper](<https://arxiv.org/abs/2402.12608>) | N/A |
+| 2024 | Review of blockchain application with Graph Neural Networks, Graph Convolutional Networks and Convolutional Neural Networks | arXiv | [paper](<https://arxiv.org/abs/2410.00875>) | N/A |
+| 2024 | Review of Digital Asset Development with Graph Neural Network Unlearning | arXiv | [paper](<https://arxiv.org/abs/2409.18455>) | N/A |
+| 2024 | Review of Explainable Graph-Based Recommender Systems | arXiv | [paper](<https://arxiv.org/abs/2408.00166>) | N/A |
+| 2024 | Self-Supervised Learning for Graph-Structured Data in Healthcare Applications: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2412.05312>) | N/A |
+| 2024 | Signed Graph Representation Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2402.15980>) | N/A |
+| 2024 | Survey of Graph Neural Network for Internet of Things and NextG Networks | arXiv | [paper](<https://arxiv.org/abs/2405.17309>) | N/A |
+| 2024 | Survey on Embedding Models for Knowledge Graph and its Applications | arXiv | [paper](<https://arxiv.org/abs/2404.09167>) | N/A |
+| 2024 | Synergizing Knowledge Graphs with Large Language Models: A Comprehensive Review and Future Prospects | arXiv | [paper](<https://arxiv.org/abs/2407.18470>) | N/A |
+| 2024 | Temporal Knowledge Graph Question Answering: A Survey | arXiv | [paper](<https://arxiv.org/abs/2406.14191>) | N/A |
+| 2024 | Text Classification using Graph Convolutional Networks: A Comprehensive Survey | arXiv | [paper](<https://arxiv.org/abs/2410.09399>) | N/A |
+| 2024 | The Expressive Power of Graph Neural Networks: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3523700>) | N/A |
+| 2024 | Towards Data-centric Machine Learning on Directed Graphs: a Survey | arXiv | [paper](<https://arxiv.org/abs/2412.01849>) | N/A |
+| 2024 | Towards Graph Contrastive Learning: A Survey and Beyond | arXiv | [paper](<https://arxiv.org/abs/2405.11868>) | N/A |
+| 2024 | Uncertainty in Graph Neural Networks: A Survey | arXiv | [paper](<https://arxiv.org/abs/2403.07185>) | N/A |
+| 2024 | Uncertainty Management in the Construction of Knowledge Graphs: a Survey | arXiv | [paper](<https://arxiv.org/abs/2405.16929>) | N/A |
+| 2024 | Uncertainty Quantification on Graph Learning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.14642>) | N/A |
+| 2024 | What Do LLMs Need to Understand Graphs: A Survey of Parametric Representation of Graphs | arXiv | [paper](<https://arxiv.org/abs/2410.12126>) | N/A |
+| 2023 | A Comprehensive Survey on Distributed Training of Graph Neural Networks | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2023.3337442>) | N/A |
+| 2023 | A Survey of Graph-Based Deep Learning for Anomaly Detection in Distributed Systems | TKDE | [paper](<https://doi.org/10.1109/TKDE.2023.3282898>) | N/A |
+| 2023 | A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3454328>) | [code](<https://github.com/nds-vu/awesome-gnn-privacy>) |
+| 2023 | A Systematic Survey on Deep Generative Models for Graph Generation | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3214832>) | N/A |
+| 2023 | Challenges and Opportunities in Deep Reinforcement Learning With Graph Neural Networks: A Comprehensive Review of Algorithms and Applications | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2023.3283523>) | N/A |
+| 2023 | Curriculum Graph Machine Learning: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/748>) | N/A |
+| 2023 | Defining a Knowledge Graph Development Process Through a Systematic Review | TOSEM | [paper](<https://doi.org/10.1145/3522586>) | N/A |
+| 2023 | Explainability in Graph Neural Networks: A Taxonomic Survey | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3204236>) | N/A |
+| 2023 | Large Language Models on Graphs: A Comprehensive Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2024.3469578>) | [code](<https://github.com/petergriffinjin/awesome-language-model-on-graphs>) |
+| 2023 | Multi-Modal Knowledge Graph Construction and Application: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2022.3224228>) | N/A |
+| 2023 | Self-Supervised Learning of Graph Neural Networks: A Unified Review | TPAMI | [paper](<https://doi.org/10.1109/TPAMI.2022.3170559>) | N/A |
+| 2023 | Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2023.3333824>) | N/A |
+| 2023 | Temporal Knowledge Graph Completion: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2023/734>) | N/A |
+| 2023 | Zero-Shot and Few-Shot Learning With Knowledge Graphs: A Comprehensive Survey | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2023.3279374>) | N/A |
+| 2022 | A benchmark and comprehensive survey on knowledge graph entity alignment via representation learning | VLDBJ | [paper](<https://doi.org/10.1007/s00778-022-00747-z>) | [code](<https://github.com/ruizhang-ai/EA_for_KG>) |
+| 2022 | A Review-aware Graph Contrastive Learning Framework for Recommendation | SIGIR | [paper](<https://doi.org/10.1145/3477495.3531927>) | [code](<https://github.com/JarenceSJ/ReviewGraph>) |
+| 2022 | A Survey of Automatic Text Summarization Using Graph Neural Networks | COLING | [paper](<https://aclanthology.org/2022.coling-1.536>) | N/A |
+| 2022 | A survey of RDF stores &amp; SPARQL engines for querying knowledge graphs | VLDBJ | [paper](<https://doi.org/10.1007/s00778-021-00711-3>) | N/A |
+| 2022 | A Survey on Knowledge Graph-Based Recommender Systems | TKDE | [paper](<https://doi.org/10.1109/TKDE.2020.3028705>) | N/A |
+| 2022 | A Survey on Knowledge Graphs: Representation, Acquisition, and Applications | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2021.3070843>) | [code](<https://github.com/shaoxiongji/awesome-knowledge-graph>) |
+| 2022 | Deep Learning on Graphs: A Survey | TKDE | [paper](<https://doi.org/10.1109/TKDE.2020.2981333>) | N/A |
+| 2022 | Generative Knowledge Graph Construction: A Review | EMNLP | [paper](<https://aclanthology.org/2022.emnlp-main.1>) | [code](<https://github.com/zjunlp/Generative_KG_Construction_Papers>) |
+| 2022 | Remote Sensing Image Interpretation With Semantic Graph-Based Methods: A Survey | JSTARS | [paper](<https://doi.org/10.1109/JSTARS.2022.3176612>) | N/A |
+| 2022 | Survey on Graph Neural Network Acceleration: An Algorithmic Perspective | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/772>) | N/A |
+| 2021 | A Comprehensive Survey on Graph Neural Networks | TNNLS | [paper](<https://doi.org/10.1109/TNNLS.2020.2978386>) | N/A |
+| 2021 | Automated Machine Learning on Graphs: A Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/637>) | [code](<https://github.com/THUMNLab/AutoGL>) |
+| 2021 | Graph Learning based Recommender Systems: A Review | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2021/630>) | [code](<https://github.com/shoujin88/graph-learning-based-recommender-systems-GLRS->) |
+| 2021 | Graph processing and machine learning architectures with emerging memory technologies: a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-020-3219-6>) | N/A |
+| 2021 | Representation Learning for Dynamic Graphs: A Survey | JMLR | [paper](<https://jmlr.org/papers/v21/19-447.html>) | N/A |
+| 2020 | Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2020/679>) | N/A |
+| 2017 | Knowledge Graph Embedding: A Survey of Approaches and Applications | TKDE | [paper](<https://doi.org/10.1109/TKDE.2017.2754499>) | N/A |
+| 2016 | A Review of Relational Machine Learning for Knowledge Graphs | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2015.2483592>) | N/A |
+| 2010 | A review of the textbook Graph-based Knowledge Representation | AI | [paper](<https://doi.org/10.1016/j.artint.2009.11.004>) | N/A |

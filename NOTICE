@@ -1,0 +1,19 @@
+Awesome AI Surveys
+Copyright (C) 2026 23whguo and contributors
+
+Source metadata attribution:
+PaperVault — https://github.com/youngfish42/PaperVault
+Dataset — https://huggingface.co/datasets/youngfish42/PaperVault
+Upstream project: MLNLP-World/AI-Paper-Collector
+PaperVault declares GNU General Public License version 3.0.
+
+Additional source: user-supplied arXiv 2024, 2025 and 2026 metadata
+snapshots, locally converted into PaperVault JSON Lines. Upstream
+acquisition provenance has not been independently established.
+Papers remain the property of their authors and publishers.
+This repository redistributes a bibliographic index, not the papers.
+
+Layout inspiration only:
+https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents
+https://github.com/kaikatsumata/awesome-ai-survey-papers
+No paper lists or illustrations were copied from these references.

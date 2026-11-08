@@ -1,0 +1,28 @@
+# tasks: planning
+
+[Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
+
+
+
+**18 surveys · Page 1/1**
+
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
+| ---: | --- | --- | :---: | :---: |
+| 2026 | GRASP: Graph-Reasoning Aided Survey Planning for High-Fidelity Related Work Generation | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1815>) | N/A |
+| 2025 | A Narrative Review on Large AI Models in Lung Cancer Screening, Diagnosis, and Treatment Planning | arXiv | [paper](<https://arxiv.org/abs/2506.07236>) | N/A |
+| 2025 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use, Planning (Including RAG), and Feedback Learning | COLING | [paper](<https://aclanthology.org/2025.coling-main.652>) | N/A |
+| 2025 | A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective | arXiv | [paper](<https://arxiv.org/abs/2503.23650>) | N/A |
+| 2025 | A Survey on Large Language Models for Automated Planning | arXiv | [paper](<https://arxiv.org/abs/2502.12435>) | N/A |
+| 2025 | Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges | arXiv | [paper](<https://arxiv.org/abs/2512.00021>) | [code](<https://github.com/fiveai/FMs-for-driving-trajectories>) |
+| 2025 | Generative AI in Transportation Planning: A Survey | arXiv | [paper](<https://arxiv.org/abs/2503.07158>) | N/A |
+| 2025 | Integrating Legal and Logical Specifications in Perception, Prediction, and Planning for Automated Driving: A Survey of Methods | arXiv | [paper](<https://arxiv.org/abs/2510.25386>) | N/A |
+| 2025 | Large language model-based task planning for service robots: A review | arXiv | [paper](<https://arxiv.org/abs/2510.23357>) | N/A |
+| 2025 | Large Language Models for Planning: A Comprehensive and Systematic Survey | arXiv | [paper](<https://arxiv.org/abs/2505.19683>) | N/A |
+| 2025 | LLMs as Planning Formalizers: A Survey for Leveraging Large Language Models to Construct Automated Planning Models | ACL | [paper](<https://aclanthology.org/2025.findings-acl.1291>) | N/A |
+| 2025 | PlanGenLLMs: A Modern Survey of LLM Planning Capabilities | ACL | [paper](<https://aclanthology.org/2025.acl-long.958>) | N/A |
+| 2024 | A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning | arXiv | [paper](<https://arxiv.org/abs/2406.05804>) | [code](<https://github.com/xinzhel/LLM-Agent-Survey>) |
+| 2024 | A Survey of Optimization-based Task and Motion Planning: From Classical To Learning Approaches | arXiv | [paper](<https://arxiv.org/abs/2404.02817>) | N/A |
+| 2024 | Deep Reinforcement Learning in Autonomous Car Path Planning and Control: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.00340>) | N/A |
+| 2024 | Diffusion Model for Planning: A Systematic Literature Review | arXiv | [paper](<https://arxiv.org/abs/2408.10266>) | N/A |
+| 2024 | The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey | arXiv | [paper](<https://arxiv.org/abs/2404.11584>) | N/A |
+| 2024 | Understanding the planning of LLM agents: A survey | arXiv | [paper](<https://arxiv.org/abs/2402.02716>) | N/A |

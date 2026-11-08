@@ -1,0 +1,42 @@
+# Multi-Agent Collaboration & Communication · 多智能体协作与通信
+
+[Home](../../README.md) · [分类目录](../CATEGORIES.md) · [Tags](../TAGS.md)
+
+[Agents & Multi-Agent Systems](../categories/13-agents.md)
+
+**32 surveys · Page 1/1**
+
+| 📅 Year | 📝 Title | 🏛️ Venue | 📄 Paper | 💻 Code |
+| ---: | --- | --- | :---: | :---: |
+| 2026 | A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication | arXiv | [paper](<https://arxiv.org/abs/2604.25972>) | N/A |
+| 2026 | A Systematic Literature Review of Distributed Multi-Agent Task Allocation: Core Dimensions, Their Interrelationships, and a Repository | TPDS | [paper](<https://doi.org/10.1109/TPDS.2026.3694097>) | N/A |
+| 2026 | LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | ACL | [paper](<https://aclanthology.org/2026.findings-acl.1811>) | [code](<https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems>) |
+| 2026 | LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review | arXiv | [paper](<https://arxiv.org/abs/2604.16321>) | N/A |
+| 2026 | LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis | arXiv | [paper](<https://arxiv.org/abs/2606.28362>) | N/A |
+| 2026 | Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges | arXiv | [paper](<https://arxiv.org/abs/2607.26212>) | N/A |
+| 2026 | On dynamic multi-agent pathfinding methods: review, simulations and modifications | arXiv | [paper](<https://arxiv.org/abs/2606.03735>) | N/A |
+| 2025 | A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives | arXiv | [paper](<https://arxiv.org/abs/2503.13415>) | N/A |
+| 2025 | A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures | arXiv | [paper](<https://arxiv.org/abs/2506.19676>) | [code](<https://github.com/theshi-1128/awesome-agent-communication-security>) |
+| 2025 | A survey of multi-agent geosimulation methodologies: from ABM to LLM | arXiv | [paper](<https://arxiv.org/abs/2507.23694>) | N/A |
+| 2025 | Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems | arXiv | [paper](<https://arxiv.org/abs/2502.14321>) | N/A |
+| 2025 | Distributed coordination control of multi-agent systems under intermittent sampling and communication: a comprehensive survey | SCIS | [paper](<https://doi.org/10.1007/s11432-024-4355-1>) | N/A |
+| 2025 | Enhancing kidney transplantation through multi-agent kidney exchange programs: A comprehensive review and optimization models | arXiv | [paper](<https://arxiv.org/abs/2502.07819>) | N/A |
+| 2025 | Literature Review Of Multi-Agent Debate For Problem-Solving | arXiv | [paper](<https://arxiv.org/abs/2506.00066>) | N/A |
+| 2025 | Manalyzer: End-to-end Automated Meta-analysis with Multi-agent System | arXiv | [paper](<https://arxiv.org/abs/2505.20310>) | N/A |
+| 2025 | Multi-Agent Collaboration Mechanisms: A Survey of LLMs | arXiv | [paper](<https://arxiv.org/abs/2501.06322>) | N/A |
+| 2025 | Multi-Agent Coordination across Diverse Applications: A Survey | arXiv | [paper](<https://arxiv.org/abs/2502.14743>) | N/A |
+| 2025 | Multi-agent systems for chemical engineering: A review and perspective | arXiv | [paper](<https://arxiv.org/abs/2508.07880>) | N/A |
+| 2025 | Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review | arXiv | [paper](<https://arxiv.org/abs/2506.14831>) | N/A |
+| 2025 | Survey of LLM Agent Communication with MCP: A Software Design Pattern Centric Review | arXiv | [paper](<https://arxiv.org/abs/2506.05364>) | N/A |
+| 2025 | Toward Goal-Oriented Communication in Multi-Agent Systems: An overview | arXiv | [paper](<https://arxiv.org/abs/2508.07720>) | N/A |
+| 2024 | A Survey on Context-Aware Multi-Agent Systems: Techniques, Challenges and Future Directions | arXiv | [paper](<https://arxiv.org/abs/2402.01968>) | N/A |
+| 2024 | A Survey on LLM-based Multi-Agent System: Recent Advances and New Frontiers in Application | arXiv | [paper](<https://arxiv.org/abs/2412.17481>) | N/A |
+| 2024 | A systematic review of norm emergence in multi-agent systems | arXiv | [paper](<https://arxiv.org/abs/2412.10609>) | N/A |
+| 2024 | Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey | arXiv | [paper](<https://arxiv.org/abs/2407.17030>) | N/A |
+| 2024 | Large Language Model Based Multi-agents: A Survey of Progress and Challenges | IJCAI | [paper](<https://www.ijcai.org/proceedings/2024/890>) | [code](<https://github.com/taichengguo/llm_multiagents_survey_papers>) |
+| 2024 | Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas | arXiv | [paper](<https://arxiv.org/abs/2402.17270>) | N/A |
+| 2024 | Survey of Distributed Algorithms for Resource Allocation over Multi-Agent Systems | arXiv | [paper](<https://arxiv.org/abs/2401.15607>) | N/A |
+| 2024 | The Problem of Social Cost in Multi-Agent General Reinforcement Learning: Survey and Synthesis | arXiv | [paper](<https://arxiv.org/abs/2412.02091>) | N/A |
+| 2023 | Trusted AI in Multiagent Systems: An Overview of Privacy and Security for Distributed Learning | PROCIEEE | [paper](<https://doi.org/10.1109/JPROC.2023.3306773>) | N/A |
+| 2022 | Problem Compilation for Multi-Agent Path Finding: a Survey | IJCAI | [paper](<https://doi.org/10.24963/ijcai.2022/783>) | N/A |
+| 2017 | Consensus control of stochastic multi-agent systems: a survey | SCIS | [paper](<https://doi.org/10.1007/s11432-017-9169-4>) | N/A |

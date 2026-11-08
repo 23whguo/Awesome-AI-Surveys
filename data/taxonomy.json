@@ -1,0 +1,583 @@
+[
+  {
+    "id": "01-general-ai",
+    "name": "General AI & Research Overviews",
+    "name_zh": "AI 综合与研究概览",
+    "topics": [
+      {
+        "id": "general",
+        "name": "AI Landscapes & Foundation Models",
+        "name_zh": "AI 全景与基础模型",
+        "pattern": "artificial general intelligence|\\bagi\\b|foundation models?|general.purpose|generative (?:artificial intelligence|ai)|physical (?:artificial intelligence|ai)"
+      }
+    ]
+  },
+  {
+    "id": "02-learning",
+    "name": "Learning Theory & Methods",
+    "name_zh": "学习理论与学习方法",
+    "topics": [
+      {
+        "id": "theory",
+        "name": "Theory, Optimization & Probabilistic Learning",
+        "name_zh": "理论、优化与概率学习",
+        "pattern": "learning theory|optimi[sz]ation|generalization|generalisation|bayesian|probabilistic|kernel|gaussian process|statistical learning|uncertainty quantification|uncertainty representation|evidential deep learning|gradient method|gradient descent|quantum machine learning|quantum learning"
+      },
+      {
+        "id": "representation",
+        "name": "Self-Supervised & Representation Learning",
+        "name_zh": "自监督与表征学习",
+        "pattern": "self.supervised|contrastive learning|representation learning|unsupervised learning"
+      },
+      {
+        "id": "transfer",
+        "name": "Transfer, Adaptation & Meta-Learning",
+        "name_zh": "迁移、适应与元学习",
+        "pattern": "transfer learning|domain adaptation|domain generali[sz]ation|test.time adaptation|few.shot|zero.shot|meta.learning|multi.task learning"
+      },
+      {
+        "id": "continual",
+        "name": "Continual Learning & Unlearning",
+        "name_zh": "持续学习与机器遗忘",
+        "pattern": "continual learning|lifelong learning|incremental learning|forgetting|unlearning"
+      },
+      {
+        "id": "causal",
+        "name": "Causal Learning & Discovery",
+        "name_zh": "因果学习与发现",
+        "pattern": "causal|causality|counterfactual"
+      },
+      {
+        "id": "federated",
+        "name": "Federated & Decentralized Learning",
+        "name_zh": "联邦与去中心化学习",
+        "pattern": "federated learning|federated optimi[sz]ation|decentrali[sz]ed learning|split learning"
+      },
+      {
+        "id": "evolutionary",
+        "name": "Evolutionary, Fuzzy & Neuromorphic Learning",
+        "name_zh": "进化、模糊与神经形态学习",
+        "pattern": "evolutionary|genetic algorithm|swarm intelligence|fuzzy|spiking|neuromorphic|neuroevolution"
+      },
+      {
+        "id": "other",
+        "name": "Other Learning Methods",
+        "name_zh": "其他学习方法",
+        "pattern": "knowledge distillation|on.policy distillation|semi.supervised|active learning|active feature|weakly.supervised|imbalanc|ensemble learning|clustering|anomaly detection|machine learning|deep learning|feature engineering|feature selection"
+      }
+    ]
+  },
+  {
+    "id": "03-data",
+    "name": "Data & Data-Centric AI",
+    "name_zh": "数据与数据中心 AI",
+    "topics": [
+      {
+        "id": "quality",
+        "name": "Data Quality, Collection & Annotation",
+        "name_zh": "数据质量、采集与标注",
+        "pattern": "data.centric|data quality|data cleaning|data annotation|data label|data collection|data curation|dataset construction|label noise|noisy label"
+      },
+      {
+        "id": "selection",
+        "name": "Data Selection & Dataset Distillation",
+        "name_zh": "数据选择与数据集蒸馏",
+        "pattern": "data selection|data pruning|coreset|dataset distillation|dataset condensation"
+      },
+      {
+        "id": "synthetic",
+        "name": "Synthetic Data & Augmentation",
+        "name_zh": "合成数据与数据增强",
+        "pattern": "synthetic data|data synthesis|data generation|data augmentation"
+      }
+    ]
+  },
+  {
+    "id": "04-models",
+    "name": "Model Architectures & Generative Modeling",
+    "name_zh": "模型架构与生成建模",
+    "topics": [
+      {
+        "id": "transformers",
+        "name": "Transformers, Attention & Mixture of Experts",
+        "name_zh": "Transformer、注意力与混合专家",
+        "pattern": "transformer|attention mechanism|mixture.of.expert|\\bmoe\\b"
+      },
+      {
+        "id": "state-space",
+        "name": "State Space, Recurrent & Differential Models",
+        "name_zh": "状态空间、循环与微分模型",
+        "pattern": "state.space model|\\bmamba\\b|recurrent neural|\\blstm\\b|neural differential|neural ordinary|neural ode"
+      },
+      {
+        "id": "generative",
+        "name": "Diffusion, GANs, VAEs & Autoregressive Models",
+        "name_zh": "扩散、GAN、VAE 与自回归模型",
+        "pattern": "diffusion model|generative adversarial|\\bgans?\\b|variational autoencoder|autoregressive model|generative model|normalizing flow|flow matching"
+      },
+      {
+        "id": "graph",
+        "name": "Graph Neural Network Architectures",
+        "name_zh": "图神经网络架构",
+        "pattern": "graph neural network|graph convolution|graph transformer|message.passing neural"
+      },
+      {
+        "id": "other",
+        "name": "Neural Architecture & Design",
+        "name_zh": "神经网络架构与设计",
+        "pattern": "neural architecture|architecture search|convolutional neural|activation function|normalization|deep neural network"
+      }
+    ]
+  },
+  {
+    "id": "05-language",
+    "name": "Language, NLP & Large Language Models",
+    "name_zh": "语言、NLP 与大语言模型",
+    "topics": [
+      {
+        "id": "llm",
+        "name": "LLM Foundations, Training & Adaptation",
+        "name_zh": "大语言模型基础、训练与适配",
+        "pattern": "large language model|\\bllms?\\b|language model|pre.training|pretraining|fine.tuning|instruction tuning|prompt tuning|parameter.efficient|\\blora\\b"
+      },
+      {
+        "id": "rag",
+        "name": "Retrieval-Augmented Generation",
+        "name_zh": "检索增强生成",
+        "pattern": "retrieval.augmented|\\brag\\b|graphrag"
+      },
+      {
+        "id": "reasoning",
+        "name": "Reasoning, Mathematics & Self-Correction",
+        "name_zh": "推理、数学与自我纠正",
+        "pattern": "reasoning|chain.of.thought|mathematical|self.correction|self.refinement"
+      },
+      {
+        "id": "context",
+        "name": "Long Context, Memory & Knowledge Editing",
+        "name_zh": "长上下文、记忆与知识编辑",
+        "pattern": "long.context|context length|in.context learning|context engineering|knowledge editing|knowledge update"
+      },
+      {
+        "id": "generation",
+        "name": "Generation, Summarization & Dialogue",
+        "name_zh": "生成、摘要与对话",
+        "pattern": "text generation|summari[sz]ation|dialogue|dialog system|conversational|question answering|chatbot|machine translation"
+      },
+      {
+        "id": "understanding",
+        "name": "Language Understanding & Information Extraction",
+        "name_zh": "语言理解与信息抽取",
+        "pattern": "natural language|\\bnlp\\b|information extraction|named entity|relation extraction|sentiment|opinion mining|linguistic|parsing|coreference|multilingual|low.resource language"
+      },
+      {
+        "id": "code",
+        "name": "Code Models & Program Intelligence",
+        "name_zh": "代码模型与程序智能",
+        "pattern": "code generation|code intelligence|code language model|language models? for code|program synthesis|code comprehension"
+      }
+    ]
+  },
+  {
+    "id": "06-vision",
+    "name": "Computer Vision",
+    "name_zh": "计算机视觉",
+    "topics": [
+      {
+        "id": "recognition",
+        "name": "Recognition, Detection & Segmentation",
+        "name_zh": "识别、检测与分割",
+        "pattern": "object detection|image classification|image recognition|segmentation|panoptic|visual recognition|salient object|saliency|object tracking|scene understanding|human activity recognition|facial recognition|vehicle detection|action quality"
+      },
+      {
+        "id": "3d",
+        "name": "3D Vision, Geometry & Reconstruction",
+        "name_zh": "三维视觉、几何与重建",
+        "pattern": "point cloud|3d vision|3d reconstruction|3d generation|neural radiance|\\bnerf\\b|gaussian splatting|multi.view|multiview|depth estimation|stereo matching|pose estimation|3.d"
+      },
+      {
+        "id": "video",
+        "name": "Video Understanding & Action Recognition",
+        "name_zh": "视频理解与动作识别",
+        "pattern": "video understanding|action recognition|action detection|video analysis|video summar|temporal action|video segmentation"
+      },
+      {
+        "id": "generation",
+        "name": "Image & Video Generation and Editing",
+        "name_zh": "图像视频生成与编辑",
+        "pattern": "image generation|video generation|text.to.image|text.to.video|image editing|video editing|image synthesis|image.to.image|image inpainting|style transfer|motion generation|scene generation|mesh textur"
+      },
+      {
+        "id": "restoration",
+        "name": "Restoration & Computational Imaging",
+        "name_zh": "图像恢复与计算成像",
+        "pattern": "image restoration|image enhancement|super.resolution|deblurring|denoising|dehazing|low.light|computational imaging|image compression"
+      },
+      {
+        "id": "representation",
+        "name": "Visual Representations & Other Vision Topics",
+        "name_zh": "视觉表征与其他视觉主题",
+        "pattern": "computer vision|visual representation|image processing|image retrieval|image matching|visual learning|vision transformer|face recognition|person re.identification"
+      }
+    ]
+  },
+  {
+    "id": "07-audio",
+    "name": "Speech, Audio & Music",
+    "name_zh": "语音、音频与音乐",
+    "topics": [
+      {
+        "id": "speech",
+        "name": "Speech Recognition, Synthesis & Translation",
+        "name_zh": "语音识别、合成与翻译",
+        "pattern": "speech recognition|speech synthesis|text.to.speech|speech translation|spoken language|speech processing|speaker recognition|speaker verification|speech enhancement|voice conversion|stutter|generated voices|voice detection"
+      },
+      {
+        "id": "audio",
+        "name": "Audio Understanding, Separation & Generation",
+        "name_zh": "音频理解、分离与生成",
+        "pattern": "audio|sound event|sound source|acoustic|speech separation"
+      },
+      {
+        "id": "music",
+        "name": "Music Understanding & Generation",
+        "name_zh": "音乐理解与生成",
+        "pattern": "music|singing"
+      }
+    ]
+  },
+  {
+    "id": "08-multimodal",
+    "name": "Multimodal Learning & Models",
+    "name_zh": "多模态学习与模型",
+    "topics": [
+      {
+        "id": "foundation",
+        "name": "Multimodal Foundation & Vision-Language Models",
+        "name_zh": "多模态基础模型与视觉语言模型",
+        "pattern": "multimodal large|multi.modal large|multimodal foundation|vision.language model|large multimodal|\\bmllms?\\b|\\bvlms?\\b"
+      },
+      {
+        "id": "alignment",
+        "name": "Alignment, Fusion & Representation",
+        "name_zh": "对齐、融合与表征",
+        "pattern": "multimodal learning|multi.modal learning|cross.modal|crossmodal|multimodal fusion|multi.view learning|multimodal representation|vision.language pre|multimodal alignment|multimodal information fusion"
+      },
+      {
+        "id": "documents",
+        "name": "Document & Chart Understanding",
+        "name_zh": "文档与图表理解",
+        "pattern": "document understanding|document intelligence|document analysis|visually rich|chart understanding|chart reasoning|document ai"
+      },
+      {
+        "id": "reasoning",
+        "name": "Multimodal Reasoning & Generation",
+        "name_zh": "多模态推理与生成",
+        "pattern": "multimodal reasoning|multimodal generation|unified multimodal|visual question answering|visual grounding|image caption|video.language"
+      }
+    ]
+  },
+  {
+    "id": "09-knowledge",
+    "name": "Knowledge, Graph Learning & Symbolic Reasoning",
+    "name_zh": "知识、图学习与符号推理",
+    "topics": [
+      {
+        "id": "knowledge-graphs",
+        "name": "Knowledge Representation & Knowledge Graphs",
+        "name_zh": "知识表示与知识图谱",
+        "pattern": "knowledge graph|knowledge representation|knowledge base|ontology|ontologies|entity alignment|entity linking"
+      },
+      {
+        "id": "graph-learning",
+        "name": "Graph Representation Learning & Mining",
+        "name_zh": "图表征学习与挖掘",
+        "pattern": "graph learning|graph representation|graph mining|graph data|graph machine learning|graph anomaly|graph self.supervised|heterogeneous graph|dynamic graph|hypergraph|network embedding|link prediction|community detection"
+      },
+      {
+        "id": "symbolic",
+        "name": "Logic, Neuro-Symbolic Reasoning, Search & Planning",
+        "name_zh": "逻辑、神经符号推理、搜索与规划",
+        "pattern": "neuro.symbolic|neurosymbolic|symbolic reasoning|automated reasoning|theorem proving|logic programming|answer set|automated planning|heuristic search|constraint satisfaction"
+      }
+    ]
+  },
+  {
+    "id": "10-retrieval",
+    "name": "Information Retrieval, Recommendation & Web Intelligence",
+    "name_zh": "信息检索、推荐与 Web 智能",
+    "topics": [
+      {
+        "id": "retrieval",
+        "name": "Retrieval, Search & Ranking",
+        "name_zh": "检索、搜索与排序",
+        "pattern": "information retrieval|dense retrieval|generative retrieval|learning.to.rank|search engine|neural ranking|text retrieval"
+      },
+      {
+        "id": "recommendation",
+        "name": "Recommender Systems & Personalization",
+        "name_zh": "推荐系统与个性化",
+        "pattern": "recommendation|recommender|collaborative filtering|personalized search|personalised search"
+      },
+      {
+        "id": "web",
+        "name": "Web, Social & User Modeling",
+        "name_zh": "Web、社交与用户建模",
+        "pattern": "social network|social media|user modeli?ng|web mining|social computing|computational social"
+      }
+    ]
+  },
+  {
+    "id": "11-temporal",
+    "name": "Time Series & Spatio-Temporal Learning",
+    "name_zh": "时序与时空学习",
+    "topics": [
+      {
+        "id": "forecasting",
+        "name": "Time Series Forecasting & Foundation Models",
+        "name_zh": "时间序列预测与基础模型",
+        "pattern": "time.series|time series|temporal forecasting|sequence forecasting"
+      },
+      {
+        "id": "anomaly",
+        "name": "Temporal Anomalies & Event Sequences",
+        "name_zh": "时序异常与事件序列",
+        "pattern": "temporal anomaly|event sequence|temporal point process|event prediction"
+      },
+      {
+        "id": "spatiotemporal",
+        "name": "Spatio-Temporal Modeling",
+        "name_zh": "时空建模",
+        "pattern": "spatio.temporal|spatiotemporal|trajectory prediction|trajectory learning"
+      }
+    ]
+  },
+  {
+    "id": "12-decision",
+    "name": "Reinforcement Learning & Sequential Decision Making",
+    "name_zh": "强化学习与序贯决策",
+    "topics": [
+      {
+        "id": "rl",
+        "name": "Reinforcement Learning Foundations & Algorithms",
+        "name_zh": "强化学习基础与算法",
+        "pattern": "reinforcement learning|policy optimization|markov decision|multi.armed bandit|contextual bandit"
+      },
+      {
+        "id": "offline",
+        "name": "Offline, Imitation & Inverse RL",
+        "name_zh": "离线、模仿与逆强化学习",
+        "pattern": "offline reinforcement|offline rl|imitation learning|inverse reinforcement|behaviou?r cloning"
+      },
+      {
+        "id": "marl",
+        "name": "Multi-Agent Reinforcement Learning",
+        "name_zh": "多智能体强化学习",
+        "pattern": "multi.agent reinforcement|multiagent reinforcement|cooperative reinforcement|\\bmarl\\b"
+      },
+      {
+        "id": "world-models",
+        "name": "Model-Based Decisions & World Models",
+        "name_zh": "基于模型的决策与世界模型",
+        "pattern": "model.based reinforcement|world model|model.based planning"
+      }
+    ]
+  },
+  {
+    "id": "13-agents",
+    "name": "Agents & Multi-Agent Systems",
+    "name_zh": "智能体与多智能体系统",
+    "topics": [
+      {
+        "id": "foundations",
+        "name": "Agent Foundations, Training & Self-Improvement",
+        "name_zh": "智能体基础、训练与自我改进",
+        "pattern": "autonomous agent|language model.*agent|llm.*agent|agentic|intelligent agent|self.evolving agent|self.improving agent|agent skills|agent training"
+      },
+      {
+        "id": "tools",
+        "name": "Tool Use, Planning & Agentic RAG",
+        "name_zh": "工具使用、规划与智能体 RAG",
+        "pattern": "tool use|tool learning|tool.augmented|tool.calling|agentic rag|agent planning|agent workflow|agent harness"
+      },
+      {
+        "id": "memory",
+        "name": "Agent Memory & Personalization",
+        "name_zh": "智能体记忆与个性化",
+        "pattern": "agent memory|memory.*agent|personal.*agent|agent.*memory"
+      },
+      {
+        "id": "web-gui",
+        "name": "Web, GUI & Software Agents",
+        "name_zh": "Web、GUI 与软件智能体",
+        "pattern": "web agent|gui agent|computer.use|browser agent|software agent|coding agent|agent.*software engineering"
+      },
+      {
+        "id": "collaboration",
+        "name": "Multi-Agent Collaboration & Communication",
+        "name_zh": "多智能体协作与通信",
+        "pattern": "multi.agent|multiagent|agent collaboration|agent communication|agent coordination"
+      }
+    ]
+  },
+  {
+    "id": "14-embodied",
+    "name": "Robotics & Embodied Intelligence",
+    "name_zh": "机器人与具身智能",
+    "topics": [
+      {
+        "id": "robot-learning",
+        "name": "Robot Learning, Control & Manipulation",
+        "name_zh": "机器人学习、控制与操作",
+        "pattern": "robot|robotic|manipulation|grasping|sim.to.real|dexterous"
+      },
+      {
+        "id": "navigation",
+        "name": "Navigation, SLAM & Embodied Perception",
+        "name_zh": "导航、SLAM 与具身感知",
+        "pattern": "embodied|navigation|\\bslam\\b|simultaneous localization|visual localization"
+      },
+      {
+        "id": "vla",
+        "name": "Vision-Language-Action & Embodied Foundation Models",
+        "name_zh": "视觉语言动作与具身基础模型",
+        "pattern": "vision.language.action|\\bvla\\b|robot.*foundation model|foundation model.*robot|embodied.*foundation|embodied.*world model"
+      }
+    ]
+  },
+  {
+    "id": "15-trustworthy",
+    "name": "Trustworthy AI, Alignment & Evaluation",
+    "name_zh": "可信 AI、对齐与评测",
+    "topics": [
+      {
+        "id": "security",
+        "name": "Safety, Security & Adversarial Robustness",
+        "name_zh": "安全、防御与对抗鲁棒性",
+        "pattern": "ai safety|ai security|safety landscape|security risks|vulnerabilities|safeguards|model safety|llm safety|language model.*safety|jailbreak|backdoor|adversarial|prompt injection|red.team|data poisoning|model stealing|membership inference|one.pixel attack"
+      },
+      {
+        "id": "privacy",
+        "name": "Privacy, Fairness & Responsible AI",
+        "name_zh": "隐私、公平与负责任 AI",
+        "pattern": "privacy|differentially private|fairness|bias|responsible ai|ethical|ethics|trustworthy"
+      },
+      {
+        "id": "interpretability",
+        "name": "Interpretability & Explainability",
+        "name_zh": "可解释性与解释方法",
+        "pattern": "interpretability|explainability|explainable|mechanistic interpret|feature attribution|chain.of.thought faithfulness"
+      },
+      {
+        "id": "alignment",
+        "name": "Alignment, Preferences & Human Feedback",
+        "name_zh": "对齐、偏好与人类反馈",
+        "pattern": "ai alignment|value alignment|safety alignment|alignment.*(?:llm|language model)|(?:llm|language model).*alignment|rlhf|human feedback|preference optimi[sz]ation|preference learning|reward model|constitutional ai"
+      },
+      {
+        "id": "hallucination",
+        "name": "Hallucination, Factuality & Reliability",
+        "name_zh": "幻觉、事实性与可靠性",
+        "pattern": "hallucination|factuality|factual consistency|uncertainty estimation|calibration|out.of.distribution|distribution shift"
+      },
+      {
+        "id": "evaluation",
+        "name": "Evaluation, Benchmarks & Research Methodology",
+        "name_zh": "评测、基准与研究方法",
+        "pattern": "evaluation|benchmark|llm.as.a.judge|llm.as.judge|data contamination|reproducibility|reproducible|watermark|deepfake detection"
+      }
+    ]
+  },
+  {
+    "id": "16-systems",
+    "name": "Efficient AI & Machine Learning Systems",
+    "name_zh": "高效 AI 与机器学习系统",
+    "topics": [
+      {
+        "id": "compression",
+        "name": "Compression, Quantization, Pruning & Acceleration",
+        "name_zh": "压缩、量化、剪枝与加速",
+        "pattern": "compression|quanti[sz]ation|pruning|sparsity|sparse neural|binarized neural|model acceleration"
+      },
+      {
+        "id": "inference",
+        "name": "Efficient Inference, Serving & Test-Time Compute",
+        "name_zh": "高效推理、服务与测试时计算",
+        "pattern": "efficient inference|inference efficiency|llm serving|model serving|kv.cache|speculative decoding|efficient reasoning|test.time comput|inference acceleration"
+      },
+      {
+        "id": "training",
+        "name": "Efficient & Distributed Training",
+        "name_zh": "高效与分布式训练",
+        "pattern": "efficient training|distributed training|parallel training|training efficiency|gradient compression|communication.efficient"
+      },
+      {
+        "id": "hardware",
+        "name": "Edge AI, Hardware & Co-Design",
+        "name_zh": "边缘 AI、硬件与协同设计",
+        "pattern": "edge ai|edge intelligence|tinyml|on.device|neural network accelerator|ai accelerator|hardware.*deep learning|deep learning.*hardware|hardware.software|in.memory comput|efficient deep learning|mlops|ml lifecycle|machine learning system"
+      }
+    ]
+  },
+  {
+    "id": "17-applications",
+    "name": "Domain Applications & Human-AI Interaction",
+    "name_zh": "领域应用与人机交互",
+    "topics": [
+      {
+        "id": "healthcare",
+        "name": "Healthcare, Medicine & Mental Health",
+        "name_zh": "医疗、医学与心理健康",
+        "pattern": "medical|healthcare|health care|clinical|radiology|pathology|disease|cancer|mental health|mental disorder|electronic health|electroencephal|\\beeg\\b|brain.computer|diagnosis|drug discovery|glucose|hypogly|hypogy|diabetic|surgery|surgical|endoscopic"
+      },
+      {
+        "id": "science",
+        "name": "AI for Science, Biology & Chemistry",
+        "name_zh": "科学、生物与化学",
+        "pattern": "ai for science|scientific discovery|scientific machine learning|protein|molecular|molecule|biological|bioinformatics|genomic|chemistry|materials discovery|physics.informed|partial differential equation"
+      },
+      {
+        "id": "earth",
+        "name": "Earth Observation, Remote Sensing & Climate",
+        "name_zh": "地球观测、遥感与气候",
+        "pattern": "remote sensing|geospatial|earth observation|hyperspectral|satellite|climate|crop|agricultur|geographic"
+      },
+      {
+        "id": "mobility",
+        "name": "Autonomous Driving & Transportation",
+        "name_zh": "自动驾驶与交通",
+        "pattern": "autonomous driving|self.driving|intelligent transport|traffic prediction|traffic forecasting|vehicular"
+      },
+      {
+        "id": "education",
+        "name": "Education & Learning Technologies",
+        "name_zh": "教育与学习技术",
+        "pattern": "education|educational|intelligent tutor|student model|learning analytics|automated essay"
+      },
+      {
+        "id": "finance-law",
+        "name": "Finance, Law & Public Services",
+        "name_zh": "金融、法律与公共服务",
+        "pattern": "financial|finance|fraud detection|algorithmic trading|stock price|hedge.fund|customer purchase|legal|judicial|public service"
+      },
+      {
+        "id": "software",
+        "name": "Software Engineering & Cybersecurity",
+        "name_zh": "软件工程与网络安全应用",
+        "pattern": "software engineering|software testing|software development|bug detection|vulnerability detection|malware|intrusion detection|cybersecurity|cyber security"
+      },
+      {
+        "id": "industry",
+        "name": "Industry, Energy, Networks & Other Domains",
+        "name_zh": "工业、能源、网络与其他领域",
+        "pattern": "industrial|manufacturing|predictive maintenance|energy|power system|wireless|communication network|internet of things|\\biot\\b|network traffic|networking|data management|database"
+      },
+      {
+        "id": "hci",
+        "name": "Human-AI Interaction, Collaboration & Creativity",
+        "name_zh": "人机交互、协作与创造力",
+        "pattern": "human.ai|human.computer interaction|human.robot interaction|human.agent interaction|human.machine|human.centered|human.centred|co.creati|creativity|interaction design"
+      }
+    ]
+  }
+]

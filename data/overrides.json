@@ -1,0 +1,55 @@
+{
+  "description": "Editorial overrides keyed by normalized title; every override requires a reason.",
+  "papers": {
+    "asurveyofbehaviorfoundationmodelnextgenerationwholebodycontrolsystemofhumanoidrobots": {
+      "primary_category": "14-embodied",
+      "primary_topic": "vla",
+      "reason": "The title focuses on whole-body humanoid robot control."
+    },
+    "deeplearningandfoundationmodelsforweatherpredictionasurvey": {
+      "primary_category": "17-applications",
+      "primary_topic": "earth",
+      "reason": "The title centers weather prediction, an Earth-science application."
+    },
+    "ametaanalysisoftheeffectofgenerativeaionproductivityandlearninginprogramming": {
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "The synthesis concerns productivity and learning in programming."
+    },
+    "asystematicreviewofgenerativeaiusageforitprojectmanagement": {
+      "primary_category": "17-applications",
+      "primary_topic": "software",
+      "reason": "The review centers IT project-management workflows."
+    },
+    "interactionmethodsingenerativeaiimagetoolsareviewoftrendsanddesignopportunitiesacrosshciandindustry": {
+      "primary_category": "17-applications",
+      "primary_topic": "hci",
+      "reason": "The review compares human interaction methods and HCI design."
+    },
+    "llamalimaalivingmetaanalysisontheeffectsofgenerativeaionlearningmathematics": {
+      "primary_category": "17-applications",
+      "primary_topic": "education",
+      "reason": "The meta-analysis addresses mathematics education."
+    },
+    "tabularfoundationmodelsforcreditriskpredictionadedicatedreviewandempiricalcomparison": {
+      "primary_category": "17-applications",
+      "primary_topic": "finance-law",
+      "reason": "Credit-risk prediction is the central financial task."
+    },
+    "reliableandresponsiblefoundationmodelsacomprehensivesurvey": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "Reliability and responsible foundation-model practice define the scope."
+    },
+    "ipprotectionintheeraofvisualgenerativeaiasurvey": {
+      "primary_category": "15-trustworthy",
+      "primary_topic": "privacy",
+      "reason": "The central question is intellectual-property protection."
+    },
+    "creatingandevaluatingpersonasusinggenerativeaiascopingreviewof81articles": {
+      "primary_category": "17-applications",
+      "primary_topic": "hci",
+      "reason": "The review centers human-centered persona design."
+    }
+  }
+}
