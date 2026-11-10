@@ -11,6 +11,9 @@
 
 [English](README.by-time.md) · [简体中文](README.zh-CN.by-time.md)
 
+**[Survey Radar · 交互式综述网站 / Explore the website →](https://23whguo.github.io/Awesome-AI-Surveys/)**
+[Website features & local build](docs/WEBSITE.md) · [Frontend license & attribution](site/UPSTREAM.md)
+
 **4,726 surveys · 17 primary categories · 596 with repository links supplied by source metadata or abstracts.**
 
 Built from PaperVault venue records and local 2024–2026 arXiv snapshots. 1,609,409 source records scanned; snapshot date: **2026-11-08**. Each work has one primary category and multiple orthogonal tags.

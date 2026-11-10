@@ -207,7 +207,9 @@ def render():
         lines = ['<h1 align="center">'+title+'</h1>', '', '<p align="center"><strong>' +
                  ('A navigable collection of AI surveys, reviews and research overviews' if not zh else '按研究问题分类、支持多标签查找的 AI 综述与文献回顾集合') + '</strong></p>', '',
                  '<p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <img src="https://img.shields.io/badge/surveys-'+str(len(papers))+'-2563eb" alt="Survey count"> <img src="https://img.shields.io/badge/categories-17-0f766e" alt="17 categories"> <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"></a></p>', '',
-                 '[English](README.md) · [简体中文](README.zh-CN.md)', '']
+                 '[English](README.md) · [简体中文](README.zh-CN.md)', '',
+                 '**[Survey Radar · 交互式综述网站 / Explore the website →](https://23whguo.github.io/Awesome-AI-Surveys/)**',
+                 '[Website features & local build](docs/WEBSITE.md) · [Frontend license & attribution](site/UPSTREAM.md)', '']
         if zh:
             lines += ['**'+format(len(papers), ',')+' 篇综述 · 17 个主分类 · '+format(manifest['with_code_links'], ',')+' 篇含源数据或摘要提供的仓库链接。**', '',
                       '基于 PaperVault 会议期刊记录与本地 2024—2026 年 arXiv 快照构建。截至 '+manifest['as_of']+'，扫描 '+format(manifest['source_records'], ',')+' 条源记录。每篇作品只设一个主分类，多标签提供跨主题浏览。', '',

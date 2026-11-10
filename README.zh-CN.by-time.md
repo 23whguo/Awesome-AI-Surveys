@@ -11,6 +11,9 @@
 
 [English](README.by-time.md) · [简体中文](README.zh-CN.by-time.md)
 
+**[Survey Radar · 交互式综述网站 / Explore the website →](https://23whguo.github.io/Awesome-AI-Surveys/)**
+[Website features & local build](docs/WEBSITE.md) · [Frontend license & attribution](site/UPSTREAM.md)
+
 **4,726 篇综述 · 17 个主分类 · 596 篇含源数据或摘要提供的仓库链接。**
 
 基于 PaperVault 会议期刊记录与本地 2024—2026 年 arXiv 快照构建。截至 2026-11-08，扫描 1,609,409 条源记录。每篇作品只设一个主分类，多标签提供跨主题浏览。

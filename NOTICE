@@ -26,3 +26,10 @@ Layout inspiration only:
 https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents
 https://github.com/kaikatsumata/awesome-ai-survey-papers
 No paper lists or illustrations were copied from these references.
+
+Survey Radar website frontend:
+Adapted from Benchmark Radar (https://github.com/ktwu01/benchmark-radar),
+copyright its contributors. Frontend and generated pages: AGPL-3.0-only;
+see site/LICENSE and site/UPSTREAM.md. Corresponding modified source:
+https://github.com/23whguo/Awesome-AI-Surveys
+Existing catalog/code licenses above apply to their respective material.
